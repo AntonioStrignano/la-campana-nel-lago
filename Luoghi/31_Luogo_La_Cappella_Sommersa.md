@@ -1,0 +1,34 @@
+# La Cappella Sommersa
+
+## Identità evocativa
+- Immagine dominante: banchi coperti di alghe, candele accese sott'acqua e una campana sospesa senza catena
+- Sensazione principale: pressione nelle orecchie e memoria che scivola via appena viene formulata
+- Elemento disturbante: le statue hanno il volto di persone presenti nella scena
+
+## Blocco operativo
+- Funzione narrativa del luogo: rivelare il patto, ospitare il confronto col custode e innescare il climax
+- Cosa i PG possono ottenere qui: la storia completa del sacrificio e il modo di scegliere il prezzo
+- Rischio principale qui: la presenza separa i PG trasformando ricordi condivisi in versioni incompatibili
+- Uscite o transizioni possibili: campanile, cripta del sigillo, superficie attraverso il pozzo centrale
+
+## Interazioni chiave
+| Azione PG | Risposta ambiente | Nuova opportunità |
+|---|---|---|
+| Esplorare | un banco mostra il ricordo di una riunione mai ricordata | identificare la persona designata |
+| Indagare | le iscrizioni completano le frasi quando un PG parla di casa | ricostruire le tre conseguenze del rito |
+| Forzare | la campana suona e cancella un ricordo minore | abbreviare il percorso pagando subito una perdita |
+
+## Indizi nel luogo
+- Core clue presente: il custode ricopre un ruolo imposto dal patto, non è il creatore della presenza
+- Extra clue possibile: il sigillo può essere trasferito ai PG, ma ogni trasferimento consuma un ricordo condiviso
+- Falso indizio gestibile: rompere la campana non libera nessuno; spezza solo il contenitore e diffonde la presenza
+
+## Appendice meccanica (opzionale)
+- Prove tipiche: volontà, cultura, empatia, resistenza alla paura
+- Difficoltà indicative: medie per leggere il rito, alte per cambiare il prezzo
+- Trigger per scontri/eventi: il terzo rintocco, distruzione della campana o rifiuto del custode di indicare la vittima
+
+## Note correlate
+- [[Piste/50_Pista_La_Campana_Sotto_Il_Lago]]
+- [[NPCs/20_NPC_Il_Custode]]
+- [[Oggetti/40_Oggetto_La_Campana]]

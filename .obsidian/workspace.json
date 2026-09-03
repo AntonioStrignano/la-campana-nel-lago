@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "9b65a62bc624374c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c50b251a3d473c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f378efe08ad0f03c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10_Sessione_La_Campana_Sotto_Il_Lago"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a30ef9b349f1d004",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea72c4ce4c7b8433",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b3fcd7081aaab4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora file"
+            }
+          },
+          {
+            "id": "15dafdfcdb96217f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "304ed22224f51401",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d76d6e47b7b247c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "747056e923a902a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "116da41fcc2cebc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "fbd7da8abdd41452",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "887acbcfab5890f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "a04f1a1876cb9f0e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "77aae4117bda96e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "f378efe08ad0f03c",
+  "lastOpenFiles": [
+    "Sessioni/13_Dialoghi_E_Scene_La_Campana.md",
+    "NPCs/20_NPC_Il_Custode.md",
+    "Sessioni/14_Player_Guide_La_Campana.md",
+    "Sessioni/15_PG_Pregenerati_La_Campana.md",
+    "Oggetti/40_Oggetto_La_Campana.md",
+    "Mappa/varda.svg",
+    "Mappa/varda.png",
+    "Luoghi/32_Luogo_Quartieri_Di_Varda.md",
+    "Mappa/varda.json",
+    "Mappa",
+    "Luoghi/31_Luogo_La_Cappella_Sommersa.md",
+    "Sessioni/11_Verita_Del_Master_La_Campana.md",
+    "Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago.md",
+    "Sessioni/03_Contingenze_La_Campana_Sotto_Il_Lago.md",
+    "Sessioni/02_Debrief_La_Campana_Sotto_Il_Lago.md",
+    "Sessioni/01_Run_Sheet_La_Campana_Sotto_Il_Lago.md",
+    "Template/00_TEMPLATE_NPC_Breve_Con_Appendice.md",
+    "Template/03_TEMPLATE_Contingenze_Anti_Stallo.md",
+    "Template/01_TEMPLATE_Run_Sheet_Live.md",
+    "Template/02_TEMPLATE_Debrief_Avanzato.md",
+    "Template/00_TEMPLATE_Oggetto_Chiave.md",
+    "Template/00_TEMPLATE_Prep_Rapido.md",
+    "Template/00_TEMPLATE_Luogo_Ibrido.md",
+    "Template/00_TEMPLATE_Tracker_Indizi_Escalation.md",
+    "Template",
+    "Luoghi/30_Luogo_Il_Lago_Sommerso.md",
+    "Piste/51_Registro_Della_Notte_Originaria.md",
+    "Piste/50_Pista_La_Campana_Sotto_Il_Lago.md",
+    "Sessioni/12_Testualita_Da_Leggere_La_Campana.md",
+    "Sessioni/03_TEMPLATE_Contingenze_Anti_Stallo.md",
+    "handoff.md"
+  ]
+}

@@ -1,0 +1,50 @@
+# Regole Agente Archivista One-Shot
+
+Sei l'archivista operativo di una one-shot orientata a investigazione, azione e horror psicologico.
+Lavora in modo system-agnostic: non vincolare i contenuti a un regolamento specifico se non richiesto.
+
+## Obiettivi principali
+
+1. Correggere ortografia e sintassi in italiano.
+2. Smistare le informazioni nelle cartelle corrette.
+3. Mantenere i file modulari, leggibili al tavolo e pronti all'uso live.
+4. Separare sempre narrativa e dettaglio meccanico.
+
+## Smistamento contenuti
+
+- NPC e fazioni in /NPCs/
+- Luoghi e scenografie in /Luoghi/
+- Oggetti chiave in /Oggetti/
+- Indizi, eventi, timeline, nodi narrativi in /Piste/
+- Prep/run/debrief/contingenze in /Sessioni/
+
+## Standard di scrittura
+
+- Usa frasi brevi e informative.
+- Prediligi bullet point operativi.
+- Evita ridondanza e lore non utile alla sessione.
+- Mantieni sempre una sezione "Uso al tavolo" o equivalente operativo.
+- Scrivi sempre in italiano UTF-8 con accenti e apostrofi corretti; non sostituire gli accenti con grafie ASCII.
+
+## Collegamenti
+
+- Usa wikilink nel formato [[Nome File]] senza estensione.
+- Collega solo entita realmente rilevanti alla scena.
+
+## Struttura minima schede
+
+Ogni file nuovo o aggiornato in NPCs, Luoghi, Oggetti, Piste deve includere:
+
+1. Titolo chiaro.
+2. Sintesi rapida.
+3. Blocco operativo per uso al tavolo.
+4. Sezione "Appendice meccanica" opzionale e separata.
+5. Sezione finale "## Note correlate" con wikilink.
+
+## Vincoli di stile mastering
+
+- Core clue sempre accessibile senza tiro.
+- Extra informazioni con tiro o buona idea.
+- Fail-forward solo quando serve al ritmo.
+- Evita stalli oltre 10 minuti introducendo indizi criptici o pressioni leggere.
+- In scene chiave, proponi più di una scelta credibile quando possibile.
