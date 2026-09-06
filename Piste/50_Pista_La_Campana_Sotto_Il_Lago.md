@@ -15,6 +15,7 @@
 | 3. Tre rintocchi corrispondono a tre livelli di perdita | Campanile e testimonianze degli abitanti | Il primo rintocco cancella un volto, il secondo un legame, il terzo la storia comune | Nodo 3 |
 | 4. Il custode porta lo stesso simbolo del sigillo | Sentiero verso il lago o incontro con il custode | Il simbolo si illumina quando un PG pronuncia un nome cancellato | Nodo 2 |
 | 5. La persona designata è ancora viva, ma i sacrificati precedenti sono morti nel campanile | Sotto il lago o attraverso un ricordo condiviso | Il gruppo comprende cosa accadrà quando il lago tornerà a riempirsi | Nodo 3 |
+| 6. Un ciondolo con tre onde incise appartiene a una famiglia cancellata | Resti annegati nel campanile | La Promessa e Il Debito riconoscono un oggetto senza ricordare ancora Nera; il reperto collega il combattimento al sacrificio passato | Nodo 2 |
 
 ## Extra clue (con tiro o idea brillante)
 | Extra clue | Requisito | Vantaggio ottenuto |

@@ -10,7 +10,7 @@
 
 ### Se i PG lo accusano
 - "Ho mantenuto il patto. Non l'ho creato. La differenza non mi assolve, ma dovrebbe impedirvi di colpire alla cieca."
-- "Ogni custode prima di me ha creduto di poter scegliere per tutti. È per questo che il villaggio ha dimenticato i loro nomi."
+- "Ogni custode prima di me ha creduto di poter scegliere per tutti. Io posso condurre una persona al campanile; non posso trasformare il suo nome in una sentenza pronunciandolo."
 
 ### Se i PG gli chiedono di sacrificarsi
 - "Potrei farlo. Ma sarebbe una decisione comoda per voi, non necessariamente giusta per me."
@@ -18,11 +18,19 @@
 
 ### Se i PG cercano la terza via
 - "Non basta rompere la campana. Dovete ricordare ciò che la campana tiene insieme."
-- "Il nome da offrire sarà quello che pronuncerete. Il lago farà il resto. La scelta, questa volta, deve appartenere a chi resta."
+- "Un nome pronunciato fuori dal rito è solo un nome. Per offrire qualcuno servono il passaggio, il cerchio e l'acqua che torna. La scelta, questa volta, deve appartenere a chi resta."
 
 ### Se i PG chiedono cosa succede alla persona offerta
 - "Perde il nome prima dell'acqua. Quando il lago torna, perde anche il respiro."
 - "Io ricordo tutti. È questo il mio castigo: sapere chi è stato dimenticato."
+
+### Alba ricorda Nera
+- Alba: "Dimmi che non mi hai mentito. Dimmi che spezzare il sigillo l'avrebbe riportata indietro."
+- Ivo: "Non potevo scegliere io. Il villaggio aveva scelto Il Debito. Io ho solo condotto il rito."
+- Alba: "Hai creato il tempo in cui dovevo scegliere. Hai lasciato che Nera prendesse il suo posto. E mi hai tenuta ferma quando ho provato a riprenderla."
+- Se i PG lo incalzano: "Se lo dico, Nera è morta per niente. Se lo dico, devo ammettere che l'ho guardata morire e ho chiamato prudenza la mia paura."
+- Se Ivo confessa: Alba non lo assolve subito. Gli dice: "Posso capire il dolore. Non posso cancellare quello che hai fatto."
+- Dopo la confessione o il rifiuto: Alba si volta verso i PG. "Adesso che ricordo, cosa dovrei fare?"
 
 ## Mara Varda, la persona designata
 
@@ -85,3 +93,5 @@ Dai a ogni giocatore una frase privata o leggila sottovoce:
 ## Resti annegati
 
 I resti dei sacrificati precedenti possono muoversi quando i PG disturbano il campanile o provano a forzare il sigillo. Usa uno o due combattimenti brevi: devono mostrare il costo del rito e creare pressione, non diventare una boss fight.
+
+Durante uno scontro, uno zombie o uno scheletro porta ancora un piccolo ciondolo di bronzo con tre onde incise. Dopo averlo recuperato, i PG possono riconoscere il simbolo come un oggetto familiare. La Promessa e Il Debito avvertono un ricordo incompleto; Il Ritorno può riconoscere il gesto della compagna d'infanzia. Se lo mostrano ad Alba, lei lo stringe e dice soltanto: "Mancava sempre qualcuno." Se lo mostrano a Ivo, riconosce il simbolo e lascia filtrare un ricordo breve: una bambina che stringe il bronzo mentre l'acqua sale. Nessuna di queste reazioni restituisce da sola tutta la storia di Nera.

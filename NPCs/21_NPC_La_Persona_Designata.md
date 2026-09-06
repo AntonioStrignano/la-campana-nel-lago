@@ -5,7 +5,7 @@
 - Voce/atteggiamento: concreta, stanca, ironica quando ha paura; non chiede ai PG di salvarla a ogni costo
 - Legame con i PG: Mara ha affidato a La Voce una frase che potrebbe essere un ricordo autentico o un'eco della Voce Profonda; ha chiesto a La Memoria di verificare i registri senza fidarsi delle versioni ufficiali
 - Obiettivo immediato: impedire che la comunità decida per lei senza ricordare la verità
-- Segreto utile: il sacrificio originario fu una sua scelta, ma non aveva accettato di diventare un ruolo ereditario
+- Segreto utile: il sacrificio originario fu una sua scelta, ma non aveva accettato che il villaggio trasformasse quella scelta in una procedura ereditaria di designazione
 - Reazione se aiutato: chiede ai PG di dire davanti a tutti quale costo intendono accettare
 - Reazione se ostacolato: entra nella cappella da sola per riprendere il controllo del rito
 
@@ -15,7 +15,7 @@
 | Fiducia | racconta il proprio ricordo completo | il gruppo comprende che salvarla non equivale a risolvere il patto | offre volontariamente un ricordo alla campana |
 | Minaccia | smette di collaborare ma non fugge | il custode prende le sue difese | la comunità sceglie al posto dei PG |
 | Inganno | riconosce la bugia dal nome che il PG usa | rivela un dettaglio vero per costringere il gruppo a esporsi | il prossimo rintocco colpisce il legame con un alleato |
-| Violenza | non combatte, ma pronuncia il nome del PG che l'ha colpita | trasferisce il conflitto sul piano della responsabilità | la campana seleziona quel PG per la terza via |
+| Violenza | non combatte, ma pronuncia il nome del PG che l'ha colpita | trasferisce il conflitto sul piano della responsabilità | il villaggio interpreta il gesto come un nuovo legame con il rito |
 
 ## Uso al tavolo
 - Frase firma: "Potete salvarmi. Non potete fare finta che questo non sia scegliere."

@@ -21,6 +21,8 @@ I rintocchi non scelgono il colpevole e non risolvono il rito. Rendono visibile 
 ## Cosa resta delle vittime
 I sacrificati dei cicli precedenti sono ancora nel campanile come scheletri e cadaveri coperti di alghe. La Voce può muoverli o farli reagire alla presenza dei vivi. Non tornano nel villaggio: sono la traccia fisica di ciò che la comunità ha scelto di dimenticare.
 
+Durante uno degli scontri, un resto porta ancora un piccolo ciondolo di bronzo con tre onde incise. È il simbolo domestico che Alba aveva fatto per i suoi tre figli e apparteneva a Nera. La Promessa, Il Debito o Il Ritorno possono riconoscere il gesto o la forma senza recuperare subito il nome; il ciondolo diventa una prova fisica del vuoto familiare. Dopo la rottura del patto può essere recuperato insieme ai resti.
+
 ## Uso al tavolo
 - **Introduzione:** la campana suona mentre nessuno la tocca; il suono sembra una voce familiare diversa per ogni PG.
 - **Contatto:** toccarla mostra un frammento della notte di un sacrificio, mai una spiegazione completa.

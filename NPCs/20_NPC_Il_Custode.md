@@ -4,24 +4,25 @@
 - Ruolo in storia: ultimo abitante che ricorda il sacrificio, mantiene il sigillo e governa il villaggio attraverso il ruolo di Custode
 - Voce/atteggiamento: parla piano, corregge i nomi con gentilezza, non implora mai per sé stesso
 - Obiettivo immediato: guadagnare tempo fino a quando il terzo rintocco non sarà più evitabile
-- Segreto utile: è Ivo, marito di Alba e padre di La Promessa, Il Debito e Nera; anni fa ha ricattato Alba per ottenere il sacrificio di Nera al posto de Il Debito
-- Contraddizione interna: sostiene di aver salvato la famiglia, ma sa di aver trasformato la paura in una regola che ora pretende un altro figlio
-- Rapporto con La Memoria: le ha insegnato a leggere le omissioni nei registri e ha orientato la sua ricerca con indizi veri ma incompleti; la considera la sola persona capace di ricostruire la colpa, ma ha tenuto la pagina di Nera fuori dalla sua portata
+- Desiderio profondo: fare in modo che qualcuno ricordi la verità, anche se questo significa perdere il villaggio e rendere inutile il sacrificio di Nera
+- Segreto utile: è Ivo, marito di Alba e padre di La Promessa, Il Debito e Nera; circa vent'anni fa ha creato l'urgenza che spinse Alba ad accettare Nera al posto de Il Debito
+- Contraddizione interna: sostiene di aver soltanto condotto il rito, ma sa di aver spinto Nera a prendere il posto del fratello, trattenuto Alba mentre lei tentava di interromperlo e mentito sul possibile ritorno della figlia
+- Rapporto con La Memoria: le ha insegnato a leggere le omissioni nei registri e ha orientato la sua ricerca con indizi veri ma incompleti; la considera la sola persona capace di ricostruire la colpa, ma ha tenuto fuori dalla sua portata la pagina strappata che riguardava la sua famiglia
 - Reazione se aiutato: consegna il frammento del sigillo e rivela la terza via
 - Reazione se ostacolato: protegge la persona designata e accetta di diventare antagonista temporaneo
 
 ## Matrice reattiva dettagliata
 | Azione PG | Risposta NPC | Effetto sulla scena | Escalation |
 |---|---|---|---|
-| Fiducia | racconta la notte del sacrificio senza omettere il proprio ruolo | il gruppo ottiene il costo reale delle alternative | il custode perde il proprio nome |
-| Minaccia | avverte che la campana non distingue intenzioni da ordini | mostra il simbolo del sigillo e chiude il passaggio | secondo rintocco anticipato |
+| Fiducia | racconta la notte del sacrificio senza omettere il proprio ruolo, ma nega di averla scelta | il gruppo capisce che il Custode può condurre il rito ma non decidere la vittima | il custode perde il proprio nome |
+| Minaccia | avverte che la campana non distingue paura da memoria | mostra il simbolo del sigillo e chiude il passaggio | secondo rintocco anticipato |
 | Inganno | finge di crederci per portare i PG dalla vittima | offre un indizio vero ma incompleto | la vittima viene attirata nella cripta |
 | Violenza | non reagisce subito, ma il sigillo trasferisce il dolore a un abitante | il conflitto diventa morale e non solo fisico | la comunità inizia a dimenticare i PG |
 
 ## Uso al tavolo
 - Frase firma: "Non vi chiederò di essere buoni. Vi chiederò di ricordare chi avete scelto."
 - Cosa non dire subito: che Alba è sua moglie e che il sacrificio passato ha coinvolto i suoi figli
-- Cosa può rivelare sotto pressione: la campana sceglie solo quando nessuno pronuncia una scelta ad alta voce; se La Memoria gli mostra la pagina mancante, ammette di averle insegnato la verità mentre decideva quanta verità potesse sopportare
+- Cosa può rivelare sotto pressione: la campana non sceglie da sola e il Custode non designa una vittima con la sola voce; il villaggio interpreta i segni, prepara la persona e conduce una sequenza rituale precisa. Fuori dal rito Ivo può pronunciare qualsiasi nome. Se La Memoria gli mostra la pagina mancante, ammette di averle insegnato la verità mentre decideva quanta verità potesse sopportare. Se gli mostrano il ciondolo, riconosce le tre onde e lascia filtrare un ricordo di Nera che aveva tenuto sepolto.
 
 ## Scena con La Memoria
 
@@ -34,6 +35,12 @@ Quando viene messo alle strette, Ivo non nega il rapporto né il metodo:
 Se La Memoria gli chiede perché l'abbia scelta, risponde:
 
 > "Perché tu vedevi le crepe senza averle ancora causate."
+
+## La negazione di Ivo
+
+Quando Alba ricorda Nera e lo affronta, Ivo nega: sostiene di aver solo seguito la scelta della famiglia e di aver salvato Alba dai resti annegati. Non difende davvero il rito; difende la versione di sé che gli permette di continuare a vivere.
+
+Se i PG collegano la fuga del Debito, il travestimento di Nera, la cicatrice di Alba e la promessa falsa sul ritorno, Ivo crolla. Ammette di aver creato l'urgenza, spinto Nera a offrirsi e lasciato che Alba portasse la colpa visibile. Alba può perdonare il suo dolore, ma non deve assolvere la sua scelta.
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: difesa media, resistenza alta, nessuna intenzione di uccidere

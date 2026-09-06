@@ -13,6 +13,7 @@
 - Dove reinserirla in modo naturale: il primo oggetto toccato nella scena successiva mostra il ricordo
 - Costo narrativo del salto: il gruppo arriva con meno tempo e la vittima è già nella cripta
 - Scena alternativa rapida: testimonianza del custode interrotta da un rintocco
+- Indizio sostitutivo: se il combattimento nei sotterranei viene saltato, un oggetto portato a riva è il ciondolo di bronzo con tre onde incise; i PG possono mostrarlo ad Alba o Ivo per ottenere una reazione parziale senza anticipare il nome di Nera.
 
 ## 3) Sessione troppo lenta
 - Segnali di lentezza: dopo 10 minuti non è emerso un core clue o il gruppo ripete la stessa ipotesi
@@ -32,5 +33,5 @@
 - Tre esiti plausibili da offrire:
   - Esito A: trasferiscono il vincolo sui PG e ciascuno perde un ricordo fondamentale
   - Esito B: salvano la vittima ma il villaggio dimentica un'intera generazione
-  - Esito C: il custode si offre, ma la campana conserva un debito che tornera in futuro
+  - Esito C: il custode si offre e il rito si chiude; non resta un debito soprannaturale futuro, ma il villaggio deve affrontare la responsabilità della scelta
 - Convergenza morbida possibile: la campana chiede ai PG di pronunciare ad alta voce quale costo accettano

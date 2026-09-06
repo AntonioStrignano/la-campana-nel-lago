@@ -10,27 +10,33 @@ La campana non protegge il villaggio da una creatura: è lo strumento di un patt
 
 Trent'anni fa il lago cominciò a restituire i morti dopo una piena. Gli abitanti della valle scoprirono che sotto la cappella viveva una presenza chiamata **la Voce Profonda**, capace di nutrirsi dei ricordi condivisi e di restituire ciò che veniva sepolto.
 
-La presenza non era nata come un mostro. Era il residuo di tutte le promesse, i lutti e i nomi pronunciati davanti al lago. Quando il villaggio provò a distruggere la cappella, la Voce offrì un patto: avrebbe lasciato intatti i ricordi della comunità se, a ogni ciclo, il villaggio le avesse consegnato una persona. Il sigillo si sarebbe ristabilito quando l'acqua fosse tornata a coprire il campanile.
+La presenza non era nata come un mostro. Era il residuo di tutte le promesse, i lutti e i nomi pronunciati davanti al lago. Quando il villaggio provò a distruggere la cappella, la Voce offrì un patto: avrebbe lasciato intatti i ricordi della comunità finché il villaggio avesse continuato a nutrire il sigillo con una memoria condivisa. Gli abitanti trasformarono questa paura in una procedura: a ogni ciclo avrebbero designato, condotto e consegnato una persona. La Voce non richiede davvero quella sequenza, ma la tradizione la rende reale per il villaggio e per i resti dei sacrificati. Il sigillo si indebolisce quando l'acqua torna a coprire il campanile.
 
 Il primo custode, Elian Varda, accettò volontariamente. La comunità non avrebbe dovuto dimenticarlo: avrebbe dovuto ricordare il suo nome e raccontare la sua scelta. Invece, quando il dolore divenne insopportabile, gli anziani cancellarono il suo nome dai registri e trasformarono il rito in una tradizione anonima.
 
-Da quel momento la campana ha mantenuto il villaggio in una stabilità falsa. Ogni persona offerta è stata dimenticata dal villaggio e lasciata morire nel campanile sommerso. I resti dei sacrificati sono ancora lì, coperti di alghe; la Voce può muoverli quando qualcuno entra. Il custode attuale conosce la verità, ma non può spezzare il patto da solo.
+Da quel momento la campana ha mantenuto il villaggio in una stabilità falsa. Ogni persona offerta è stata dimenticata dal villaggio e lasciata morire nel campanile sommerso. I resti dei sacrificati sono ancora lì, coperti di alghe; la Voce può muoverli quando qualcuno entra. Sono prigionieri della tradizione, ripetono l'ultimo ordine ricevuto e difendono il rito perché credono che interromperlo renda inutile la loro morte. Il custode attuale conosce la verità, ma non può spezzare il patto da solo.
 
 ## La persona designata
 
-La persona designata è **Mara Varda**, discendente di Elian e archivista del villaggio. Mara ha cominciato a ricordare la notte originaria attraverso sogni ricorrenti. Il suo sangue non la rende predestinata: la campana la riconosce perché il suo nome è l'ultimo legame vivente con il primo custode. La designazione indica chi il villaggio sta preparando a offrire, non una persona già sacrificata.
+La persona designata è **Mara Varda**, discendente di Elian e archivista del villaggio. Mara ha cominciato a ricordare la notte originaria attraverso sogni ricorrenti. Il suo sangue non la rende predestinata: il ciclo fa emergere il nome più vicino alla storia ancora irrisolta del patto e il villaggio lo interpreta attraverso i propri registri e le proprie tradizioni. Il nome di Mara è l'ultimo legame vivente con il primo custode.
+
+La designazione non è una lista magica e non è un ordine della Voce Profonda. È una procedura umana nata dopo la cancellazione del nome di Elian: gli abitanti cercano il legame più evidente con il debito originario, preparano quella persona al rito e chiamano questo processo "essere designati". Il Custode interpreta i segni e organizza il passaggio, ma non può scegliere da solo chi offrire.
 
 Mara non deve essere trattata come una vittima passiva. Vuole essere liberata dal ruolo, ma rifiuta di essere salvata al prezzo di una bugia. Se i PG scelgono di consegnarla, il villaggio sopravvive, lei perde identità e ricordi e muore quando il lago torna a riempire il campanile. Se scelgono di proteggerla senza trovare un'alternativa, la Voce continua a divorare ricordi e il terzo rintocco colpisce l'intera comunità.
 
 ## Il custode attuale
 
-Il custode è **Ivo**, marito di Alba e padre di La Promessa, Il Debito e Nera. Il villaggio lo chiama con titoli diversi perché nessuno ricorda più il suo vero nome. Ha accettato il ruolo anni prima per salvare la propria famiglia, ma quando Il Debito fu indicato come vittima ricattò Alba: se non avesse pronunciato il nome di Nera, la campana avrebbe preso entrambi i figli e il villaggio avrebbe perso la propria memoria.
+Il custode è **Ivo**, marito di Alba e padre di La Promessa, Il Debito e Nera. Il villaggio lo chiama con titoli diversi perché nessuno ricorda più il suo vero nome. Ha accettato il ruolo anni prima per salvare la propria famiglia, ma quando Il Debito fu indicato come vittima creò un'urgenza falsa: spinse Alba a credere che una decisione immediata fosse l'unico modo per impedire alla Voce di divorare tutti i ricordi. Il sacrificio avvenne circa vent'anni fa, quando i tre figli erano adolescenti.
 
-Alba cedette e Ivo mantenne il segreto. Nera fu presa al posto de Il Debito e la campana cancellò il suo nome dalla memoria della famiglia e della comunità. Ivo non si considera innocente: continua a sostenere il rito perché teme che ammettere la verità renda inutile la morte di Nera, ma sa che ogni nuovo ciclo ripete la sua colpa.
+Nera si offrì per proteggere Il Debito e propose di prendere il suo posto. Nera, Alba e Ivo organizzarono il travestimento; Il Debito fuggì prima di essere visto entrare nel rito. Il villaggio non vide la sostituzione e conservò versioni diverse: tutti ricordarono di aver perso un figlio, ma nessuno seppe quale, mentre un altro figlio era partito per il dolore. Alba tentò di interrompere il rito, venne ferita dai resti annegati e fu trattenuta da Ivo mentre Nera veniva presa. Ivo le disse che, spezzando il sigillo, Nera sarebbe tornata. Era una menzogna: il sigillo restituisce i ricordi, non i morti.
 
-La Promessa e Il Debito ricordano di essere fratelli. Non ricordano Nera. La Promessa ricorda di dover proteggere Il Debito, mentre Il Ritorno resta un estraneo alla famiglia: eventuali somiglianze o dettagli condivisi servono solo a riattivare il vuoto lasciato da Nera, non a sostituirla.
+Il nome, da solo, non rende effettiva l'offerta. Il Custode traghetta la persona e conduce la procedura, ma non trasforma i nomi in ordini. Ivo non si considera innocente, anche quando nega: continua a sostenere la tradizione perché ammettere la verità significa affrontare di nuovo la morte di Nera e il proprio ruolo.
 
-Ivo vuole che qualcuno ricordi la verità anche se questo significa perdere il villaggio, ma non riesce a pronunciare il nome di Nera senza che la campana reagisca.
+I resti di Nera sono ancora nel campanile. Durante uno scontro con i resti annegati, uno scheletro porta un piccolo ciondolo di bronzo con tre onde incise: Alba lo aveva fatto per i tre figli e Nera lo indossava quando fu consegnata. La Promessa e Il Debito possono riconoscere il gesto e la forma prima del significato; il ciondolo non restituisce da solo il nome di Nera. Dopo la rottura del patto, i resti possono essere recuperati e sepolti con il ciondolo.
+
+La Promessa e Il Debito ricordano di essere fratelli. Non ricordano Nera. La Promessa ricorda di dover proteggere Il Debito, ma quella protezione era stata promessa a Nera e si è spostata sul fratello dopo la cancellazione. Il Debito ricorda solo la fuga e il debito verso Alba. Il Ritorno resta un estraneo alla famiglia: eventuali somiglianze o dettagli condivisi servono solo a riattivare il vuoto lasciato da Nera, non a sostituirla.
+
+Ivo vuole che qualcuno ricordi la verità anche se questo significa perdere il villaggio. Ricorda il nome di Nera e può pronunciarlo; ciò che gli costa è raccontare il ruolo avuto nel ricatto.
 
 ### La Memoria e il mentore
 
@@ -40,13 +46,15 @@ La Memoria deve scoprire prima dai registri che le omissioni seguono una volont�
 
 Il ricordo fondamentale di La Memoria riguarda la fiducia in Ivo, non Nera. Nella terza via il giocatore può offrire quel ricordo: La Memoria conserva i fatti su Ivo, Alba e Nera, ma perde il senso di sicurezza che il mentore le dava. Ricorda di essersi fidata di lui, senza ricordare perché.
 
-Ivo non mente quando dice che il rito protegge gli abitanti. Mente solo per omissione: sa che la Voce non pretende necessariamente una vittima. Pretende un ricordo condiviso abbastanza grande da sostenere il sigillo.
+Ivo sa che il rito protegge gli abitanti solo perché il villaggio continua a nutrire la Voce con la propria paura e i propri ricordi condivisi. Quando Alba ricorda Nera, però, mente anche attivamente: nega di aver creato l'urgenza, di aver spinto Nera e di aver promesso ad Alba che la figlia sarebbe tornata. La negazione gli serve a non affrontare il proprio dolore.
 
 ## Il funzionamento della campana
 
 La campana suona quando il sigillo si indebolisce. Il rintocco non è il sacrificio: è l'allarme e l'inizio della finestra di tempo entro cui il villaggio deve offrire qualcuno. Se l'offerta non avviene, la Voce divora ricordi a caso e ogni rintocco porta il villaggio più vicino alla dissoluzione.
 
-Il Custode conduce il rito e traghetta la persona dalla comunità alla cappella. Non sceglie automaticamente la vittima e non può sostituire il consenso del villaggio: garantisce che il nome venga pronunciato, che la persona raggiunga il campanile e che il patto venga completato. Il Custode ricorda le vittime anche dopo che il villaggio le ha dimenticate.
+Il ciclo produce una designazione attraverso la storia che il villaggio ha scelto di conservare e di dimenticare; la comunità può interpretarla, contestarla o trasformarla in pressione. La designazione non è un ordine magico e il nome pronunciato fuori dal rito non ha effetto. La procedura tradizionale è: la comunità indica la persona, il Custode la conduce alla cappella, la persona viene consegnata nel cerchio e il ritorno dell'acqua chiude il ciclo. La Voce potrebbe nutrirsi dei ricordi anche senza questa sequenza, ma la paura del villaggio la mantiene. Il Custode traghetta e conduce, ma non sceglie automaticamente la vittima. Ricorda le vittime anche dopo che il villaggio le ha dimenticate.
+
+Quando il sigillo si indebolisce, la separazione tra ricordo conservato e ricordo cancellato diventa imperfetta. Frammenti della Voce filtrano nella comunità attraverso sogni, parole sbagliate, oggetti, luoghi e resti annegati. Questo leaking può far emergere dettagli di Nera prima della rottura del patto, ma non restituisce una memoria completa, non designa vittime e non riporta in vita i morti.
 
 ## Cosa significa ogni rintocco
 
@@ -72,7 +80,7 @@ La persona scelta perde identità e ricordi, viene condotta nel campanile e muor
 
 ### Terza via: ricordare tutti
 
-La soluzione quasi impossibile è ricostruire il nome di Elian, pronunciarlo insieme e far ricordare al villaggio la colpa originaria. In questo modo il patto perde il nutrimento della rimozione.
+La soluzione quasi impossibile è ricostruire il nome di Elian, pronunciarlo insieme e far ricordare al villaggio la colpa originaria. In questo modo il patto perde il nutrimento della rimozione. Quando il patto si spezza, Alba e i PG ricordano Nera tutto insieme, compresa la fuga del Debito, il travestimento, la ferita e la menzogna di Ivo.
 
 Per riuscirci servono tre condizioni: il frammento del sigillo, il registro della notte originaria e una testimonianza volontaria di Mara o Ivo. Inoltre ogni PG deve offrire un ricordo personale importante. La Voce restituisce la memoria collettiva, ma prende quei ricordi in cambio; uno dei PG potrebbe restare legato al lago se il gruppo non accetta di pagare il costo completo.
 

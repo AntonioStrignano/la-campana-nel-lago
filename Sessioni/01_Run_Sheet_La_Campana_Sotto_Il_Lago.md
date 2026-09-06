@@ -37,13 +37,15 @@
   - Conseguenza immediata: la comunità conserva se stessa, ma dimentica chi è stato consegnato
 - Terza via:
   - Costo: ricordi fondamentali e possibile legame permanente con il lago
-  - Conseguenza immediata: il sigillo si spezza solo in parte
+  - Conseguenza immediata: il sigillo si spezza; la Voce non può più nutrirsi della tradizione, il ricordo di Nera torna tutto insieme e i ricordi offerti restano perduti
 
 ## Contromisure rapide anti-stallo
 - Se i PG bloccano: usa un indizio criptico dal tracker e fai dimenticare a un PNG il nome di un PG.
 - Se il ritmo cala: anticipa il secondo rintocco e fai muovere la persona designata verso la cappella.
 - Se deviano: trasferisci il prossimo core clue al luogo che stanno già esplorando.
 - Se serve un combattimento breve: fai muovere i resti coperti di alghe e interrompi lo scontro appena il passaggio o l'indizio è ottenuto.
+- Se i resti portano un ciondolo con tre onde incise: fallo recuperare dopo lo scontro. È un indizio familiare per La Promessa, Il Debito e, se presente, Il Ritorno; può far filtrare un ricordo incompleto, ma non rivela da solo il nome di Nera.
+- Se il patto viene spezzato: porta Alba e i PG nella stessa memoria del travestimento di Nera, della fuga del Debito e della ferita al campanile. Poi fai chiedere ad Alba ai PG cosa dovrebbe fare.
 
 ## Appendice meccanica live (opzionale)
 - Iniziativa e ordine:

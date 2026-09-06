@@ -16,11 +16,12 @@
 |---|---|---|
 | Esplorare | un banco mostra il ricordo di una riunione mai ricordata | identificare la persona designata |
 | Indagare | le iscrizioni completano le frasi quando un PG parla di casa | ricostruire le tre conseguenze del rito |
-| Forzare | la campana suona e un gruppo di resti annegati si muove | attraversare il passaggio dopo un combattimento breve |
+| Forzare | la campana suona e un gruppo di resti annegati si muove; uno porta un ciondolo con tre onde incise | attraversare il passaggio dopo un combattimento breve e recuperare l'indizio familiare |
 
 ## Indizi nel luogo
 - Core clue presente: il custode ricopre un ruolo imposto dal patto, non è il creatore della presenza
 - Extra clue possibile: il sigillo può essere trasferito ai PG, ma ogni trasferimento consuma un ricordo condiviso
+- Indizio familiare: il ciondolo di bronzo con tre onde incise apparteneva a Nera, ma prima della rottura del patto può essere riconosciuto solo come simbolo di una famiglia dimenticata
 - Falso indizio gestibile: rompere la campana non libera nessuno; spezza solo il contenitore e diffonde la presenza
 
 ## Appendice meccanica (opzionale)

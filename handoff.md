@@ -78,3 +78,34 @@
 - Inseriti i resti dei sacrificati precedenti come presenza ambientale e possibile ostacolo per uno o due combattimenti brevi, senza boss fight obbligatoria.
 - Allineati oggetto, verità del master, cappella, pista, sessione, letture, dialoghi e run sheet al nuovo ciclo fisico del rito.
 - Lasciati volutamente da definire in una fase successiva: il criterio preciso di selezione della vittima, il destino del vecchio Custode, il ruolo di Nera e la risoluzione definitiva del patto.
+
+## 2026-09-06 - Implementazione trama di Nera e ciondolo di famiglia
+
+- Approvato il riempimento dei buchi della trama di Nera: sacrificio circa vent'anni fa, con i tre figli adolescenti; Nera resta morta e il ricordo completo torna solo quando il patto viene spezzato.
+- Definita la designazione: la campana non sceglie autonomamente una vittima; il ciclo fa emergere il legame più vicino alla storia irrisolta del patto e il villaggio lo trasforma in una procedura umana. Il Custode interpreta e conduce, ma non decide da solo.
+- [SUPERATO] Chiarita la sostituzione: Il Debito era il designato; Alba pronunciò Nera durante la finestra del rito sotto il ricatto di Ivo. La vecchia ipotesi secondo cui la voce del Custode avrebbe trasformato il nome di Nera in un ordine è stata sostituita dalla regola del rito specifico.
+- Aggiunto il ciondolo di bronzo con tre onde incise, simbolo domestico creato da Alba per i tre figli. Uno zombie o scheletro del combattimento nel campanile lo porta ancora addosso.
+- Inserito il ciondolo nei background di La Promessa, Il Debito e Il Ritorno con ricordi incompleti e distinti; il reperto non rivela automaticamente il nome di Nera.
+- Aggiornati verità del master, schede di Ivo, Alba e Mara, oggetto campana, cappella, dialoghi dei resti, pista investigativa, sessione principale, run sheet e contingenze anti-stallo.
+
+## 2026-09-06 - Pulizia schede di Alba e Ivo
+
+- Allineata Alba alle regole della Campana: un'offerta volontaria è possibile se la persona comprende e assume la scelta; non viene rifiutata solo perché nasce dalla paura.
+- Distinti per Ivo obiettivo immediato e desiderio profondo, chiarendo che il Custode conduce il rito ma non sceglie autonomamente la vittima.
+- Verificata la coerenza di Alba e Ivo con il sacrificio di Nera, il ciondolo e la rivelazione completa dopo la rottura del patto.
+
+## 2026-09-06 - Rito e leaking della sottotrama di Nera
+
+- Separato il nome pronunciato fuori dal rito dall'offerta rituale: il Custode può parlare liberamente, conduce il passaggio al campanile ma non rende vittima una persona con la sola voce.
+- Definita la sequenza del sacrificio come designazione della comunità, conduzione del Custode, consegna nel cerchio e ritorno dell'acqua.
+- Inserito il leaking dei ricordi come effetto del sigillo indebolito: indizi, oggetti, luoghi e resti possono far filtrare frammenti di Nera prima della rivelazione completa.
+- Allineati Ivo, Alba, Mara, verità del master, sessione, run sheet, contingenze e dialoghi a questa regola; rimosso il debito soprannaturale futuro dalla contingenza.
+
+## 2026-09-06 - Implementazione definitiva di Alba e Nera
+
+- Riscritta `NPCs/23_NPC_Alba_La_Battelliera.md`: Alba conserva frammenti concreti di Nera, ha una cicatrice del tentativo fallito di interrompere il rito e ricorda tutto solo quando il patto viene spezzato.
+- Definita la notte del sacrificio: il villaggio aveva scelto Il Debito; Nera propose di sostituirlo, Alba collaborò, Ivo rese possibile il passaggio e Il Debito fuggì.
+- Stabilito che il villaggio non conserva una versione stabile dell'accaduto: tutti ricordano di aver perso un figlio, ma non quale; il rito resta una tradizione nata dalla paura, non un ordine necessario della Voce Profonda.
+- Aggiornati `Sessioni/11_Verita_Del_Master_La_Campana.md` e `NPCs/20_NPC_Il_Custode.md`: Ivo crea l'urgenza, mente sul ritorno di Nera, nega per dolore e può confessare se i PG lo incalzano.
+- Aggiornato `Sessioni/15_PG_Pregenerati_La_Campana.md`: la promessa de La Promessa era originariamente rivolta a Nera; Il Debito ricorda la fuga e il debito verso Alba.
+- Aggiornati `Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago.md`, `Sessioni/12_Testualita_Da_Leggere_La_Campana.md`, `Sessioni/13_Dialoghi_E_Scene_La_Campana.md` e `Sessioni/01_Run_Sheet_La_Campana_Sotto_Il_Lago.md` con il ritorno simultaneo della memoria e la domanda: "Adesso che ricordo, cosa dovrei fare?"

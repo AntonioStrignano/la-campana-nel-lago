@@ -102,13 +102,37 @@
 
 > Il terzo rintocco è iniziato.
 >
-> Non è ancora un suono. È una pressione sulle parole, come se la stanza cercasse di impedirvi di pronunciarle. Ogni cosa che avete scoperto si dispone davanti a voi: il nome di Elian, il volto di Mara, il silenzio di Ivo, il villaggio che vi aspetta sopra il lago.
+> Non è ancora un suono. È una pressione sulle parole, come se la stanza cercasse di impedirvi di pronunciare la scelta. Ogni cosa che avete scoperto si dispone davanti a voi: il nome di Elian, il volto di Mara, il silenzio di Ivo, il villaggio che vi aspetta sopra il lago.
 >
 > La campana non vi chiede chi è colpevole.
 >
 > Vi chiede se offrirete una persona prima che l'acqua torni.
 >
 > E quale perdita siete disposti a chiamare con il suo nome.
+
+## Il ricordo di Nera
+
+> Il ricordo non torna come una porta che si apre. Torna come una stanza che crolla.
+>
+> Nera è davanti a voi. Ha i vestiti di Il Debito addosso e cerca di sorridere mentre vi dice che così il villaggio non lo prenderà. Il Debito corre nel buio, lontano dalla cappella, senza sapere se sta fuggendo dalla morte o dalla propria famiglia.
+>
+> Alba ha le mani sul ciondolo. Poi è a terra, la pelle aperta dai resti che la circondano. Ivo la trattiene. Non la lascia raggiungere Nera. Non la lascia morire con lei.
+>
+> E voi ricordate tutto: la voce di Nera, il gesto che La Promessa aveva promesso di proteggere, la fuga che Il Debito ha trasformato in una vita intera, il silenzio di Alba e la promessa falsa di Ivo.
+>
+> Alba guarda Ivo. Il suo volto cambia: non è più solo paura. È lutto.
+>
+> "Dimmi che non mi hai mentito."
+
+## Alba chiede ai PG cosa fare
+
+> Ivo nega. Dice che non poteva scegliere, che il villaggio aveva già deciso, che ha soltanto condotto Alba fuori dal campanile.
+>
+> Alba ascolta fino alla fine. Poi si volta verso di voi.
+>
+> "Adesso che ricordo, cosa dovrei fare?"
+>
+> La domanda non chiede assoluzione. Chiede una direzione. Quello che le rispondete cambierà ciò che Alba farà: parlare al villaggio, affrontare Ivo, raggiungere i resti di Nera o restare accanto ai figli.
 
 ## Finale: non agire
 
@@ -122,7 +146,7 @@
 
 ## Finale: offrire una persona
 
-> Quando pronunciate il nome della persona scelta, la campana si apre nella crepa.
+> Quando completate il rito e consegnate la persona scelta nel cerchio, la campana si apre nella crepa.
 >
 > Non c'è sangue. C'è luce, e dentro la luce migliaia di ricordi che cercano un posto dove restare. La persona perde il proprio nome davanti a voi. Quando l'acqua torna, il campanile si riempie e la sua voce scompare sotto la superficie.
 >
