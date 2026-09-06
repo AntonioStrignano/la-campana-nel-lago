@@ -1,8 +1,9 @@
-# La Persona Designata
+# Mara Varda, la Persona Designata
 
 ## Scheda 30 secondi
 - Ruolo in storia: persona legata al sacrificio originario e prima candidata a ricevere il vincolo
 - Voce/atteggiamento: concreta, stanca, ironica quando ha paura; non chiede ai PG di salvarla a ogni costo
+- Legame con i PG: Mara ha affidato a La Voce una frase che potrebbe essere un ricordo autentico o un'eco della Voce Profonda; ha chiesto a La Memoria di verificare i registri senza fidarsi delle versioni ufficiali
 - Obiettivo immediato: impedire che la comunità decida per lei senza ricordare la verità
 - Segreto utile: il sacrificio originario fu una sua scelta, ma non aveva accettato di diventare un ruolo ereditario
 - Reazione se aiutato: chiede ai PG di dire davanti a tutti quale costo intendono accettare

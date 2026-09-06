@@ -14,11 +14,15 @@
 
 ### Se i PG gli chiedono di sacrificarsi
 - "Potrei farlo. Ma sarebbe una decisione comoda per voi, non necessariamente giusta per me."
-- "Non userò il mio rimorso come prova che merito di sparire."
+- "Non userò il mio rimorso come prova che merito di essere dimenticato."
 
 ### Se i PG cercano la terza via
 - "Non basta rompere la campana. Dovete ricordare ciò che la campana tiene insieme."
-- "Il nome è Elian. Il costo è vostro. La scelta, questa volta, deve appartenere a chi resta."
+- "Il nome da offrire sarà quello che pronuncerete. Il lago farà il resto. La scelta, questa volta, deve appartenere a chi resta."
+
+### Se i PG chiedono cosa succede alla persona offerta
+- "Perde il nome prima dell'acqua. Quando il lago torna, perde anche il respiro."
+- "Io ricordo tutti. È questo il mio castigo: sapere chi è stato dimenticato."
 
 ## Mara Varda, la persona designata
 
@@ -77,3 +81,7 @@ Dai a ogni giocatore una frase privata o leggila sottovoce:
 - Se tutti cercano il trucco: Ivo conferma che non esiste una soluzione senza costo.
 - Se il gruppo litiga: Mara chiede a ciascuno cosa sarebbe disposto a perdere personalmente.
 - Se i PG attaccano: la Voce interrompe il conflitto e trasferisce il dolore a un ricordo condiviso, lasciando aperta la scelta.
+
+## Resti annegati
+
+I resti dei sacrificati precedenti possono muoversi quando i PG disturbano il campanile o provano a forzare il sigillo. Usa uno o due combattimenti brevi: devono mostrare il costo del rito e creare pressione, non diventare una boss fight.

@@ -1,10 +1,12 @@
 # Il Custode
 
 ## Scheda 30 secondi
-- Ruolo in storia: ultimo abitante che ricorda il sacrificio e mantiene il sigillo
+- Ruolo in storia: ultimo abitante che ricorda il sacrificio, mantiene il sigillo e governa il villaggio attraverso il ruolo di Custode
 - Voce/atteggiamento: parla piano, corregge i nomi con gentilezza, non implora mai per sé stesso
 - Obiettivo immediato: guadagnare tempo fino a quando il terzo rintocco non sarà più evitabile
-- Segreto utile: ha già tentato di trasferire il vincolo su di sé, ma la campana rifiuta chi sceglie per paura
+- Segreto utile: è Ivo, marito di Alba e padre di La Promessa, Il Debito e Nera; anni fa ha ricattato Alba per ottenere il sacrificio di Nera al posto de Il Debito
+- Contraddizione interna: sostiene di aver salvato la famiglia, ma sa di aver trasformato la paura in una regola che ora pretende un altro figlio
+- Rapporto con La Memoria: le ha insegnato a leggere le omissioni nei registri e ha orientato la sua ricerca con indizi veri ma incompleti; la considera la sola persona capace di ricostruire la colpa, ma ha tenuto la pagina di Nera fuori dalla sua portata
 - Reazione se aiutato: consegna il frammento del sigillo e rivela la terza via
 - Reazione se ostacolato: protegge la persona designata e accetta di diventare antagonista temporaneo
 
@@ -18,8 +20,20 @@
 
 ## Uso al tavolo
 - Frase firma: "Non vi chiederò di essere buoni. Vi chiederò di ricordare chi avete scelto."
-- Cosa non dire subito: che la terza via può legare uno dei PG al lago
-- Cosa può rivelare sotto pressione: la campana sceglie solo quando nessuno pronuncia una scelta ad alta voce
+- Cosa non dire subito: che Alba è sua moglie e che il sacrificio passato ha coinvolto i suoi figli
+- Cosa può rivelare sotto pressione: la campana sceglie solo quando nessuno pronuncia una scelta ad alta voce; se La Memoria gli mostra la pagina mancante, ammette di averle insegnato la verità mentre decideva quanta verità potesse sopportare
+
+## Scena con La Memoria
+
+La Memoria può ricostruire la manipolazione confrontando il registro della notte originaria, la cera nera e gli appunti corretti da Ivo. Le omissioni non sono casuali: la grafia di Ivo ha trasformato il sacrificio di Nera in una tradizione inevitabile.
+
+Quando viene messo alle strette, Ivo non nega il rapporto né il metodo:
+
+> "Ti ho insegnato a non fidarti delle pagine incomplete. Non pensavo che un giorno avresti capito che ero io a strapparle."
+
+Se La Memoria gli chiede perché l'abbia scelta, risponde:
+
+> "Perché tu vedevi le crepe senza averle ancora causate."
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: difesa media, resistenza alta, nessuna intenzione di uccidere

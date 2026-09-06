@@ -3,6 +3,7 @@
 ## Scheda 30 secondi
 - Ruolo in storia: rappresentante del villaggio, incaricata di difendere il costo collettivo della non azione
 - Voce/atteggiamento: lucida, pratica, affettuosa con i bambini e spietata quando parla dei numeri
+- Legame con i PG: conosce Il Ritorno da prima della partenza e lo riconosce come qualcuno che Varda ha già perso una volta; vede in lui la prova che il villaggio può sopravvivere ai ritorni, ma non alle separazioni definitive
 - Obiettivo immediato: convincere i PG che una singola perdita è preferibile alla dissoluzione di tutti
 - Segreto utile: ha già dimenticato il volto del proprio compagno, ma ricorda ancora la promessa fatta al villaggio
 - Reazione se aiutato: organizza gli abitanti per proteggere la persona designata fino alla decisione

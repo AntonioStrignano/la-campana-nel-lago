@@ -12,7 +12,7 @@
 |---|---|---|---|---|
 | 1. Cappella riemersa | scoprire l'alterazione dei ricordi | primo rintocco |  |  |
 | 2. Villaggio | ricostruire il sacrificio | secondo rintocco imminente |  |  |
-| 3. Sotto il lago | capire il prezzo | presenza e custode |  |  |
+| 3. Sotto il lago | capire il prezzo e vedere i resti dei sacrificati | presenza, custode e ritorno dell'acqua |  |  |
 | 4. Scelta | fermare o accettare il terzo rintocco | un solo momento per decidere |  |  |
 
 ## Tracker spotlight PG
@@ -33,8 +33,8 @@
   - Costo: dissoluzione di nomi, legami e storia comune
   - Conseguenza immediata: il terzo rintocco completa il rito
 - Agire sul sigillo:
-  - Costo: una persona diventa il nuovo custode
-  - Conseguenza immediata: la comunità conserva se stessa, ma perde qualcuno scelto dai PG
+  - Costo: una persona perde identità e ricordi e muore annegata nel campanile
+  - Conseguenza immediata: la comunità conserva se stessa, ma dimentica chi è stato consegnato
 - Terza via:
   - Costo: ricordi fondamentali e possibile legame permanente con il lago
   - Conseguenza immediata: il sigillo si spezza solo in parte
@@ -43,6 +43,7 @@
 - Se i PG bloccano: usa un indizio criptico dal tracker e fai dimenticare a un PNG il nome di un PG.
 - Se il ritmo cala: anticipa il secondo rintocco e fai muovere la persona designata verso la cappella.
 - Se deviano: trasferisci il prossimo core clue al luogo che stanno già esplorando.
+- Se serve un combattimento breve: fai muovere i resti coperti di alghe e interrompi lo scontro appena il passaggio o l'indizio è ottenuto.
 
 ## Appendice meccanica live (opzionale)
 - Iniziativa e ordine:

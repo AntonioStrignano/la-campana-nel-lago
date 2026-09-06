@@ -4,7 +4,7 @@
 | Nodo | Cosa devono capire | Perché conta | Stato |
 |---|---|---|---|
 | Nodo 1 | Il suono della campana altera i ricordi condivisi | Permette di leggere i cambiamenti come escalation, non come coincidenze | Da scoprire |
-| Nodo 2 | Il villaggio ha cancellato un sacrificio e il custode mantiene il sigillo | Sposta il conflitto da "uccidere il mostro" a "decidere chi paga" | Da scoprire |
+| Nodo 2 | Il villaggio ha cancellato sacrifici precedenti e il custode mantiene il rito | Sposta il conflitto da "uccidere il mostro" a "decidere chi paga" | Da scoprire |
 | Nodo 3 | Il terzo rintocco rende permanente la dissoluzione della comunità | Definisce il costo concreto della non azione e il limite temporale | Da scoprire |
 
 ## Core clue (sempre accessibili)
@@ -14,14 +14,14 @@
 | 2. Il registro del villaggio ha una pagina strappata con tracce di cera nera | Casa del registro o archivio della cappella | Il vuoto nella cronologia è più recente del resto del libro | Nodo 2 |
 | 3. Tre rintocchi corrispondono a tre livelli di perdita | Campanile e testimonianze degli abitanti | Il primo rintocco cancella un volto, il secondo un legame, il terzo la storia comune | Nodo 3 |
 | 4. Il custode porta lo stesso simbolo del sigillo | Sentiero verso il lago o incontro con il custode | Il simbolo si illumina quando un PG pronuncia un nome cancellato | Nodo 2 |
-| 5. La vittima designata è ancora viva e ricorda il sacrificio | Sotto il lago o attraverso un ricordo condiviso | È l'unica persona che pronuncia la versione completa della notte originale | Nodo 3 |
+| 5. La persona designata è ancora viva, ma i sacrificati precedenti sono morti nel campanile | Sotto il lago o attraverso un ricordo condiviso | Il gruppo comprende cosa accadrà quando il lago tornerà a riempirsi | Nodo 3 |
 
 ## Extra clue (con tiro o idea brillante)
 | Extra clue | Requisito | Vantaggio ottenuto |
 |---|---|---|
 | La cera nera contiene acqua del lago anche quando è asciutta | Indagine mirata o competenza pertinente | Indica il passaggio nascosto verso la cappella sommersa |
 | Il custode ha già provato a spezzare il patto da solo | Fiducia, empatia o pressione ben mirata | Rivela il prezzo della terza via e riduce il rischio di uno scontro inutile |
-| La campana non sceglie il più colpevole, ma chi viene nominato dal gruppo | Osservare il rituale o proteggere la vittima dal simbolo | Rende chiaro che la responsabilità morale non può essere delegata a un tiro |
+| La campana non sceglie il più colpevole, ma chi viene nominato dal gruppo | Osservare il rituale o proteggere la persona designata | Rende chiaro che la responsabilità morale non può essere delegata a un tiro |
 
 ## Escalation a scene
 - Dopo scena 1: un abitante dimentica il nome del proprio figlio; il secondo rintocco è imminente

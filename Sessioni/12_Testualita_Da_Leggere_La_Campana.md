@@ -46,6 +46,12 @@
 >
 > Dal villaggio arriva un grido. Qualcuno ha appena guardato il proprio figlio senza riconoscerlo.
 
+## Il ritorno dell'acqua
+
+> Dal fondo del lago arriva un rumore lento, come un respiro che si riempie.
+>
+> L'acqua non sta tornando dalla riva. Sale dal fango, filtra tra le pietre, riempie le crepe del campanile. Avete il tempo di capire cosa sta per succedere: se il rito viene completato, la persona offerta resterà qui sotto.
+
 ## Il villaggio che dimentica
 
 > Le persone vi vengono incontro portando fotografie, lettere e oggetti che dovrebbero spiegare chi sono.
@@ -60,7 +66,7 @@
 >
 > Quando gli chiedete il nome, apre la bocca e resta in silenzio. Per la prima volta, sembra spaventato.
 >
-> "Ne ho avuti molti", dice infine. "Quello che vi serve non è il mio nome. È il nome che il villaggio ha deciso di non ricordare."
+> "Ne ho avuti molti", dice infine. "Quello che vi serve non è il mio nome. È il nome di chi ho accompagnato qui e che il villaggio ha deciso di non ricordare."
 
 ## Rivelazione di Mara
 
@@ -72,7 +78,7 @@
 >
 > Mara guarda la campana, poi voi.
 >
-> "Se mi consegnate, salverete il villaggio. Se non mi consegnate, dovrete spiegarmi che cosa siete disposti a perdere al posto mio."
+> "Se mi consegnate, salverete il villaggio. Il lago mi prenderà quando tornerà. Se non mi consegnate, dovrete spiegarmi che cosa siete disposti a perdere al posto mio."
 
 ## Secondo rintocco
 
@@ -100,7 +106,7 @@
 >
 > La campana non vi chiede chi è colpevole.
 >
-> Vi chiede cosa intendete salvare.
+> Vi chiede se offrirete una persona prima che l'acqua torni.
 >
 > E quale perdita siete disposti a chiamare con il suo nome.
 
@@ -114,15 +120,15 @@
 >
 > Sotto il lago, la campana tace. Per ora.
 
-## Finale: trasferire il vincolo
+## Finale: offrire una persona
 
 > Quando pronunciate il nome della persona scelta, la campana si apre nella crepa.
 >
-> Non c'è sangue. C'è luce, e dentro la luce migliaia di ricordi che cercano un posto dove restare. La persona scompare dalla stanza e ricompare oltre il cerchio, viva, cosciente, già legata alla cappella.
+> Non c'è sangue. C'è luce, e dentro la luce migliaia di ricordi che cercano un posto dove restare. La persona perde il proprio nome davanti a voi. Quando l'acqua torna, il campanile si riempie e la sua voce scompare sotto la superficie.
 >
 > In superficie, il villaggio ricorda tutto.
 >
-> Ricorda anche chi avete consegnato.
+> Non ricorda più chi avete consegnato. Il Custode sì.
 
 ## Finale: ricordare tutti
 

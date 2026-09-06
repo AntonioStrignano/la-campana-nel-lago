@@ -9,7 +9,7 @@
 
 ## Hook di apertura (cold open)
 - Immagine iniziale: i PG sono nella cappella riemersa dal lago; sulle pareti umide compaiono nomi che nessuno ricorda di aver scritto
-- Evento immediato: la campana arrugginita suona una volta; un PG trova inciso il proprio nome sotto la frase "Tu sei stato il primo a lasciarmi qui"
+- Evento immediato: la campana arrugginita suona una volta; il sigillo si indebolisce e un PG trova inciso il proprio nome sotto la frase "Tu sei stato il primo a lasciarmi qui"
 - Domanda forte ai PG: cosa fate quando un luogo sembra ricordare di voi più di quanto voi ricordiate di lui?
 
 ## Timeline dinamica a scene
@@ -20,22 +20,22 @@
 - Scena 2: Il villaggio che dimentica (25 minuti)
   - Obiettivo scena: collegare la cappella a un sacrificio cancellato dalla memoria collettiva
   - Nodo decisionale: fidarsi del custode, cercare i registri del villaggio o seguire le persone colpite dal secondo rintocco
-  - Uscite possibili: scoprono chi è il custode e che esiste una persona ancora legata al sigillo; l'indagine può passare da qualsiasi dei tre percorsi
+  - Uscite possibili: scoprono chi è il custode, che esiste una persona designata e che i sacrificati precedenti sono morti nel campanile; l'indagine può passare da qualsiasi dei tre percorsi
 - Scena 3: Sotto il lago (25 minuti)
   - Obiettivo scena: raggiungere il cuore del sigillo e comprendere il costo delle alternative
   - Nodo decisionale: spezzare il vincolo, lasciarlo agire o tentare una terza via ad alto rischio
-  - Uscite possibili: confronto con il custode, prova rituale, breve scontro con la presenza o ingresso diretto nel climax
+  - Uscite possibili: confronto con il custode, breve scontro con i resti annegati o ingresso diretto nel climax
 
 ## Climax previsto
-- Condizione di innesco: i PG conoscono il legame tra campana, custode e vittima quando la campana inizia il terzo rintocco
+- Condizione di innesco: i PG conoscono il legame tra campana, custode e persona designata quando il ritorno dell'acqua rende imminente il terzo rintocco
 - Rischio principale: ogni rintocco cancella una certezza condivisa; al terzo, il villaggio perde i legami che lo rendono una comunità
 - Conseguenza in caso di successo: i PG fermano il terzo rintocco, ma scelgono chi paga il costo del sigillo; la perdita è visibile e irreversibile
 - Conseguenza in caso di fallimento: la comunità sopravvive fisicamente ma dimentica nomi, relazioni e parte della propria storia; la presenza resta sotto il lago
 
 ### Il dilemma
 - Non agire: il terzo rintocco completa la dissoluzione della memoria collettiva. Nessuno muore necessariamente, ma famiglie, promesse e identità condivise si spezzano.
-- Agire sul sigillo: una persona viene assorbita dalla campana e diventa il nuovo custode. I PG decidono chi consegnare o accettano che il sigillo scelga la persona già legata al rito.
-- Terza via: trasferire il vincolo sui PG o sulla presenza stessa. Richiede un prezzo certo: un ricordo fondamentale per ciascun partecipante e il rischio che uno di loro resti legato al lago.
+- Agire sul sigillo: una persona viene privata di identità e ricordi, consegnata al campanile e annegata dal ritorno dell'acqua. I PG decidono chi consegnare o accettano la persona già designata.
+- Terza via: tentare di spezzare il patto senza una nuova offerta. Il prezzo e le condizioni precise restano da definire nella fase successiva, ma devono essere dichiarati prima della scelta.
 - Principio di agency: nessun tiro decide chi sacrificare. I tiri modificano informazioni, tempo, posizione o prezzo; la decisione finale resta ai giocatori.
 
 ## Spotlight PG (prep)

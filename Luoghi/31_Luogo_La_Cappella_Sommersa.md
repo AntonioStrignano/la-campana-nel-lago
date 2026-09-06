@@ -6,9 +6,9 @@
 - Elemento disturbante: le statue hanno il volto di persone presenti nella scena
 
 ## Blocco operativo
-- Funzione narrativa del luogo: rivelare il patto, ospitare il confronto col custode e innescare il climax
+- Funzione narrativa del luogo: rivelare il patto, mostrare i resti dei sacrificati, ospitare il confronto col custode e innescare il climax
 - Cosa i PG possono ottenere qui: la storia completa del sacrificio e il modo di scegliere il prezzo
-- Rischio principale qui: la presenza separa i PG trasformando ricordi condivisi in versioni incompatibili
+- Rischio principale qui: la presenza separa i PG trasformando ricordi condivisi in versioni incompatibili; i resti annegati possono aggredire chi disturba il rito
 - Uscite o transizioni possibili: campanile, cripta del sigillo, superficie attraverso il pozzo centrale
 
 ## Interazioni chiave
@@ -16,7 +16,7 @@
 |---|---|---|
 | Esplorare | un banco mostra il ricordo di una riunione mai ricordata | identificare la persona designata |
 | Indagare | le iscrizioni completano le frasi quando un PG parla di casa | ricostruire le tre conseguenze del rito |
-| Forzare | la campana suona e cancella un ricordo minore | abbreviare il percorso pagando subito una perdita |
+| Forzare | la campana suona e un gruppo di resti annegati si muove | attraversare il passaggio dopo un combattimento breve |
 
 ## Indizi nel luogo
 - Core clue presente: il custode ricopre un ruolo imposto dal patto, non è il creatore della presenza
@@ -26,7 +26,7 @@
 ## Appendice meccanica (opzionale)
 - Prove tipiche: volontà, cultura, empatia, resistenza alla paura
 - Difficoltà indicative: medie per leggere il rito, alte per cambiare il prezzo
-- Trigger per scontri/eventi: il terzo rintocco, distruzione della campana o rifiuto del custode di indicare la vittima
+- Trigger per scontri/eventi: il ritorno dell'acqua, la distruzione della campana o un tentativo di interrompere il rito; gli scontri sono brevi e non costituiscono una boss fight
 
 ## Note correlate
 - [[Piste/50_Pista_La_Campana_Sotto_Il_Lago]]
