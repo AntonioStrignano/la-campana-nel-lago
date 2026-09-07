@@ -16,7 +16,7 @@ La Voce non nacque come un mostro. Era il residuo di tutte le promesse, i lutti 
 
 Il sacrificio stabilì la Voce nella cripta e lasciò un residuo del ricordo dell’ultima persona offerta. Quando il sigillo si indebolisce, la Voce restituisce quel residuo come immagine, frase, gesto o oggetto. Il villaggio ha già dimenticato la vittima e interpreta quindi il residuo come un indizio sulla prossima persona da sacrificare. La Voce non indica davvero nessuno: le basta ricevere un’offerta compresa e pronunciata da chi viene consegnato. Tomaso ha trasformato l’equivoco in una procedura politica e il Custode successivo ha ereditato il compito di interpretare i segni, condurre il passaggio e amministrare il rito.
 
-Il sigillo si indebolisce quando l’acqua torna a coprire il campanile. Se il villaggio non offre nessuno entro il ritorno dell’acqua, la Voce comincia a divorare autonomamente volti, legami e infine la storia comune.
+Quando il sigillo si indebolisce, il lago si ritira fino a lasciare emergere la campana e rendere raggiungibile la torre. Se il villaggio non offre nessuno entro il terzo rintocco, la Voce comincia a divorare autonomamente volti, legami e infine la storia comune. Il prosciugamento non e la conseguenza del rito: e la finestra in cui il rito puo essere compiuto o spezzato.
 
 Il primo custode, Elian Varda, accettò volontariamente. La comunità non avrebbe dovuto dimenticarlo: avrebbe dovuto ricordare il suo nome e raccontare la sua scelta. Invece, quando il dolore divenne insopportabile, gli anziani cancellarono il suo nome dai registri e trasformarono il rito in una tradizione anonima.
 
@@ -100,7 +100,7 @@ Questa è una scelta, anche se il gruppo la vive come rifiuto di scegliere.
 
 I PG possono nominare una persona e consegnarla al rito. La campana accetta solo una scelta pronunciata ad alta voce e compresa da chi viene nominato. Mara può accettare, Ivo può offrirsi, oppure i PG possono tentare di indicare qualcun altro.
 
-La persona scelta perde identità e ricordi, viene condotta nel campanile e muore annegata quando il lago torna a riempirlo. Il villaggio conserva memoria e identità, ma il gruppo sa esattamente chi ha consegnato e perché.
+La persona scelta perde identità e ricordi, viene condotta nella cripta attraverso il campanile e consegnata nel cerchio di sale nero. Solo allora il lago torna a riempire la torre: la Voce e nutrita, la persona muore annegata e il villaggio la dimentica. Il villaggio conserva memoria e identità, ma il gruppo sa esattamente chi ha consegnato e perché.
 
 ### Terza via: ricordare tutti
 
@@ -112,7 +112,7 @@ La terza via non è una ricompensa per aver trovato tutti gli indizi. È una sce
 
 ## La sequenza reale della scena finale
 
-1. Il custode rivela che il terzo rintocco è già iniziato.
+1. Il custode rivela che il terzo rintocco è già iniziato e guida il gruppo, se i PG lo consentono, dalla campana esposta fino alla cripta.
 2. Mara chiede che il suo silenzio non venga trattato come consenso.
 3. Tomaso dichiara la propria posizione politica davanti al villaggio.
 4. La Voce chiede al party quale versione dei fatti intende rendere pubblica.

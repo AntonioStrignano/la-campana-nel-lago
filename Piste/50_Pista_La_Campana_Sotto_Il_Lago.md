@@ -14,7 +14,7 @@
 | 2. Il registro del villaggio ha una pagina strappata con tracce di cera nera | Casa del registro o archivio della cappella | Il vuoto nella cronologia è più recente del resto del libro | Nodo 2 |
 | 3. Tre rintocchi corrispondono a tre livelli di perdita | Campanile e testimonianze degli abitanti | Il primo rintocco cancella un volto, il secondo un legame, il terzo la storia comune | Nodo 3 |
 | 4. Il custode porta lo stesso simbolo del sigillo | Sentiero verso il lago o incontro con il custode | Il simbolo si illumina quando un PG pronuncia un nome cancellato | Nodo 2 |
-| 5. La persona designata è ancora viva, ma i sacrificati precedenti sono morti nel campanile | Sotto il lago o attraverso un ricordo condiviso | Il gruppo comprende cosa accadrà quando il lago tornerà a riempirsi | Nodo 3 |
+| 5. La persona designata è ancora viva, ma i sacrificati precedenti sono morti nel campanile | Nella cripta o attraverso un ricordo condiviso | Il gruppo comprende che l'acqua risalira solo dopo una consegna nel cerchio | Nodo 3 |
 | 6. Un ciondolo con tre onde incise appartiene a una famiglia cancellata | Resti annegati nel campanile | La Promessa e Il Debito riconoscono un oggetto senza ricordare ancora Nera; il reperto collega il combattimento al sacrificio passato | Nodo 2 |
 
 ## Extra clue (con tiro o idea brillante)
@@ -26,7 +26,7 @@
 
 ## Escalation a scene
 - Dopo scena 1: un abitante dimentica il nome del proprio figlio; il secondo rintocco è imminente
-- Dopo scena 2: le persone iniziano a chiamarsi con nomi sbagliati e una strada del villaggio conduce sempre alla cappella
+- Dopo scena 2: le persone iniziano a chiamarsi con nomi sbagliati, il lago si ritira ancora e la barca verso la campana diventa l'accesso visibile alla cripta
 - Dopo scena 3: parte il terzo rintocco; ogni PG perde per pochi istanti un ricordo condiviso con il gruppo
 - Soglia di non ritorno: il terzo rintocco completo dissolve la memoria collettiva; la terza via può ancora salvare un frammento, ma non restituire tutto
 
@@ -39,7 +39,7 @@
 - Percorso A possibile: seguire i nomi ricomparsi dalla cappella fino alla persona designata
 - Percorso B possibile: interrogare il custode e ricostruire il rito tramite il suo segreto
 - Percorso C possibile: allineare i tre registri del villaggio per aprire il passaggio sotto il lago
-- Punto comune di arrivo: la cappella sommersa, il terzo rintocco e la decisione su chi pagherà il prezzo
+- Punto comune di arrivo: la barca, la torre accessibile dalla campana, la cripta, il terzo rintocco e la decisione su chi paghera il prezzo
 
 ## Note correlate
 - [[Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago]]

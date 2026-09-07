@@ -150,3 +150,20 @@
 - Definito Il Ritorno come testimone della falsificazione: prima dell’esilio aveva capito che gli indizi appartenevano ai sacrificati precedenti; l’indebolimento del sigillo gli ha lasciato frammenti e la certezza dell’inganno, ma non la memoria cosciente completa.
 - Aggiornati `Sessioni/11_Verita_Del_Master_La_Campana.md`, `Luoghi/31_Luogo_La_Cappella_Sommersa.md`, `Oggetti/40_Oggetto_La_Campana.md`, `Sessioni/13_Dialoghi_E_Scene_La_Campana.md`, `NPCs/20_NPC_Il_Custode.md`, `NPCs/22_NPC_La_Voce_Della_Comunita.md` e `Sessioni/15_PG_Pregenerati_La_Campana.md`.
 - Prossimo passo: allineare pista, sessione, run sheet e scena operativa della discesa dal campanile alla cripta.
+
+## 2026-09-07 - Ricordi progressivi e pressione del tempo
+
+- Estesi i cinque profili pregenerati con un contesto iniziale, Ricordo I, Ricordo II e Ricordo III; i primi due sono personali e cancellabili, il terzo e preservato per il climax.
+- Formalizzata in `Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago.md` la pressione temporale: il conteggio parte dall'ingresso effettivo nella cappella, con checkpoint flessibili attorno a 30 e 60 minuti di gioco effettivo.
+- Collegati i primi due checkpoint ai rintocchi: ogni giocatore barra il ricordo corrispondente; il terzo rintocco apre il dilemma e non cancella Ricordo III.
+- Confermato che il ricordo fondamentale non e una perdita automatica: resta un costo consensuale e facoltativo della Terza Via.
+- Aggiornati `Sessioni/01_Run_Sheet_La_Campana_Sotto_Il_Lago.md` con tracker e procedura live, e `Sessioni/14_Player_Guide_La_Campana.md` con istruzioni di consenso, barratura e ricalibrazione.
+- Verifica svolta: nessun errore rilevato nei file Markdown toccati. Prossimo passo consigliato: dry run da 90 minuti di gioco effettivo per verificare le due perdite e la riserva di 25-30 minuti per il climax.
+
+## 2026-09-07 - Accesso alla cripta e causalita dell'acqua
+
+- Corretto il ciclo fisico: il lago si ritira durante i tre rintocchi, esponendo la campana e l'apertura della torre; i PG raggiungono il luogo in barca e scendono alla cripta prima della scelta.
+- Stabilito che l'acqua risale soltanto dopo una consegna nel cerchio di sale nero della procedura tradizionale: nutre la Voce, annega la vittima e ricopre la cappella.
+- Se non viene compiuta un'offerta entro il terzo rintocco, il lago continua a ritirarsi e la Voce consuma memoria, legami e storia comune del villaggio.
+- Reso Ivo una guida possibile ma non necessaria: puo condurre la barca e spiegare rito e torre, ma Alba o l'esplorazione dei PG permettono comunque di raggiungere il climax.
+- Allineati verita del master, luogo, campana, sessione, run sheet, pista e contingenze. Da definire in seguito: esito fisico del lago dopo la Terza Via, natura della Voce e comportamento preciso dei resti.

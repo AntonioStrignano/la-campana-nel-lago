@@ -11,7 +11,7 @@
 ## 2) I PG saltano una scena chiave
 - Informazione persa: rapporto tra custode, vittima e terzo rintocco
 - Dove reinserirla in modo naturale: il primo oggetto toccato nella scena successiva mostra il ricordo
-- Costo narrativo del salto: il gruppo arriva con meno tempo e la vittima è già nella cripta
+- Costo narrativo del salto: il gruppo arriva con meno tempo, la torre è ormai accessibile e la vittima è già diretta alla cripta
 - Scena alternativa rapida: testimonianza del custode interrotta da un rintocco
 - Indizio sostitutivo: se il combattimento nei sotterranei viene saltato, un oggetto portato a riva è il ciondolo di bronzo con tre onde incise; i PG possono mostrarlo ad Alba o Ivo per ottenere una reazione parziale senza anticipare il nome di Nera.
 
@@ -19,7 +19,7 @@
 - Segnali di lentezza: dopo 10 minuti non è emerso un core clue o il gruppo ripete la stessa ipotesi
 - Cosa tagliare senza danni: dettagli del villaggio e un extra clue
 - Cosa comprimere: il percorso verso la cappella in una singola descrizione con un indizio
-- Pressione temporale da attivare: secondo rintocco e un PNG che dimentica perché protegge la vittima
+- Pressione temporale da attivare: secondo rintocco, un PNG che dimentica perché protegge la vittima e l'apertura della torre che emerge accanto alla campana
 
 ## 4) Sessione troppo veloce
 - Segnali di anticipo: i PG arrivano al climax prima di comprendere i costi

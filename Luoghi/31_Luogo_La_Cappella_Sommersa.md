@@ -1,7 +1,7 @@
 # La Cappella Sommersa
 
 ## Identità evocativa
-- Immagine dominante: la punta del campanile emerge dal lago ritirato; sotto la superficie, banchi coperti di alghe, candele accese e una campana sospesa senza catena
+- Immagine dominante: la campana emerge dall'acqua bassa; sotto la superficie, la torre conduce a banchi coperti di alghe, candele accese e alla cripta sepolta
 - Sensazione principale: pressione nelle orecchie e memoria che scivola via appena viene formulata
 - Elemento disturbante: le statue hanno il volto di persone presenti nella scena
 
@@ -9,7 +9,7 @@
 - Funzione narrativa del luogo: rendere accessibile il campanile sommerso, rivelare il patto, mostrare i resti dei sacrificati, ospitare il confronto col custode e condurre alla cripta della Voce
 - Cosa i PG possono ottenere qui: la storia completa del sacrificio e il modo di scegliere il prezzo
 - Rischio principale qui: la presenza separa i PG trasformando ricordi condivisi in versioni incompatibili; i resti annegati possono aggredire chi disturba il rito
-- Uscite o transizioni possibili: punta del campanile, discesa subacquea alla base della torre, accesso alla cripta del sigillo
+- Uscite o transizioni possibili: barca fino alla campana esposta, ingresso nella torre, discesa alla cripta del sigillo
 
 ## Interazioni chiave
 | Azione PG | Risposta ambiente | Nuova opportunità |
@@ -27,11 +27,13 @@
 ## Appendice meccanica (opzionale)
 - Prove tipiche: volontà, cultura, empatia, resistenza alla paura
 - Difficoltà indicative: medie per leggere il rito, alte per cambiare il prezzo
-- Trigger per scontri/eventi: il ritorno dell'acqua, la distruzione della campana o un tentativo di interrompere il rito; gli scontri sono brevi e non costituiscono una boss fight
+- Trigger per scontri/eventi: il prosciugamento che espone nuovi gradini, la distruzione della campana o un tentativo di interrompere il rito; gli scontri sono brevi e non costituiscono una boss fight
 
 ## Struttura sommersa
 
-La cappella è sempre stata sul fondo del lago. Quando il livello dell'acqua si abbassa, emerge solo la punta del campanile. La base della torre e l'accesso alla cripta restano sommersi: i PG devono scendere lungo il campanile per raggiungerli.
+La cappella è sempre stata sul fondo del lago. Quando il livello dell'acqua si abbassa, emerge la campana e una piccola apertura nella torre, raggiungibile con una barca. I PG entrano dal vano della campana e scendono lungo la torre fino alla cripta; l'acqua resta bassa abbastanza da rendere il percorso praticabile, ma trasforma i gradini inferiori in un passaggio freddo e viscido.
+
+La cripta e il cerchio di sale nero sono raggiungibili prima che il ciclo si chiuda. Nel rito tradizionale l'acqua risale solo dopo la consegna di una persona nel cerchio: allaga torre e cripta, nutre la Voce e ricopre di nuovo la cappella. Se nessuno viene offerto, il lago continua invece a ritirarsi e la Voce consuma la memoria del villaggio.
 
 Il cerchio di sale nero è il punto rituale in cui la Voce riceve l'offerta. Non è il sigillo originario e non sceglie la vittima: è una struttura costruita dopo il primo sacrificio di Elian per rendere ripetibile la procedura.
 

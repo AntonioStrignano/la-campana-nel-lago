@@ -20,6 +20,7 @@ Il centro della storia non è trovare la scelta corretta, ma decidere quale cost
 
 - Parlate tra personaggi, non solo tra giocatori.
 - Prendete sul serio i ricordi e i legami che costruiremo insieme.
+- Alcuni ricordi personali potranno essere cancellati durante la sessione: sarete voi a barrarli sulla scheda e a decidere come mostrarne l'assenza.
 - Nessun tiro decide da solo una scelta morale.
 - Le informazioni importanti saranno raggiungibili anche senza prove perfette.
 - Potete cercare una soluzione diversa da quelle proposte, ma ogni soluzione avrà un costo.
@@ -46,7 +47,9 @@ Ogni personaggio dovrebbe avere:
 - una ragione per non fidarsi completamente dei propri ricordi;
 - qualcosa che sarebbe disposto a proteggere anche pagando un prezzo.
 
-Non è necessario decidere ora quale ricordo andrà perduto. Durante la storia il giocatore potrà scegliere cosa è davvero fondamentale.
+Il profilo puo includere ricordi personali aggiuntivi, collegati a luoghi, gesti e persone importanti. I primi due possono essere cancellati dai rintocchi: quando accade, usa la procedura di barratura, barra il ricordo e non introdurlo piu come un fatto certo. Puoi invece descrivere il vuoto che lascia. Il terzo ricordo e quello fondamentale restano disponibili fino alla scelta finale.
+
+Prima di iniziare puoi indicare un ricordo o un tema che non vuoi rendere cancellabile. Durante la storia puoi sempre usare il segnale concordato per fermare, modificare o saltare una perdita.
 
 ## Domande per il gruppo
 

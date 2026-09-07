@@ -2,17 +2,32 @@
 
 ## Stato sessione
 - Orario inizio:
+- Inizio gioco effettivo:
 - Orario attuale:
+- Prossimo checkpoint: +30 min | +60 min | climax
 - Energia tavolo (1-5):
 - Ritmo percepito: veloce | stabile | lento
 - Rintocco attuale: 0 | 1 | 2 | 3
+- Livello del lago: campana esposta | apertura della torre accessibile | cripta raggiungibile | risale solo dopo offerta
+- Posizione di Mara: villaggio | verso la barca | torre | cripta | fuori dal rito
+
+## Tracker ricordi
+| PG | Ricordo I | Ricordo II | Ricordo III | Ricordo fondamentale |
+|---|---|---|---|---|
+| La Memoria | integro | integro | preservato | disponibile solo per Terza Via |
+| La Promessa | integro | integro | preservato | disponibile solo per Terza Via |
+| La Voce | integro | integro | preservato | disponibile solo per Terza Via |
+| Il Debito | integro | integro | preservato | disponibile solo per Terza Via |
+| Il Ritorno (opzionale) | integro | integro | preservato | disponibile solo per Terza Via |
+
+Procedura live: al checkpoint annuncia la pressione, attendi una transizione drammatica e fai risuonare la campana. Ogni giocatore barra il ricordo indicato e puo descrivere facoltativamente un effetto della perdita. Aggiorna la tabella. Non interrompere una scelta o un conflitto in corso e non cancellare Ricordo III prima del climax.
 
 ## Tracker scene
 | Scena | Obiettivo | Minaccia/Pressione | Esito | Prossima mossa |
 |---|---|---|---|---|
 | 1. Cappella riemersa | scoprire l'alterazione dei ricordi | primo rintocco |  |  |
 | 2. Villaggio | ricostruire il sacrificio | secondo rintocco imminente |  |  |
-| 3. Sotto il lago | capire il prezzo e vedere i resti dei sacrificati | presenza, custode e ritorno dell'acqua |  |  |
+| 3. Torre e cripta | capire il prezzo e vedere i resti dei sacrificati | presenza, custode e prosciugamento |  |  |
 | 4. Scelta | fermare o accettare il terzo rintocco | un solo momento per decidere |  |  |
 
 ## Tracker spotlight PG
@@ -41,7 +56,7 @@
 
 ## Contromisure rapide anti-stallo
 - Se i PG bloccano: usa un indizio criptico dal tracker e fai dimenticare a un PNG il nome di un PG.
-- Se il ritmo cala: anticipa il secondo rintocco e fai muovere la persona designata verso la cappella.
+- Se il ritmo cala: avvicina il prossimo checkpoint alla prima transizione utile e fai muovere la persona designata verso la cappella; conserva comunque il tempo finale per la scelta.
 - Se deviano: trasferisci il prossimo core clue al luogo che stanno già esplorando.
 - Se serve un combattimento breve: fai muovere i resti coperti di alghe e interrompi lo scontro appena il passaggio o l'indizio è ottenuto.
 - Se i resti portano un ciondolo con tre onde incise: fallo recuperare dopo lo scontro. È un indizio familiare per La Promessa, Il Debito e, se presente, Il Ritorno; può far filtrare un ricordo incompleto, ma non rivela da solo il nome di Nera.
