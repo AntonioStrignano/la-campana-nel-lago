@@ -4,11 +4,13 @@
 
 ## 1. La Memoria del gruppo
 - Ruolo narrativo: archivista di Varda, studioso o persona attenta ai dettagli
-- Legame: Ivo, il Custode, ti ha insegnato a leggere ciò che gli altri vogliono dimenticare. Lo consideri un mentore, quasi una figura paterna, e hai ricostruito con lui parte della storia di Varda. Non sai perché ti abbia sempre tenuto lontano dai registri più antichi.
+- Legame: Ivo, il Custode, ti ha insegnato a leggere ciò che gli altri vogliono dimenticare. Lo consideri un mentore, quasi una figura paterna, e hai ricostruito con lui parte della storia di Varda. Hai lasciato il villaggio per scelta o per studio e sei tornato convinto che il tuo rapporto con lui fosse una parte libera della tua storia. Non sai perché ti abbia sempre tenuto lontano dai registri più antichi.
+- Segnale che non hai mai capito: Ivo si fermava a osservarti quando inclinavi la testa davanti a una bugia o lasciavi una contraddizione nel margine. Diceva che era il gesto di una buona archivista; non sai perché a volte sembrasse invece riconoscere qualcun altro.
 - Ricordo fondamentale: la prima volta in cui Ivo ha corretto un tuo appunto senza cancellare la contraddizione e ti ha detto di non sistemare ciò che non avevi ancora capito
 - Domanda aperta: quando qualcuno ti protegge dalla verità, sta custodendo te o il proprio alibi?
-- Spotlight: riconosci che le omissioni nei registri sono state costruite e scopri che il tuo mentore ha controllato ciò che potevi ricordare
+- Spotlight: riconosci che le omissioni nei registri sono state costruite e scopri che il tuo mentore ha controllato ciò che potevi ricordare; devi decidere se eri la sua allieva o anche il rimpiazzo della figlia che non ha saputo salvare
 - Frase da portare al tavolo: "Se è stato scritto, qualcuno voleva che venisse ricordato."
+- Frase di Ivo da riconoscere: "Tu non sei lei. È questo che avrei dovuto capire prima."
 
 ## 2. La Promessa
 - Ruolo narrativo: guardia, protettore o persona abituata a mantenere la parola data

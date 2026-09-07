@@ -109,3 +109,17 @@
 - Aggiornati `Sessioni/11_Verita_Del_Master_La_Campana.md` e `NPCs/20_NPC_Il_Custode.md`: Ivo crea l'urgenza, mente sul ritorno di Nera, nega per dolore e può confessare se i PG lo incalzano.
 - Aggiornato `Sessioni/15_PG_Pregenerati_La_Campana.md`: la promessa de La Promessa era originariamente rivolta a Nera; Il Debito ricorda la fuga e il debito verso Alba.
 - Aggiornati `Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago.md`, `Sessioni/12_Testualita_Da_Leggere_La_Campana.md`, `Sessioni/13_Dialoghi_E_Scene_La_Campana.md` e `Sessioni/01_Run_Sheet_La_Campana_Sotto_Il_Lago.md` con il ritorno simultaneo della memoria e la domanda: "Adesso che ricordo, cosa dovrei fare?"
+
+## 2026-09-07 - Approfondimento di Ivo e La Memoria
+
+- Reso esplicito che Ivo si è legato a La Memoria riconoscendo in lei gesti e ostinazioni di Nera, trasformando inconsapevolmente l'allieva in un rimpiazzo della figlia sacrificata.
+- Mantenuto l'affetto di Ivo come autentico ma contaminato: il controllo dei registri e delle informazioni è una ripetizione del gesto con cui ha deciso per Nera.
+- Aggiunti alla scheda di Ivo la confessione sul rimpiazzo e la condanna finale: ricordare Nera significa capire che La Memoria non era lei.
+- Aggiornata la verità del master con il nuovo asse emotivo e con il costo concreto della terza via per La Memoria.
+- Aggiornati il profilo giocatore di La Memoria e i dialoghi finali con segnali, battute e risposta possibile.
+
+## 2026-09-07 - Controllo coerenza famiglia/rito e rinvio cripta/cerchio
+
+- Eseguito controllino di coerenza tra La Promessa, Il Debito, Alba, Nera e il rapporto Ivo-La Memoria: nessuna contraddizione rilevata sui fatti principali.
+- Segnalato in `Luoghi/31_Luogo_La_Cappella_Sommersa.md` che il rapporto fisico tra cripta e campanile e l'aspetto/funzione del cerchio di sale nero non sono ancora definiti nel dettaglio.
+- Rinviata la definizione di cripta e cerchio di sale a dopo il completamento di tutti i materiali di PG e PNG.

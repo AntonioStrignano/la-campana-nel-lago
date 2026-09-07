@@ -8,6 +8,8 @@
 - Segreto utile: è Ivo, marito di Alba e padre di La Promessa, Il Debito e Nera; circa vent'anni fa ha creato l'urgenza che spinse Alba ad accettare Nera al posto de Il Debito
 - Contraddizione interna: sostiene di aver soltanto condotto il rito, ma sa di aver spinto Nera a prendere il posto del fratello, trattenuto Alba mentre lei tentava di interromperlo e mentito sul possibile ritorno della figlia
 - Rapporto con La Memoria: le ha insegnato a leggere le omissioni nei registri e ha orientato la sua ricerca con indizi veri ma incompleti; la considera la sola persona capace di ricostruire la colpa, ma ha tenuto fuori dalla sua portata la pagina strappata che riguardava la sua famiglia
+- Sostituzione segreta: all'inizio ha riconosciuto in La Memoria alcuni gesti e ostinazioni di Nera. L'affetto è diventato una seconda possibilità: insegnarle ciò che non aveva insegnato alla figlia, proteggerla e decidere per lei quanta verità fosse sopportabile
+- Errore che non sa nominare: ama La Memoria anche per ciò che gli permette di continuare a essere padre di Nera; quando la controlla, crede di proteggerla e ripete il gesto che ha condannato sua figlia
 - Reazione se aiutato: consegna il frammento del sigillo e rivela la terza via
 - Reazione se ostacolato: protegge la persona designata e accetta di diventare antagonista temporaneo
 
@@ -35,6 +37,26 @@ Quando viene messo alle strette, Ivo non nega il rapporto né il metodo:
 Se La Memoria gli chiede perché l'abbia scelta, risponde:
 
 > "Perché tu vedevi le crepe senza averle ancora causate."
+
+Se La Memoria gli chiede se l'ha scelta perché gli ricordava Nera, Ivo evita dapprima il nome. Può ammetterlo dopo che il gruppo ha recuperato il ciondolo o la pagina mancante:
+
+> "Avevi il suo modo di fermarti prima di parlare. La stessa rabbia quando qualcuno chiamava ordine una bugia. All'inizio ho pensato che potevo ancora insegnare a una figlia ciò che non avevo fatto in tempo a insegnare a lei."
+
+Se La Memoria lo accusa di averla usata, Ivo non si difende con l'innocenza:
+
+> "Non eri lei. Lo sapevo ogni volta che ti guardavo. È questo che ho scelto di dimenticare."
+
+### La condanna del Custode
+
+Quando il ricordo di Nera ritorna, Ivo ricorda anche il modo in cui ha trasformato La Memoria in un rimpiazzo: le prime lezioni, gli appunti corretti, la pagina nascosta e ogni volta in cui ha chiamato protezione il proprio controllo. Il lago non gli offre una redenzione; gli toglie la possibilità di separare il dolore dalla giustificazione.
+
+Se muore durante il rito, l'ultima scelta può essere sua ma non cancella la responsabilità. Se sopravvive, resta senza il ruolo di Custode e senza il conforto di confondere La Memoria con Nera. In entrambi i casi:
+
+> "Tu non sei lei. È questo che avrei dovuto capire prima."
+
+La Memoria può rispondere:
+
+> "No. Avresti dovuto chiedermelo."
 
 ## La negazione di Ivo
 

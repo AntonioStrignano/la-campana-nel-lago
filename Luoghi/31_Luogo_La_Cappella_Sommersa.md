@@ -29,6 +29,12 @@
 - Difficoltà indicative: medie per leggere il rito, alte per cambiare il prezzo
 - Trigger per scontri/eventi: il ritorno dell'acqua, la distruzione della campana o un tentativo di interrompere il rito; gli scontri sono brevi e non costituiscono una boss fight
 
+## Nodi da definire
+
+- Rapporto fisico preciso tra cripta e campanile (stesso ambiente o ambienti collegati)
+- Aspetto e funzione esatta del cerchio di sale nero citato in `Sessioni/12_Testualita_Da_Leggere_La_Campana.md`
+- Da affrontare dopo aver completato tutti i materiali di PG e PNG
+
 ## Note correlate
 - [[Piste/50_Pista_La_Campana_Sotto_Il_Lago]]
 - [[NPCs/20_NPC_Il_Custode]]

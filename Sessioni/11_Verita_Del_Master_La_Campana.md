@@ -38,13 +38,21 @@ La Promessa e Il Debito ricordano di essere fratelli. Non ricordano Nera. La Pro
 
 Ivo vuole che qualcuno ricordi la verità anche se questo significa perdere il villaggio. Ricorda il nome di Nera e può pronunciarlo; ciò che gli costa è raccontare il ruolo avuto nel ricatto.
 
+Quando il patto si spezza, il ritorno di Nera costringe Ivo a ricordare insieme la figlia sacrificata e la persona che ha cercato di usare come sua sostituta. La sua condanna è capire che La Memoria non era una seconda Nera e che ogni tentativo di proteggerla decidendo al posto suo ha ripetuto la violenza originaria. La morte eventuale di Ivo non vale come assoluzione: il suo ultimo riconoscimento deve lasciare La Memoria libera di giudicarlo.
+
 ### La Memoria e il mentore
 
 La Memoria è originaria di Varda e ha studiato la storia del villaggio insieme a Ivo. Lui l'ha scelta perché sapeva riconoscere le omissioni senza appartenere alla colpa della famiglia. Il loro rapporto è stato sincero, ma anche strumentalizzato: Ivo le ha dato indizi veri, corretto i suoi appunti e impedito l'accesso alla pagina che riguardava Nera.
 
+Ivo ha iniziato a legarsi a La Memoria perché riconosceva in lei alcuni gesti di Nera: il modo di osservare prima di parlare, l'ostinazione davanti a una contraddizione e la rabbia quando una bugia veniva chiamata ordine. Non l'ha scelta consapevolmente come sostituta, ma ha trasformato il rapporto in una seconda possibilità. Le ha insegnato ciò che avrebbe voluto insegnare a Nera, l'ha protetta dai registri più antichi e ha corretto il suo percorso per non perderla come aveva perso la figlia.
+
+Questo rende l'affetto autentico e il controllo imperdonabile. La Memoria non scopre di essere stata amata falsamente: scopre di essere stata amata anche come rimpiazzo. Ivo non ha visto fino in fondo la persona che aveva davanti perché continuava a cercare Nera nella sua allieva.
+
 La Memoria deve scoprire prima dai registri che le omissioni seguono una volontà precisa. Solo dopo, nel confronto con Ivo, deve capire che il mentore ha controllato il percorso della sua ricerca. Ivo può confessare di averle insegnato la verità mentre decideva quanta verità potesse sopportare.
 
 Il ricordo fondamentale di La Memoria riguarda la fiducia in Ivo, non Nera. Nella terza via il giocatore può offrire quel ricordo: La Memoria conserva i fatti su Ivo, Alba e Nera, ma perde il senso di sicurezza che il mentore le dava. Ricorda di essersi fidata di lui, senza ricordare perché.
+
+Se il giocatore vuole rendere il costo più concreto, La Memoria perde il ricordo della prima volta in cui Ivo ha corretto un suo appunto senza cancellare la contraddizione. Conserva la lezione e la frase, ma non ricorda più il calore con cui lui le fece spazio. La verità resta; scompare la certezza che quel gesto fosse rivolto soltanto a lei.
 
 Ivo sa che il rito protegge gli abitanti solo perché il villaggio continua a nutrire la Voce con la propria paura e i propri ricordi condivisi. Quando Alba ricorda Nera, però, mente anche attivamente: nega di aver creato l'urgenza, di aver spinto Nera e di aver promesso ad Alba che la figlia sarebbe tornata. La negazione gli serve a non affrontare il proprio dolore.
 

@@ -20,6 +20,13 @@
 - "Non basta rompere la campana. Dovete ricordare ciò che la campana tiene insieme."
 - "Un nome pronunciato fuori dal rito è solo un nome. Per offrire qualcuno servono il passaggio, il cerchio e l'acqua che torna. La scelta, questa volta, deve appartenere a chi resta."
 
+### La Memoria scopre il rimpiazzo
+- Se La Memoria nota un gesto o una frase condivisa con Nera: Ivo smette di correggerla e dice: "Avevi il suo modo di fermarti prima di parlare."
+- Se gli chiede se l'ha scelta perché gli ricordava Nera: "All'inizio ho pensato che potevo ancora insegnare a una figlia ciò che non avevo fatto in tempo a insegnare a lei."
+- Se La Memoria lo accusa di averla usata: "Non eri lei. Lo sapevo ogni volta che ti guardavo. È questo che ho scelto di dimenticare."
+- Se il ricordo di Nera torna durante la fine: "Tu non sei lei. È questo che avrei dovuto capire prima."
+- Risposta possibile de La Memoria: "No. Avresti dovuto chiedermelo."
+
 ### Se i PG chiedono cosa succede alla persona offerta
 - "Perde il nome prima dell'acqua. Quando il lago torna, perde anche il respiro."
 - "Io ricordo tutti. È questo il mio castigo: sapere chi è stato dimenticato."
