@@ -10,9 +10,7 @@
 >
 > Nessuno del villaggio vi accompagna. Gli abitanti sono rimasti sulla riva, immobili, come se avessero paura di avvicinarsi a qualcosa che conoscono.
 >
-> Poi la campana suona.
->
-> Il suono non attraversa l'aria. Vi attraversa il petto. Per un istante ciascuno di voi ricorda una porta chiusa, una mano che lasciate andare, una voce che vi chiama da sotto l'acqua.
+> Il silenzio del lago vi attraversa il petto. Per un istante ciascuno di voi ricorda una porta chiusa, una mano che lasciate andare, una voce che vi chiama da sotto l'acqua.
 >
 > Sulla pietra umida, proprio davanti a voi, compare una frase. Le lettere si formano lentamente, come graffiate dall'interno: **TU SEI STATO IL PRIMO A LASCIARMI QUI.**
 >
@@ -40,7 +38,7 @@
 
 ## Primo rintocco
 
-> Il primo rintocco è più silenzioso del precedente.
+> Il primo rintocco arriva senza preavviso.
 >
 > Per un momento, nessuno di voi riesce a ricordare un volto preciso. Il ricordo della persona è ancora lì: sapete che conta, sapete che l'avete amata o temuta. Ma il volto è diventato una superficie liscia.
 >

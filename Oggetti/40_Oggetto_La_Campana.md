@@ -7,7 +7,7 @@
 - Distinzione: la campana non è la Voce Profonda e non è il sigillo; rende il sigillo udibile e ne applica le conseguenze
 
 ## Cosa fa
-La campana suona quando il sigillo si indebolisce. Il rintocco avverte il villaggio che la Voce Profonda sta iniziando a divorare ricordi casuali: prima volti, poi legami, infine la storia comune. Il segno che segue non è una profezia: è un residuo del ricordo dell'ultima vittima, restituito dalla Voce in una forma che il villaggio può interpretare male.
+La campana suona durante la sessione quando il sigillo si indebolisce. Il primo rintocco avverte il villaggio che la Voce Profonda sta iniziando a divorare ricordi casuali: prima volti, poi legami, infine la storia comune. Il segno che segue non è una profezia: è un residuo del ricordo dell'ultima vittima, restituito dalla Voce in una forma che il villaggio può interpretare male.
 
 Il suono apre una finestra di tempo. Entro il ritorno dell'acqua, il villaggio deve offrire una persona alla Voce. La persona viene privata della propria identità e dei propri ricordi; il villaggio dimentica che sia mai esistita. Quando il lago si riempie, la vittima muore annegata nel campanile e il sigillo si ristabilisce.
 
@@ -24,7 +24,7 @@ I sacrificati dei cicli precedenti sono ancora nel campanile come scheletri e ca
 Durante uno degli scontri, un resto porta ancora un piccolo ciondolo di bronzo con tre onde incise. È il simbolo domestico che Alba aveva fatto per i suoi tre figli e apparteneva a Nera. La Promessa, Il Debito o Il Ritorno possono riconoscere il gesto o la forma senza recuperare subito il nome; il ciondolo diventa una prova fisica del vuoto familiare. Dopo la rottura del patto può essere recuperato insieme ai resti.
 
 ## Uso al tavolo
-- **Introduzione:** la campana suona mentre nessuno la tocca; il suono sembra una voce familiare diversa per ogni PG.
+- **Primo contatto:** quando il primo rintocco arriva senza che nessuno tocchi la campana, il suono sembra una voce familiare diversa per ogni PG.
 - **Contatto:** toccarla mostra un residuo dell'ultimo sacrificio: il villaggio lo interpreta come indicazione, ma non può riconoscere la vittima dimenticata.
 - **Percorso:** la campana è l'accesso visibile alla discesa; i PG devono raggiungere la base del campanile sott'acqua per trovare la cripta.
 - **Incontro:** i resti annegati possono attaccare in uno o due combattimenti brevi, senza trasformare la campana in una boss fight.

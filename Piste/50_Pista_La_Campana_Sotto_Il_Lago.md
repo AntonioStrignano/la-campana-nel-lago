@@ -22,7 +22,7 @@
 |---|---|---|
 | La cera nera contiene acqua del lago anche quando è asciutta | Indagine mirata o competenza pertinente | Indica il passaggio nascosto verso la cappella sommersa |
 | Il custode ha già provato a spezzare il patto da solo | Fiducia, empatia o pressione ben mirata | Rivela il prezzo della terza via e riduce il rischio di uno scontro inutile |
-| La campana non sceglie il più colpevole, ma chi viene nominato dal gruppo | Osservare il rituale o proteggere la persona designata | Rende chiaro che la responsabilità morale non può essere delegata a un tiro |
+| La campana non sceglie il più colpevole né la vittima | Osservare il rituale o proteggere la persona designata | Rende chiaro che la responsabilità morale non può essere delegata alla campana o a un tiro |
 
 ## Escalation a scene
 - Dopo scena 1: un abitante dimentica il nome del proprio figlio; il secondo rintocco è imminente

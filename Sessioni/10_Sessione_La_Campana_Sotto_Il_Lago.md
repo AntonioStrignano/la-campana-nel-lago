@@ -9,7 +9,7 @@
 
 ## Hook di apertura (cold open)
 - Immagine iniziale: i PG sono nella cappella riemersa dal lago; sulle pareti umide compaiono nomi che nessuno ricorda di aver scritto
-- Evento immediato: la campana arrugginita suona una volta; il sigillo si indebolisce e un PG trova inciso il proprio nome sotto la frase "Tu sei stato il primo a lasciarmi qui"
+- Evento immediato: il sigillo è ancora silenzioso, ma un PG trova inciso il proprio nome sotto la frase "Tu sei stato il primo a lasciarmi qui"; il primo rintocco avverrà durante l'esplorazione
 - Domanda forte ai PG: cosa fate quando un luogo sembra ricordare di voi più di quanto voi ricordiate di lui?
 
 ## Timeline dinamica a scene

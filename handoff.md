@@ -98,6 +98,15 @@
 
 - Separato il nome pronunciato fuori dal rito dall'offerta rituale: il Custode può parlare liberamente, conduce il passaggio al campanile ma non rende vittima una persona con la sola voce.
 - Definita la sequenza del sacrificio come designazione della comunità, conduzione del Custode, consegna nel cerchio e ritorno dell'acqua.
+
+## 2026-09-07 - Avvio implementazione allineamento campana
+
+- Stabilito che non esiste alcun rintocco prima dell'inizio della sessione: il primo suono di escalation avviene durante il gioco.
+- Aggiornati verità del master, testo d'apertura, sessione, oggetto campana e pista per distinguere atmosfera iniziale e primo rintocco.
+- Riscritto il registro della notte originaria come documento umano: la paura, il residuo interpretato come ordine, la pressione di Tomaso e la successiva cancellazione del nome spiegano perché il villaggio creda alla designazione.
+- Chiarito che la campana non seleziona la vittima; la responsabilità nasce dalla comunità e dal rito.
+- La Memoria può sospettare la lettura ufficiale grazie al metodo che Ivo le ha insegnato: cercare omissioni, formule assolute e contraddizioni nei registri.
+- Lasciati da definire: struttura completa della sessione, timer reale, conseguenza definitiva dell'esilio de Il Ritorno, eventuale scheda della Voce Profonda e abitanti secondari.
 - Inserito il leaking dei ricordi come effetto del sigillo indebolito: indizi, oggetti, luoghi e resti possono far filtrare frammenti di Nera prima della rivelazione completa.
 - Allineati Ivo, Alba, Mara, verità del master, sessione, run sheet, contingenze e dialoghi a questa regola; rimosso il debito soprannaturale futuro dalla contingenza.
 
