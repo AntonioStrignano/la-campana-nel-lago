@@ -138,7 +138,7 @@ La terza via non è una ricompensa per aver trovato tutti gli indizi. È una sce
 
 ## Note correlate
 
-- [[Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago]]
-- [[Sessioni/12_Testualita_Da_Leggere_La_Campana]]
-- [[Sessioni/13_Dialoghi_E_Scene_La_Campana]]
-- [[Sessioni/14_Player_Guide_La_Campana]]
+- [[SES-05_Prep_La_Campana]]
+- [[../Handout/HND-01_Testualita_La_Campana]]
+- [[SES-07_Dialoghi_La_Campana]]
+- [[../Giocatori/PG-00_Guida_La_Campana]]

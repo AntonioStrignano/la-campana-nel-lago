@@ -77,6 +77,6 @@ Se Ivo nega, Alba non lo perdona automaticamente. Se i PG lo incalzano fino a fa
 
 ## Note correlate
 
-- [[NPCs/20_NPC_Il_Custode]]
-- [[Sessioni/11_Verita_Del_Master_La_Campana]]
-- [[Sessioni/15_PG_Pregenerati_La_Campana]]
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[Sessioni/Master/SES-06_Verita_La_Campana]]
+- [[PG/INDICE_PG_La_Campana]]

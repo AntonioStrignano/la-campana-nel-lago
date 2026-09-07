@@ -44,6 +44,6 @@ Se la mappa appare troppo vuota o la storia richiede più attività, si può por
 - Trigger per scontri/eventi: il secondo rintocco in Piazza del Mercato o un tentativo di trascinare Mara fuori dal villaggio
 
 ## Note correlate
-- [[Luoghi/30_Luogo_Il_Lago_Sommerso]]
-- [[Piste/50_Pista_La_Campana_Sotto_Il_Lago]]
-- [[NPCs/21_NPC_La_Persona_Designata]]
+- [[Luoghi/LUO-01_Il_Lago_Sommerso]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[NPCs/NPC-02_Mara_La_Persona_Designata]]

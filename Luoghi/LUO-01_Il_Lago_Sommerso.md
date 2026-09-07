@@ -29,5 +29,5 @@
 - Trigger per scontri/eventi: il secondo rintocco o un tentativo pubblico di trascinare via la persona designata
 
 ## Note correlate
-- [[Piste/50_Pista_La_Campana_Sotto_Il_Lago]]
-- [[Luoghi/31_Luogo_La_Cappella_Sommersa]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Luoghi/LUO-02_La_Cappella_Sommersa]]

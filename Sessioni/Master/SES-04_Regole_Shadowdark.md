@@ -1,6 +1,6 @@
 # Shadowdark - Foglio rapido delle regole
 
-Riferimento da tenere davanti durante [[01_Run_Sheet_La_Campana_Sotto_Il_Lago]].
+Riferimento da tenere davanti durante [[SES-01_Run_Sheet_La_Campana]].
 Le pagine indicate sono quelle stampate nel manuale, non il numero della pagina PDF.
 
 ## Risoluzione rapida
@@ -120,6 +120,6 @@ Azioni tipiche: attaccare, lanciare un incantesimo, correre, disimpegnarsi, aiut
 
 ## Note correlate
 
-- [[01_Run_Sheet_La_Campana_Sotto_Il_Lago]]
-- [[03_Contingenze_La_Campana_Sotto_Il_Lago]]
-- [[14_Player_Guide_La_Campana]]
+- [[SES-01_Run_Sheet_La_Campana]]
+- [[SES-03_Contingenze_La_Campana]]
+- [[../Giocatori/PG-00_Guida_La_Campana]]

@@ -42,8 +42,8 @@
 - Punto comune di arrivo: la barca, la torre accessibile dalla campana, la cripta, il terzo rintocco e la decisione su chi paghera il prezzo
 
 ## Note correlate
-- [[Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago]]
-- [[Luoghi/30_Luogo_Il_Lago_Sommerso]]
-- [[Luoghi/31_Luogo_La_Cappella_Sommersa]]
-- [[NPCs/20_NPC_Il_Custode]]
-- [[Oggetti/40_Oggetto_La_Campana]]
+- [[Sessioni/Master/SES-05_Prep_La_Campana]]
+- [[Luoghi/LUO-01_Il_Lago_Sommerso]]
+- [[Luoghi/LUO-02_La_Cappella_Sommersa]]
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[Oggetti/OBJ-01_La_Campana]]

@@ -4,10 +4,10 @@
 
 | PNG | PG collegato/i | Tipo di legame | Funzione emotiva |
 |---|---|---|---|
-| [Ivo, il Custode](20_NPC_Il_Custode.md) | **La Memoria** | Mentore e figura quasi paterna | La Memoria scopre che l'uomo che le ha insegnato a leggere le omissioni ha controllato ciò che poteva conoscere. |
-| [Mara Varda, la Persona Designata](21_NPC_La_Persona_Designata.md) | **La Voce** | Testimonianza pubblica e consenso | La Voce deve impedire che il silenzio di Mara venga trasformato in consenso al sacrificio. |
-| [Tomaso Riva, sindaco di Varda](22_NPC_La_Voce_Della_Comunita.md) | **Il Ritorno** e tutti i PG | Appartenenza e decisione politica | Tomaso decide se sostenere il sacrificio; il party può legittimarlo o contestarlo pubblicamente e materialmente. |
-| [Alba, la Battelliera](23_NPC_Alba_La_Battelliera.md) | **La Promessa** e **Il Debito** | Madre condivisa e complice del sacrificio di Nera | La Promessa protegge il fratello senza ricordare l'origine della promessa; Il Debito scopre di essere sopravvissuto al posto della sorella. |
+| [Ivo, il Custode](NPC-01_Ivo_Il_Custode.md) | **La Memoria** | Mentore e figura quasi paterna | La Memoria scopre che l'uomo che le ha insegnato a leggere le omissioni ha controllato ciò che poteva conoscere. |
+| [Mara Varda, la Persona Designata](NPC-02_Mara_La_Persona_Designata.md) | **La Voce** | Testimonianza pubblica e consenso | La Voce deve impedire che il silenzio di Mara venga trasformato in consenso al sacrificio. |
+| [Tomaso Riva, sindaco di Varda](NPC-03_Tomaso_La_Voce_Della_Comunita.md) | **Il Ritorno** e tutti i PG | Appartenenza e decisione politica | Tomaso decide se sostenere il sacrificio; il party può legittimarlo o contestarlo pubblicamente e materialmente. |
+| [Alba, la Battelliera](NPC-04_Alba_La_Battelliera.md) | **La Promessa** e **Il Debito** | Madre condivisa e complice del sacrificio di Nera | La Promessa protegge il fratello senza ricordare l'origine della promessa; Il Debito scopre di essere sopravvissuto al posto della sorella. |
 
 ### Legame segreto comune
 
@@ -17,10 +17,10 @@
 
 ## PNG attuali
 
-- [Ivo, il Custode](20_NPC_Il_Custode.md) — padre di La Promessa, Il Debito e Nera; marito di Alba
-- [Mara Varda, la Persona Designata](21_NPC_La_Persona_Designata.md) — discendente di Elian e candidata al vincolo
-- [Tomaso Riva, sindaco di Varda](22_NPC_La_Voce_Della_Comunita.md) — decisore politico della comunità
-- [Alba, la Battelliera](23_NPC_Alba_La_Battelliera.md) — madre di La Promessa, Il Debito e Nera; moglie di Ivo
+- [Ivo, il Custode](NPC-01_Ivo_Il_Custode.md) — padre di La Promessa, Il Debito e Nera; marito di Alba
+- [Mara Varda, la Persona Designata](NPC-02_Mara_La_Persona_Designata.md) — discendente di Elian e candidata al vincolo
+- [Tomaso Riva, sindaco di Varda](NPC-03_Tomaso_La_Voce_Della_Comunita.md) — decisore politico della comunità
+- [Alba, la Battelliera](NPC-04_Alba_La_Battelliera.md) — madre di La Promessa, Il Debito e Nera; moglie di Ivo
 
 ## Figure storiche o cancellate
 

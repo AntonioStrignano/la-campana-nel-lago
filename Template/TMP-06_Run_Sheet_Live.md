@@ -36,7 +36,7 @@
   - Conseguenza immediata:
 
 ## Contromisure rapide anti-stallo
-- Se i PG bloccano: inserisci indizio criptico da [[Template/00_TEMPLATE_Tracker_Indizi_Escalation]].
+- Se i PG bloccano: inserisci indizio criptico da [[Template/TMP-05_Tracker_Indizi_Escalation]].
 - Se il ritmo cala: introduci pressione esterna (rumore, arrivo, scadenza).
 - Se deviano: convergi su un nodo utile, non su una scena obbligata.
 

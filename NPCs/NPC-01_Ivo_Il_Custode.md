@@ -78,5 +78,5 @@ Se i PG collegano la fuga del Debito, il travestimento di Nera, la cicatrice di 
 - Soglie danno/resa/fuga: cede quando i PG dimostrano di avere compreso il costo, non quando perde tutti i punti vita
 
 ## Note correlate
-- [[Piste/50_Pista_La_Campana_Sotto_Il_Lago]]
-- [[Luoghi/31_Luogo_La_Cappella_Sommersa]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Luoghi/LUO-02_La_Cappella_Sommersa]]

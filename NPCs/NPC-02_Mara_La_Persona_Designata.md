@@ -28,6 +28,6 @@
 - Soglie danno/resa/fuga: non cede per paura; cede solo se il gruppo le nega agency o le promette una soluzione senza costo
 
 ## Note correlate
-- [[Piste/50_Pista_La_Campana_Sotto_Il_Lago]]
-- [[NPCs/20_NPC_Il_Custode]]
-- [[Luoghi/31_Luogo_La_Cappella_Sommersa]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[Luoghi/LUO-02_La_Cappella_Sommersa]]

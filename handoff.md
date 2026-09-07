@@ -167,3 +167,36 @@
 - Se non viene compiuta un'offerta entro il terzo rintocco, il lago continua a ritirarsi e la Voce consuma memoria, legami e storia comune del villaggio.
 - Reso Ivo una guida possibile ma non necessaria: puo condurre la barca e spiegare rito e torre, ma Alba o l'esplorazione dei PG permettono comunque di raggiungere il climax.
 - Allineati verita del master, luogo, campana, sessione, run sheet, pista e contingenze. Da definire in seguito: esito fisico del lago dopo la Terza Via, natura della Voce e comportamento preciso dei resti.
+
+## 2026-09-07 - Avvio riordino strutturale
+
+- Confermata la nuova convenzione semantica `TIPO-NN_NomeBreve.md`, senza numerazioni a salti.
+- Creata `MATRICE_Migrazione.md` con i percorsi finali e la separazione Master/Giocatori/Handout/Post-sessione.
+- Aggiornato `README.md` con la struttura finale e le regole per nuovi contenuti.
+- Stabilito che la prima migrazione riguarderà i materiali condivisi di `Sessioni/`; la scomposizione dei cinque PG seguirà in una cartella autonoma `PG/`.
+- Prossimo passo: creare le cartelle finali, spostare e rinominare i file secondo la matrice, quindi aggiornare tutti i link interni.
+
+## 2026-09-07 - Migrazione Sessioni e separazione PG
+
+- Create `Sessioni/Master/`, `Sessioni/Giocatori/`, `Sessioni/Handout/` e `Sessioni/Post-sessione/`.
+- Spostati e rinominati i materiali di sessione secondo `MATRICE_Migrazione.md`; il registro della notte originaria ora vive tra gli handout.
+- Creato `PG/` con cinque cartelle autonome: `La_Memoria`, `La_Promessa`, `La_Voce`, `Il_Debito`, `Il_Ritorno`.
+- Assegnati nomi propri ai PG: Ada Ferri, Elio Varda, Viola Serra, Nino Varda e Marta Lodi.
+- Sostituito l'indice monolitico con `PG/INDICE_PG_La_Campana.md`; ogni scheda contiene identità, legami, ricordi, spotlight e segreto del master.
+- Aggiornati i link wikilink coinvolti nella migrazione; audit eseguito senza link rotti nei file non storici.
+- Prossimo passo: normalizzare i template e rinominare le schede di NPC, luoghi, oggetti e piste con codici semantici.
+
+## 2026-09-07 - Normalizzazione cataloghi
+
+- Rinominati gli otto template con codici `TMP-01` fino a `TMP-08`.
+- Rinominati i cataloghi esistenti: `NPC-01` fino a `NPC-04`, `LUO-01` fino a `LUO-03`, `OBJ-01` e `PST-01`.
+- Aggiornato `NPCs/INDICE_NPC.md` e corretti i link tra PNG, luoghi, oggetti e pista principale.
+- Audit intermedio eseguito sui riferimenti obsoleti; resta da completare la verifica globale dei link e la creazione delle nuove schede di entità e piste.
+- Prossimo passo: aggiungere il diario di Tomaso, le schede degli oggetti nominati e le prime figure secondarie, poi completare la separazione Master/Player dove necessario.
+
+## 2026-09-07 - Verifica link e template
+
+- Aggiornati i wikilink interni dei cinque template rinominati.
+- Audit finale completato: zero riferimenti ai vecchi basename navigazionali e zero wikilink rotti fuori dai riferimenti storici.
+- La struttura attiva ora e: cataloghi semantici, Sessioni divisa per pubblico/funzione e cinque cartelle PG autonome.
+- Prossimo blocco narrativo: diario di Tomaso, schede autonome per ciondolo/frammento/registro/cera/resti e abitanti secondari con legami espliciti.

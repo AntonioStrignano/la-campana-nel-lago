@@ -38,6 +38,6 @@ La cripta e il cerchio di sale nero sono raggiungibili prima che il ciclo si chi
 Il cerchio di sale nero è il punto rituale in cui la Voce riceve l'offerta. Non è il sigillo originario e non sceglie la vittima: è una struttura costruita dopo il primo sacrificio di Elian per rendere ripetibile la procedura.
 
 ## Note correlate
-- [[Piste/50_Pista_La_Campana_Sotto_Il_Lago]]
-- [[NPCs/20_NPC_Il_Custode]]
-- [[Oggetti/40_Oggetto_La_Campana]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[Oggetti/OBJ-01_La_Campana]]

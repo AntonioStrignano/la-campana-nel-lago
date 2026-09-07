@@ -31,5 +31,5 @@
 - Soglie danno/resa/fuga: cambia posizione quando i PG mostrano un costo concreto per la terza via
 
 ## Note correlate
-- [[Piste/50_Pista_La_Campana_Sotto_Il_Lago]]
-- [[NPCs/21_NPC_La_Persona_Designata]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[NPCs/NPC-02_Mara_La_Persona_Designata]]

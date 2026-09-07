@@ -39,4 +39,4 @@
 - Punto comune di arrivo:
 
 ## Note correlate
-- [[Template/01_TEMPLATE_Run_Sheet_Live]]
+- [[Template/TMP-06_Run_Sheet_Live]]

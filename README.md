@@ -12,21 +12,27 @@ Vault operativo progettato per one-shot brevi ad alta resa: investigazione + azi
 
 ## Struttura cartelle
 
-- Template/: tutti i modelli vuoti, separati dai materiali di sessione.
-- Sessioni/: prep, run sheet live, debrief e contingenze.
-- NPCs/: schede rapide da tavolo + appendici meccaniche opzionali.
-- Luoghi/: descrizione evocativa + blocco operativo scena.
-- Oggetti/: elementi chiave e loro impatto in fiction.
-- Piste/: tracker indizi, escalation a scene, convergenza al climax.
+- `Template/`: tutti i modelli vuoti, separati dai materiali compilati.
+- `Sessioni/Master/`: prep, verità, run sheet, dialoghi e contingenze con spoiler.
+- `Sessioni/Giocatori/`: guide e materiali senza rivelazioni del master.
+- `Sessioni/Handout/`: testi da leggere e documenti da consegnare al tavolo.
+- `Sessioni/Post-sessione/`: debrief e consuntivi.
+- `PG/`: una cartella per ogni personaggio, con scheda master e versione giocatore quando necessaria.
+- `NPCs/`: schede complete di persone, gruppi e figure storiche.
+- `Luoghi/`: descrizione evocativa, legami, indizi e blocco operativo scena.
+- `Oggetti/`: elementi fisici, handout e loro impatto in fiction.
+- `Piste/`: documenti trovabili, testimonianze, indizi e convergenza al climax.
+- `Mappa/`: coordinate e rappresentazioni spaziali.
 
 ## Convenzione nomi file
 
-- Formato consigliato: NN_Tipo_NomeBreve.md
-- Esempi:
-	- 10_Sessione_Il_Faro_Muto.md
-	- 20_NPC_Dottoressa_Velar.md
-	- 30_Luogo_Cripta_Sommersa.md
-	- 40_Pista_Il_Coro_Nel_Buio.md
+- Usare codici semantici stabili, senza numerazioni a salti: `TIPO-NN_NomeBreve.md`.
+- Codici: `PG`, `NPC`, `LUO`, `OBJ`, `PST`, `SES`, `HND`, `TMP`.
+- Esempi: `NPC-01_Ivo_Il_Custode.md`, `LUO-03_La_Cripta.md`, `OBJ-02_Ciondolo_Delle_Tre_Onde.md`.
+- Gli indici usano `INDICE_` e i documenti di servizio usano `README_` o `MATRICE_`.
+- I nomi propri dei PG convivono con il titolo narrativo: il titolo resta nell'intestazione e nei riferimenti di gioco.
+
+La migrazione dei file esistenti è tracciata in `MATRICE_Migrazione.md`. Dopo ogni spostamento vanno aggiornati i link Markdown e `handoff.md`.
 
 ## Flusso operativo consigliato
 

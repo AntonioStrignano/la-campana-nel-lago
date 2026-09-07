@@ -36,5 +36,5 @@ Durante uno degli scontri, un resto porta ancora un piccolo ciondolo di bronzo c
 - La campana non decide chi viene offerto con un tiro: la scelta deve essere pronunciata dai personaggi e avere una conseguenza morale.
 
 ## Note correlate
-- [[Piste/50_Pista_La_Campana_Sotto_Il_Lago]]
-- [[Luoghi/31_Luogo_La_Cappella_Sommersa]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Luoghi/LUO-02_La_Cappella_Sommersa]]

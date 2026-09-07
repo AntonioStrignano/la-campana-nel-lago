@@ -1,0 +1,37 @@
+# Viola Serra - La Voce
+
+> Pubblico: misto. La sezione **Segreto del master** non va consegnata ai giocatori.
+
+## Identita
+
+Viola e una mediatrice abituata a dare parole ai conflitti degli altri. Sa riconoscere quando una stanza tace per ascoltare e quando tace per evitare una verita.
+
+## Legami
+
+- **Mara Varda:** la Persona Designata le chiede di testimoniare che il proprio silenzio non vale come consenso.
+- **Varda:** la comunita ascolta Viola proprio perche preferisce spesso le sue versioni alle proprie responsabilita.
+
+## Desiderio e paura
+
+- Desiderio: impedire che una decisione politica diventi una verita incontestabile.
+- Paura: trasformare ancora una confessione difficile in una versione piu facile da accettare.
+
+## Ricordi
+
+- **Contesto:** distinguere il silenzio dell'ascolto da quello dell'elusione.
+- **Ricordo I:** una tazza posata prima di una confessione; dopo il primo rintocco resta l'attesa, non la persona.
+- **Ricordo II:** qualcuno che la ringraziava per aver parlato al suo posto; dopo il secondo rintocco resta il dubbio tra sollievo e resa.
+- **Ricordo III:** una piazza che cambia idea quando una verita scomoda viene pronunciata.
+- **Ricordo fondamentale:** rendere accettabile una confessione convincendosi di aver salvato qualcuno.
+
+## Spotlight
+
+Viola convoca una testimonianza pubblica e decide se usare la propria autorevolezza per mantenere la pace o per rendere visibile la colpa. Il suo intervento impedisce che il consenso venga inventato a posteriori.
+
+## Segreto del master
+
+Il compito di Viola non e trovare la frase giusta di Mara, ma creare lo spazio in cui Mara possa dire la propria senza essere usata come simbolo.
+
+## Frase
+
+> Una storia condivisa non e per forza una storia vera.
