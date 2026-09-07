@@ -4,6 +4,11 @@
 
 ## Ivo, il custode
 
+### Il Custode non è la vittima
+- "Il segno non indica chi deve morire. Mostra ciò che il villaggio ha già dimenticato."
+- "Io conduco il passaggio. Non pronuncio una sentenza."
+- "La Voce ha bisogno di un'offerta; Tomaso ha insegnato al villaggio a chiamarla scelta della campana."
+
 ### Primo incontro
 - "Non sono io che vi ho portati qui. È il lago che vi ha riconosciuti."
 - "Se volete un colpevole, posso offrirvi il mio silenzio. Se volete la verità, dovrete restare quando la campana suonerà."
@@ -59,6 +64,11 @@
 
 ## Tomaso Riva, sindaco di Varda
 
+### Se gli chiedono cosa mostrano gli indizi
+- "La Voce non parla come noi. Restituisce ciò che le è stato dato."
+- Se un PG insiste: "Forse il villaggio ha bisogno di un nome per obbedire. Un'immagine non basta a governare trecento persone."
+- Se viene accusato di manipolare i segni: "Io ho impedito che il panico scegliesse al posto nostro."
+
 ### Argomentare per il sacrificio
 - "Una persona può restare nella memoria di chi l'ha conosciuta. Un villaggio intero non può essere ricordato da nessuno."
 - "Non vi sto chiedendo di essere crudeli. Vi sto chiedendo di contare le persone che perderanno se non fate nulla."
@@ -74,6 +84,10 @@
 ## La Voce Profonda
 
 > La presenza non deve avere una personalità umana completa. Parla per immagini, ripetizioni e voci prese in prestito.
+
+### Il residuo dell'ultimo sacrificio
+
+Quando il sigillo si indebolisce, la Voce restituisce un frammento della memoria dell'ultima vittima: un gesto, un oggetto, una frase o una scena incompleta. Il villaggio ha già dimenticato quella persona e legge il frammento come un indizio sulla prossima vittima. Il frammento non contiene un ordine e non identifica necessariamente nessuno.
 
 
 ## Scena: la decisione pubblica

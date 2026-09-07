@@ -6,6 +6,7 @@
 - Obiettivo immediato: guadagnare tempo fino a quando il terzo rintocco non sarà più evitabile
 - Desiderio profondo: fare in modo che qualcuno ricordi la verità, anche se questo significa perdere il villaggio e rendere inutile il sacrificio di Nera
 - Segreto utile: è Ivo, marito di Alba e padre di La Promessa, Il Debito e Nera; circa vent'anni fa ha creato l'urgenza che spinse Alba ad accettare Nera al posto de Il Debito
+- Verità sul ruolo: il Custode non è automaticamente la vittima; interpreta i residui restituiti dalla Voce, conduce il passaggio e amministra il rito
 - Contraddizione interna: sostiene di aver soltanto condotto il rito, ma sa di aver spinto Nera a prendere il posto del fratello, trattenuto Alba mentre lei tentava di interromperlo e mentito sul possibile ritorno della figlia
 - Rapporto con La Memoria: le ha insegnato a leggere le omissioni nei registri e ha orientato la sua ricerca con indizi veri ma incompleti; la considera la sola persona capace di ricostruire la colpa, ma ha tenuto fuori dalla sua portata la pagina strappata che riguardava la sua famiglia
 - Sostituzione segreta: all'inizio ha riconosciuto in La Memoria alcuni gesti e ostinazioni di Nera. L'affetto è diventato una seconda possibilità: insegnarle ciò che non aveva insegnato alla figlia, proteggerla e decidere per lei quanta verità fosse sopportabile
@@ -25,6 +26,7 @@
 - Frase firma: "Non vi chiederò di essere buoni. Vi chiederò di ricordare chi avete scelto."
 - Cosa non dire subito: che Alba è sua moglie e che il sacrificio passato ha coinvolto i suoi figli
 - Cosa può rivelare sotto pressione: la campana non sceglie da sola e il Custode non designa una vittima con la sola voce; il villaggio interpreta i segni, prepara la persona e conduce una sequenza rituale precisa. Fuori dal rito Ivo può pronunciare qualsiasi nome. Se La Memoria gli mostra la pagina mancante, ammette di averle insegnato la verità mentre decideva quanta verità potesse sopportare. Se gli mostrano il ciondolo, riconosce le tre onde e lascia filtrare un ricordo di Nera che aveva tenuto sepolto.
+- Indizio che può spiegare: la Voce restituisce un frammento dell'ultima vittima già dimenticata; il villaggio lo tratta come una designazione futura, ma il segno non contiene un ordine.
 
 ## Scena con La Memoria
 

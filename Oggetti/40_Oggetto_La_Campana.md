@@ -3,11 +3,11 @@
 ## Identità
 - Tipo: strumento del patto tra il villaggio e la Voce Profonda
 - Aspetto: bronzo nero, coperto di sale, con una crepa che pulsa come un respiro
-- Luogo: campanile della cappella sul fondo del lago, accessibile mentre l'acqua è ritirata
+- Luogo: punta del campanile della cappella sul fondo del lago; emerge quando il livello dell'acqua si abbassa, mentre la base e la cripta restano sommerse
 - Distinzione: la campana non è la Voce Profonda e non è il sigillo; rende il sigillo udibile e ne applica le conseguenze
 
 ## Cosa fa
-La campana suona quando il sigillo si indebolisce. Il rintocco avverte il villaggio che la Voce Profonda sta iniziando a divorare ricordi casuali: prima volti, poi legami, infine la storia comune.
+La campana suona quando il sigillo si indebolisce. Il rintocco avverte il villaggio che la Voce Profonda sta iniziando a divorare ricordi casuali: prima volti, poi legami, infine la storia comune. Il segno che segue non è una profezia: è un residuo del ricordo dell'ultima vittima, restituito dalla Voce in una forma che il villaggio può interpretare male.
 
 Il suono apre una finestra di tempo. Entro il ritorno dell'acqua, il villaggio deve offrire una persona alla Voce. La persona viene privata della propria identità e dei propri ricordi; il villaggio dimentica che sia mai esistita. Quando il lago si riempie, la vittima muore annegata nel campanile e il sigillo si ristabilisce.
 
@@ -25,7 +25,8 @@ Durante uno degli scontri, un resto porta ancora un piccolo ciondolo di bronzo c
 
 ## Uso al tavolo
 - **Introduzione:** la campana suona mentre nessuno la tocca; il suono sembra una voce familiare diversa per ogni PG.
-- **Contatto:** toccarla mostra un frammento della notte di un sacrificio, mai una spiegazione completa.
+- **Contatto:** toccarla mostra un residuo dell'ultimo sacrificio: il villaggio lo interpreta come indicazione, ma non può riconoscere la vittima dimenticata.
+- **Percorso:** la campana è l'accesso visibile alla discesa; i PG devono raggiungere la base del campanile sott'acqua per trovare la cripta.
 - **Incontro:** i resti annegati possono attaccare in uno o due combattimenti brevi, senza trasformare la campana in una boss fight.
 - **Distruzione:** rompere la campana non libera la Voce; elimina il contenitore e accelera il ritorno dell'acqua.
 

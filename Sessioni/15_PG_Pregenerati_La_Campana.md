@@ -46,6 +46,7 @@
 - Dettaglio del passato: ricordi una porta chiusa dall'esterno e una voce adulta che ti diceva di non tornare finché il lago non avesse smesso di ricordare
 - Domanda aperta: sei tornato per ritrovare casa o per sapere perché ti è stato tolto il diritto di averne una?
 - Obiettivo presente: scoprire quale colpa o quale persona il villaggio ha nascosto dietro il tuo esilio
+- Frammento dell'esilio: il lago ti provoca una certezza senza immagini: avevi trovato qualcosa che Tomaso non voleva fosse raccontato. Non ricordi ancora che si trattava dei residui degli ultimi sacrifici, scambiati per nuove designazioni.
 - Spotlight: scegli se chiedere a Varda di riconoscere ciò che ti ha fatto oppure rifiutare per sempre l'appartenenza che ti offre
 - Frase da portare al tavolo: "Tornare non significa essere ancora attesi."
 

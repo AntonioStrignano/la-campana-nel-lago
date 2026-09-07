@@ -6,6 +6,8 @@
 - Legame con i PG: conosce Il Ritorno da prima dell'esilio e lo riconosce come qualcuno che Varda ha già perso una volta; vede nella sua presenza la prova che il villaggio può sopravvivere ai ritorni, ma non alle separazioni definitive
 - Obiettivo immediato: decidere se sostenere la designazione di Mara e assumersi davanti al villaggio la responsabilità di consegnare una persona
 - Segreto utile: ha già dimenticato il volto del proprio compagno, ma ricorda ancora la promessa fatta al villaggio
+- Vincolo della Voce: Tomaso ricorda i sacrificati e i residui da cui nascono gli indizi perché fu lui a rompere il sigillo originario; il villaggio non conserva quei ricordi
+- Colpa politica: ha trasformato i residui mnemonici dell'ultima vittima in ordini della Voce, perché una designazione arbitraria gli permette di governare il panico
 - Reazione se aiutato: convoca il villaggio e presenta il sacrificio come una scelta necessaria, non come un ordine della campana
 - Reazione se ostacolato: accusa i PG di voler sottrarre al villaggio una decisione che lui ha avuto il coraggio di prendere
 
@@ -21,6 +23,7 @@
 - Frase firma: "Una persona può essere ricordata. Un villaggio intero può sparire senza lasciare nemmeno il lutto."
 - Cosa non dire subito: non sa se il rito funzionerà davvero, difende la scelta per paura
 - Cosa può rivelare sotto pressione: il villaggio ha già votato una volta, ma nessuno ricorda l'esito; questa volta vuole essere lui a pronunciare la scelta, anche se nessuno potrà assolverlo
+- Se gli chiedono de Il Ritorno: ammette di averlo esiliato dopo che aveva riconosciuto nei segni i resti dei sacrificati precedenti; sostiene di averlo fatto per impedire una rivolta, ma sa di aver difeso il proprio potere
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: nessuna minaccia individuale; influenza alta sugli abitanti

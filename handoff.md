@@ -130,3 +130,14 @@
 - Definito Tomaso Riva come sindaco di Varda e decisore politico della designazione di Mara. Il party mantiene agency su due livelli: può legittimare o contestare pubblicamente la scelta e può impedirne o consentirne materialmente l'esecuzione.
 - Rifondato Il Ritorno come persona allontanata da Varda il cui motivo d'esilio è stato sfocato dall'indebolimento del sigillo. Il suo obiettivo è scoprire quale colpa o persona sia stata nascosta dietro l'esilio; resta estraneo alla famiglia di Nera.
 - Aggiornati `Sessioni/15_PG_Pregenerati_La_Campana.md`, `NPCs/21_NPC_La_Persona_Designata.md`, `NPCs/22_NPC_La_Voce_Della_Comunita.md`, `NPCs/00_Indice_PNG.md`, `Sessioni/11_Verita_Del_Master_La_Campana.md` e `Sessioni/13_Dialoghi_E_Scene_La_Campana.md`.
+
+## 2026-09-07 - Rifondazione della cappella e dei residui mnemonici
+
+- Stabilito che la cappella è sempre stata sul fondo del lago: il calo del livello fa emergere solo la punta del campanile e la campana; la base e la cripta restano sommerse e si raggiungono scendendo nella torre.
+- Stabilito che la Voce Profonda era già nella cripta sigillata e che Tomaso ruppe il sigillo durante una crisi, nel tentativo di trovare una soluzione per il villaggio.
+- Definito Elian come primo sacrificato dopo la rottura del sigillo: si offrì per richiudere la Voce, ma non è il modello del ruolo di Custode.
+- Definito il funzionamento degli indizi: la Voce restituisce un residuo della memoria dell’ultima vittima, già dimenticata dal villaggio; Tomaso lo presenta come designazione della prossima vittima, anche se la Voce richiede soltanto un’offerta compresa e pronunciata.
+- Definito Tomaso come vincolato alla Voce: ricorda i sacrificati e la falsificazione degli indizi, mentre il villaggio dimentica ogni vittima.
+- Definito Il Ritorno come testimone della falsificazione: prima dell’esilio aveva capito che gli indizi appartenevano ai sacrificati precedenti; l’indebolimento del sigillo gli ha lasciato frammenti e la certezza dell’inganno, ma non la memoria cosciente completa.
+- Aggiornati `Sessioni/11_Verita_Del_Master_La_Campana.md`, `Luoghi/31_Luogo_La_Cappella_Sommersa.md`, `Oggetti/40_Oggetto_La_Campana.md`, `Sessioni/13_Dialoghi_E_Scene_La_Campana.md`, `NPCs/20_NPC_Il_Custode.md`, `NPCs/22_NPC_La_Voce_Della_Comunita.md` e `Sessioni/15_PG_Pregenerati_La_Campana.md`.
+- Prossimo passo: allineare pista, sessione, run sheet e scena operativa della discesa dal campanile alla cripta.
