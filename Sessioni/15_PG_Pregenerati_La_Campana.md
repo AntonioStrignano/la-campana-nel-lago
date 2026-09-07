@@ -22,12 +22,13 @@
 - Frase da portare al tavolo: "Una promessa non vale perché è facile da mantenere."
 
 ## 3. La Voce
-- Ruolo narrativo: mediatore, sacerdote, artista o persona capace di leggere gli altri
-- Legame: Mara, la Persona Designata, ti ha affidato una frase che non sai se sia una confessione o un ricordo impiantato dalla Voce Profonda
-- Ricordo fondamentale: una voce che ti ha chiamato per nome quando ti sentivi perduto
-- Domanda aperta: come distingui un ricordo vero da uno che desideri fosse vero?
-- Spotlight: riconosci la manipolazione della Voce Profonda e mantieni un legame durante l'oblio
-- Frase da portare al tavolo: "Un nome pronunciato da qualcuno è già una forma di casa."
+- Ruolo narrativo: mediatore, sacerdote, artista o persona abituata a dare parole ai conflitti degli altri
+- Legame: Mara, la Persona Designata, ti chiede di testimoniare davanti al villaggio che non ha mai acconsentito a essere sacrificata e che il suo silenzio non vale come consenso
+- Ricordo fondamentale: una volta hai trasformato una confessione difficile in una versione più facile da accettare, convincendoti di aver salvato una persona
+- Domanda aperta: quando rendi una verità più sopportabile, stai proteggendo qualcuno o stai decidendo cosa gli altri hanno il diritto di sapere?
+- Obiettivo presente: impedire che Tomaso trasformi la decisione politica sul sacrificio in una verità incontestabile
+- Spotlight: costruisci davanti al villaggio una versione dei fatti e scegli se usarla per mantenere la pace o per rendere visibile la colpa
+- Frase da portare al tavolo: "Una storia condivisa non è per forza una storia vera."
 
 ## 4. Il Debito
 - Ruolo narrativo: mercenario, viaggiatore, guaritore o persona che deve qualcosa al villaggio
@@ -40,11 +41,12 @@
 
 ## 5. Il Ritorno, opzionale
 - Ruolo narrativo: abitante emigrato, esploratore o persona che torna dopo molti anni
-- Legame: la Voce della Comunità ti ha riconosciuto prima ancora che tu dicessi il tuo nome e insiste che Varda abbia ancora un posto per te. Tu ricordi un luogo d'infanzia e una compagna di giochi che non riesci più a nominare.
+- Legame: Tomaso Riva ti ha riconosciuto prima ancora che tu dicessi il tuo nome e insiste che Varda abbia ancora un posto per te. Tu sei stato allontanato dal villaggio anni fa, ma il motivo della partenza è diventato indistinto proprio mentre il sigillo si indebolisce.
 - Ricordo fondamentale: una casa che non esiste più, ma che sai ancora descrivere
-- Dettaglio del passato: ricordi un ciondolo di bronzo con tre onde incise, stretto nel pugno della compagna di giochi quando vi nascondevate vicino al lago. Non sai perché quel simbolo ti sembri familiare.
-- Domanda aperta: cosa riconosceresti per primo se il tuo paese ti dimenticasse?
-- Spotlight: scegli cosa salvare della comunità quando i ricordi iniziano a separarsi
+- Dettaglio del passato: ricordi una porta chiusa dall'esterno e una voce adulta che ti diceva di non tornare finché il lago non avesse smesso di ricordare
+- Domanda aperta: sei tornato per ritrovare casa o per sapere perché ti è stato tolto il diritto di averne una?
+- Obiettivo presente: scoprire quale colpa o quale persona il villaggio ha nascosto dietro il tuo esilio
+- Spotlight: scegli se chiedere a Varda di riconoscere ciò che ti ha fatto oppure rifiutare per sempre l'appartenenza che ti offre
 - Frase da portare al tavolo: "Tornare non significa essere ancora attesi."
 
 ## Regola comune per i ricordi

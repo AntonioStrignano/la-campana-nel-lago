@@ -72,6 +72,12 @@ Quando il sigillo si indebolisce, la separazione tra ricordo conservato e ricord
 
 I rintocchi non cancellano automaticamente i PG dalle loro schede o dalla memoria del tavolo. Colpiscono la fiction e devono essere descritti con immagini concrete, lasciando ai giocatori spazio per decidere cosa il personaggio perde o tenta di difendere.
 
+## Il ruolo di Tomaso e del party
+
+Tomaso Riva, sindaco di Varda, è il decisore politico: può sostenere la designazione di Mara oppure rifiutare che il villaggio consegni una persona. La sua scelta non ha potere magico e non sostituisce l'agency dei PG.
+
+Il party agisce su due livelli. Può contestare o legittimare pubblicamente la decisione, costruendo la versione dei fatti che il villaggio ascolterà; può inoltre intervenire materialmente per impedire il rito o permettere che venga eseguito. La Voce ha il compito di dare forma pubblica a questa scelta, non di prenderla al posto di Tomaso o del gruppo.
+
 ## Le tre vie
 
 ### Non agire
@@ -97,11 +103,12 @@ La terza via non è una ricompensa per aver trovato tutti gli indizi. È una sce
 ## La sequenza reale della scena finale
 
 1. Il custode rivela che il terzo rintocco è già iniziato.
-2. Mara chiede che il suo nome venga pronunciato, qualunque sia la decisione.
-3. La Voce mostra a ogni PG un ricordo falso in cui il personaggio avrebbe già abbandonato qualcuno.
-4. Il gruppo deve dichiarare ad alta voce cosa intende salvare e quale costo accetta.
-5. La campana reagisce alla dichiarazione, non al tiro.
-6. Il master descrive la conseguenza scelta senza punire il gruppo per aver giocato il dilemma con serietà.
+2. Mara chiede che il suo silenzio non venga trattato come consenso.
+3. Tomaso dichiara la propria posizione politica davanti al villaggio.
+4. La Voce chiede al party quale versione dei fatti intende rendere pubblica.
+5. Il gruppo deve dichiarare ad alta voce cosa intende salvare e quale costo accetta.
+6. La campana reagisce alla dichiarazione, non al tiro.
+7. Il master descrive la conseguenza scelta senza punire il gruppo per aver giocato il dilemma con serietà.
 
 ## Cosa non fare
 
@@ -115,7 +122,7 @@ La terza via non è una ricompensa per aver trovato tutti gli indizi. È una sce
 
 - Il master sa spiegare in due frasi cosa perde il villaggio e cosa perde la persona scelta.
 - Mara ha almeno una scena in cui parla prima della decisione.
-- Ivo e la Voce della Comunità sostengono posizioni comprensibili ma non identiche.
+- Ivo e Tomaso sostengono posizioni comprensibili ma non identiche.
 - La terza via richiede almeno tre elementi già raggiungibili durante l'indagine.
 - Il climax può funzionare anche se i PG hanno trovato solo gli indizi core.
 

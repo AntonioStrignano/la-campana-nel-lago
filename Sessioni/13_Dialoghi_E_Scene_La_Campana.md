@@ -57,11 +57,12 @@
 - "Ricordate Elian. Non il martire. L'uomo. Quello che aveva paura e ha scelto comunque."
 - "Un ricordo offerto non è un ricordo cancellato. È qualcosa che decidete di non possedere più da soli."
 
-## La Voce della Comunità
+## Tomaso Riva, sindaco di Varda
 
 ### Argomentare per il sacrificio
 - "Una persona può restare nella memoria di chi l'ha conosciuta. Un villaggio intero non può essere ricordato da nessuno."
 - "Non vi sto chiedendo di essere crudeli. Vi sto chiedendo di contare le persone che perderanno se non fate nulla."
+- "La scelta politica è mia. Ma davanti al villaggio dovrete decidere se chiamarla necessità o colpa."
 
 ### Se i PG accusano il villaggio
 - "Sì. Abbiamo dimenticato. Prima per dolore, poi per abitudine. Non chiamatela innocenza solo perché la colpa è diventata vecchia."
@@ -75,18 +76,20 @@
 > La presenza non deve avere una personalità umana completa. Parla per immagini, ripetizioni e voci prese in prestito.
 
 
-## Scena: il voto pubblico
+## Scena: la decisione pubblica
 
-Se il gruppo vuole far decidere la comunità, lascia che la Voce della Comunità chieda tre domande:
+Tomaso ha già assunto la responsabilità politica di sostenere o rifiutare il sacrificio. Il party non sostituisce il sindaco: decide se la sua scelta diventa una verità condivisa e se il rito può essere eseguito.
 
-1. "Chi di voi ricorda Elian?"
-2. "Chi di voi accetterebbe di essere al suo posto?"
-3. "Chi di voi pensa che dimenticare sia diverso dal perdonare?"
+La Voce può chiedere al party di formulare pubblicamente tre risposte:
+
+1. "Mara ha acconsentito o il suo silenzio è stato usato al posto della sua volontà?"
+2. "La scelta di Tomaso è una responsabilità del villaggio o un ordine della campana?"
+3. "Quale costo siete disposti a dichiarare davanti a tutti?"
 
 
 ## Scena: il ricordo falso
 
-Dai a ogni giocatore una frase privata o leggila sottovoce:
+Dai a ogni giocatore un ricordo privato o leggilo sottovoce. Non è un indizio da decifrare e non contiene la soluzione: serve a mettere in dubbio chi abbia il diritto di raccontare la storia del PG.
 
 
 

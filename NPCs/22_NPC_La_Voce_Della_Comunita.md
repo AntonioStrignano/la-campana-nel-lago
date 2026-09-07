@@ -1,26 +1,26 @@
-# La Voce della Comunità
+# Tomaso Riva, sindaco di Varda
 
 ## Scheda 30 secondi
-- Ruolo in storia: rappresentante del villaggio, incaricata di difendere il costo collettivo della non azione
+- Ruolo in storia: sindaco di Varda e decisore politico della risposta al ritorno della campana
 - Voce/atteggiamento: lucida, pratica, affettuosa con i bambini e spietata quando parla dei numeri
-- Legame con i PG: conosce Il Ritorno da prima della partenza e lo riconosce come qualcuno che Varda ha già perso una volta; vede in lui la prova che il villaggio può sopravvivere ai ritorni, ma non alle separazioni definitive
-- Obiettivo immediato: convincere i PG che una singola perdita è preferibile alla dissoluzione di tutti
+- Legame con i PG: conosce Il Ritorno da prima dell'esilio e lo riconosce come qualcuno che Varda ha già perso una volta; vede nella sua presenza la prova che il villaggio può sopravvivere ai ritorni, ma non alle separazioni definitive
+- Obiettivo immediato: decidere se sostenere la designazione di Mara e assumersi davanti al villaggio la responsabilità di consegnare una persona
 - Segreto utile: ha già dimenticato il volto del proprio compagno, ma ricorda ancora la promessa fatta al villaggio
-- Reazione se aiutato: organizza gli abitanti per proteggere la persona designata fino alla decisione
-- Reazione se ostacolato: accusa i PG di voler scaricare il prezzo sugli innocenti
+- Reazione se aiutato: convoca il villaggio e presenta il sacrificio come una scelta necessaria, non come un ordine della campana
+- Reazione se ostacolato: accusa i PG di voler sottrarre al villaggio una decisione che lui ha avuto il coraggio di prendere
 
 ## Matrice reattiva dettagliata
 | Azione PG | Risposta NPC | Effetto sulla scena | Escalation |
 |---|---|---|---|
-| Fiducia | presenta il danno collettivo con esempi personali | rende visibile cosa significa non agire | propone un voto pubblico prima del terzo rintocco |
+| Fiducia | presenta il danno collettivo con esempi personali | rende visibile cosa significa non agire | chiede a La Voce di formulare la posizione pubblica del villaggio |
 | Minaccia | chiama gli abitanti in difesa | il villaggio diventa un ostacolo umano, non un combattimento | un PNG perde il nome di un PG |
-| Inganno | mette alla prova la promessa con una domanda concreta | smaschera la falsa terza via | la comunità si divide in due gruppi |
+| Inganno | chiede quale verità il party intenda raccontare agli abitanti | smaschera la falsa terza via | la comunità si divide in due gruppi |
 | Violenza | non reagisce contro i PG, ma ordina l'evacuazione dei bambini | la pressione morale aumenta senza uno scontro obbligatorio | il terzo rintocco parte in anticipo |
 
 ## Uso al tavolo
 - Frase firma: "Una persona può essere ricordata. Un villaggio intero può sparire senza lasciare nemmeno il lutto."
 - Cosa non dire subito: non sa se il rito funzionerà davvero, difende la scelta per paura
-- Cosa può rivelare sotto pressione: il villaggio ha già votato una volta, ma nessuno ricorda l'esito
+- Cosa può rivelare sotto pressione: il villaggio ha già votato una volta, ma nessuno ricorda l'esito; questa volta vuole essere lui a pronunciare la scelta, anche se nessuno potrà assolverlo
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: nessuna minaccia individuale; influenza alta sugli abitanti

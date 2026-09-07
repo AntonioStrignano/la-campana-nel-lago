@@ -3,9 +3,9 @@
 ## Scheda 30 secondi
 - Ruolo in storia: persona legata al sacrificio originario e prima candidata a ricevere il vincolo
 - Voce/atteggiamento: concreta, stanca, ironica quando ha paura; non chiede ai PG di salvarla a ogni costo
-- Legame con i PG: Mara ha affidato a La Voce una frase che potrebbe essere un ricordo autentico o un'eco della Voce Profonda; ha chiesto a La Memoria di verificare i registri senza fidarsi delle versioni ufficiali
+- Legame con i PG: Mara ha chiesto a La Voce di testimoniare davanti al villaggio che il suo silenzio non vale come consenso; ha chiesto a La Memoria di verificare i registri senza fidarsi delle versioni ufficiali
 - Obiettivo immediato: impedire che la comunità decida per lei senza ricordare la verità
-- Segreto utile: il sacrificio originario fu una sua scelta, ma non aveva accettato che il villaggio trasformasse quella scelta in una procedura ereditaria di designazione
+- Segreto utile: ha capito che la designazione è una decisione politica del villaggio, ma non sa ancora quale colpa originaria il suo nome stia coprendo
 - Reazione se aiutato: chiede ai PG di dire davanti a tutti quale costo intendono accettare
 - Reazione se ostacolato: entra nella cappella da sola per riprendere il controllo del rito
 
@@ -20,7 +20,7 @@
 ## Uso al tavolo
 - Frase firma: "Potete salvarmi. Non potete fare finta che questo non sia scegliere."
 - Cosa non dire subito: il sacrificio originario fu volontario solo per il primo custode, non per chi è venuto dopo
-- Cosa può rivelare sotto pressione: il rito si interrompe se qualcuno ricorda ad alta voce una persona che il villaggio ha perduto
+- Cosa può rivelare sotto pressione: non chiede di essere salvata a ogni costo; chiede che nessuno chiami consenso il suo silenzio e che il costo della scelta venga pronunciato davanti a tutti
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: persona comune, alta determinazione, nessuna capacita offensiva necessaria

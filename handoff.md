@@ -123,3 +123,10 @@
 - Eseguito controllino di coerenza tra La Promessa, Il Debito, Alba, Nera e il rapporto Ivo-La Memoria: nessuna contraddizione rilevata sui fatti principali.
 - Segnalato in `Luoghi/31_Luogo_La_Cappella_Sommersa.md` che il rapporto fisico tra cripta e campanile e l'aspetto/funzione del cerchio di sale nero non sono ancora definiti nel dettaglio.
 - Rinviata la definizione di cripta e cerchio di sale a dopo il completamento di tutti i materiali di PG e PNG.
+
+## 2026-09-07 - Fondamenta operative di La Voce e Il Ritorno
+
+- Rifondato La Voce come mediatore pubblico: Mara non gli/le consegna più una frase-indizio; chiede una testimonianza esplicita che il proprio silenzio non vale come consenso al sacrificio.
+- Definito Tomaso Riva come sindaco di Varda e decisore politico della designazione di Mara. Il party mantiene agency su due livelli: può legittimare o contestare pubblicamente la scelta e può impedirne o consentirne materialmente l'esecuzione.
+- Rifondato Il Ritorno come persona allontanata da Varda il cui motivo d'esilio è stato sfocato dall'indebolimento del sigillo. Il suo obiettivo è scoprire quale colpa o persona sia stata nascosta dietro l'esilio; resta estraneo alla famiglia di Nera.
+- Aggiornati `Sessioni/15_PG_Pregenerati_La_Campana.md`, `NPCs/21_NPC_La_Persona_Designata.md`, `NPCs/22_NPC_La_Voce_Della_Comunita.md`, `NPCs/00_Indice_PNG.md`, `Sessioni/11_Verita_Del_Master_La_Campana.md` e `Sessioni/13_Dialoghi_E_Scene_La_Campana.md`.
