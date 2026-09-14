@@ -28,7 +28,7 @@
 
 ## Pressione del tempo e ricordi
 
-Il timer inizia dopo la spiegazione, la definizione dei limiti e l'ingresso effettivo nella cappella. Segna due checkpoint orientativi: 30 e 60 minuti di gioco effettivo. Al checkpoint, non interrompere una scelta, un conflitto o una rivelazione in corso: annuncia invece la pressione dell'acqua e fai risuonare la campana alla prima transizione drammatica utile. Puoi anticipare o posticipare di pochi minuti per seguire il ritmo, ma non applicare piu di due cancellazioni automatiche prima del climax.
+Il timer inizia dopo la spiegazione, la definizione dei limiti e l'ingresso effettivo nella cappella. Segna due checkpoint orientativi: 30 e 60 minuti di gioco effettivo. Al checkpoint, non interrompere una scelta, un conflitto o una rivelazione in corso: annuncia invece la pressione dell'acqua e fai risuonare la campana alla prima transizione drammatica utile. Puoi anticipare o posticipare di pochi minuti per seguire il ritmo, ma non applicare più di due cancellazioni automatiche prima del climax.
 
 - Primo rintocco: ciascun giocatore barra il proprio Ricordo I. La perdita deve essere percepibile, ma non rimuove informazioni necessarie all'indagine.
 - Secondo rintocco: ciascun giocatore barra il proprio Ricordo II. La designazione di Mara e il prosciugamento che rende accessibile la torre rendono visibile l'urgenza.

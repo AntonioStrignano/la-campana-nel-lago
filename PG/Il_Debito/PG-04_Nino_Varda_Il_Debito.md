@@ -2,9 +2,9 @@
 
 > Pubblico: misto. La sezione **Segreto del master** non va consegnata ai giocatori.
 
-## Identita
+## Identità
 
-Nino e un viaggiatore abituato a restituire subito ogni aiuto. E il fratello minore di Elio e porta addosso un debito che non ricorda di aver contratto.
+Nino è un viaggiatore abituato a restituire subito ogni aiuto. È il fratello minore di Elio e porta addosso un debito che non ricorda di aver contratto.
 
 ## Legami
 
@@ -26,7 +26,7 @@ Nino e un viaggiatore abituato a restituire subito ogni aiuto. E il fratello min
 
 ## Spotlight
 
-Nino prende posizione quando la comunita chiede un sacrificio e rende concreto il costo della non azione. La sua scelta finale e vivere senza trasformare la sopravvivenza in una nuova catena.
+Nino prende posizione quando la comunità chiede un sacrificio e rende concreto il costo della non azione. La sua scelta finale è vivere senza trasformare la sopravvivenza in una nuova catena.
 
 ## Segreto del master
 
@@ -34,7 +34,7 @@ Il villaggio aveva designato Nino circa vent'anni fa. Nera prese il suo posto; A
 
 ## Frase
 
-> Non tutto cio che si deve puo essere restituito.
+> Non tutto ciò che si deve può essere restituito.
 
 ## Note correlate
 - [[NPCs/NPC-04_Alba_La_Battelliera]]

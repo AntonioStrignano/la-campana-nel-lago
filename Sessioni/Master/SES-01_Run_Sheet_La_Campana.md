@@ -80,7 +80,7 @@ Usa i testi indicati in `HND-01` come letture pronte. I core clue non richiedono
 | Il Debito | integro | integro | preservato | disponibile solo per Terza Via |
 | Il Ritorno (opzionale) | integro | integro | preservato | disponibile solo per Terza Via |
 
-Procedura live: al checkpoint annuncia la pressione, attendi una transizione drammatica e fai risuonare la campana. Ogni giocatore barra il ricordo indicato e puo descrivere facoltativamente un effetto della perdita. Aggiorna la tabella. Non interrompere una scelta o un conflitto in corso e non cancellare Ricordo III prima del climax.
+Procedura live: al checkpoint annuncia la pressione, attendi una transizione drammatica e fai risuonare la campana. Ogni giocatore barra il ricordo indicato e può descrivere facoltativamente un effetto della perdita. Aggiorna la tabella. Non interrompere una scelta o un conflitto in corso e non cancellare Ricordo III prima del climax.
 
 ## Tracker scene
 | Scena | Obiettivo | Minaccia/Pressione | Esito | Prossima mossa |
@@ -92,7 +92,7 @@ Procedura live: al checkpoint annuncia la pressione, attendi una transizione dra
 | Climax | dichiarare quale perdita accettare | terzo rintocco e scelta pubblica |  |  |
 
 ## Tracker spotlight PG
-| PG | Momento spotlight previsto | Momento spotlight avvenuto | Intensita (1-5) |
+| PG | Momento spotlight previsto | Momento spotlight avvenuto | Intensità (1-5) |
 |---|---|---|---|
 | PG 1 | ricordo inciso nella cappella |  |  |
 | PG 2 | pagina mancante e ricostruzione |  |  |

@@ -2,9 +2,9 @@
 
 > Pubblico: misto. La sezione **Segreto del master** non va consegnata ai giocatori.
 
-## Identita
+## Identità
 
-Marta e un'esiliata tornata a Varda dopo anni. Conosce il paese attraverso abitudini minime, ma il motivo per cui fu allontanata si e sfocato insieme all'indebolimento del sigillo.
+Marta è un'esiliata tornata a Varda dopo anni. Conosce il paese attraverso abitudini minime, ma il motivo per cui fu allontanata si è sfocato insieme all'indebolimento del sigillo.
 
 ## Legami
 
@@ -13,16 +13,16 @@ Marta e un'esiliata tornata a Varda dopo anni. Conosce il paese attraverso abitu
 
 ## Desiderio e paura
 
-- Desiderio: sapere quale colpa o quale persona e stata nascosta dietro il suo esilio.
-- Paura: tornare per scoprire che l'appartenenza offerta e solo un altro strumento di controllo.
+- Desiderio: sapere quale colpa o quale persona è stata nascosta dietro il suo esilio.
+- Paura: tornare per scoprire che l'appartenenza offerta è solo un altro strumento di controllo.
 
 ## Ricordi
 
 - **Contesto:** finestre, strade e saluti che rivelano la geografia sociale del paese.
-- **Ricordo I:** il cigolio di una bicicletta contro un muro del Borgo Vecchio; dopo il primo rintocco resta solo la familiarita.
+- **Ricordo I:** il cigolio di una bicicletta contro un muro del Borgo Vecchio; dopo il primo rintocco resta solo la familiarità.
 - **Ricordo II:** una porta chiusa dall'esterno e l'ordine di non voltarsi; dopo il secondo rintocco resta la porta, non la voce.
 - **Ricordo III:** decidere di tornare pur sapendo che qualcuno avrebbe preferito non rivederla.
-- **Ricordo fondamentale:** descrivere una casa che non esiste piu.
+- **Ricordo fondamentale:** descrivere una casa che non esiste più.
 
 ## Spotlight
 

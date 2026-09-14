@@ -23,8 +23,8 @@
 - Cosa può rivelare sotto pressione: non chiede di essere salvata a ogni costo; chiede che nessuno chiami consenso il suo silenzio e che il costo della scelta venga pronunciato davanti a tutti
 
 ## Appendice meccanica (opzionale)
-- Stat essenziali: persona comune, alta determinazione, nessuna capacita offensiva necessaria
-- Poteri/abilita rilevanti: riconosce le alterazioni dei ricordi prima degli altri
+- Stat essenziali: persona comune, alta determinazione, nessuna capacità offensiva necessaria
+- Poteri/abilità rilevanti: riconosce le alterazioni dei ricordi prima degli altri
 - Soglie danno/resa/fuga: non cede per paura; cede solo se il gruppo le nega agency o le promette una soluzione senza costo
 
 ## Note correlate

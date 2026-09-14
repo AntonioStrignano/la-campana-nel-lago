@@ -47,7 +47,7 @@ Ogni personaggio dovrebbe avere:
 - una ragione per non fidarsi completamente dei propri ricordi;
 - qualcosa che sarebbe disposto a proteggere anche pagando un prezzo.
 
-Il profilo puo includere ricordi personali aggiuntivi, collegati a luoghi, gesti e persone importanti. I primi due possono essere cancellati dai rintocchi: quando accade, usa la procedura di barratura, barra il ricordo e non introdurlo piu come un fatto certo. Puoi invece descrivere il vuoto che lascia. Il terzo ricordo e quello fondamentale restano disponibili fino alla scelta finale.
+Il profilo può includere ricordi personali aggiuntivi, collegati a luoghi, gesti e persone importanti. I primi due possono essere cancellati dai rintocchi: quando accade, usa la procedura di barratura, barra il ricordo e non introdurlo più come un fatto certo. Puoi invece descrivere il vuoto che lascia. Il terzo ricordo e quello fondamentale restano disponibili fino alla scelta finale.
 
 Prima di iniziare puoi indicare un ricordo o un tema che non vuoi rendere cancellabile. Durante la storia puoi sempre usare il segnale concordato per fermare, modificare o saltare una perdita.
 

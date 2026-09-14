@@ -14,11 +14,11 @@
 
 ## Regola comune
 
-Ogni scheda contiene tre ricordi ordinari e un ricordo fondamentale. Il primo e il secondo vengono barrati ai rispettivi rintocchi; il terzo resta disponibile fino al climax. Il ricordo fondamentale e un costo volontario della Terza Via.
+Ogni scheda contiene tre ricordi ordinari e un ricordo fondamentale. Il primo e il secondo vengono barrati ai rispettivi rintocchi; il terzo resta disponibile fino al climax. Il ricordo fondamentale è un costo volontario della Terza Via.
 
 ## Uso
 
-Prima della sessione, ogni giocatore puo sostituire un ricordo, indicare un tema da non rendere cancellabile oppure chiedere di velare o saltare una descrizione. Il master usa la sezione riservata per collegare il PG a un indizio, a un PNG e a una scena del climax.
+Prima della sessione, ogni giocatore può sostituire un ricordo, indicare un tema da non rendere cancellabile oppure chiedere di velare o saltare una descrizione. Il master usa la sezione riservata per collegare il PG a un indizio, a un PNG e a una scena del climax.
 
 ## Note correlate
 - [[NPCs/INDICE_NPC]]

@@ -2,14 +2,14 @@
 
 > Pubblico: misto. La sezione **Segreto del master** non va consegnata ai giocatori.
 
-## Identita
+## Identità
 
-Elio e un protettore abituato a contare le persone in una stanza e a lasciare sempre una via d'uscita. E il fratello maggiore di Nino, Il Debito.
+Elio è un protettore abituato a contare le persone in una stanza e a lasciare sempre una via d'uscita. È il fratello maggiore di Nino, Il Debito.
 
 ## Legami
 
 - **Nino:** fratello minore. Elio gli ha promesso di non lasciarlo solo.
-- **Alba:** madre; il suo modo di chiudere il ciondolo di bronzo e un'immagine rimasta senza contesto.
+- **Alba:** madre; il suo modo di chiudere il ciondolo di bronzo è un'immagine rimasta senza contesto.
 
 ## Desiderio e paura
 
@@ -26,15 +26,15 @@ Elio e un protettore abituato a contare le persone in una stanza e a lasciare se
 
 ## Spotlight
 
-Elio affronta Ivo e mette in discussione il valore di una scelta compiuta in nome degli altri. Nel climax puo pronunciare la promessa originaria e restituirla a chi era stata rivolta.
+Elio affronta Ivo e mette in discussione il valore di una scelta compiuta in nome degli altri. Nel climax può pronunciare la promessa originaria e restituirla a chi era stata rivolta.
 
 ## Segreto del master
 
-La promessa che Elio ricorda apparteneva inizialmente a Nera. Dopo la sua cancellazione, il dovere si e spostato su Nino.
+La promessa che Elio ricorda apparteneva inizialmente a Nera. Dopo la sua cancellazione, il dovere si è spostato su Nino.
 
 ## Frase
 
-> Una promessa non vale perche e facile da mantenere.
+> Una promessa non vale perché è facile da mantenere.
 
 ## Note correlate
 - [[NPCs/NPC-04_Alba_La_Battelliera]]

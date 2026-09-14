@@ -16,9 +16,9 @@
 
 ## Guida verso la cripta
 
-Ivo conosce la piccola barca, l'apertura accanto alla campana e la discesa nella torre. Dopo il secondo rintocco puo offrire di accompagnare i PG: non per scegliere al loro posto, ma perche sa dove il cerchio e ancora raggiungibile e cosa accade dopo una consegna. Durante il tragitto indica i gradini instabili, riconosce i resti e spiega che l'acqua risale soltanto quando la Voce ha ricevuto una persona.
+Ivo conosce la piccola barca, l'apertura accanto alla campana e la discesa nella torre. Dopo il secondo rintocco può offrire di accompagnare i PG: non per scegliere al loro posto, ma perché sa dove il cerchio è ancora raggiungibile e cosa accade dopo una consegna. Durante il tragitto indica i gradini instabili, riconosce i resti e spiega che l'acqua risale soltanto quando la Voce ha ricevuto una persona.
 
-Non e un cancello per il climax. Se rifiuta, mente o viene trattenuto, Alba puo indicare la barca e l'apertura; i PG possono anche seguirlo o raggiungere la torre da soli. Senza Ivo arrivano comunque alla cripta, ma devono interpretare il luogo e il rito senza la sua spiegazione. Se e presente, la discesa gli offre un'occasione per ammettere una parte della verita oppure per tentare di completare il rito tradizionale.
+Non è un cancello per il climax. Se rifiuta, mente o viene trattenuto, Alba può indicare la barca e l'apertura; i PG possono anche seguirlo o raggiungere la torre da soli. Senza Ivo arrivano comunque alla cripta, ma devono interpretare il luogo e il rito senza la sua spiegazione. Se è presente, la discesa gli offre un'occasione per ammettere una parte della verità oppure per tentare di completare il rito tradizionale.
 
 ## Matrice reattiva dettagliata
 | Azione PG | Risposta NPC | Effetto sulla scena | Escalation |

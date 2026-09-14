@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessioni/Master/INDICE_Sessioni_Master.md",
+                "file": "Sessioni/Handout/HND-01_Testualita_La_Campana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INDICE_Sessioni_Master"
+              "title": "HND-01_Testualita_La_Campana"
             }
           }
         ]
@@ -190,6 +190,8 @@
   },
   "active": "67e0a8e996941fb7",
   "lastOpenFiles": [
+    "Sessioni/Master/INDICE_Sessioni_Master.md",
+    "Sessioni/Master/SES-03_Contingenze_La_Campana.md",
     "PG/INDICE_PG_La_Campana.md",
     "La Memoria.md",
     "La Promessa.md",
@@ -198,7 +200,6 @@
     "NPCs/NPC-05_Elian_Varda_Il_Primo_Custode.md",
     "NPCs/NPC-06_Nera.md",
     "Sessioni/Master/SES-04_Regole_Shadowdark.md",
-    "Sessioni/Master/SES-03_Contingenze_La_Campana.md",
     "Sessioni/Master/SES-01_Run_Sheet_La_Campana.md",
     "NPCs/INDICE_NPC.md",
     "Luoghi/LUO-01_Il_Lago_Sommerso.md",
@@ -216,7 +217,6 @@
     "Template/TMP-07_Debrief_Avanzato.md",
     "Template/TMP-06_Run_Sheet_Live.md",
     "Template/TMP-05_Tracker_Indizi_Escalation.md",
-    "Template/TMP-04_Prep_Rapido.md",
     "PG/Il_Ritorno",
     "PG/Il_Debito",
     "PG/La_Voce",

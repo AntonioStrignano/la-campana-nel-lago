@@ -1,5 +1,11 @@
 # Handoff Operativo
 
+## 2026-09-14 - Revisione degli accenti italiani
+
+- Corrette le forme accentate inequivocabili e gli usi del verbo essere individuati nel materiale (`è`, `perché`, `più`, `può`, `verità`, `comunità`, `responsabilità`).
+- Distinte le `e` congiuntive dalle forme del verbo essere, lasciando invariate le congiunzioni.
+- Verifica finale completata: non restano parole accentabili non corrette nelle scansioni eseguite.
+
 ## 2026-08-15
 
 - Creata struttura iniziale del vault one-shot D&D.
@@ -12,7 +18,7 @@
 - Vincoli dichiarati: sessione target ~2h (possibile overrun), almeno 4 giocatori, combattimenti rari ma significativi, enfasi su ruolo e spotlight individuale dei PG.
 - Raccolto questionario di affinamento: cold open, tracker spotlight dedicato, indizi core senza tiro + extra su tiro, fail-forward misto per importanza scena, escalation per numero scene.
 - Preferenze operative: output molto modulare, no tag globali, appendice meccanica separata dal flusso narrativo, reattività NPC dettagliata, formato luoghi ibrido.
-- Template richiesti in priorita: prep rapido, run sheet live, tracker indizi/escalation, tracker spotlight PG, debrief avanzato, contingenze anti-stallo.
+- Template richiesti in priorità: prep rapido, run sheet live, tracker indizi/escalation, tracker spotlight PG, debrief avanzato, contingenze anti-stallo.
 - Metriche successo confermate: spotlight per ogni PG, climax raggiunto, nessuno stallo >10 minuti, almeno una scelta morale ad alto impatto, feedback positivo nel debrief.
 - Rischi da prevenire: scelte PG non previste, frustrazione da dadi, ritmo lento, incomprensione schede PG preparate dal master, combattimenti lunghi o mal bilanciati.
 - Aggiornato `README.md` in versione operativa centrata su ritmo, spotlight, indizi core accessibili e modularità dei file.
@@ -156,17 +162,17 @@
 - Estesi i cinque profili pregenerati con un contesto iniziale, Ricordo I, Ricordo II e Ricordo III; i primi due sono personali e cancellabili, il terzo e preservato per il climax.
 - Formalizzata in `Sessioni/10_Sessione_La_Campana_Sotto_Il_Lago.md` la pressione temporale: il conteggio parte dall'ingresso effettivo nella cappella, con checkpoint flessibili attorno a 30 e 60 minuti di gioco effettivo.
 - Collegati i primi due checkpoint ai rintocchi: ogni giocatore barra il ricordo corrispondente; il terzo rintocco apre il dilemma e non cancella Ricordo III.
-- Confermato che il ricordo fondamentale non e una perdita automatica: resta un costo consensuale e facoltativo della Terza Via.
+- Confermato che il ricordo fondamentale non è una perdita automatica: resta un costo consensuale e facoltativo della Terza Via.
 - Aggiornati `Sessioni/01_Run_Sheet_La_Campana_Sotto_Il_Lago.md` con tracker e procedura live, e `Sessioni/14_Player_Guide_La_Campana.md` con istruzioni di consenso, barratura e ricalibrazione.
 - Verifica svolta: nessun errore rilevato nei file Markdown toccati. Prossimo passo consigliato: dry run da 90 minuti di gioco effettivo per verificare le due perdite e la riserva di 25-30 minuti per il climax.
 
-## 2026-09-07 - Accesso alla cripta e causalita dell'acqua
+## 2026-09-07 - Accesso alla cripta e causalità dell'acqua
 
 - Corretto il ciclo fisico: il lago si ritira durante i tre rintocchi, esponendo la campana e l'apertura della torre; i PG raggiungono il luogo in barca e scendono alla cripta prima della scelta.
 - Stabilito che l'acqua risale soltanto dopo una consegna nel cerchio di sale nero della procedura tradizionale: nutre la Voce, annega la vittima e ricopre la cappella.
 - Se non viene compiuta un'offerta entro il terzo rintocco, il lago continua a ritirarsi e la Voce consuma memoria, legami e storia comune del villaggio.
-- Reso Ivo una guida possibile ma non necessaria: puo condurre la barca e spiegare rito e torre, ma Alba o l'esplorazione dei PG permettono comunque di raggiungere il climax.
-- Allineati verita del master, luogo, campana, sessione, run sheet, pista e contingenze. Da definire in seguito: esito fisico del lago dopo la Terza Via, natura della Voce e comportamento preciso dei resti.
+- Reso Ivo una guida possibile ma non necessaria: può condurre la barca e spiegare rito e torre, ma Alba o l'esplorazione dei PG permettono comunque di raggiungere il climax.
+- Allineati verità del master, luogo, campana, sessione, run sheet, pista e contingenze. Da definire in seguito: esito fisico del lago dopo la Terza Via, natura della Voce e comportamento preciso dei resti.
 
 ## 2026-09-07 - Avvio riordino strutturale
 
