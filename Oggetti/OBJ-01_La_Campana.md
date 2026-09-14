@@ -38,3 +38,5 @@ Durante uno degli scontri, un resto porta ancora un piccolo ciondolo di bronzo c
 ## Note correlate
 - [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]
+- [[NPCs/NPC-06_Nera]]
+- [[NPCs/NPC-07_La_Voce_Profonda]]

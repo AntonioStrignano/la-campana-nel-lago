@@ -41,3 +41,4 @@ Il villaggio aveva designato Nino circa vent'anni fa. Nera prese il suo posto; A
 - [[PG/La_Promessa/PG-02_Elio_Varda_La_Promessa]]
 - [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
 - [[PG/INDICE_PG_La_Campana]]
+- [[NPCs/NPC-06_Nera]]

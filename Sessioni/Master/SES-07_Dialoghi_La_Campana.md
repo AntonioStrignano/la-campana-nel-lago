@@ -119,3 +119,9 @@ Dai a ogni giocatore un ricordo privato o leggilo sottovoce. Non è un indizio d
 I resti dei sacrificati precedenti possono muoversi quando i PG disturbano il campanile o provano a forzare il sigillo. Usa uno o due combattimenti brevi: devono mostrare il costo del rito e creare pressione, non diventare una boss fight.
 
 Durante uno scontro, uno zombie o uno scheletro porta ancora un piccolo ciondolo di bronzo con tre onde incise. Dopo averlo recuperato, i PG possono riconoscere il simbolo come un oggetto familiare. La Promessa e Il Debito avvertono un ricordo incompleto; Il Ritorno può riconoscere il gesto della compagna d'infanzia. Se lo mostrano ad Alba, lei lo stringe e dice soltanto: "Mancava sempre qualcuno." Se lo mostrano a Ivo, riconosce il simbolo e lascia filtrare un ricordo breve: una bambina che stringe il bronzo mentre l'acqua sale. Nessuna di queste reazioni restituisce da sola tutta la storia di Nera.
+
+## Note correlate
+- [[Sessioni/Master/SES-06_Verita_La_Campana]]
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[NPCs/NPC-06_Nera]]
+- [[NPCs/NPC-07_La_Voce_Profonda]]

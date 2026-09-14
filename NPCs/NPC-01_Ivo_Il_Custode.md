@@ -80,3 +80,5 @@ Se i PG collegano la fuga del Debito, il travestimento di Nera, la cicatrice di 
 ## Note correlate
 - [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]
+- [[NPCs/NPC-06_Nera]]
+- [[NPCs/NPC-04_Alba_La_Battelliera]]

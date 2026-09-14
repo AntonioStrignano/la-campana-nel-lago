@@ -4,16 +4,16 @@
 
 | PNG | PG collegato/i | Tipo di legame | Funzione emotiva |
 |---|---|---|---|
-| [[NPCs/NPC-01_Ivo_Il_Custode|Ivo, il Custode]] | **La Memoria** | Mentore e figura quasi paterna | La Memoria scopre che l'uomo che le ha insegnato a leggere le omissioni ha controllato ciò che poteva conoscere. |
-| [[NPCs/NPC-02_Mara_La_Persona_Designata|Mara Varda, la Persona Designata]] | **La Voce** | Testimonianza pubblica e consenso | La Voce deve impedire che il silenzio di Mara venga trasformato in consenso al sacrificio. |
-| [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita|Tomaso Riva, sindaco di Varda]] | **Il Ritorno** e tutti i PG | Appartenenza e decisione politica | Tomaso decide se sostenere il sacrificio; il party può legittimarlo o contestarlo pubblicamente e materialmente. |
-| [[NPCs/NPC-04_Alba_La_Battelliera|Alba, la Battelliera]] | **La Promessa** e **Il Debito** | Madre condivisa e complice del sacrificio di Nera | La Promessa protegge il fratello senza ricordare l'origine della promessa; Il Debito scopre di essere sopravvissuto al posto della sorella. |
+| [[NPCs/NPC-01_Ivo_Il_Custode\|Ivo, il Custode]] | **La Memoria** | Mentore e figura quasi paterna | La Memoria scopre che l'uomo che le ha insegnato a leggere le omissioni ha controllato ciò che poteva conoscere. |
+| [[NPCs/NPC-02_Mara_La_Persona_Designata\|Mara Varda, la Persona Designata]] | **La Voce** | Testimonianza pubblica e consenso | La Voce deve impedire che il silenzio di Mara venga trasformato in consenso al sacrificio. |
+| [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita\|Tomaso Riva, sindaco di Varda]] | **Il Ritorno** e tutti i PG | Appartenenza e decisione politica | Tomaso decide se sostenere il sacrificio; il party può legittimarlo o contestarlo pubblicamente e materialmente. |
+| [[NPCs/NPC-04_Alba_La_Battelliera\|Alba, la Battelliera]] | **La Promessa** e **Il Debito** | Madre condivisa e complice del sacrificio di Nera | La Promessa protegge il fratello senza ricordare l'origine della promessa; Il Debito scopre di essere sopravvissuto al posto della sorella. |
 
 ### Legame segreto comune
 
 | Figura | PG coinvolto/i | Natura del legame |
 |---|---|---|
-| **Nera** | **La Promessa** e **Il Debito** | Sorella cancellata dalla memoria, presa dalla campana al posto de Il Debito. Non è un PNG attivo: è il vuoto che la famiglia deve finalmente ricordare. |
+| [[NPCs/NPC-06_Nera\|Nera]] | **La Promessa** e **Il Debito** | Sorella cancellata dalla memoria, presa dalla campana al posto de Il Debito. Non è un PNG attivo in scena: è il vuoto che la famiglia deve finalmente ricordare, con scheda propria per uso al tavolo. |
 
 ## PNG attuali
 
@@ -24,17 +24,16 @@
 
 ## Figure storiche o cancellate
 
-- **Elian Varda** — primo Custode; la sua scelta originaria è stata rimossa dalla storia ufficiale
-- **Nera** — figlia di Ivo e Alba, sacrificata al posto de Il Debito e cancellata dalla memoria
+- [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode|Elian Varda, il Primo Custode]] — primo sacrificato; la sua scelta originaria è stata rimossa dalla storia ufficiale; antenato di Mara
+- [[NPCs/NPC-06_Nera|Nera]] — figlia di Ivo e Alba, sacrificata al posto de Il Debito e cancellata dalla memoria
 
 ## Entità
 
-- **La Voce Profonda** — presenza sotto la cappella; non è un PNG umano e non ha ancora una scheda autonoma
+- [[NPCs/NPC-07_La_Voce_Profonda|La Voce Profonda]] — presenza sotto la cappella; non è un PNG umano
 
 ## Nodi da definire
 
 - Conseguenza concreta dell'esilio di Il Ritorno e identità della persona o colpa cancellata
-- Eventuale scheda autonoma per La Voce Profonda
 - Eventuali nomi e funzioni degli abitanti secondari
 
 ## Note correlate

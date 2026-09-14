@@ -31,3 +31,4 @@
 - [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]
+- [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]]

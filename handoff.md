@@ -208,3 +208,19 @@
 - Creati sette nuovi indici di cartella sul modello di `INDICE_NPC.md`: `Luoghi/INDICE_Luoghi.md`, `Oggetti/INDICE_Oggetti.md`, `Piste/INDICE_Piste.md`, `Template/INDICE_Template.md`, `Sessioni/Master/INDICE_Sessioni_Master.md`, `Sessioni/Giocatori/INDICE_Sessioni_Giocatori.md`, `Sessioni/Handout/INDICE_Sessioni_Handout.md`.
 - Aggiornato `README.md`: sezione "Struttura cartelle" con rimando a ogni indice, nuova sezione "Convenzione collegamenti" che dichiara il wikilink come standard unico.
 - **TODO (rimandato a chat dedicata):** canovaccio scena per scena — espandere `Sessioni/Master/SES-01_Run_Sheet_La_Campana.md` con narrazione Apertura → Scena 1 → 2 → 3 → Climax, testi da leggere da `HND-01`, indizi da `PST-01` e battute da `SES-07`, mantenendo invariati i tracker live esistenti.
+
+## 2026-09-14 - Fix wikilink nelle tabelle e schede dedicate per Elian, Nera e Voce Profonda
+
+- Corretto un bug di formattazione: l'alias del wikilink `[[percorso|testo]]` confliggeva con il separatore `|` delle tabelle Markdown e rompeva il link. Rimosso l'alias nelle celle di tabella di `NPCs/INDICE_NPC.md` e `PG/INDICE_PG_La_Campana.md`, ora `[[percorso]]` semplice.
+- Create tre nuove schede NPC riservate, consolidando materiale già esistente ma finora solo citato: `NPCs/NPC-05_Elian_Varda_Il_Primo_Custode.md`, `NPCs/NPC-06_Nera.md`, `NPCs/NPC-07_La_Voce_Profonda.md`.
+- Aggiornato `NPCs/INDICE_NPC.md`: le voci di Elian, Nera e Voce Profonda ora puntano alle schede autonome; rimosso il nodo "eventuale scheda per la Voce Profonda" (risolto).
+- Aggiunti i wikilink di rimando verso le tre nuove schede in `NPC-01_Ivo_Il_Custode.md`, `NPC-02_Mara_La_Persona_Designata.md`, `NPC-04_Alba_La_Battelliera.md`, `PG-02_Elio_Varda_La_Promessa.md`, `PG-04_Nino_Varda_Il_Debito.md`, `Oggetti/OBJ-01_La_Campana.md`, `Sessioni/Master/SES-06_Verita_La_Campana.md` e `Sessioni/Master/SES-07_Dialoghi_La_Campana.md` (a cui è stata aggiunta anche la prima sezione "Note correlate").
+
+## 2026-09-14 - Implementazione canovaccio operativo
+
+- Espanso `Sessioni/Master/SES-01_Run_Sheet_La_Campana.md` con il canovaccio completo: Apertura, Scena 1 nella cappella, Scena 2 nel villaggio, Scena 3 tra torre e cripta e Climax.
+- Collegati nel flusso operativo i testi da leggere di `Sessioni/Handout/HND-01_Testualita_La_Campana.md`, i core clue e i fallback di `Piste/PST-01_La_Campana_Sotto_Il_Lago.md` e le battute modulari di `Sessioni/Master/SES-07_Dialoghi_La_Campana.md`.
+- Riallineato il tracker scene alle cinque fasi senza rimuovere i campi live di esito e prossima mossa.
+- Aggiunto un checklist non bloccante per la Terza Via e chiarito che il ciondolo anticipa solo familiarità, mentre il ricordo completo di Nera arriva con la rottura del patto.
+- Mantenuti invariati i tracker ricordi, i checkpoint, l'agency di Mara, il ruolo non obbligatorio di Ivo e la regola secondo cui il terzo rintocco non cancella automaticamente Ricordo III.
+- Prossimo passo: verifica testuale dei link/titoli e lettura lineare del run sheet simulando deviazioni verso registro, Custode e cappella; controllare separatamente l'anomalia editoriale nel finale dell'offerta di `HND-01`.
