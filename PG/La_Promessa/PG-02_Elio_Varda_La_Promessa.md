@@ -35,3 +35,9 @@ La promessa che Elio ricorda apparteneva inizialmente a Nera. Dopo la sua cancel
 ## Frase
 
 > Una promessa non vale perche e facile da mantenere.
+
+## Note correlate
+- [[NPCs/NPC-04_Alba_La_Battelliera]]
+- [[PG/Il_Debito/PG-04_Nino_Varda_Il_Debito]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[PG/INDICE_PG_La_Campana]]

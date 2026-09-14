@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c50b251a3d473c3",
+        "id": "95a716aaf512b40c",
         "type": "tabs",
         "children": [
           {
-            "id": "f378efe08ad0f03c",
+            "id": "30145293de0e6bd2",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Mappa/varda.svg"
-              },
-              "icon": "lucide-image",
-              "title": "varda"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -186,8 +184,9 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "f378efe08ad0f03c",
+  "active": "30145293de0e6bd2",
   "lastOpenFiles": [
+    "Mappa/varda.svg",
     "Piste/PST-01_La_Campana_Sotto_Il_Lago.md",
     "Oggetti/OBJ-01_La_Campana.md",
     "Luoghi/LUO-03_Quartieri_Di_Varda.md",
@@ -219,12 +218,10 @@
     "PG/La_Memoria",
     "Sessioni/Handout/HND-02_Registro_Della_Notte_Originaria.md",
     "PG",
-    "Sessioni/Giocatori/PG-00_Guida_La_Campana.md",
     "Sessioni/Post-sessione",
     "Sessioni/Handout",
     "Sessioni/Giocatori",
     "Sessioni/Master",
-    "Mappa/varda.png",
-    "Mappa/varda.svg"
+    "Mappa/varda.png"
   ]
 }

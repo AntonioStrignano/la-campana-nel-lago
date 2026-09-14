@@ -35,3 +35,8 @@ Il compito di Viola non e trovare la frase giusta di Mara, ma creare lo spazio i
 ## Frase
 
 > Una storia condivisa non e per forza una storia vera.
+
+## Note correlate
+- [[NPCs/NPC-02_Mara_La_Persona_Designata]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[PG/INDICE_PG_La_Campana]]

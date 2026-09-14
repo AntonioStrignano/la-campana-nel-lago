@@ -147,7 +147,11 @@
 > Quando completate il rito e consegnate la persona scelta nel cerchio, la campana si apre nella crepa.
 >
 > Non c'è sangue. C'è luce, e dentro la luce migliaia di ricordi che cercano un posto dove restare. La persona perde il proprio nome davanti a voi. Quando l'acqua torna, il campanile si riempie e la sua voce scompare sotto la superficie.
->
+## Note correlate
+- [[Sessioni/Master/SES-01_Run_Sheet_La_Campana]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[NPCs/NPC-02_Mara_La_Persona_Designata]]>
 > In superficie, il villaggio ricorda tutto.
 >
 > Non ricorda più chi avete consegnato. Il Custode sì.

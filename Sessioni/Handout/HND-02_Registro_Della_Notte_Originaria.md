@@ -31,3 +31,8 @@ Un custode non è una condanna.
 Un custode è una memoria tenuta da una sola persona quando tutti gli altri hanno scelto di lasciarla cadere.
 
 Se il nome di Elian verrà pronunciato da più di una voce, la rimozione non potrà più nutrire il patto. La campana dovrà restituire ciò che conserva o prendere ciò che ancora non è stato condiviso.
+
+## Note correlate
+- [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita]]
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]

@@ -138,7 +138,7 @@ La terza via non è una ricompensa per aver trovato tutti gli indizi. È una sce
 
 ## Note correlate
 
-- [[SES-05_Prep_La_Campana]]
-- [[../Handout/HND-01_Testualita_La_Campana]]
-- [[SES-07_Dialoghi_La_Campana]]
-- [[../Giocatori/PG-00_Guida_La_Campana]]
+- [[Sessioni/Master/SES-05_Prep_La_Campana]]
+- [[Sessioni/Handout/HND-01_Testualita_La_Campana]]
+- [[Sessioni/Master/SES-07_Dialoghi_La_Campana]]
+- [[Sessioni/Giocatori/PG-00_Guida_La_Campana]]

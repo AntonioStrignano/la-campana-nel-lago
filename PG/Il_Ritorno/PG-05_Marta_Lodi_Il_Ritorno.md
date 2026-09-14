@@ -35,3 +35,8 @@ Prima dell'esilio Marta aveva capito che Tomaso falsificava la lettura dei resid
 ## Frase
 
 > Tornare non significa essere ancora attesi.
+
+## Note correlate
+- [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[PG/INDICE_PG_La_Campana]]

@@ -73,3 +73,10 @@ Rispondete ad almeno tre domande, anche con una sola frase:
 ## Nota per chi gioca
 
 Non serve proteggere il personaggio dalla storia. Serve sapere che la decisione finale appartiene al tavolo e che nessuna conseguenza verrà usata per negare ciò che avete scelto.
+
+## Note correlate
+- [[PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria]]
+- [[PG/La_Promessa/PG-02_Elio_Varda_La_Promessa]]
+- [[PG/La_Voce/PG-03_Viola_Serra_La_Voce]]
+- [[PG/Il_Debito/PG-04_Nino_Varda_Il_Debito]]
+- [[PG/Il_Ritorno/PG-05_Marta_Lodi_Il_Ritorno]]

@@ -35,3 +35,9 @@ Il villaggio aveva designato Nino circa vent'anni fa. Nera prese il suo posto; A
 ## Frase
 
 > Non tutto cio che si deve puo essere restituito.
+
+## Note correlate
+- [[NPCs/NPC-04_Alba_La_Battelliera]]
+- [[PG/La_Promessa/PG-02_Elio_Varda_La_Promessa]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[PG/INDICE_PG_La_Campana]]

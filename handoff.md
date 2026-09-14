@@ -200,3 +200,11 @@
 - Audit finale completato: zero riferimenti ai vecchi basename navigazionali e zero wikilink rotti fuori dai riferimenti storici.
 - La struttura attiva ora e: cataloghi semantici, Sessioni divisa per pubblico/funzione e cinque cartelle PG autonome.
 - Prossimo blocco narrativo: diario di Tomaso, schede autonome per ciondolo/frammento/registro/cera/resti e abitanti secondari con legami espliciti.
+
+## 2026-09-14 - Bonifica wikilink e indici per cartella
+
+- Standardizzato il collegamento su wikilink Obsidian `[[Cartella/NomeFile]]` ovunque: convertiti i link Markdown residui in `NPCs/INDICE_NPC.md` e `PG/INDICE_PG_La_Campana.md`, corretti i wikilink con percorso incompleto in `Sessioni/Master/SES-04_Regole_Shadowdark.md` e `Sessioni/Master/SES-06_Verita_La_Campana.md`.
+- Aggiunta la sezione `## Note correlate` dove mancava: le cinque schede PG, `Sessioni/Giocatori/PG-00_Guida_La_Campana.md`, `Sessioni/Handout/HND-01_Testualita_La_Campana.md` e `HND-02_Registro_Della_Notte_Originaria.md`.
+- Creati sette nuovi indici di cartella sul modello di `INDICE_NPC.md`: `Luoghi/INDICE_Luoghi.md`, `Oggetti/INDICE_Oggetti.md`, `Piste/INDICE_Piste.md`, `Template/INDICE_Template.md`, `Sessioni/Master/INDICE_Sessioni_Master.md`, `Sessioni/Giocatori/INDICE_Sessioni_Giocatori.md`, `Sessioni/Handout/INDICE_Sessioni_Handout.md`.
+- Aggiornato `README.md`: sezione "Struttura cartelle" con rimando a ogni indice, nuova sezione "Convenzione collegamenti" che dichiara il wikilink come standard unico.
+- **TODO (rimandato a chat dedicata):** canovaccio scena per scena — espandere `Sessioni/Master/SES-01_Run_Sheet_La_Campana.md` con narrazione Apertura → Scena 1 → 2 → 3 → Climax, testi da leggere da `HND-01`, indizi da `PST-01` e battute da `SES-07`, mantenendo invariati i tracker live esistenti.

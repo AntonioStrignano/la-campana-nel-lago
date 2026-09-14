@@ -35,3 +35,8 @@ Ivo ha riconosciuto in Ada gesti di Nera e l'ha trasformata inconsapevolmente ne
 ## Frase
 
 > Se e stato scritto, qualcuno voleva che venisse ricordato.
+
+## Note correlate
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[PG/INDICE_PG_La_Campana]]

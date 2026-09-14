@@ -1,6 +1,6 @@
 # Shadowdark - Foglio rapido delle regole
 
-Riferimento da tenere davanti durante [[SES-01_Run_Sheet_La_Campana]].
+Riferimento da tenere davanti durante [[Sessioni/Master/SES-01_Run_Sheet_La_Campana]].
 Le pagine indicate sono quelle stampate nel manuale, non il numero della pagina PDF.
 
 ## Risoluzione rapida
@@ -120,6 +120,6 @@ Azioni tipiche: attaccare, lanciare un incantesimo, correre, disimpegnarsi, aiut
 
 ## Note correlate
 
-- [[SES-01_Run_Sheet_La_Campana]]
-- [[SES-03_Contingenze_La_Campana]]
-- [[../Giocatori/PG-00_Guida_La_Campana]]
+- [[Sessioni/Master/SES-01_Run_Sheet_La_Campana]]
+- [[Sessioni/Master/SES-03_Contingenze_La_Campana]]
+- [[Sessioni/Giocatori/PG-00_Guida_La_Campana]]
