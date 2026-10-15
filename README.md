@@ -22,7 +22,10 @@ Vault operativo progettato per one-shot brevi ad alta resa: investigazione + azi
 - `Luoghi/`: descrizione evocativa, legami, indizi e blocco operativo scena. Vedi [[Luoghi/INDICE_Luoghi]].
 - `Oggetti/`: elementi fisici, handout e loro impatto in fiction. Vedi [[Oggetti/INDICE_Oggetti]].
 - `Piste/`: documenti trovabili, testimonianze, indizi e convergenza al climax. Vedi [[Piste/INDICE_Piste]].
-- `Mappa/`: coordinate e rappresentazioni spaziali.
+- `Mappa/`: coordinate e rappresentazioni spaziali (`varda.json`).
+- `Archivio_Grezzo/`: documenti sostituiti dal nuovo andamento, conservati in attesa di riscrittura.
+
+Il canone dello scenario è [[Sessioni/Master/SES-00_Andamento]]: se un altro documento lo contraddice, vale quello.
 
 ## Convenzione nomi file
 

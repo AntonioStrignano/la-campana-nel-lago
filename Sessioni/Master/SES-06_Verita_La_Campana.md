@@ -1,5 +1,6 @@
 # Verità del Master - La Campana sotto il Lago
 
+> Meccaniche e sottotrame valide; ordine degli eventi, finali, Voce come avatar, Tomaso–Elian e Marta–X sono in [[Sessioni/Master/SES-00_Andamento]], che prevale.
 > Questo file contiene spoiler completi. Non condividerlo con i giocatori.
 
 ## La verità in una frase
@@ -138,10 +139,7 @@ La terza via non è una ricompensa per aver trovato tutti gli indizi. È una sce
 
 ## Note correlate
 
-- [[Sessioni/Master/SES-05_Prep_La_Campana]]
-- [[Sessioni/Handout/HND-01_Testualita_La_Campana]]
-- [[Sessioni/Master/SES-07_Dialoghi_La_Campana]]
-- [[Sessioni/Giocatori/PG-00_Guida_La_Campana]]
+- [[Sessioni/Master/SES-00_Andamento]]
 - [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]]
 - [[NPCs/NPC-06_Nera]]
 - [[NPCs/NPC-07_La_Voce_Profonda]]

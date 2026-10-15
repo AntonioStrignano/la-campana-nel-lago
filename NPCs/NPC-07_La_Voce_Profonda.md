@@ -24,7 +24,7 @@ La cripta sotto la cappella la conteneva già, chiusa da un sigillo più antico 
 ## Uso al tavolo
 - Non deve avere una personalità umana completa: parla per immagini, ripetizioni e voci prese in prestito da persone che i PG hanno perduto.
 - Primo contatto: un rintocco che arriva senza che nessuno tocchi la campana suona come una voce familiare diversa per ciascun PG.
-- Nella scena della decisione pubblica può chiedere al gruppo di formulare pubblicamente tre risposte (consenso di Mara, responsabilità di Tomaso, costo dichiarato) — vedi [[Sessioni/Master/SES-07_Dialoghi_La_Campana]].
+- Nella scena della decisione pubblica può chiedere al gruppo di formulare pubblicamente tre risposte (consenso di Mara, responsabilità di Tomaso, costo dichiarato) — vedi [[Sessioni/Master/SES-00_Andamento]].
 - Quando la scena si inceppa: se nessuno parla, ripete l'ultima parola pronunciata da un PG; se il gruppo litiga, lascia che la tensione emerga senza intervenire; se i PG attaccano, interrompe il conflitto trasferendo il dolore a un ricordo condiviso.
 - Non le si deve mai far pronunciare un nome come ordine: la designazione resta sempre una procedura umana del villaggio, mai una sua scelta.
 

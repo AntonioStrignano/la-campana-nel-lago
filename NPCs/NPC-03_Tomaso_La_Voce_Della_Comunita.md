@@ -5,7 +5,7 @@
 - Voce/atteggiamento: lucida, pratica, affettuosa con i bambini e spietata quando parla dei numeri
 - Legame con i PG: conosce Il Ritorno da prima dell'esilio e lo riconosce come qualcuno che Varda ha già perso una volta; vede nella sua presenza la prova che il villaggio può sopravvivere ai ritorni, ma non alle separazioni definitive
 - Obiettivo immediato: decidere se sostenere la designazione di Mara e assumersi davanti al villaggio la responsabilità di consegnare una persona
-- Segreto utile: ha già dimenticato il volto del proprio compagno, ma ricorda ancora la promessa fatta al villaggio
+- Segreto utile: Elian era il suo compagno; ricorda il nome di Elian ma non il suo volto. Mara è l'ultima parente di Elian e Tomaso manipola la designazione su di lei
 - Vincolo della Voce: Tomaso ricorda i sacrificati e i residui da cui nascono gli indizi perché fu lui a rompere il sigillo originario; il villaggio non conserva quei ricordi
 - Colpa politica: ha trasformato i residui mnemonici dell'ultima vittima in ordini della Voce, perché una designazione arbitraria gli permette di governare il panico
 - Reazione se aiutato: convoca il villaggio e presenta il sacrificio come una scelta necessaria, non come un ordine della campana
@@ -31,5 +31,8 @@
 - Soglie danno/resa/fuga: cambia posizione quando i PG mostrano un costo concreto per la terza via
 
 ## Note correlate
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
+- [[PG/Il_Ritorno/PG-05_Marta_Lodi_Il_Ritorno]]
+- [[PG/La_Voce/PG-03_Viola_Serra_La_Voce]]
+- [[PG/Il_Debito/PG-04_Nino_Varda_Il_Debito]]
 - [[NPCs/NPC-02_Mara_La_Persona_Designata]]

@@ -39,6 +39,8 @@ La promessa che Elio ricorda apparteneva inizialmente a Nera. Dopo la sua cancel
 ## Note correlate
 - [[NPCs/NPC-04_Alba_La_Battelliera]]
 - [[PG/Il_Debito/PG-04_Nino_Varda_Il_Debito]]
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]]
 - [[PG/INDICE_PG_La_Campana]]
 - [[NPCs/NPC-06_Nera]]

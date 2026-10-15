@@ -4,12 +4,11 @@
 
 ## Ordine di lettura consigliato
 
-1. [[Sessioni/Master/SES-05_Prep_La_Campana]] — dati base, hook, timeline a scene, climax e dilemma
-2. [[Sessioni/Master/SES-06_Verita_La_Campana]] — verità completa dello scenario e dei PNG
-3. [[Sessioni/Master/SES-01_Run_Sheet_La_Campana]] — foglio da tavolo live: tracker ricordi, scene, spotlight, indizi
-4. [[Sessioni/Master/SES-07_Dialoghi_La_Campana]] — battute modulari per PNG e scene chiave
-5. [[Sessioni/Master/SES-03_Contingenze_La_Campana]] — contromisure per stallo, ritmo e deviazioni
-6. [[Sessioni/Master/SES-04_Regole_Shadowdark]] — foglio rapido delle regole da tenere davanti durante il gioco
+1. [[Sessioni/Master/SES-00_Andamento]] — canone: incipit, fisica della torre, step, rami, tabellone PNG, abitanti casuali
+2. [[Sessioni/Master/SES-06_Verita_La_Campana]] — verità completa dello scenario e dei PNG (da riallineare ad Andamento)
+3. [[Sessioni/Master/SES-04_Regole_Shadowdark]] — foglio rapido delle regole da tenere davanti durante il gioco
+
+Run sheet, prep, dialoghi e contingenze sono in `Archivio_Grezzo/` in attesa di riscrittura sull'andamento.
 
 ## Note correlate
 - [[Sessioni/Giocatori/INDICE_Sessioni_Giocatori]]

@@ -39,6 +39,8 @@ Il villaggio aveva designato Nino circa vent'anni fa. Nera prese il suo posto; A
 ## Note correlate
 - [[NPCs/NPC-04_Alba_La_Battelliera]]
 - [[PG/La_Promessa/PG-02_Elio_Varda_La_Promessa]]
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita]]
 - [[PG/INDICE_PG_La_Campana]]
 - [[NPCs/NPC-06_Nera]]

@@ -28,7 +28,9 @@
 - Soglie danno/resa/fuga: non cede per paura; cede solo se il gruppo le nega agency o le promette una soluzione senza costo
 
 ## Note correlate
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
+- [[PG/La_Voce/PG-03_Viola_Serra_La_Voce]]
+- [[PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria]]
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]
 - [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]]

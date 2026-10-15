@@ -80,3 +80,6 @@ Se Ivo nega, Alba non lo perdona automaticamente. Se i PG lo incalzano fino a fa
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
 - [[Sessioni/Master/SES-06_Verita_La_Campana]]
 - [[PG/INDICE_PG_La_Campana]]
+- [[PG/La_Promessa/PG-02_Elio_Varda_La_Promessa]]
+- [[PG/Il_Debito/PG-04_Nino_Varda_Il_Debito]]
+- [[NPCs/NPC-06_Nera]]

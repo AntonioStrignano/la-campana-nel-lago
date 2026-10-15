@@ -38,5 +38,8 @@ Ivo ha riconosciuto in Ada gesti di Nera e l'ha trasformata inconsapevolmente ne
 
 ## Note correlate
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
+- [[NPCs/NPC-02_Mara_La_Persona_Designata]]
+- [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]]
+- [[NPCs/NPC-06_Nera]]
 - [[PG/INDICE_PG_La_Campana]]

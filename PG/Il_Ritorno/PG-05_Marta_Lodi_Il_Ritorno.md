@@ -30,7 +30,7 @@ Marta riconosce che gli indizi emersi dalla cappella appartengono ai sacrificati
 
 ## Segreto del master
 
-Prima dell'esilio Marta aveva capito che Tomaso falsificava la lettura dei residui mnemonici. Il sigillo indebolito le ha lasciato la certezza dell'inganno senza la memoria cosciente completa.
+Circa 25 anni fa il villaggio offrì X, figlio piccolo di Marta, e lo dimenticò. Il residuo restituito dalla Voce fu la sua bicicletta cigolante; Tomaso lo presentò come designazione. Marta lo riconobbe senza sapere perché, lo disse in assemblea e tentò di fermare il rito: quella notte la Voce divorò ricordi del villaggio, che incolpò lei. Tomaso la fece esiliare, la sua casa fu chiusa dall'esterno e poi demolita. Il sigillo indebolito le ha lasciato la certezza dell'inganno e il vuoto di X senza la memoria cosciente. Gemma e Dario la sostengono. X torna a lei solo nel true ending.
 
 ## Frase
 
@@ -38,5 +38,8 @@ Prima dell'esilio Marta aveva capito che Tomaso falsificava la lettura dei resid
 
 ## Note correlate
 - [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita]]
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
+- [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]]
+- [[NPCs/NPC-07_La_Voce_Profonda]]
 - [[PG/INDICE_PG_La_Campana]]

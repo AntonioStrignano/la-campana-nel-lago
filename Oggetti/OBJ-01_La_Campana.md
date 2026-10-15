@@ -1,5 +1,7 @@
 # La Campana
 
+> Meccaniche valide; posizione e fisica della torre vanno lette in [[Sessioni/Master/SES-00_Andamento]]. Nel true ending la campana non si spezza: resta spaccata e muta sul fondo.
+
 ## Identità
 - Tipo: strumento del patto tra il villaggio e la Voce Profonda
 - Aspetto: bronzo nero, coperto di sale, con una crepa che pulsa come un respiro
@@ -36,7 +38,7 @@ Durante uno degli scontri, un resto porta ancora un piccolo ciondolo di bronzo c
 - La campana non decide chi viene offerto con un tiro: la scelta deve essere pronunciata dai personaggi e avere una conseguenza morale.
 
 ## Note correlate
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]
 - [[NPCs/NPC-06_Nera]]
 - [[NPCs/NPC-07_La_Voce_Profonda]]

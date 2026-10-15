@@ -1,5 +1,7 @@
 # La Cappella Sommersa
 
+> Da riallineare a [[Sessioni/Master/SES-00_Andamento]]: si entra solo dall'alto dopo il terzo rintocco; cripta con ossario e zombie acquatici.
+
 ## Identità evocativa
 - Immagine dominante: la campana emerge dall'acqua bassa; sotto la superficie, la torre conduce a banchi coperti di alghe, candele accese e alla cripta sepolta
 - Sensazione principale: pressione nelle orecchie e memoria che scivola via appena viene formulata
@@ -38,6 +40,6 @@ La cripta e il cerchio di sale nero sono raggiungibili prima che il ciclo si chi
 Il cerchio di sale nero è il punto rituale in cui la Voce riceve l'offerta. Non è il sigillo originario e non sceglie la vittima: è una struttura costruita dopo il primo sacrificio di Elian per rendere ripetibile la procedura.
 
 ## Note correlate
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
 - [[Oggetti/OBJ-01_La_Campana]]

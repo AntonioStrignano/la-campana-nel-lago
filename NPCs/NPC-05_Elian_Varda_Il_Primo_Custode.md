@@ -38,5 +38,6 @@ Il suo nome non annulla il costo del sigillo indebolito né riporta indietro nes
 ## Note correlate
 - [[NPCs/NPC-02_Mara_La_Persona_Designata]]
 - [[NPCs/NPC-07_La_Voce_Profonda]]
-- [[Sessioni/Handout/HND-02_Registro_Della_Notte_Originaria]]
+- [[Sessioni/Master/SES-00_Andamento]]
+- [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita]]
 - [[Sessioni/Master/SES-06_Verita_La_Campana]]

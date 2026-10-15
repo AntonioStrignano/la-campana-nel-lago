@@ -38,5 +38,6 @@ Il compito di Viola non è trovare la frase giusta di Mara, ma creare lo spazio 
 
 ## Note correlate
 - [[NPCs/NPC-02_Mara_La_Persona_Designata]]
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
+- [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita]]
 - [[PG/INDICE_PG_La_Campana]]

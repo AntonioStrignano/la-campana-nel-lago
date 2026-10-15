@@ -4,7 +4,7 @@
 
 ## Documenti
 
-- [[Sessioni/Giocatori/PG-00_Guida_La_Campana]] — premessa, aspettative, limiti e domande per il gruppo
+Nessun documento attivo: la guida giocatori è in `Archivio_Grezzo/` in attesa di riscrittura.
 
 ## Note correlate
 - [[PG/INDICE_PG_La_Campana]]

@@ -4,7 +4,7 @@
 
 ## Piste
 
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]] — nodi, core clue, extra clue ed escalation dello scenario principale
+Nessuna pista attiva: i nodi sono definiti in [[Sessioni/Master/SES-00_Andamento]]; la vecchia pista è in `Archivio_Grezzo/`.
 
 ## Note correlate
 - [[Sessioni/Master/INDICE_Sessioni_Master]]

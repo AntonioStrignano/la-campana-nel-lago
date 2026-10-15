@@ -37,8 +37,7 @@ La terza via non restituisce un indizio graduale: restituisce una storia intera 
 
 ## Uso al tavolo
 - Non è mai un PNG "in scena" con battute proprie: esiste attraverso oggetti, residui e i ricordi altrui, fino al ritorno della memoria
-- Testo da leggere al momento del ritorno: [[Sessioni/Handout/HND-01_Testualita_La_Campana]], sezione "Il ricordo di Nera"
-- Battute correlate (Ivo, Alba): [[Sessioni/Master/SES-07_Dialoghi_La_Campana]]
+- Scena del ritorno della memoria: vedi [[Sessioni/Master/SES-00_Andamento]] (true ending)
 - Se un giocatore chiede prima del climax "chi era Nera": nessun PNG vivente può rispondere per intero; solo frammenti sensoriali via ciondolo, gesti o residui
 
 ## Appendice meccanica (opzionale)

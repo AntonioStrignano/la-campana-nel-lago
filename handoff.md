@@ -230,3 +230,14 @@
 - Aggiunto un checklist non bloccante per la Terza Via e chiarito che il ciondolo anticipa solo familiarità, mentre il ricordo completo di Nera arriva con la rottura del patto.
 - Mantenuti invariati i tracker ricordi, i checkpoint, l'agency di Mara, il ruolo non obbligatorio di Ivo e la regola secondo cui il terzo rintocco non cancella automaticamente Ricordo III.
 - Prossimo passo: verifica testuale dei link/titoli e lettura lineare del run sheet simulando deviazioni verso registro, Custode e cappella; controllare separatamente l'anomalia editoriale nel finale dell'offerta di `HND-01`.
+
+## 2026-10-15 - Riallineamento dell'andamento e nuovo canone
+
+- Creato `Sessioni/Master/SES-00_Andamento.md` come canone unico: incipit in piazza, lago che si ritira a ogni rintocco (punta del campanile, un terzo, cima calpestabile con botola su torre sommersa, torre fuori e scale asciutte dopo il terzo), tre rami al terzo rintocco, quattro nodi del true ending, esiti per ramo, tabellone PNG per step con record, tabella d20 di abitanti, scena con la Voce.
+- Finali: good = offrire una persona consenziente; bad = non agire; true = sciogliere i nodi e scendere. Nel true ending ogni PG offre un ricordo fondamentale in modo permanente; fiori nontiscordardime, tutti ricordano tutto, la torre crolla e la campana resta spaccata e muta sul fondo; il lago resta lago.
+- La Voce Profonda è l'avatar di una divinità antica che continua a esistere altrove; nemici = zombie acquatici dei sacrificati, che vogliono portare i PG nel cerchio per farli mangiare dalla campana. La cripta è una sala circolare con ammassi di ossa; l'acqua risale come cascata dal campanile.
+- Marta: X, figlio piccolo, offerto ~25 anni fa prima di Nera; residuo = bicicletta cigolante; esilio e odio del villaggio; Gemma (custode della bicicletta) e Dario (ha sempre creduto in lei) come alleati.
+- Tomaso: Elian era il suo compagno; ricorda il nome ma non il volto; manipola la designazione perché Mara è l'ultima parente di Elian; può essere offerto solo se dice la verità davanti al villaggio.
+- Spostati in `Archivio_Grezzo/` (non cancellati): HND-01, HND-02, SES-01, SES-03, SES-05, SES-07, PST-01, PG-00. Aggiornati wikilink, indici e README.
+- Aggiunti i collegamenti PG-PNG mancanti (Ada, Elio, Viola, Nino, Marta; Ivo, Mara, Tomaso, Alba, Elian). Allineate le schede di Marta e Tomaso.
+- Da riallineare: `SES-06`, `LUO-01`, `LUO-02`, `OBJ-01` (banner aggiunto); controllo scheda per scheda dei PNG; schede brevi di Gemma e Dario; riscrittura di handout, run sheet, dialoghi, contingenze, pista e guida giocatori.

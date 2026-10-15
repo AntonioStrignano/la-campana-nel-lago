@@ -4,8 +4,7 @@
 
 ## Documenti
 
-- [[Sessioni/Handout/HND-01_Testualita_La_Campana]] — testi pronti da leggere per ogni beat chiave della sessione
-- [[Sessioni/Handout/HND-02_Registro_Della_Notte_Originaria]] — handout da consegnare quando i PG trovano il registro
+Nessun handout attivo: HND-01 e HND-02 sono in `Archivio_Grezzo/` in attesa di riscrittura sull'andamento (incipit in [[Sessioni/Master/SES-00_Andamento]]).
 
 ## Note correlate
 - [[Sessioni/Master/INDICE_Sessioni_Master]]

@@ -1,5 +1,7 @@
 # Il Lago Sommerso
 
+> Da riallineare a [[Sessioni/Master/SES-00_Andamento]]: il lago si ritira a ogni rintocco, non è già secco all'inizio.
+
 ## Identità evocativa
 - Immagine dominante: il lago si è ritirato lasciando una distesa di fango, barche inclinate e la cappella in piedi al centro
 - Sensazione principale: silenzio innaturale interrotto da gocce che cadono verso l'alto
@@ -29,5 +31,5 @@
 - Trigger per scontri/eventi: il secondo rintocco o un tentativo pubblico di trascinare via la persona designata
 
 ## Note correlate
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]

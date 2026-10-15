@@ -1,7 +1,7 @@
 # I quartieri di Varda
 
 ## Identità evocativa
-- Immagine dominante: un villaggio disteso attorno al bacino vuoto, con la cappella riemersa visibile da ogni strada in discesa
+- Immagine dominante: un villaggio disteso attorno al lago, con la punta del campanile che emerge sull'acqua e si alza a ogni rintocco
 - Sensazione principale: una comunità piccola abbastanza da conoscersi, ma grande abbastanza da nascondere colpe e versioni diverse della stessa storia
 - Elemento disturbante: dopo ogni rintocco, un quartiere perde per primo qualcosa che gli altri ancora ricordano
 
@@ -45,5 +45,5 @@ Se la mappa appare troppo vuota o la storia richiede più attività, si può por
 
 ## Note correlate
 - [[Luoghi/LUO-01_Il_Lago_Sommerso]]
-- [[Piste/PST-01_La_Campana_Sotto_Il_Lago]]
+- [[Sessioni/Master/SES-00_Andamento]]
 - [[NPCs/NPC-02_Mara_La_Persona_Designata]]

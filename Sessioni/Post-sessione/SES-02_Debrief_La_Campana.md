@@ -8,10 +8,10 @@
 ## Timeline reale
 | Scena | Tempo speso | Cosa ha funzionato | Cosa ha rallentato |
 |---|---|---|---|
-| 1. Cappella riemersa |  |  |  |
-| 2. Villaggio |  |  |  |
-| 3. Sotto il lago |  |  |  |
-| 4. Scelta |  |  |  |
+| Step 0. Incipit e piazza |  |  |  |
+| 1. Primo rintocco e indagine |  |  |  |
+| 2. Secondo rintocco |  |  |  |
+| 3. Terzo rintocco e scelta |  |  |  |
 
 ## Spotlight PG valutazione
 | PG | Spotlight avuto | Intensita (1-5) | Nota miglioramento |
