@@ -13,7 +13,7 @@ Nino è un viaggiatore abituato a restituire subito ogni aiuto. È il fratello m
 
 ## Desiderio e paura
 
-- Desiderio: capire quale prezzo gli e stato risparmiato.
+- Desiderio: capire quale prezzo gli è stato risparmiato.
 - Paura: trasformare la morte di qualcun altro in un obbligo che deve continuare a pagare.
 
 ## Ricordi
@@ -30,7 +30,7 @@ Nino prende posizione quando la comunità chiede un sacrificio e rende concreto 
 
 ## Segreto del master
 
-Il villaggio aveva designato Nino circa vent'anni fa. Nera prese il suo posto; Alba collaboro sotto il ricatto di Ivo e Nino fuggi.
+Il villaggio aveva designato Nino circa vent'anni fa. Nera prese il suo posto; Alba collaborò sotto il ricatto di Ivo e Nino fuggì.
 
 ## Frase
 

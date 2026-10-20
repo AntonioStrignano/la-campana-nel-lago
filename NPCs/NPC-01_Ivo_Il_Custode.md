@@ -1,7 +1,7 @@
 # Il Custode
 
 ## Scheda 30 secondi
-- Ruolo in storia: ultimo abitante che ricorda il sacrificio, mantiene il sigillo e governa il villaggio attraverso il ruolo di Custode
+- Ruolo in storia: Custode da circa 25 anni, mantiene il sigillo e governa il villaggio attraverso il ruolo; condusse il rito di Lia (figlia di Marta) e quello di Nera
 - Voce/atteggiamento: parla piano, corregge i nomi con gentilezza, non implora mai per sé stesso
 - Obiettivo immediato: guadagnare tempo fino a quando il terzo rintocco non sarà più evitabile
 - Desiderio profondo: fare in modo che qualcuno ricordi la verità, anche se questo significa perdere il villaggio e rendere inutile il sacrificio di Nera
@@ -11,14 +11,14 @@
 - Rapporto con La Memoria: le ha insegnato a leggere le omissioni nei registri e ha orientato la sua ricerca con indizi veri ma incompleti; la considera la sola persona capace di ricostruire la colpa, ma ha tenuto fuori dalla sua portata la pagina strappata che riguardava la sua famiglia
 - Sostituzione segreta: all'inizio ha riconosciuto in La Memoria alcuni gesti e ostinazioni di Nera. L'affetto è diventato una seconda possibilità: insegnarle ciò che non aveva insegnato alla figlia, proteggerla e decidere per lei quanta verità fosse sopportabile
 - Errore che non sa nominare: ama La Memoria anche per ciò che gli permette di continuare a essere padre di Nera; quando la controlla, crede di proteggerla e ripete il gesto che ha condannato sua figlia
-- Reazione se aiutato: consegna il frammento del sigillo e rivela la terza via
+- Reazione se aiutato: rivela il funzionamento del rito e la terza via
 - Reazione se ostacolato: protegge la persona designata e accetta di diventare antagonista temporaneo
 
 ## Guida verso la cripta
 
-Ivo conosce la piccola barca, l'apertura accanto alla campana e la discesa nella torre. Dopo il secondo rintocco può offrire di accompagnare i PG: non per scegliere al loro posto, ma perché sa dove il cerchio è ancora raggiungibile e cosa accade dopo una consegna. Durante il tragitto indica i gradini instabili, riconosce i resti e spiega che l'acqua risale soltanto quando la Voce ha ricevuto una persona.
+Ivo conosce la barca e il modo di salire sulla cima del campanile. Dopo il secondo rintocco può offrire di accompagnare i PG fin lì: non per scegliere al loro posto, ma perché sa cosa mostra la botola e cosa accade dopo una consegna. Dopo il terzo rintocco, se i PG lo accettano, li guida giù per le scale asciutte e spiega che l'acqua risale soltanto quando la Voce ha ricevuto una persona.
 
-Non è un cancello per il climax. Se rifiuta, mente o viene trattenuto, Alba può indicare la barca e l'apertura; i PG possono anche seguirlo o raggiungere la torre da soli. Senza Ivo arrivano comunque alla cripta, ma devono interpretare il luogo e il rito senza la sua spiegazione. Se è presente, la discesa gli offre un'occasione per ammettere una parte della verità oppure per tentare di completare il rito tradizionale.
+Non è un cancello per il climax. Se rifiuta, mente o viene trattenuto, Alba o Dario possono indicare la barca e l'accesso; i PG possono anche raggiungere la torre da soli. Senza Ivo arrivano comunque alla cripta, ma devono interpretare il luogo e il rito senza la sua spiegazione. Se è presente, la discesa gli offre un'occasione per ammettere una parte della verità oppure per tentare di completare il rito tradizionale.
 
 ## Matrice reattiva dettagliata
 | Azione PG | Risposta NPC | Effetto sulla scena | Escalation |

@@ -3,11 +3,15 @@
 > Pubblico: riservato al master. Non è un PNG umano: gestirla come presenza, non come personaggio.
 
 ## Scheda 30 secondi
-- Ruolo in storia: entità sigillata sotto la cripta della cappella; causa reale dei rintocchi e della perdita di memoria
+- Ruolo in storia: avatar di una divinità antica, sigillato sotto la cripta della cappella; causa diretta dei rintocchi e della perdita di memoria
 - Natura: residuo di tutte le promesse, i lutti e i nomi pronunciati davanti al lago nel corso delle generazioni — non nacque come un mostro
 - Distinzione chiave: non è la campana e non è il sigillo; la campana rende udibile il suo indebolimento e ne applica le conseguenze
 - Obiettivo (di fatto, non intenzionale): nutrirsi di ricordi condivisi quando il sigillo si indebolisce
-- Vulnerabilità: si indebolisce quando un PG nomina ad alta voce un ricordo condiviso; il patto perde nutrimento se il nome di Elian viene pronunciato da più di una voce
+- Vulnerabilità: si indebolisce quando un PG nomina ad alta voce un ricordo condiviso; il patto perde nutrimento se il nome di Elian viene pronunciato da più di una voce; nel true ending l'avatar viene eliminato
+
+## Avatar di una divinità antica
+
+La Voce non è la divinità: è l'avatar che una presenza molto più antica del villaggio ha lasciato in quel punto. Eliminare l'avatar non uccide la divinità, che continua a esistere nella mitologia come creatura semidivina, ma non è più lì. Il villaggio e i PG non incontrano mai la divinità stessa.
 
 ## Origine
 
@@ -28,8 +32,16 @@ La cripta sotto la cappella la conteneva già, chiusa da un sigillo più antico 
 - Quando la scena si inceppa: se nessuno parla, ripete l'ultima parola pronunciata da un PG; se il gruppo litiga, lascia che la tensione emerga senza intervenire; se i PG attaccano, interrompe il conflitto trasferendo il dolore a un ricordo condiviso.
 - Non le si deve mai far pronunciare un nome come ordine: la designazione resta sempre una procedura umana del villaggio, mai una sua scelta.
 
+## Scena faccia a faccia (true ending)
+
+Si svolge nella cripta, dopo gli zombie acquatici. L'avatar è presenza nell'aria e voci dei sacrificati, non un mostro da abbattere.
+
+- **Tentazione:** per ogni PG usa il Ricordo III come leva: tenerlo in cambio di un'altra persona da offrire.
+- **Dichiarazione:** i PG pronunciano il nome di Elian e dichiarano i nodi sciolti; ognuno offre in modo permanente un ricordo fondamentale.
+- **Chiusura:** l'avatar viene eliminato; la cripta e la torre crollano nel lago e la campana resta spaccata e muta sul fondo.
+
 ## Appendice meccanica (opzionale)
-- Nessuna scheda da combattimento: non è pensata per essere affrontata direttamente; l'ostacolo fisico in scena sono i resti annegati, non la Voce.
+- Nessuna scheda da combattimento: non è pensata per essere affrontata direttamente; l'ostacolo fisico in scena sono gli zombie acquatici dei sacrificati, non la Voce.
 - Stat blocco essenziale (se serve renderla fisica): resistente, non aggressiva salvo mostrare presenza; vulnerabile solo quando un PG nomina ad alta voce un ricordo condiviso.
 - Trigger scenici: rintocchi (primo/secondo/terzo), rottura del sigillo, pronuncia condivisa del nome di Elian.
 

@@ -16,7 +16,7 @@
 
 Alba e Ivo hanno avuto tre figli: La Promessa, Il Debito e Nera. I due PG ricordano di essere fratelli, ma non ricordano Nera. Alba conserva frammenti concreti senza riuscire a ricomporre la persona: un lavoro manuale lasciato a metà, una canzone interrotta e un piccolo ciondolo di bronzo con tre onde incise, fatto per i figli.
 
-Il Debito era stato indicato come vittima del rito. Ivo non poteva scegliere al posto del villaggio, ma spinse Alba a decidere in fretta: le fece credere che, senza una consegna immediata, la Voce avrebbe divorato tutti i ricordi. Nera si offrì per proteggere il fratello maggiore e propose di prendere il suo posto. Nera, Alba e Ivo organizzarono il travestimento; Il Debito fuggì prima che il villaggio potesse vederlo entrare nel rito.
+Il Debito era stato indicato come vittima del rito. Ivo non poteva scegliere al posto del villaggio, ma spinse Alba a decidere in fretta: le fece credere che, senza una consegna immediata, la Voce avrebbe divorato tutti i ricordi. Nera si offrì per proteggere il fratello e propose di prendere il suo posto. Nera, Alba e Ivo organizzarono il travestimento; Il Debito fuggì prima che il villaggio potesse vederlo entrare nel rito.
 
 Il villaggio non conservò una versione stabile: ogni abitante ricordò una variante, ma tutti credettero di aver perso un figlio e che un altro fosse fuggito per il dolore. Nera indossava il ciondolo quando fu portata nel campanile. Alba tentò di interrompere il rito e venne ferita dai resti annegati, prigionieri della tradizione che li aveva cancellati. Ivo la trattenne e la salvò mentre Nera veniva presa. La cicatrice è la prova che Alba accettò, reagì troppo tardi e provò comunque a fermare la propria scelta.
 
@@ -43,7 +43,7 @@ Se Il Debito accusa Alba, lei non nega. Dice soltanto: "Ti ho tenuto vivo. Non h
 - Secondo rintocco: interrompe un lavoro manuale, conta tre volte i materiali e nasconde la cicatrice quando qualcuno le chiede chi l'abbia ferita.
 - Prima del terzo rintocco: non ricostruisce il nome di Nera. Può ammettere di aver accettato una sostituzione e di aver tentato troppo tardi di fermarla, ma la memoria completa resta bloccata.
 - Se i PG le mostrano il ciondolo: riconosce le tre onde, lo stringe e dice soltanto "Mancava sempre qualcuno". Il ciondolo apre il ricordo, ma non lo completa.
-- Se i PG spezzano il patto: Alba e i PG ricordano Nera tutti insieme. Lei raggiunge Ivo, crolla davanti a lui e gli chiede perché abbia mentito sul ritorno di Nera. Quando Ivo nega, Alba si rivolge ai PG: "Adesso che ricordo, cosa dovrei fare?"
+- Se i PG spezzano il patto (true ending): il ricordo torna a tutto il villaggio insieme ai fiori che sbocciano. Alba, che attende sulla riva, ricorda Nera tutta insieme, cerca Ivo (che si trova lì, vivo o morto) e gli chiede perché abbia mentito sul ritorno di Nera. Quando Ivo nega, Alba si rivolge ai PG: "Adesso che ricordo, cosa dovrei fare?"
 
 ## La scena della memoria restituita
 
@@ -57,9 +57,9 @@ Se Ivo nega, Alba non lo perdona automaticamente. Se i PG lo incalzano fino a fa
 
 | Scelta dei PG | Reazione di Alba | Costo emotivo |
 |---|---|---|
-| Non agire | resta con i figli mentre il villaggio perde i legami | deve assistere alla cancellazione di un'altra famiglia senza poterla fermare |
-| Trasferire il vincolo | non propone di sostituire i figli: chiede ai PG di dichiarare chi intendono consegnare e quale verità sono pronti a sostenere | Ivo deve affrontare pubblicamente la propria menzogna |
-| Spezzare la maledizione | pronuncia il nome di Nera dopo che il ricordo ritorna e raggiunge Ivo | ricorda di averla consegnata, ma lascia ai PG la responsabilità di decidere cosa farà dopo |
+| Bad ending (non agire) | resta con i figli mentre il villaggio perde i legami | deve assistere alla cancellazione di un'altra famiglia senza poterla fermare |
+| Good ending (offrire una persona) | non propone di sostituire i figli: chiede ai PG di dichiarare chi intendono consegnare e quale verità sono pronti a sostenere | Ivo deve affrontare pubblicamente la propria menzogna |
+| True ending (terza via) | pronuncia il nome di Nera dopo che il ricordo ritorna e raggiunge Ivo | ricorda di averla consegnata, ma lascia ai PG la responsabilità di decidere cosa farà dopo |
 
 ## Frasi da usare
 

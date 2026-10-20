@@ -1,13 +1,14 @@
 # Mara Varda, la Persona Designata
 
 ## Scheda 30 secondi
-- Ruolo in storia: persona legata al sacrificio originario e prima candidata a ricevere il vincolo
+- Ruolo in storia: figlia di Elian (aveva circa 5 anni quando fu sacrificato, nessuno lo ricorda) e ultima sua parente; prima candidata a ricevere il vincolo
+- Sogni: ricorrenti, mostrano frammenti della notte originaria
 - Voce/atteggiamento: concreta, stanca, ironica quando ha paura; non chiede ai PG di salvarla a ogni costo
 - Legame con i PG: Mara ha chiesto a La Voce di testimoniare davanti al villaggio che il suo silenzio non vale come consenso; ha chiesto a La Memoria di verificare i registri senza fidarsi delle versioni ufficiali
 - Obiettivo immediato: impedire che la comunità decida per lei senza ricordare la verità
-- Segreto utile: ha capito che la designazione è una decisione politica del villaggio, ma non sa ancora quale colpa originaria il suo nome stia coprendo
+- Segreto utile: ha capito che la designazione è una decisione politica del villaggio, ma non sa ancora quale colpa originaria il suo nome stia coprendo; non sa che Tomaso, che la conosce da sempre, la manipola perché è l'ultima parente di Elian
 - Reazione se aiutato: chiede ai PG di dire davanti a tutti quale costo intendono accettare
-- Reazione se ostacolato: entra nella cappella da sola per riprendere il controllo del rito
+- Reazione se ostacolato: cerca di raggiungere la barca da sola per riprendere il controllo del rito
 
 ## Matrice reattiva dettagliata
 | Azione PG | Risposta NPC | Effetto sulla scena | Escalation |

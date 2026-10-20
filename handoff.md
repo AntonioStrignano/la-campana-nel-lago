@@ -241,3 +241,28 @@
 - Spostati in `Archivio_Grezzo/` (non cancellati): HND-01, HND-02, SES-01, SES-03, SES-05, SES-07, PST-01, PG-00. Aggiornati wikilink, indici e README.
 - Aggiunti i collegamenti PG-PNG mancanti (Ada, Elio, Viola, Nino, Marta; Ivo, Mara, Tomaso, Alba, Elian). Allineate le schede di Marta e Tomaso.
 - Da riallineare: `SES-06`, `LUO-01`, `LUO-02`, `OBJ-01` (banner aggiunto); controllo scheda per scheda dei PNG; schede brevi di Gemma e Dario; riscrittura di handout, run sheet, dialoghi, contingenze, pista e guida giocatori.
+
+## 2026-10-15 - Applicazione del riallineamento
+
+- Aggiornati `NPC-07` (avatar di una divinità antica, scena faccia a faccia), `OBJ-01` (luogo, terzo rintocco, percorso con botola, campana indistruttibile: colpita si frattura, rintocco debole fuori scala che consuma Ricordo I poi II a tutti nel perimetro del lago, si rigenera), `LUO-01` e `LUO-02` (lago che si ritira, cripta con ossario e zombie acquatici, cascata dal campanile), `SES-06` (modifiche mirate: nodi, finali, Mara figlia di Elian, Tomaso compagno di Elian, Marta e Lia, Ivo già Custode).
+- X è Lia, figlia di Marta, offerta circa 25 anni fa; Ivo condusse il rito. Tomaso ~55, Mara ~35, Elian morto 30 anni fa.
+- Corretti `NPC-01`, `NPC-02`, `NPC-03` (ostruzione non violenta al posto del rintocco anticipato, diario, esiti), `NPC-05` (cronologia, compagno di Tomaso, true ending), `PG-05` (Lia), accenti in `PG-01` e `PG-04`, regole trasversali e nome Lia in `SES-00`.
+- Da fare: riscrittura dei documenti in `Archivio_Grezzo/` (handout, run sheet, dialoghi, contingenze, guida giocatori) e file unico finale.
+- Riscritto `Sessioni/Handout/HND-01_Testualita_La_Campana.md` sul nuovo andamento (incipit, increspature, rintocchi, botola prima/dopo il terzo, cripta, zombie, ciondolo, Voce, campana colpita, tre finali, epilogo con fiori, ricordo di Nera sulla riva).
+- Da fare: HND-02, run sheet, dialoghi, contingenze, guida giocatori, file unico finale.
+- Creati `NPCs/NPC-08_Gemma.md` e `NPCs/NPC-09_Dario.md` con righe per step nel tabellone di `SES-00`. Allineati Alba (reazioni ai tre finali, scena sulla riva) e Nera (Marta e Lia, "fratello" al posto di "fratello maggiore"). Aggiornati `INDICE_NPC` e `PG-05`.
+
+## 2026-10-18 - Avvio implementazione tracker e canone finale
+
+- Creato `Sessioni/Master/SES-08_Tracker_Nodi_La_Campana.md` con i quattro nodi, la quinta chiave HND-02, gli stati live e i campi per fonti, prove, puzzle, retry, costi e bonus. Puzzle e fonti alternative restano placeholder.
+- Aggiornati `Sessioni/Master/INDICE_Sessioni_Master.md` e `Piste/INDICE_Piste.md` per collegare il tracker.
+- Aggiornato `Sessioni/Master/SES-00_Andamento.md` con finestra dal terzo rintocco, prerequisito HND-02, consenso e costo del true ending, recupero dei ricordi, conseguenze del good ending e fuga/evacuazione nel bad ending.
+- Esplicitato nel climax che tutti i superstiti presenti devono offrire volontariamente il proprio ricordo fondamentale; un rifiuto impedisce il true ending. Tornano tutti gli altri ricordi, non quelli offerti; le vittime non resuscitano.
+- Verifica Markdown: nessun errore segnalato nei file aggiornati.
+
+## 2026-10-18 - Avvio tracker operativo dei nodi
+
+- Creato `Sessioni/Master/SES-08_Tracker_Nodi_La_Campana.md` come tracker live riservato al master, collegato al canone di `SES-00`.
+- Registrate le quattro verità, la quinta chiave HND-02, la procedura prova/puzzle/retry, i campi live e la finestra dal terzo rintocco.
+- Lasciati come placeholder i puzzle personali e le fonti alternative; non modificato il template riutilizzabile `TMP-05`.
+- Aggiornati gli indici Master e Piste. Verifica errori del nuovo Markdown: nessun errore.

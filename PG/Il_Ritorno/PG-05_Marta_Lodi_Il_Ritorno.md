@@ -30,7 +30,7 @@ Marta riconosce che gli indizi emersi dalla cappella appartengono ai sacrificati
 
 ## Segreto del master
 
-Circa 25 anni fa il villaggio offrì X, figlio piccolo di Marta, e lo dimenticò. Il residuo restituito dalla Voce fu la sua bicicletta cigolante; Tomaso lo presentò come designazione. Marta lo riconobbe senza sapere perché, lo disse in assemblea e tentò di fermare il rito: quella notte la Voce divorò ricordi del villaggio, che incolpò lei. Tomaso la fece esiliare, la sua casa fu chiusa dall'esterno e poi demolita. Il sigillo indebolito le ha lasciato la certezza dell'inganno e il vuoto di X senza la memoria cosciente. Gemma e Dario la sostengono. X torna a lei solo nel true ending.
+Circa 25 anni fa il villaggio offrì Lia, figlia piccola di Marta, e la dimenticò. Il residuo restituito dalla Voce fu la sua bicicletta cigolante; Tomaso lo presentò come designazione. Marta lo riconobbe senza sapere perché, lo disse in assemblea e tentò di fermare il rito, condotto da Ivo: quella notte la Voce divorò ricordi del villaggio, che incolpò lei. Tomaso la fece esiliare, la sua casa fu chiusa dall'esterno e poi demolita. Il sigillo indebolito le ha lasciato la certezza dell'inganno e il vuoto di Lia senza la memoria cosciente. Gemma e Dario la sostengono. Lia torna a lei solo nel true ending.
 
 ## Frase
 
@@ -42,4 +42,6 @@ Circa 25 anni fa il villaggio offrì X, figlio piccolo di Marta, e lo dimenticò
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
 - [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]]
 - [[NPCs/NPC-07_La_Voce_Profonda]]
+- [[NPCs/NPC-08_Gemma]]
+- [[NPCs/NPC-09_Dario]]
 - [[PG/INDICE_PG_La_Campana]]

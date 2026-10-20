@@ -3,7 +3,7 @@
 ## Scheda 30 secondi
 - Ruolo in storia: sindaco di Varda e decisore politico della risposta al ritorno della campana
 - Voce/atteggiamento: lucida, pratica, affettuosa con i bambini e spietata quando parla dei numeri
-- Legame con i PG: conosce Il Ritorno da prima dell'esilio e lo riconosce come qualcuno che Varda ha già perso una volta; vede nella sua presenza la prova che il villaggio può sopravvivere ai ritorni, ma non alle separazioni definitive
+- Legame con i PG: conosce Marta (Il Ritorno) da prima dell'esilio; la fece esiliare dopo che aveva riconosciuto nel residuo la bicicletta di sua figlia Lia. Ora finge accoglienza per tenerla vicina e controllarla
 - Obiettivo immediato: decidere se sostenere la designazione di Mara e assumersi davanti al villaggio la responsabilità di consegnare una persona
 - Segreto utile: Elian era il suo compagno; ricorda il nome di Elian ma non il suo volto. Mara è l'ultima parente di Elian e Tomaso manipola la designazione su di lei
 - Vincolo della Voce: Tomaso ricorda i sacrificati e i residui da cui nascono gli indizi perché fu lui a rompere il sigillo originario; il villaggio non conserva quei ricordi
@@ -17,13 +17,16 @@
 | Fiducia | presenta il danno collettivo con esempi personali | rende visibile cosa significa non agire | chiede a La Voce di formulare la posizione pubblica del villaggio |
 | Minaccia | chiama gli abitanti in difesa | il villaggio diventa un ostacolo umano, non un combattimento | un PNG perde il nome di un PG |
 | Inganno | chiede quale verità il party intenda raccontare agli abitanti | smaschera la falsa terza via | la comunità si divide in due gruppi |
-| Violenza | non reagisce contro i PG, ma ordina l'evacuazione dei bambini | la pressione morale aumenta senza uno scontro obbligatorio | il terzo rintocco parte in anticipo |
+| Violenza | non reagisce contro i PG, ma ordina l'evacuazione dei bambini e fa presidiare molo e municipio | la pressione morale aumenta senza uno scontro obbligatorio; i rintocchi cadono comunque ai tempi previsti | la folla si divide, Mara viene isolata e i testimoni tacciono |
 
 ## Uso al tavolo
 - Frase firma: "Una persona può essere ricordata. Un villaggio intero può sparire senza lasciare nemmeno il lutto."
 - Cosa non dire subito: non sa se il rito funzionerà davvero, difende la scelta per paura
 - Cosa può rivelare sotto pressione: il villaggio ha già votato una volta, ma nessuno ricorda l'esito; questa volta vuole essere lui a pronunciare la scelta, anche se nessuno potrà assolverlo
-- Se gli chiedono de Il Ritorno: ammette di averlo esiliato dopo che aveva riconosciuto nei segni i resti dei sacrificati precedenti; sostiene di averlo fatto per impedire una rivolta, ma sa di aver difeso il proprio potere
+- Se gli chiedono di Marta (Il Ritorno): ammette di averla esiliata dopo che aveva riconosciuto nei segni i resti dei sacrificati precedenti; sostiene di averlo fatto per impedire una rivolta, ma sa di aver difeso il proprio potere
+- Diario: in municipio, nel cassetto con la cera nera; nomi veri dei sacrificati, la rottura del sigillo e pagine su Elian senza volto. Indizio opzionale per il nodo 2
+- Può essere offerto solo se dice la verità davanti al villaggio
+- Esiti: bad ending, resta sindaco e ricorda tutto mentre il villaggio dimentica; good ending, legittimato ma i PG sanno; true ending, smascherato e ricorda il volto di Elian
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: nessuna minaccia individuale; influenza alta sugli abitanti

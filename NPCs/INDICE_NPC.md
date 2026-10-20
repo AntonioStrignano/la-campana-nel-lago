@@ -4,7 +4,7 @@
 
 | PNG | PG collegato/i | Tipo di legame | Funzione emotiva |
 |---|---|---|---|
-| [[NPCs/NPC-01_Ivo_Il_Custode\|Ivo, il Custode]] | **La Memoria**, **La Promessa**, **Il Debito**, **Il Ritorno** | Mentore di Ada; padre di Elio e Nino; sostenitore della procedura che esiliò Marta | Ada scopre che ha controllato ciò che poteva conoscere; Elio e Nino scoprono il ricatto e la sostituzione. |
+| [[NPCs/NPC-01_Ivo_Il_Custode\|Ivo, il Custode]] | **La Memoria**, **La Promessa**, **Il Debito**, **Il Ritorno** | Mentore di Ada; padre di Elio e Nino; Custode che condusse il rito di Lia e portò all'esilio di Marta | Ada scopre che ha controllato ciò che poteva conoscere; Elio e Nino scoprono il ricatto e la sostituzione. |
 | [[NPCs/NPC-02_Mara_La_Persona_Designata\|Mara Varda, la Persona Designata]] | **La Voce** | Testimonianza pubblica e consenso | La Voce deve impedire che il silenzio di Mara venga trasformato in consenso al sacrificio. |
 | [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita\|Tomaso Riva, sindaco di Varda]] | **Il Ritorno** e tutti i PG | Appartenenza e decisione politica | Tomaso decide se sostenere il sacrificio; il party può legittimarlo o contestarlo pubblicamente e materialmente. |
 | [[NPCs/NPC-04_Alba_La_Battelliera\|Alba, la Battelliera]] | **La Promessa** e **Il Debito** | Madre condivisa e complice del sacrificio di Nera | La Promessa protegge il fratello senza ricordare l'origine della promessa; Il Debito scopre di essere sopravvissuto al posto della sorella. |
@@ -31,9 +31,14 @@
 
 - [[NPCs/NPC-07_La_Voce_Profonda|La Voce Profonda]] — presenza sotto la cappella; non è un PNG umano
 
+## Abitanti con scheda
+
+- [[NPCs/NPC-08_Gemma]] — anziana del Borgo Vecchio; custode della chiave e della bicicletta di Marta
+- [[NPCs/NPC-09_Dario]] — pescatore del Porto del Fondo; ha sempre creduto a Marta
+
 ## Nodi da definire
 
-- Schede brevi di Gemma e Dario (vedi [[Sessioni/Master/SES-00_Andamento]]); gli altri abitanti sono nella tabella d20 di quel documento
+- Gli altri abitanti sono nella tabella d20 di [[Sessioni/Master/SES-00_Andamento]]
 
 ## Note correlate
 - [[PG/INDICE_PG_La_Campana]]

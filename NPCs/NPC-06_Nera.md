@@ -11,7 +11,7 @@
 
 ## Il sacrificio
 
-Il villaggio aveva designato Nino (Il Debito) come vittima del ciclo. Ivo non poteva scegliere al posto del villaggio, ma spinse Alba a decidere in fretta, facendole credere che senza una consegna immediata la Voce avrebbe divorato tutti i ricordi. Nera si offrì per proteggere il fratello maggiore e propose di prendere il suo posto. Nera, Alba e Ivo organizzarono il travestimento; Nino fuggì prima che il villaggio potesse vederlo entrare nel rito.
+Il villaggio aveva designato Nino (Il Debito) come vittima del ciclo. Ivo non poteva scegliere al posto del villaggio, ma spinse Alba a decidere in fretta, facendole credere che senza una consegna immediata la Voce avrebbe divorato tutti i ricordi. Nera si offrì per proteggere il fratello e propose di prendere il suo posto. Nera, Alba e Ivo organizzarono il travestimento; Nino fuggì prima che il villaggio potesse vederlo entrare nel rito.
 
 Il villaggio non conservò una versione stabile dell'accaduto: ogni abitante ricorda una variante, ma tutti credono di aver perso un figlio e che un altro sia fuggito per il dolore. Nera indossava il ciondolo quando fu portata nel campanile. Alba tentò di interrompere il rito e venne ferita dai resti annegati; Ivo la trattenne e la salvò mentre Nera veniva presa. La cicatrice di Alba è la prova che accettò, reagì troppo tardi e provò comunque a fermare la propria scelta.
 
@@ -22,13 +22,13 @@ Ivo aveva promesso ad Alba che, se il sigillo fosse stato spezzato, Nera sarebbe
 - **Il ciondolo**: un resto annegato nel campanile lo porta ancora addosso; La Promessa, Il Debito e Il Ritorno possono riconoscere il gesto o la forma senza recuperare subito il nome
 - **La Promessa (Elio)**: ricorda una promessa di protezione verso Nino, ma quella protezione era stata fatta originariamente a Nera; il dovere si è spostato sul fratello dopo la cancellazione
 - **Il Debito (Nino)**: ricorda solo la fuga e un debito verso Alba, senza sapere che chi ha preso il suo posto è sua sorella
-- **Il Ritorno**: resta estraneo alla famiglia; eventuali somiglianze o dettagli condivisi con Nera servono solo a far riaffiorare il vuoto, mai a sostituirla
+- **Il Ritorno (Marta)**: resta estranea alla famiglia; il vuoto che riaffiora in lei è quello di Lia, non di Nera
 - **Ivo**: ha riconosciuto in La Memoria (Ada) alcuni gesti e ostinazioni di Nera, trasformandola inconsapevolmente in un rimpiazzo emotivo — vedi [[NPCs/NPC-01_Ivo_Il_Custode]]
 - **Alba**: sa sempre cosa ha fatto, ma ha imparato a chiamarlo protezione — vedi [[NPCs/NPC-04_Alba_La_Battelliera]]
 
 ## Il ritorno della memoria
 
-La terza via non restituisce un indizio graduale: restituisce una storia intera e insostenibile, tutta insieme e non a frammenti. Alba e i PG ricordano simultaneamente Nera e il proprio ruolo nella notte del sacrificio: il travestimento, la fuga di Nino, la ferita di Alba e Ivo che la trattiene mentre la figlia viene presa.
+La terza via non restituisce un indizio graduale: restituisce una storia intera e insostenibile, tutta insieme e non a frammenti. Il ricordo torna a tutto il villaggio mentre i fiori sbocciano; Alba e i PG ricordano simultaneamente Nera e il proprio ruolo nella notte del sacrificio: il travestimento, la fuga di Nino, la ferita di Alba e Ivo che la trattiene mentre la figlia viene presa.
 
 - La Promessa ricorda che la protezione apparteneva a Nera.
 - Il Debito ricorda la fuga e che deve la vita ad Alba.

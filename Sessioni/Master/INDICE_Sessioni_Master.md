@@ -7,6 +7,7 @@
 1. [[Sessioni/Master/SES-00_Andamento]] — canone: incipit, fisica della torre, step, rami, tabellone PNG, abitanti casuali
 2. [[Sessioni/Master/SES-06_Verita_La_Campana]] — verità completa dello scenario e dei PNG (da riallineare ad Andamento)
 3. [[Sessioni/Master/SES-04_Regole_Shadowdark]] — foglio rapido delle regole da tenere davanti durante il gioco
+4. [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]] — tracker live master: fonti, nodi, bonus, retry e pressione dei rintocchi
 
 Run sheet, prep, dialoghi e contingenze sono in `Archivio_Grezzo/` in attesa di riscrittura sull'andamento.
 

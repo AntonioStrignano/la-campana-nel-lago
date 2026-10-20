@@ -38,7 +38,9 @@ Si entra solo dall'alto, in barca. Prima del terzo rintocco i PG possono avvicin
 | 3. Convergenza | Ultime scelte, la barca verso la torre | integri |
 | 3° rintocco | Torre fuori, scale aperte: **decisione** | Ricordo III preservato |
 
-I rintocchi cadono alla prima transizione drammatica utile dopo i checkpoint di tempo effettivo (circa 30 e 60 minuti). Nessun rintocco interrompe una scelta o un conflitto. Meccaniche della campana, dei rintocchi e della Voce: [[Oggetti/OBJ-01_La_Campana]], [[Sessioni/Master/SES-06_Verita_La_Campana]], [[NPCs/NPC-07_La_Voce_Profonda]].
+Il master fa cadere i rintocchi a una transizione drammatica naturale, quando serve aumentare la pressione; i riferimenti ai 30 e 60 minuti sono indicativi, non vincolanti. Nessun rintocco interrompe una scelta o un conflitto. Il climax e la decisione finale hanno come obiettivo orientativo il minuto 75.
+
+Ogni nodo scoperto provoca una manifestazione della Voce, crescente d'intensità, ma non cancella ricordi prima del finale. Dal terzo rintocco parte una finestra di circa 20 minuti: se HND-02 è stato trovato e manca al massimo un nodo, i PG possono cercarlo prima o dopo l'offerta. Dopo l'offerta la pressione è l'acqua che risale; senza offerta è l'oblio collettivo. Il master gestisce la durata leggendo la scena. Meccaniche della campana, dei rintocchi e della Voce: [[Oggetti/OBJ-01_La_Campana]], [[Sessioni/Master/SES-06_Verita_La_Campana]], [[NPCs/NPC-07_La_Voce_Profonda]].
 
 ## I tre rami del terzo rintocco
 
@@ -47,8 +49,8 @@ Al terzo rintocco il tavolo è in uno di questi stati.
 | Ramo | Stato dei PG | Cosa succede |
 |---|---|---|
 | **Good ending** | Hanno deciso chi sacrificare (persona consenziente e consapevole) | La portano in barca, scendono, la consegnano nel cerchio. L'acqua risale con una cascata dal campanile; la persona annega, il villaggio la dimentica |
-| **Bad ending** | Hanno deciso di non fare nulla | Restano nel villaggio. La Voce divora volti, legami e storia comune. Epilogo breve |
-| **True ending** | Hanno sciolto tutti i nodi | Scendono nella cripta e affrontano l'avatar faccia a faccia |
+| **Bad ending** | Non hanno offerto nessuno né completato la Terza Via entro la finestra | La Voce divora progressivamente volti, legami e storia comune. I PG possono tentare di fuggire o evacuare abitanti |
+| **True ending** | Hanno scoperto i quattro nodi e trovato HND-02 | Scendono nella cripta e affrontano l'avatar; ogni PG superstite presente deve accettare il costo volontariamente |
 
 ### I quattro nodi (true ending)
 
@@ -56,6 +58,12 @@ Al terzo rintocco il tavolo è in uno di questi stati.
 2. **I segni non sono designazioni:** sono residui dei sacrificati precedenti e Tomaso lo sa (Marta, Gemma, bicicletta, diario di Tomaso).
 3. **Il patto si nutre dell'oblio:** Elian si offrì volontariamente, il suo nome fu cancellato (Ada, Mara).
 4. **La storia di Nera e di Ivo:** ricatto, fuga di Nino, sostituzione (Elio, Nino, Alba).
+
+### HND-02: quinta chiave
+
+HND-02 è una chiave separata dai quattro nodi e necessaria per il true ending. È nascosto ma segnalato nella cripta, vicino al Custode. Il testo completo è leggibile, ma un passaggio resta opaco se manca il nodo corrispondente. La frase sulla contropartita deve restare ambigua: non anticipa che il prezzo saranno i ricordi dei PG. Il costo concreto viene rivelato dalla Voce prima della scelta. Ivo può indirizzare i PG verso una fonte, ma non sostituisce il registro o i nodi. Stato operativo: [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]].
+
+Con tutti e quattro i nodi e HND-02, i PG possono interrompere il rito prima della morte. Se manca un nodo, possono scegliere di offrire la persona, non agire o risalire a cercare la verità, con il rischio che scada la finestra.
 
 ## Esiti per ramo
 
@@ -66,7 +74,7 @@ Al terzo rintocco il tavolo è in uno di questi stati.
 | Tomaso | Resta sindaco e ricorda tutto, mentre il villaggio dimentica | Legittimato; i PG sanno cosa ha fatto | Smascherato; ricorda il volto di Elian |
 | Alba | Non ricorda Nera e perde altri legami | Ricorda solo ciò che resta | Ricorda tutto e chiede ai PG cosa fare |
 | Nera | Resti dimenticati | Raggiunta da un'altra offerta | Resti sepolti con il ciondolo |
-| Marta | Resta senza X | Vede ancora dimenticare | Recupera X come ricordo; sceglie se chiedere giustizia o lasciare Varda |
+| Marta | Resta senza Lia | Vede ancora dimenticare | Recupera Lia come ricordo; sceglie se chiedere giustizia o lasciare Varda |
 | Gemma, Dario | Dimenticano il coraggio | Restano testimoni | Primi a ricordare con Marta |
 
 Offrire Tomaso: solo se dice la verità davanti al villaggio. Nessuno può essere offerto contro la sua volontà.
@@ -78,16 +86,29 @@ Offrire Tomaso: solo se dice la verità davanti al villaggio. Nessuno può esser
 3. **Zombie acquatici.** Si alzano dall'ossario: sono i sacrificati precedenti, vogliono portare i PG giù per essere "mangiati" dalla campana, credendo di placare la propria fame. Pochi, lenti, scontro breve. Il resto con il ciondolo (Nera) esita davanti a Elio e Nino.
 4. **L'avatar.** Presenza nell'aria, voci dei sacrificati. La Voce è l'avatar di una divinità antica e dimenticata.
 5. **Tentazione.** Usa il Ricordo III di ogni PG come leva: tenerlo in cambio di un'altra persona da offrire.
-6. **Dichiarazione.** I PG pronunciano il nome di Elian e dichiarano i nodi sciolti; ognuno offre in modo **permanente** un ricordo fondamentale.
+6. **Dichiarazione.** I PG pronunciano il nome di Elian e dichiarano i nodi sciolti. Ogni PG superstite presente in cripta deve offrire volontariamente il ricordo fondamentale scritto sulla propria scheda; nessuno può pagare per un assente. Se anche uno rifiuta, il true ending fallisce e restano aperti gli altri esiti.
 7. **Chiusura.** L'avatar è eliminato (la divinità continua a esistere nella mitologia, non più lì). La torre crolla nel lago; la campana resta sul fondo, spaccata e muta, recuperabile ma incapace di suonare.
-8. **Epilogo.** Il lago resta lago. Davanti a ogni PG sboccia un fiore, poi nontiscordardime fioriscono sulla riva e in tutto il villaggio: tutti ricordano tutto.
+8. **Epilogo.** Il lago resta lago. Davanti a ogni PG sboccia un fiore, poi nontiscordardime fioriscono sulla riva e in tutto il villaggio. Tutti ricordano la storia e le persone dimenticate; ogni PG ricorda tutto tranne il ricordo fondamentale che ha offerto, che resta perduto.
 
 ## Good e bad ending
 
 - **Good:** consegna nel cerchio; dal campanile arriva una cascata che riempie il lago. I PG non vedono nulla dell'acqua prima. La persona offerta perde il nome davanti a loro e annega; Ivo ricorda, il villaggio no.
-- **Bad:** nessuna discesa. Epilogo di un paragrafo: il villaggio resta in piedi ma nessuno sa più perché si trovi lì. Tomaso ricorda tutto.
+- **Good:** consegna nel cerchio; dal campanile arriva una cascata che riempie il lago. La persona offerta perde il nome e muore; tutti tranne Ivo la dimenticano. Oggetti e libri restano. Se i PG completano la Terza Via entro la finestra, il ricordo della vittima torna, ma la persona non resuscita.
+- **Bad:** nessuna offerta e nessuna Terza Via entro la finestra. La Voce divora progressivamente la memoria; la scena continua finché il tavolo ne sostiene il peso. Chi resta a Varda perde identità e legami fino a una condizione mentale infantile. La fuga è possibile in ogni momento: chi attraversa il confine salva il corpo, ma dimentica Varda e ogni ricordo legato al luogo, non la propria identità.
+
+### Fuga ed evacuazione nel bad ending
+
+- I PG possono fuggire da soli anche se la folla non li segue. Per convincere gli abitanti, un portavoce tira CAR e gli altri possono aiutare; un piano o un argomento convincente riduce la CD.
+- Se il tiro fallisce, nessun abitante segue. Se riesce, tira 1d100 per il numero di persone disposte a partire: con margine 0-4 sopra la CD ne segue un quarto; con 5-9 la metà; con 10 o più segue l'intero risultato, fino a un massimo di 100. Arrotonda per eccesso.
+- Gli abitanti sono attaccati ai pochi ricordi rimasti e possono diventare una zavorra. Ivo vuole restare per espiare; i PG possono convincerlo facendo leva sul suo ruolo di testimone. Se lascia Varda, perde il ruolo e la storia del villaggio, ma conserva i ricordi dei sacrificati.
 
 ## Tabellone PNG
+
+### Regole trasversali
+- **Campana colpita:** si frattura, emette un rintocco debole che non conta nella scala, consuma Ricordo I (poi II, mai III) a tutti i presenti entro il perimetro del lago e si rigenera. I PNG presenti perdono un dettaglio leggero.
+- **Violenza contro il villaggio:** non c'è combattimento. Nives e la folla possono presidiare il molo, chiudere il municipio, isolare Mara, zittire i testimoni o evacuare i bambini. Costa 5-10 minuti e non blocca mai i core clue; i rintocchi cadono ai tempi previsti.
+- **Età:** Tomaso circa 55, Mara circa 35 (figlia di Elian, 5 anni alla sua morte), Elio, Nino e Nera circa 35.
+- **Ivo** è già Custode da circa 25 anni: condusse il rito di Lia e quello di Nera.
 
 Per ogni PNG: stato, cosa fa, leva dei PG, record da segnare live.
 
@@ -118,7 +139,7 @@ Compagno di Elian. Ruppe il sigillo cercando una soluzione e richiuse il passagg
 |---|---|---|---|---|
 | 0 | Padrone dell'assemblea | Presenta la designazione come ordine della campana | Contestarlo in pubblico | ☐ |
 | 1° rintocco | Alza la pressione | Chiede a Viola di dare forma pubblica alla sua posizione | Viola rifiuta di farsi usare | ☐ |
-| Indagine | Controlla Marta | Finge accoglienza, la tiene vicina | Marta scopre che il segno è di X | ☐ |
+| Indagine | Controlla Marta | Finge accoglienza, la tiene vicina | Marta scopre che il segno è di Lia | ☐ |
 | 2° rintocco | Difende la designazione | Dichiara la posizione politica | Costringerlo a nominare la colpa | ☐ |
 | Convergenza | Se smascherato ammette l'esilio di Marta | Dice di averlo fatto per evitare una rivolta | Provarlo con bicicletta, Gemma, diario | ☐ |
 | 3° rintocco | Legittima o contesta | Spinge per il good o si ritira nel bad | Smascherarlo prima della scelta | ☐ |
@@ -136,14 +157,34 @@ Diario: in municipio, nel cassetto con la cera nera. Nomi veri dei sacrificati, 
 | 3° rintocco | Aspetta | Ricorda tutto solo se il patto si spezza | Ramo true | ☐ |
 
 ### Gemma (fissa)
-Anziana del Borgo Vecchio. Tiene la chiave di Marta e la bicicletta con la ruota che cigola. Tace per paura, ma non l'ha mai buttata. Parla per prima con Marta. Prova del nodo 2. ☐ incontrata ☐ ha parlato ☐ ha consegnato la bicicletta
+Scheda: [[NPCs/NPC-08_Gemma]].
+
+| Step | Stato | Cosa fa | I PG possono | Record |
+|---|---|---|---|---|
+| 0 | In casa, nervosa | Rammenda, evita lo sguardo | Cercarla con Marta | ☐ |
+| 1° rintocco | Spaventata | Chiude la porta | Marta bussa da sola | ☐ |
+| Indagine | Cede se Marta è sola | Racconta della chiave e dell'esilio | Ascoltarla | ☐ |
+| 2° rintocco | Decide | Consegna la bicicletta | Prova del nodo 2 | ☐ |
+| Convergenza | Più sicura | Può testimoniare contro Tomaso | Portarla in piazza | ☐ |
+| 3° rintocco | Resta in casa | — | — | ☐ |
 
 ### Dario (fisso)
-Pescatore del Porto del Fondo. Da ragazzino vide l'esilio di Marta e ha sempre creduto in lei. Nota per primo le increspature. Dopo il 2° rintocco può portare i PG in barca fino alla torre. Nel true ending ricorda X con Marta. ☐ incontrato ☐ ha portato in barca
+Scheda: [[NPCs/NPC-09_Dario]].
+
+| Step | Stato | Cosa fa | I PG possono | Record |
+|---|---|---|---|---|
+| 0 | Sul molo | Fissa le increspature | Chiedergli del lago | ☐ |
+| 1° rintocco | Turbato | Nota la torre che emerge | Seguirlo | ☐ |
+| Indagine | Parla con Marta | Racconta l'esilio che vide | Raccogliere la testimonianza | ☐ |
+| 2° rintocco | Pronto | Offre la barca fino alla cima | Salire in barca | ☐ |
+| Convergenza | Teso | Aspetta sul molo se presidiato | Superare Nives | ☐ |
+| 3° rintocco | Presente | Porta i PG alla torre se serve | Accettarlo | ☐ |
+
+Record: ☐ incontrato ☐ ha parlato ☐ ha portato in barca
 
 ## Esilio di Marta (canone)
 
-Circa 25 anni fa, prima di Nera, il villaggio offrì X, figlio piccolo di Marta, e lo dimenticò. Il residuo restituito dalla Voce fu la sua bicicletta cigolante; Tomaso lo presentò come designazione. Marta lo riconobbe senza sapere perché e lo disse in assemblea. Provò a fermare il rito; quella notte la Voce divorò ricordi del villaggio, che incolpò lei. La sua casa fu chiusa dall'esterno e poi demolita. Tomaso la fece allontanare per proteggere la procedura. Tornata, il villaggio la odia; Tomaso finge accoglienza; Gemma e Dario le sono vicini. Nel true ending ricorda X.
+Circa 25 anni fa, prima di Nera, il villaggio offrì Lia, figlia piccola di Marta, e la dimenticò. Il residuo restituito dalla Voce fu la sua bicicletta cigolante; Tomaso lo presentò come designazione. Marta lo riconobbe senza sapere perché e lo disse in assemblea. Provò a fermare il rito, condotto da Ivo, già Custode; quella notte la Voce divorò ricordi del villaggio, che incolpò lei. La sua casa fu chiusa dall'esterno e poi demolita. Tomaso la fece allontanare per proteggere la procedura. Tornata, il villaggio la odia; Tomaso finge accoglienza; Gemma e Dario le sono vicini. Nel true ending ricorda Lia.
 
 ## Abitanti casuali (d20)
 

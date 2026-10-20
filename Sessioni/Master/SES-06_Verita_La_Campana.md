@@ -1,6 +1,6 @@
 # Verità del Master - La Campana sotto il Lago
 
-> Meccaniche e sottotrame valide; ordine degli eventi, finali, Voce come avatar, Tomaso–Elian e Marta–X sono in [[Sessioni/Master/SES-00_Andamento]], che prevale.
+> Meccaniche e sottotrame valide; ordine degli eventi, finali, Voce come avatar, Tomaso–Elian e Marta–Lia sono in [[Sessioni/Master/SES-00_Andamento]], che prevale.
 > Questo file contiene spoiler completi. Non condividerlo con i giocatori.
 
 ## La verità in una frase
@@ -13,11 +13,11 @@ Trent'anni fa il lago cominciò a restituire i morti dopo una piena. Gli abitant
 
 La cappella era già sul fondo del lago quando avvennero i primi fatti. La cripta sotto di essa conteneva la Voce Profonda, chiusa da un sigillo più antico del villaggio. Durante una crisi, Tomaso raggiunse la cappella quando il livello dell’acqua si abbassò abbastanza da scoprire la punta del campanile. Cercando una soluzione per la comunità, ruppe il sigillo e liberò la presenza.
 
-La Voce non nacque come un mostro. Era il residuo di tutte le promesse, i lutti e i nomi pronunciati davanti al lago, ma il sigillo la teneva separata dal villaggio. Per richiuderla serviva una persona che conoscesse il rituale e accettasse di restare nella cripta fino alla conclusione. Elian si offrì. Tomaso richiuse il passaggio mentre Elian era ancora dentro; la Voce lo consumò e ne cancellò il nome dalla memoria condivisa. Elian fu il primo sacrificio, non il modello del ruolo di Custode.
+La Voce non nacque come un mostro. Era il residuo di tutte le promesse, i lutti e i nomi pronunciati davanti al lago, ma il sigillo la teneva separata dal villaggio. È l'avatar di una divinità molto più antica, che continua a esistere altrove. Per richiuderla serviva una persona che conoscesse il rituale e accettasse di restare nella cripta fino alla conclusione. Elian si offrì. Tomaso richiuse il passaggio mentre Elian era ancora dentro; la Voce lo consumò e ne cancellò il nome dalla memoria condivisa. Elian fu il primo sacrificio, non il modello del ruolo di Custode.
 
 Il sacrificio stabilì la Voce nella cripta e lasciò un residuo del ricordo dell’ultima persona offerta. Quando il sigillo si indebolisce, la Voce restituisce quel residuo come immagine, frase, gesto o oggetto. Il villaggio ha già dimenticato la vittima e interpreta quindi il residuo come un indizio sulla prossima persona da sacrificare. La Voce non indica davvero nessuno: le basta ricevere un’offerta compresa e pronunciata da chi viene consegnato. Tomaso ha trasformato l’equivoco in una procedura politica e il Custode successivo ha ereditato il compito di interpretare i segni, condurre il passaggio e amministrare il rito.
 
-Quando il sigillo si indebolisce, il lago si ritira fino a lasciare emergere la campana e rendere raggiungibile la torre. Se il villaggio non offre nessuno entro il terzo rintocco, la Voce comincia a divorare autonomamente volti, legami e infine la storia comune. Il prosciugamento non è la conseguenza del rito: è la finestra in cui il rito può essere compiuto o spezzato.
+Quando il sigillo si indebolisce, il lago si ritira a ogni rintocco: prima si vede solo la punta del campanile con la campana, poi un terzo della torre, poi la cima calpestabile dalla barca; dopo il terzo rintocco la torre è tutta fuori e le scale scendono asciutte fino alla cripta. Se il villaggio non offre nessuno entro il terzo rintocco, la Voce comincia a divorare autonomamente volti, legami e infine la storia comune. Il prosciugamento non è la conseguenza del rito: è la finestra in cui il rito può essere compiuto o spezzato.
 
 Il primo custode, Elian Varda, accettò volontariamente. La comunità non avrebbe dovuto dimenticarlo: avrebbe dovuto ricordare il suo nome e raccontare la sua scelta. Invece, quando il dolore divenne insopportabile, gli anziani cancellarono il suo nome dai registri e trasformarono il rito in una tradizione anonima.
 
@@ -25,7 +25,7 @@ Da quel momento la campana ha mantenuto il villaggio in una stabilità falsa. Og
 
 ## La persona designata
 
-La persona designata è **Mara Varda**, discendente di Elian e archivista del villaggio. Mara ha cominciato a ricordare la notte originaria attraverso sogni ricorrenti. Il suo sangue non la rende predestinata: il ciclo fa emergere il nome più vicino alla storia ancora irrisolta del patto e il villaggio lo interpreta attraverso i propri registri e le proprie tradizioni. Il nome di Mara è l'ultimo legame vivente con il primo custode.
+La persona designata è **Mara Varda**, discendente di Elian e archivista del villaggio. Mara ha cominciato a ricordare la notte originaria attraverso sogni ricorrenti. Il suo sangue non la rende predestinata: il ciclo fa emergere il nome più vicino alla storia ancora irrisolta del patto e il villaggio lo interpreta attraverso i propri registri e le proprie tradizioni. Il nome di Mara è l'ultimo legame vivente con il primo custode. Mara è figlia di Elian: aveva circa 5 anni quando lui fu sacrificato e nessuno, lei compresa, lo ricorda. Tomaso, compagno di Elian, la conosce da sempre e manipola la designazione su di lei perché è l'ultima parente di Elian.
 
 La designazione non è una lista magica e non è un ordine della Voce Profonda. È una procedura umana nata dopo la cancellazione del nome di Elian: gli abitanti cercano il legame più evidente con il debito originario, preparano quella persona al rito e chiamano questo processo "essere designati". Il Custode interpreta i segni e organizza il passaggio, ma non può scegliere da solo chi offrire.
 
@@ -35,9 +35,9 @@ Mara non deve essere trattata come una vittima passiva. Vuole essere liberata da
 
 Il custode è **Ivo**, marito di Alba e padre di La Promessa, Il Debito e Nera. Il villaggio lo chiama con titoli diversi perché nessuno ricorda più il suo vero nome. Ha ereditato il ruolo anni dopo il primo sacrificio di Elian. Il Custode non è automaticamente la vittima e non sceglie da solo chi offrire: interpreta i residui restituiti dalla Voce, organizza il passaggio e sostiene la procedura davanti alla comunità. Quando Il Debito fu indicato come vittima, Ivo creò un’urgenza falsa: spinse Alba a credere che una decisione immediata fosse l’unico modo per impedire alla Voce di divorare tutti i ricordi. Il sacrificio avvenne circa vent’anni fa, quando i tre figli erano adolescenti.
 
-Tomaso è vincolato alla Voce perché fu lui a rompere il sigillo originario. Il vincolo gli permette di ricordare i sacrificati e riconoscere che i segni sono residui del passato, mentre il villaggio dimentica ogni vittima. Il prezzo è non poter sottrarsi alla memoria della propria responsabilità. Tomaso ha usato questa posizione per presentare i residui come ordini della Voce e mantenere il controllo della comunità.
+Tomaso è vincolato alla Voce perché fu lui a rompere il sigillo originario. Elian era il suo compagno: Tomaso ricorda il suo nome, non il suo volto, ed è stato lui a richiudere il passaggio con Elian dentro. Il vincolo gli permette di ricordare i sacrificati e riconoscere che i segni sono residui del passato, mentre il villaggio dimentica ogni vittima. Il prezzo è non poter sottrarsi alla memoria della propria responsabilità. Tomaso ha usato questa posizione per presentare i residui come ordini della Voce e mantenere il controllo della comunità.
 
-Il Ritorno aveva ricostruito la stessa verità prima dell’esilio: nella cappella aveva riconosciuto che gli indizi appartenevano alle vittime già dimenticate e non designavano automaticamente il prossimo sacrificio. Tomaso lo fece allontanare perché la sua testimonianza avrebbe distrutto la legittimità della procedura. L’indebolimento del sigillo gli ha sottratto la memoria cosciente dell’indagine, ma gli ha lasciato frammenti, reazioni fisiche al lago e la certezza che Tomaso gli abbia mentito.
+Il Ritorno aveva ricostruito la stessa verità prima dell’esilio: nella cappella aveva riconosciuto che gli indizi appartenevano alle vittime già dimenticate e non designavano automaticamente il prossimo sacrificio. Tomaso lo fece allontanare perché la sua testimonianza avrebbe distrutto la legittimità della procedura. L’indebolimento del sigillo gli ha sottratto la memoria cosciente dell’indagine, ma gli ha lasciato frammenti, reazioni fisiche al lago e la certezza che Tomaso gli abbia mentito. Circa 25 anni fa il villaggio offrì Lia, figlia piccola di Marta, e la dimenticò; il residuo era la sua bicicletta cigolante. Marta lo riconobbe, lo disse in assemblea e tentò di fermare il rito; Ivo, già Custode, condusse il passaggio. Quella notte la Voce divorò ricordi del villaggio, che incolpò Marta; la sua casa fu chiusa dall'esterno e poi demolita. Gemma e Dario le sono rimasti vicini.
 
 Nera si offrì per proteggere Il Debito e propose di prendere il suo posto. Nera, Alba e Ivo organizzarono il travestimento; Il Debito fuggì prima di essere visto entrare nel rito. Il villaggio non vide la sostituzione e conservò versioni diverse: tutti ricordarono di aver perso un figlio, ma nessuno seppe quale, mentre un altro figlio era partito per il dolore. Alba tentò di interrompere il rito, venne ferita dai resti annegati e fu trattenuta da Ivo mentre Nera veniva presa. Ivo le disse che, spezzando il sigillo, Nera sarebbe tornata. Era una menzogna: il sigillo restituisce i ricordi, non i morti.
 
@@ -79,7 +79,7 @@ Quando il sigillo si indebolisce, la separazione tra ricordo conservato e ricord
 
 - **Primo rintocco:** una persona perde un volto. Sa che qualcuno è importante, ma non riesce più a riconoscerlo.
 - **Secondo rintocco:** viene perso un legame. Una promessa, un amore o una parentela diventa priva di significato.
-- **Terzo rintocco:** la storia comune si dissolve. Il villaggio resta abitabile, ma non è più una comunità: le persone non ricordano perché si appartengono.
+- **Terzo rintocco:** il lago è secco e la torre è fuori; apre la decisione. Se i PG non agiscono, la storia comune si dissolve e il villaggio resta abitabile ma non è più una comunità.
 
 I rintocchi non cancellano automaticamente i PG dalle loro schede o dalla memoria del tavolo. Colpiscono la fiction e devono essere descritti con immagini concrete, lasciando ai giocatori spazio per decidere cosa il personaggio perde o tenta di difendere.
 
@@ -107,18 +107,18 @@ La persona scelta perde identità e ricordi, viene condotta nella cripta attrave
 
 La soluzione quasi impossibile è ricostruire il nome di Elian, pronunciarlo insieme e far ricordare al villaggio la colpa originaria. In questo modo il patto perde il nutrimento della rimozione. Quando il patto si spezza, Alba e i PG ricordano Nera tutto insieme, compresa la fuga del Debito, il travestimento, la ferita e la menzogna di Ivo.
 
-Per riuscirci servono tre condizioni: il frammento del sigillo, il registro della notte originaria e una testimonianza volontaria di Mara o Ivo. Inoltre ogni PG deve offrire un ricordo personale importante. La Voce restituisce la memoria collettiva, ma prende quei ricordi in cambio; uno dei PG potrebbe restare legato al lago se il gruppo non accetta di pagare il costo completo.
+Per riuscirci bisogna sciogliere quattro nodi: come funziona il rito (il nome da solo non è un ordine), i segni come residui dei sacrificati, il patto che si nutre dell'oblio, la storia di Nera e Ivo. Poi si pronuncia il nome di Elian insieme e ogni PG offre in modo permanente un ricordo fondamentale; la Voce prende quei ricordi in cambio, l'avatar viene eliminato, la torre crolla e la campana resta spaccata e muta sul fondo. Il lago resta lago, sulla riva sbocciano nontiscordardime e tutti ricordano tutto.
 
 La terza via non è una ricompensa per aver trovato tutti gli indizi. È una scelta disperata per salvare la comunità senza consegnare una persona, accettando però una ferita personale permanente.
 
 ## La sequenza reale della scena finale
 
-1. Il custode rivela che il terzo rintocco è già iniziato e guida il gruppo, se i PG lo consentono, dalla campana esposta fino alla cripta.
+1. Il terzo rintocco apre la decisione: se i PG scelgono il true ending, Ivo li guida (se lo accettano) dalla cima della torre fino alla cripta.
 2. Mara chiede che il suo silenzio non venga trattato come consenso.
 3. Tomaso dichiara la propria posizione politica davanti al villaggio.
-4. La Voce chiede al party quale versione dei fatti intende rendere pubblica.
+4. La Voce, nel true ending, usa il Ricordo III di ogni PG come tentazione prima della dichiarazione.
 5. Il gruppo deve dichiarare ad alta voce cosa intende salvare e quale costo accetta.
-6. La campana reagisce alla dichiarazione, non al tiro.
+6. La campana reagisce alla dichiarazione, non al tiro. Se viene colpita, si frattura, rintocca debolmente e si rigenera senza contare nella scala.
 7. Il master descrive la conseguenza scelta senza punire il gruppo per aver giocato il dilemma con serietà.
 
 ## Cosa non fare
@@ -134,7 +134,7 @@ La terza via non è una ricompensa per aver trovato tutti gli indizi. È una sce
 - Il master sa spiegare in due frasi cosa perde il villaggio e cosa perde la persona scelta.
 - Mara ha almeno una scena in cui parla prima della decisione.
 - Ivo e Tomaso sostengono posizioni comprensibili ma non identiche.
-- La terza via richiede almeno tre elementi già raggiungibili durante l'indagine.
+- La terza via richiede i quattro nodi, tutti raggiungibili durante l'indagine.
 - Il climax può funzionare anche se i PG hanno trovato solo gli indizi core.
 
 ## Note correlate

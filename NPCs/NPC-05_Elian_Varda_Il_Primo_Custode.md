@@ -4,17 +4,18 @@
 
 ## Scheda 30 secondi
 - Ruolo in storia: primo sacrificato, origine del ruolo di Custode e del patto con la Voce Profonda
-- Stato: morto da generazioni; esiste solo come nome cancellato, frammento e residuo che riaffiora
+- Stato: morto 30 anni fa; esiste solo come nome cancellato, frammento e residuo che riaffiora
+- Legami: compagno di Tomaso e padre di Mara
 - Obiettivo (all'epoca): richiudere la Voce Profonda dopo che Tomaso ruppe il sigillo antico
 - Segreto utile: il suo sacrificio fu volontario e consapevole, non un ordine della campana; la comunità lo trasformò in tradizione anonima solo dopo, per dolore
-- Legame vivente: Mara Varda (NPC-02) è sua discendente e l'ultimo legame vivo con lui
+- Legame vivente: Mara Varda (NPC-02) è sua figlia e l'ultimo legame vivo con lui
 - Perché conta ora: pronunciare il suo nome insieme, in pubblico, toglie al patto il nutrimento della rimozione — è la "soluzione quasi impossibile" della terza via
 
 ## Cosa accadde davvero
 
-Trent'anni fa (nella cronologia interna, molto prima della famiglia di Ivo e Alba) il lago restituì i morti dopo una piena. Il villaggio scoprì che sotto la cappella viveva la Voce Profonda, tenuta separata da un sigillo più antico di Varda stessa. Durante una crisi, Tomaso raggiunse la cappella quando il livello dell'acqua si abbassò abbastanza da scoprire la punta del campanile: cercando una soluzione per la comunità, ruppe il sigillo e liberò la presenza.
+Trent'anni fa il lago restituì i morti dopo una piena. Il villaggio scoprì che sotto la cappella viveva la Voce Profonda, tenuta separata da un sigillo più antico di Varda stessa. Durante una crisi, Tomaso raggiunse la cappella quando il livello dell'acqua si abbassò abbastanza da scoprire la punta del campanile: cercando una soluzione per la comunità, ruppe il sigillo e liberò la presenza.
 
-Serviva qualcuno che conoscesse il rituale e accettasse di restare nella cripta fino alla conclusione. Elian si offrì. Tomaso richiuse il passaggio mentre Elian era ancora dentro; la Voce lo consumò e ne cancellò il nome dalla memoria condivisa. Elian fu il primo sacrificio — non il modello del ruolo di Custode che Ivo interpreta oggi.
+Serviva qualcuno che conoscesse il rituale e accettasse di restare nella cripta fino alla conclusione. Elian si offrì. Tomaso, suo compagno, richiuse il passaggio mentre Elian era ancora dentro; la Voce lo consumò e ne cancellò il nome dalla memoria condivisa. Elian fu il primo sacrificio — non il modello del ruolo di Custode che Ivo interpreta oggi.
 
 La comunità non avrebbe dovuto dimenticarlo: avrebbe dovuto ricordare il suo nome e raccontare la sua scelta. Invece, quando il dolore divenne insopportabile, gli anziani cancellarono il suo nome dai registri e trasformarono il rito in una tradizione anonima. Da quel gesto di rimozione nasce ogni designazione successiva, compresa quella di Mara.
 
@@ -27,7 +28,7 @@ Il suo nome non annulla il costo del sigillo indebolito né riporta indietro nes
 ## Uso al tavolo
 - Frammento nel registro (handout): la pagina strappata e la nota a margine — "nessuno scriva il nome. Se il nome resta, il patto resta" — sono la prima traccia concreta della sua esistenza
 - Frase firma incisa/residuo: "Un custode non è una condanna. Un custode è una memoria tenuta da una sola persona quando tutti gli altri hanno scelto di lasciarla cadere."
-- Momento di emersione: durante "La scelta" il gruppo vede insieme il nome di Elian tra gli elementi del dilemma; nel finale positivo i PG possono pronunciarlo insieme ad alta voce
+- Momento di emersione: nel true ending i PG pronunciano insieme il nome di Elian ad alta voce davanti alla Voce
 - Mara può riconoscerlo come antenato solo se i PG collegano registro, cera nera e cripta; non lo sa spontaneamente all'inizio
 - Non dargli mai una voce diretta in scena: parla solo attraverso residui, registri e ciò che Mara o il custode riferiscono
 

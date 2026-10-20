@@ -1,28 +1,28 @@
 # Il Lago Sommerso
 
-> Da riallineare a [[Sessioni/Master/SES-00_Andamento]]: il lago si ritira a ogni rintocco, non è già secco all'inizio.
+> Allineato a [[Sessioni/Master/SES-00_Andamento]]: il lago si ritira a ogni rintocco.
 
 ## Identità evocativa
-- Immagine dominante: il lago si è ritirato lasciando una distesa di fango, barche inclinate e la cappella in piedi al centro
-- Sensazione principale: silenzio innaturale interrotto da gocce che cadono verso l'alto
-- Elemento disturbante: le impronte nel fango arrivano fino all'acqua scomparsa, ma nessuna torna indietro
+- Immagine dominante: un lago basso e scuro con la punta del campanile al centro; a ogni rintocco l'acqua scende e emerge più torre
+- Sensazione principale: increspature sottili e regolari che partono dal campanile, come se la campana vibrasse piano e senza mai fermarsi
+- Elemento disturbante: gli abitanti si affacciano a guardare e restano un momento in più del necessario
 
 ## Blocco operativo
-- Funzione narrativa del luogo: introdurre l'alterazione dei ricordi e offrire l'accesso alla cappella
-- Cosa i PG possono ottenere qui: testimonianze contraddittorie, il simbolo del sigillo e una via per il campanile
+- Funzione narrativa del luogo: mostrare il tempo che passa attraverso il livello dell'acqua e offrire l'accesso in barca alla cima della torre
+- Cosa i PG possono ottenere qui: testimonianze di Dario, Ottavio e Pino e un'idea dello stato del sigillo
 - Rischio principale qui: il villaggio reagisce al panico e può isolare la persona designata
-- Uscite o transizioni possibili: cappella riemersa, casa del registro, sentiero del custode, discesa nel fondale
+- Uscite o transizioni possibili: piazza, Porto del Fondo, barca verso la torre (solo dopo il secondo rintocco)
 
 ## Interazioni chiave
 | Azione PG | Risposta ambiente | Nuova opportunità |
 |---|---|---|
-| Esplorare | il fango conserva oggetti che gli abitanti non ricordano | recuperare un frammento del sigillo |
+| Esplorare | l'acqua restituisce oggetti che gli abitanti non ricordano | trovare un indizio sensoriale (bicicletta, ninna nanna) |
 | Indagare | tre abitanti danno tre versioni sincere della stessa notte | confrontare le versioni e trovare la pagina mancante |
-| Forzare | le campane delle case rispondono da sole | seguire il suono fino alla cappella, con escalation immediata |
+| Forzare | le increspature si intensificano | avvicinarsi al campanile prima del tempo e scoprire che non si può scendere |
 
 ## Indizi nel luogo
 - Core clue presente: ogni abitante colpito dal rintocco perde prima un volto, poi il legame con quel volto
-- Extra clue possibile: una barca contiene il nome della persona sacrificata inciso dall'interno
+- Extra clue possibile: Dario conferma che le increspature iniziano da ben prima dell'assemblea
 - Falso indizio gestibile: alcuni accusano il custode di aver provocato il fenomeno; il custode lo ha solo contenuto
 
 ## Appendice meccanica (opzionale)

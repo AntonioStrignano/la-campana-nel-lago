@@ -2,7 +2,7 @@
 
 > Pubblico: misto. La sezione **Segreto del master** non va consegnata ai giocatori.
 
-## Identita
+## Identità
 
 Ada è un'archivista originaria di Varda. Osserva dettagli, omissioni e contraddizioni prima ancora delle persone che li hanno lasciati. Ivo, il Custode, le ha insegnato a leggere ciò che gli altri vogliono dimenticare.
 
@@ -34,7 +34,7 @@ Ivo ha riconosciuto in Ada gesti di Nera e l'ha trasformata inconsapevolmente ne
 
 ## Frase
 
-> Se e stato scritto, qualcuno voleva che venisse ricordato.
+> Se è stato scritto, qualcuno voleva che venisse ricordato.
 
 ## Note correlate
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
