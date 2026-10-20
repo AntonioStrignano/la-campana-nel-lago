@@ -27,6 +27,10 @@ Vault operativo progettato per one-shot brevi ad alta resa: investigazione + azi
 
 Il canone dello scenario è [[Sessioni/Master/SES-00_Andamento]]: se un altro documento lo contraddice, vale quello.
 
+## Preparazione dello scenario
+
+Per lo stato delle attività e i collegamenti ai materiali da preparare, consulta [[TODO_La_Campana]].
+
 ## Convenzione nomi file
 
 - Usare codici semantici stabili, senza numerazioni a salti: `TIPO-NN_NomeBreve.md`.

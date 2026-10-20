@@ -45,7 +45,12 @@ Si svolge nella cripta, dopo gli zombie acquatici. L'avatar è presenza nell'ari
 - Stat blocco essenziale (se serve renderla fisica): resistente, non aggressiva salvo mostrare presenza; vulnerabile solo quando un PG nomina ad alta voce un ricordo condiviso.
 - Trigger scenici: rintocchi (primo/secondo/terzo), rottura del sigillo, pronuncia condivisa del nome di Elian.
 
+## Verità nascosta: estrazione dalla Matrix (solo master)
+
+Nella sottotrama successiva, quando la Voce Profonda "mangia" una persona la porta fuori dalla Matrix. Questa verità riguarda il dopo: durante la oneshot la Voce resta quella che i personaggi incontrano e nessun indizio deve anticipare l'estrazione.
+
 ## Note correlate
+- Retroscena campagna successiva (solo master, mai in oneshot): [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita]]
 - [[Oggetti/OBJ-01_La_Campana]]
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]
 - [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]]

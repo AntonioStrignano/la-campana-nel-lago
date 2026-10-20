@@ -33,6 +33,32 @@
 - Poteri/abilità rilevanti: può mobilitare la comunità e creare un vantaggio logistico
 - Soglie danno/resa/fuga: cambia posizione quando i PG mostrano un costo concreto per la terza via
 
+## Retroscena campagna (solo master)
+> Non entra in oneshot. I PG non devono scoprirlo né sospettarlo: svolta di plot molto avanti nella campagna successiva (stesso mondo, altri PG). Nessun file giocabile va modificato.
+
+**Backstory**
+- Il mondo della oneshot è una Matrix. I PG non ricevono indizi su questa verità e vivono gli eventi di Varda come reali.
+- La Voce Profonda porta fuori dalla Matrix le persone che "mangia": l'estrazione avviene dopo gli eventi della oneshot.
+- Un'organizzazione archivia le schede dei PG. Il respawn al livello 0 è legato alla Prova di Shadowdark; chi supera la Prova passa al livello 1.
+- Nella verità nascosta, il sigillo mantiene le persone nella Matrix; il rito locale serve a mantenerlo integro. I PG e gli abitanti non conoscono questo significato.
+
+**Ruolo di Tomaso**
+- Tomaso resta una persona normale, non un costrutto. È un membro marginale dell'organizzazione, incaricato di mantenere integro il sigillo di Varda.
+- Non conosce la Matrix né il significato reale del sigillo. Crede sinceramente che la Voce Profonda sia malvagia e che il sigillo protegga la città e tenga tutti in vita.
+- La sua funzione, le scene e le informazioni che i PG possono ottenere durante la oneshot restano invariate. Il retroscena Matrix non deve essere suggerito o rivelato al tavolo.
+**Semi per eventuali sviluppi successivi (non usare come indizi nella oneshot)**
+
+**Semi opzionali (solo se leggibili come folklore innocuo)**
+- Frase o gesto del rito identici in ogni città.
+- Un'etichetta, un numero o un codice su campana o lago, che in campagna tornerà come numero di scheda.
+- Qualcuno (Ivo, Nera) con un "prima" vago.
+- Schede dei PG della oneshot visibili più avanti in biblioteca, marcate "archiviata".
+
+**Da decidere**
+- Nome, struttura e scopo preciso dell'organizzazione.
+- Dettagli del respawn oltre alla logica di base della Prova di livello 0 e del passaggio al livello 1.
+- Scelta finale: liberare tutti (il mondo e le persone care sparirebbero) o lasciare tutto com'è.
+
 ## Note correlate
 - [[Sessioni/Master/SES-00_Andamento]]
 - [[PG/Il_Ritorno/PG-05_Marta_Lodi_Il_Ritorno]]

@@ -4,6 +4,7 @@
 
 ## Ordine di lettura consigliato
 
+0. [[TODO_La_Campana]] — stato della preparazione e attività aperte con rimandi ai materiali
 1. [[Sessioni/Master/SES-00_Andamento]] — canone: incipit, fisica della torre, step, rami, tabellone PNG, abitanti casuali
 2. [[Sessioni/Master/SES-06_Verita_La_Campana]] — verità completa dello scenario e dei PNG (da riallineare ad Andamento)
 3. [[Sessioni/Master/SES-04_Regole_Shadowdark]] — foglio rapido delle regole da tenere davanti durante il gioco
@@ -18,4 +19,4 @@ Run sheet, prep, dialoghi e contingenze sono in `Archivio_Grezzo/` in attesa di 
 - [[NPCs/INDICE_NPC]]
 
 ## Da fare
-- Canovaccio scena per scena (espansione narrata di SES-01): non ancora implementato, vedi [[handoff]] per il TODO.
+- Ricostruire i materiali operativi e il canovaccio sulla base del canone attuale: stato e ordine di lavoro in [[TODO_La_Campana]].

@@ -137,6 +137,15 @@ La terza via non è una ricompensa per aver trovato tutti gli indizi. È una sce
 - La terza via richiede i quattro nodi, tutti raggiungibili durante l'indagine.
 - Il climax può funzionare anche se i PG hanno trovato solo gli indizi core.
 
+## Retroscena Matrix (solo master, dopo la oneshot)
+
+Questo retroscena riguarda ciò che succede dopo l'estrazione e non modifica gli eventi, le scoperte o i finali della oneshot. Non va suggerito né rivelato ai giocatori.
+
+- Il mondo in cui si svolge Varda è una Matrix. Quando la Voce Profonda "mangia" una persona, la porta fuori dalla Matrix.
+- Un'organizzazione archivia le schede dei PG. Al livello 0, la Prova di Shadowdark è legata alla logica del respawn; chi supera la Prova passa al livello 1.
+- Tomaso appartiene a questa organizzazione come membro marginale. Gli è stato affidato il compito di mantenere integro il sigillo di Varda, ma non conosce la Matrix né il significato reale del suo incarico. Crede sinceramente che la Voce sia malvagia e che il sigillo protegga tutti.
+- Restano da definire il nome e la struttura dell'organizzazione e i dettagli del respawn oltre alla logica di base della Prova.
+
 ## Note correlate
 
 - [[Sessioni/Master/SES-00_Andamento]]

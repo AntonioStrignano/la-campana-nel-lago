@@ -1,5 +1,13 @@
 # Handoff Operativo
 
+## 2026-10-20 - Allineamento del retroscena Matrix
+
+- Chiarito che la Matrix è una sottotrama master-only successiva all'estrazione: eventi, indizi, scelte e finali della oneshot restano invariati e non devono anticiparla.
+- Allineato il retroscena di Tomaso: persona normale, membro marginale dell'organizzazione, incaricato di proteggere il sigillo, ignaro della Matrix e sinceramente convinto che la Voce sia una minaccia.
+- Registrati nei riferimenti master l'archiviazione delle schede PG, il respawn legato alla Prova di livello 0 e il passaggio al livello 1 per chi la supera.
+- Lasciati aperti nome/struttura dell'organizzazione e dettagli ulteriori del respawn; rimossi dal retroscena attivo l'analogia Nier e le ipotesi non confermate.
+- Verifica Markdown e wikilink da completare.
+
 ## 2026-09-14 - Revisione degli accenti italiani
 
 - Corrette le forme accentate inequivocabili e gli usi del verbo essere individuati nel materiale (`è`, `perché`, `più`, `può`, `verità`, `comunità`, `responsabilità`).
@@ -266,3 +274,11 @@
 - Registrate le quattro verità, la quinta chiave HND-02, la procedura prova/puzzle/retry, i campi live e la finestra dal terzo rintocco.
 - Lasciati come placeholder i puzzle personali e le fonti alternative; non modificato il template riutilizzabile `TMP-05`.
 - Aggiornati gli indici Master e Piste. Verifica errori del nuovo Markdown: nessun errore.
+
+## 2026-10-20 - Creazione todo operativa navigabile
+
+- Creato [[TODO_La_Campana]] in root per raccogliere stato, priorità e attività ancora necessarie per preparare la sessione.
+- Organizzate le attività per nodi, quinta chiave HND-02, coerenza dei finali, materiali da tavolo e chiusura/navigazione del vault; lasciate da decidere insieme le soluzioni dei nodi.
+- Aggiunti collegamenti alla todo in `README.md` e `Sessioni/Master/INDICE_Sessioni_Master.md`.
+- Verificati i 39 wikilink della todo: tutte le destinazioni esistono. La pista non ha una scheda attiva; il riferimento porta al suo indice, che rimanda al tracker e all'archivio.
+- Prossimo passo: progettare insieme il percorso del Nodo 1 in `Sessioni/Master/SES-08_Tracker_Nodi_La_Campana.md`.
