@@ -23,10 +23,10 @@ Non è un cancello per il climax. Se rifiuta, mente o viene trattenuto, Alba o D
 ## Matrice reattiva dettagliata
 | Azione PG | Risposta NPC | Effetto sulla scena | Escalation |
 |---|---|---|---|
-| Fiducia | racconta la notte del sacrificio senza omettere il proprio ruolo, ma nega di averla scelta | il gruppo capisce che il Custode può condurre il rito ma non decidere la vittima | il custode perde il proprio nome |
-| Minaccia | avverte che la campana non distingue paura da memoria | mostra il simbolo del sigillo e chiude il passaggio | secondo rintocco anticipato |
-| Inganno | finge di crederci per portare i PG dalla vittima | offre un indizio vero ma incompleto | la vittima viene attirata nella cripta |
-| Violenza | non reagisce subito, ma il sigillo trasferisce il dolore a un abitante | il conflitto diventa morale e non solo fisico | la comunità inizia a dimenticare i PG |
+| Fiducia | spiega la sequenza del rito e ammette di aver condotto quello di Lia | chiarisce che conduce il passaggio ma non può rendere una persona consenziente | offre la barca se il gruppo la chiede; non anticipa né sospende rintocchi |
+| Minaccia | protegge Mara e avverte che la campana non distingue paura da memoria | può mostrare il sigillo o interrompere la conversazione | la scena si sposta sulla pressione politica di Tomaso; il calendario dei rintocchi non cambia |
+| Inganno | coglie le omissioni ma risponde con un fatto vero e incompleto | lascia un indizio, non una confessione | se i PG non portano prove, tiene nascosto il proprio ruolo nella sostituzione di Nera |
+| Violenza | si difende o si ritira; non trasferisce il dolore su un abitante | il villaggio può chiudere accessi e isolare Mara, senza cancellazioni soprannaturali | costa tempo e fiducia; i clue core restano accessibili tramite altre fonti |
 
 ## Uso al tavolo
 - Frase firma: "Non vi chiederò di essere buoni. Vi chiederò di ricordare chi avete scelto."
@@ -74,7 +74,7 @@ Se i PG collegano la fuga del Debito, il travestimento di Nera, la cicatrice di 
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: difesa media, resistenza alta, nessuna intenzione di uccidere
-- Poteri/abilità rilevanti: può sospendere un rintocco una sola volta cedendo un ricordo personale
+- Poteri/abilità rilevanti: nessun potere sui rintocchi; la sua influenza è sociale e rituale, non può anticipare, fermare o trasferire una cancellazione
 - Soglie danno/resa/fuga: cede quando i PG dimostrano di avere compreso il costo, non quando perde tutti i punti vita
 
 ## Note correlate
@@ -85,3 +85,4 @@ Se i PG collegano la fuga del Debito, il travestimento di Nera, la cicatrice di 
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]
 - [[NPCs/NPC-06_Nera]]
 - [[NPCs/NPC-04_Alba_La_Battelliera]]
+- [[PG/Il_Ritorno/PG-05_Marta_Lodi_Il_Ritorno]]

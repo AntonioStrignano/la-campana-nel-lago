@@ -28,7 +28,7 @@ Il suo nome non annulla il costo del sigillo indebolito né riporta indietro nes
 ## Uso al tavolo
 - Frammento nel registro (handout): la pagina strappata e la nota a margine — "nessuno scriva il nome. Se il nome resta, il patto resta" — sono la prima traccia concreta della sua esistenza
 - Frase firma incisa/residuo: "Un custode non è una condanna. Un custode è una memoria tenuta da una sola persona quando tutti gli altri hanno scelto di lasciarla cadere."
-- Momento di emersione: nel true ending i PG pronunciano insieme il nome di Elian ad alta voce davanti alla Voce
+- Momento di emersione: nel true ending i PG pronunciano insieme il nome di Elian nella cripta, davanti alla Voce; le loro voci risuonano attraverso il campanile e rendono pubblica la memoria al villaggio
 - Mara può riconoscerlo come antenato solo se i PG collegano registro, cera nera e cripta; non lo sa spontaneamente all'inizio
 - Non dargli mai una voce diretta in scena: parla solo attraverso residui, registri e ciò che Mara o il custode riferiscono
 

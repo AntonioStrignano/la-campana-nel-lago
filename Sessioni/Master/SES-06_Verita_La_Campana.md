@@ -5,7 +5,7 @@
 
 ## La verità in una frase
 
-La campana non protegge il villaggio da una creatura: è lo strumento di un patto che tiene la Voce Profonda confinata. Quando il sigillo si indebolisce, la Voce comincia a divorare ricordi casuali. Per ristabilire il sigillo, il villaggio deve consegnarle una persona, che perderà identità e ricordi e morirà annegata quando il lago tornerà a riempire il campanile.
+La campana non protegge il villaggio da una creatura: è lo strumento di un patto che tiene la Voce Profonda confinata. Quando il sigillo si indebolisce, la Voce comincia a divorare ricordi casuali. Nel ciclo attuale, per ristabilire il sigillo il villaggio deve consegnarle una persona consenziente: la vittima perde subito identità e ricordi e muore nella prima ondata d'acqua. La torre e la cripta si riempiono completamente solo alla fine della finestra di circa 20 minuti; se il patto si spezza prima, l'acqua si ferma ma la vittima resta morta.
 
 ## Cosa accadde davvero
 
@@ -25,9 +25,11 @@ Da quel momento la campana ha mantenuto il villaggio in una stabilità falsa. Og
 
 ## La persona designata
 
-La persona designata è **Mara Varda**, discendente di Elian e archivista del villaggio. Mara ha cominciato a ricordare la notte originaria attraverso sogni ricorrenti. Il suo sangue non la rende predestinata: il ciclo fa emergere il nome più vicino alla storia ancora irrisolta del patto e il villaggio lo interpreta attraverso i propri registri e le proprie tradizioni. Il nome di Mara è l'ultimo legame vivente con il primo custode. Mara è figlia di Elian: aveva circa 5 anni quando lui fu sacrificato e nessuno, lei compresa, lo ricorda. Tomaso, compagno di Elian, la conosce da sempre e manipola la designazione su di lei perché è l'ultima parente di Elian.
+La persona designata è **Mara Varda**, discendente di Elian e archivista dei registri civici correnti del villaggio. Mara ha cominciato a ricordare la notte originaria attraverso sogni ricorrenti. Il suo sangue non la rende predestinata: il ciclo fa emergere residui legati alla storia irrisolta del patto, ma non sceglie una vittima. Mara è l'ultimo legame vivente con il primo custode; è figlia di Elian, aveva circa 5 anni quando lui fu sacrificato e nessuno, lei compresa, ne conserva il ricordo cosciente. Tomaso, compagno di Elian, propone Mara all'assemblea perché è l'ultima parente di Elian e presenta la proposta come conseguenza dei segni.
 
-La designazione non è una lista magica e non è un ordine della Voce Profonda. È una procedura umana nata dopo la cancellazione del nome di Elian: gli abitanti cercano il legame più evidente con il debito originario, preparano quella persona al rito e chiamano questo processo "essere designati". Il Custode interpreta i segni e organizza il passaggio, ma non può scegliere da solo chi offrire.
+La designazione non è una lista magica e non è un ordine della Voce Profonda. È una procedura umana nata dopo la cancellazione del nome di Elian. In questa sessione Tomaso propone Mara e porta la proposta davanti all'assemblea; gli abitanti possono ratificarla, contestarla o rifiutarsi di seguirla. Non c'è un voto formale né una scelta soprannaturale: Tomaso risponde della proposta, la comunità della sua adesione e il Custode conduce il passaggio senza poter imporre l'offerta.
+
+Mara custodisce e cataloga i registri civici correnti; Ada è una ricercatrice storica, allieva di Ivo, che analizza le omissioni nei documenti più antichi. Non sono entrambe archiviste dello stesso ufficio: Mara rende accessibili i registri, Ada ne confronta grafie e cronologie.
 
 Mara non deve essere trattata come una vittima passiva. Vuole essere liberata dal ruolo, ma rifiuta di essere salvata al prezzo di una bugia. Se i PG scelgono di consegnarla, il villaggio sopravvive, lei perde identità e ricordi e muore quando il lago torna a riempire il campanile. Se scelgono di proteggerla senza trovare un'alternativa, la Voce continua a divorare ricordi e il terzo rintocco colpisce l'intera comunità.
 
@@ -81,7 +83,7 @@ Quando il sigillo si indebolisce, la separazione tra ricordo conservato e ricord
 - **Secondo rintocco:** viene perso un legame. Una promessa, un amore o una parentela diventa priva di significato.
 - **Terzo rintocco:** il lago è secco e la torre è fuori; apre la decisione. Se i PG non agiscono, la storia comune si dissolve e il villaggio resta abitabile ma non è più una comunità.
 
-I rintocchi non cancellano automaticamente i PG dalle loro schede o dalla memoria del tavolo. Colpiscono la fiction e devono essere descritti con immagini concrete, lasciando ai giocatori spazio per decidere cosa il personaggio perde o tenta di difendere.
+Ai primi due rintocchi ogni giocatore barra sulla scheda rispettivamente Ricordo I e Ricordo II: il ricordo colpito è quello già scritto, non uno scelto sul momento. Il giocatore decide come interpretarne l'assenza e come descriverla in fiction. La perdita non cancella informazioni necessarie né invalida decisioni già prese; restano validi i limiti e i segnali concordati al tavolo. Il terzo rintocco non barra Ricordo III, che resta disponibile fino alla tentazione della Voce.
 
 ## Il ruolo di Tomaso e del party
 
@@ -101,11 +103,11 @@ Questa è una scelta, anche se il gruppo la vive come rifiuto di scegliere.
 
 I PG possono nominare una persona e consegnarla al rito. La campana accetta solo una scelta pronunciata ad alta voce e compresa da chi viene nominato. Mara può accettare, Ivo può offrirsi, oppure i PG possono tentare di indicare qualcun altro.
 
-La persona scelta perde identità e ricordi, viene condotta nella cripta attraverso il campanile e consegnata nel cerchio di sale nero. Solo allora il lago torna a riempire la torre: la Voce e nutrita, la persona muore annegata e il villaggio la dimentica. Il villaggio conserva memoria e identità, ma il gruppo sa esattamente chi ha consegnato e perché.
+La persona scelta perde identità e ricordi, viene condotta nella cripta attraverso il campanile e consegnata nel cerchio di sale nero. Nel ciclo attuale una prima ondata d'acqua la annega subito; il livello continua a salire e la torre si riempie completamente alla fine della finestra. Se la Terza Via riesce prima, l'acqua si ferma, il villaggio ricorda la vittima e lei resta morta. Se la finestra scade, la Voce è nutrita e il villaggio conserva memoria e identità, ma dimentica la persona consegnata; il gruppo sa chi ha scelto e perché.
 
 ### Terza via: ricordare tutti
 
-La soluzione quasi impossibile è ricostruire il nome di Elian, pronunciarlo insieme e far ricordare al villaggio la colpa originaria. In questo modo il patto perde il nutrimento della rimozione. Quando il patto si spezza, Alba e i PG ricordano Nera tutto insieme, compresa la fuga del Debito, il travestimento, la ferita e la menzogna di Ivo.
+La soluzione quasi impossibile è ricostruire il nome di Elian e pronunciarlo insieme nella cripta, davanti alla Voce. Le voci dei PG risuonano attraverso il campanile e raggiungono il villaggio: la dichiarazione è pubblica perché viene condivisa da più persone e udita dalla comunità, non perché i PG debbano tornare in piazza. In questo modo il patto perde il nutrimento della rimozione. Quando il patto si spezza, Alba e i PG ricordano Nera tutto insieme, compresa la fuga del Debito, il travestimento, la ferita e la menzogna di Ivo.
 
 Per riuscirci bisogna sciogliere quattro nodi: come funziona il rito (il nome da solo non è un ordine), i segni come residui dei sacrificati, il patto che si nutre dell'oblio, la storia di Nera e Ivo. Poi si pronuncia il nome di Elian insieme e ogni PG offre in modo permanente un ricordo fondamentale; la Voce prende quei ricordi in cambio, l'avatar viene eliminato, la torre crolla e la campana resta spaccata e muta sul fondo. Il lago resta lago, sulla riva sbocciano nontiscordardime e tutti ricordano tutto.
 
@@ -142,6 +144,7 @@ La terza via non è una ricompensa per aver trovato tutti gli indizi. È una sce
 Questo retroscena riguarda ciò che succede dopo l'estrazione e non modifica gli eventi, le scoperte o i finali della oneshot. Non va suggerito né rivelato ai giocatori.
 
 - Il mondo in cui si svolge Varda è una Matrix. Quando la Voce Profonda "mangia" una persona, la porta fuori dalla Matrix.
+- Ivo conosce il rito locale, ma non la Matrix né l'estrazione compiuta dalla Voce. Crede che Nera sia morta; la promessa fatta ad Alba sul suo ritorno era una menzogna consapevole.
 - Un'organizzazione archivia le schede dei PG. Al livello 0, la Prova di Shadowdark è legata alla logica del respawn; chi supera la Prova passa al livello 1.
 - Tomaso appartiene a questa organizzazione come membro marginale. Gli è stato affidato il compito di mantenere integro il sigillo di Varda, ma non conosce la Matrix né il significato reale del suo incarico. Crede sinceramente che la Voce sia malvagia e che il sigillo protegga tutti.
 - Restano da definire il nome e la struttura dell'organizzazione e i dettagli del respawn oltre alla logica di base della Prova.

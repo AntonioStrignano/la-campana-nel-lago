@@ -41,6 +41,7 @@ La promessa che Elio ricorda apparteneva inizialmente a Nera. Dopo la sua cancel
 - [[PG/Il_Debito/PG-04_Nino_Varda_Il_Debito]]
 - [[Sessioni/Master/SES-00_Andamento]]
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita]]
 - [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]]
 - [[PG/INDICE_PG_La_Campana]]
 - [[NPCs/NPC-06_Nera]]

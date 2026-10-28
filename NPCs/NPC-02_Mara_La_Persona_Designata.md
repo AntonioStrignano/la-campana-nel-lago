@@ -1,22 +1,22 @@
 # Mara Varda, la Persona Designata
 
 ## Scheda 30 secondi
-- Ruolo in storia: figlia di Elian (aveva circa 5 anni quando fu sacrificato, nessuno lo ricorda) e ultima sua parente; prima candidata a ricevere il vincolo
+- Ruolo in storia: figlia di Elian (aveva circa 5 anni quando fu sacrificato, nessuno lo ricorda), ultima sua parente e custode dei registri civici correnti; prima candidata proposta da Tomaso per il vincolo
 - Sogni: ricorrenti, mostrano frammenti della notte originaria
 - Voce/atteggiamento: concreta, stanca, ironica quando ha paura; non chiede ai PG di salvarla a ogni costo
 - Legame con i PG: Mara ha chiesto a La Voce di testimoniare davanti al villaggio che il suo silenzio non vale come consenso; ha chiesto a La Memoria di verificare i registri senza fidarsi delle versioni ufficiali
 - Obiettivo immediato: impedire che la comunità decida per lei senza ricordare la verità
-- Segreto utile: ha capito che la designazione è una decisione politica del villaggio, ma non sa ancora quale colpa originaria il suo nome stia coprendo; non sa che Tomaso, che la conosce da sempre, la manipola perché è l'ultima parente di Elian
+- Segreto utile: ha capito che la designazione è una proposta politica di Tomaso presentata come lettura dei segni, ma non sa quale colpa originaria il suo nome stia coprendo né che Tomaso la propone perché è l'ultima parente di Elian
 - Reazione se aiutato: chiede ai PG di dire davanti a tutti quale costo intendono accettare
 - Reazione se ostacolato: cerca di raggiungere la barca da sola per riprendere il controllo del rito
 
 ## Matrice reattiva dettagliata
 | Azione PG | Risposta NPC | Effetto sulla scena | Escalation |
 |---|---|---|---|
-| Fiducia | racconta il proprio ricordo completo | il gruppo comprende che salvarla non equivale a risolvere il patto | offre volontariamente un ricordo alla campana |
-| Minaccia | smette di collaborare ma non fugge | il custode prende le sue difese | la comunità sceglie al posto dei PG |
-| Inganno | riconosce la bugia dal nome che il PG usa | rivela un dettaglio vero per costringere il gruppo a esporsi | il prossimo rintocco colpisce il legame con un alleato |
-| Violenza | non combatte, ma pronuncia il nome del PG che l'ha colpita | trasferisce il conflitto sul piano della responsabilità | il villaggio interpreta il gesto come un nuovo legame con il rito |
+| Fiducia | racconta un frammento del sogno e chiarisce che non ha acconsentito | il gruppo comprende che salvarla non equivale a risolvere il patto | può chiedere a Viola di riportare la sua posizione, senza offrire ricordi |
+| Minaccia | interrompe la conversazione e cerca un luogo sicuro | Ivo o Viola possono aiutarla a tornare in assemblea | Tomaso può sfruttare l'assenza per parlare al posto suo; nessun rintocco viene anticipato |
+| Inganno | chiede quale fatto i PG stiano evitando di dire | rivela un dettaglio del sogno solo se la domanda riguarda la notte originaria | non riconosce magicamente le bugie e non provoca effetti sui ricordi |
+| Violenza | si difende o si allontana; non pronuncia nomi come parte di un potere | il conflitto diventa una scelta di responsabilità | il villaggio reagisce socialmente; nessun legame viene trasferito al rito |
 
 ## Uso al tavolo
 - Frase firma: "Potete salvarmi. Non potete fare finta che questo non sia scegliere."
@@ -25,7 +25,7 @@
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: persona comune, alta determinazione, nessuna capacità offensiva necessaria
-- Poteri/abilità rilevanti: riconosce le alterazioni dei ricordi prima degli altri
+- Poteri/abilità rilevanti: i sogni le lasciano frammenti della notte originaria; non distinguono da soli i fatti e non le restituiscono il ricordo completo di Elian
 - Soglie danno/resa/fuga: non cede per paura; cede solo se il gruppo le nega agency o le promette una soluzione senza costo
 
 ## Note correlate

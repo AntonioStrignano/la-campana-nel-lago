@@ -4,7 +4,7 @@
 
 ## Documenti
 
-Nessun documento attivo: la guida giocatori è in `Archivio_Grezzo/` in attesa di riscrittura.
+- [[Sessioni/Giocatori/PG-00_Guida_La_Campana]] — premessa, limiti, ricordi e aspettative senza spoiler
 
 ## Note correlate
 - [[PG/INDICE_PG_La_Campana]]

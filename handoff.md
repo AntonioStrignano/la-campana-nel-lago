@@ -1,5 +1,133 @@
 # Handoff Operativo
 
+## 2026-10-26 - HND-02 indipendente da Ivo
+
+- Precisato che il documento è nascosto presso il cerchio e si trova seguendo il segnale fisico anche se Ivo è assente.
+
+## 2026-10-26 - Esito della Terza Via dopo l'offerta
+
+- Chiarito che la Terza Via può seguire il good ending: il villaggio ricorda la vittima, che resta morta; il true ending riguarda superstiti e comunità.
+- Aggiunta in HND-01 una lettura per il finale combinato e indicato nel run sheet di non rimettere in scena PNG già morti.
+
+## 2026-10-26 - Reazioni senza cancellazioni forzate
+
+- Allineate le reazioni alla minaccia di Tomaso e agli attacchi contro la Voce: conseguenze sociali o sensoriali, nessuna perdita di memoria fuori dai rintocchi canonici.
+
+## 2026-10-26 - Morte immediata e allagamento differito
+
+- Allineata la scheda della Voce, la verità master, i dialoghi e la prep: la prima ondata uccide la vittima subito; la cripta si riempie solo alla fine della finestra.
+- Se il patto si spezza prima, l'acqua si ferma, il villaggio ricorda la vittima e lei resta morta.
+- Aggiornata la Todo con rete PNG, rintocchi, figure minori e puzzle; livello 0 confermato, statistiche differite al master.
+
+## 2026-10-26 - Rete dei rapporti PNG
+
+- Aggiunta all'indice una matrice dei rapporti personali, familiari, politici e di testimonianza tra i PNG e i PG coinvolti.
+- Esplicitate le distinzioni Ivo/Tomaso su Lia, Ada/Mara negli archivi e Viola/Mara nella decisione, senza introdurre legami nuovi.
+
+## 2026-10-26 - Allineamento delle reazioni di Ivo e Mara
+
+- Rimosse dalle schede le vecchie escalation che anticipavano/sospendevano rintocchi, trasferivano dolore o offrivano ricordi fuori dalla Terza Via.
+- Distinti i registri civici correnti di Mara dalla ricerca storica di Ada e allineata la descrizione pubblica della proposta di Tomaso.
+- Aggiornati NPC-01, NPC-02, NPC-03, scheda di Ada, SES-00 e indice PNG.
+
+## 2026-10-26 - Materiali e ricerca dei puzzle
+
+- Resi eseguibili i quattro puzzle con materiali da tavolo, soluzioni accettabili, hint graduati e tempi obiettivo.
+- Definito il segnale fisico per HND-02 nella cripta; il ritrovamento segue una ricerca dichiarata e non richiede prova né sostituzione da parte di Ivo.
+- Allineati tracker, canone e run sheet.
+
+## 2026-10-26 - Tre PNG di contorno per Varda
+
+- Aggiunti Elvira (venditrice), Pietro (falegname) e Taddeo (addetto al molo) come figure ricorrenti non essenziali, con azioni e ricordi ai tre rintocchi.
+- Aggiornato l'indice PNG; i profili restano nel tabellone SES-00, senza schede autonome né clue core.
+
+## 2026-10-26 - Matrice di memoria dei PNG
+
+- Aggiunta in SES-00 la distinzione per rintocco tra ciò che ricordano, ciò che sanno e ciò che tacciono per i sei PNG ricorrenti.
+- Definiti a parte i limiti di Elian e Nera come figure storiche e le manifestazioni della Voce come entità non umana.
+- I clue core non vengono cancellati da un dettaglio dimenticato.
+
+## 2026-10-26 - Designazione, archivi e memoria pubblica di Elian
+
+- Chiarito che Tomaso propone Mara all'assemblea, che può ratificare o contestare; nessun voto formale o scelta magica.
+- Distinti i registri civici correnti di Mara dalla ricerca storica di Ada.
+- Chiarito che il nome di Elian pronunciato in coro nella cripta risuona al villaggio; corretto anche l'esito ambiguo di Nera nel good ending e reso non conclusivo il risultato 20 d20.
+
+## 2026-10-26 - Regola unica per i ricordi ai rintocchi
+
+- Allineata la verità master a HND-01 e alle schede PG: al primo/secondo rintocco si barrano Ricordo I/II già scritti; il giocatore interpreta l'assenza senza sceglierne un altro al momento.
+- Confermati i limiti di sicurezza e il Ricordo III non barrato al terzo rintocco.
+
+## 2026-10-26 - Ponte tra offerta e Terza Via
+
+- Stabilito che dopo l'offerta la vittima muore subito, l'acqua inizia a salire e la cripta si riempie soltanto alla fine della finestra di 20 minuti.
+- Se il true ending riesce entro la finestra, l'acqua si ferma e il villaggio ricorda la vittima; la vittima non resuscita.
+- Allineati SES-00, HND-01, run sheet e tracker.
+
+## 2026-10-26 - Rifinitura dei clue dei nodi 2 e 3
+
+- Resa esplicita nel Nodo 2 la conferma di Tomaso sul suo uso consapevole dei residui; il Nodo 3 include il sogno di Mara come via per la volontarietà di Elian.
+- Nessuno dei due clue dipende da HND-02 o da una prova riuscita.
+
+## 2026-10-26 - Meccaniche Shadowdark rimandate
+
+- Livello 0 confermato; il master completerà in seguito le schede PG e preparerà il blocco dei resti annegati.
+- Aggiornati Todo, prep e indice master; nessuna statistica è stata inventata.
+
+## 2026-10-26 - Livello di partenza Shadowdark
+
+- Confermato livello 0 per i PG della one-shot.
+- La procedura di generazione livello 0 e il blocco dei resti annegati non sono specificati nei materiali disponibili; la prep lo segnala come lavoro meccanico ancora aperto, senza inventare statistiche.
+
+## 2026-10-26 - Riattivazione dei materiali operativi
+
+- Creati run sheet, contingenze, prep master, dialoghi e guida giocatori attivi, riscritti sul canone corrente.
+- Aggiornati indici master, giocatori e piste, README e Todo; PST-01 resta in archivio perché appartiene alla versione precedente a tre nodi.
+- La prep segnala le schede meccaniche di livello 0 e il blocco nemico come lavoro ancora necessario prima della sessione.
+- Diagnostica Markdown senza errori; scansione di 42 file attivi senza wikilink mancanti; `git diff --check` pulito.
+
+## 2026-10-26 - Allineamento dei finali e della tabella d20
+
+- Allineato HND-01 al finale negativo di SES-00: Ivo e Tomaso ricordano tutto.
+- Accorpate le due descrizioni del good ending in SES-00 conservando cascata, memoria di Ivo, permanenza di oggetti/libri e possibile recupero senza resurrezione.
+- Sostituito il risultato d20 che duplicava Gemma/Dario, mantenendo la regola di non tirarli come incontri casuali.
+- Diagnostica Markdown senza errori e `git diff --check` pulito.
+
+## 2026-10-26 - Attivazione di HND-02
+
+- Riscritto il registro della notte originaria in `Sessioni/Handout/`; il testo non presenta la cancellazione del nome come protezione del patto e mantiene ambigua la contropartita.
+- Aggiornati indice handout, tracker, Todo e matrice: HND-02 è attivo e distinto dai quattro nodi.
+- Diagnostica Markdown senza errori sui documenti appena modificati; prova a secco ancora da fare.
+
+## 2026-10-26 - Prima bozza completa dei nodi
+
+- Resa esplicita nel tracker la regola che i clue core non dipendono da prove riuscite o formulazioni esatte; tiri e puzzle determinano bonus e costi.
+- Completate in bozza fonti, puzzle, hint, retry, alternative e bonus dei quattro nodi, mantenendo non identificata Nera fino al ritorno della memoria.
+- La prova a secco e il bilanciamento dei tempi sono ancora da fare.
+
+## 2026-10-26 - Rimandi completi a Tomaso
+
+- Aggiunti i rimandi da Tomaso ad Ada ed Elio per la partecipazione collettiva alla decisione politica; non implicano legami personali.
+- Verificati tutti e cinque i file PG di destinazione, la diagnostica Markdown e il diff; nessun errore rilevato.
+
+## 2026-10-26 - Rimandi a Tomaso nelle schede PG
+
+- Aggiunto il wikilink a Tomaso nelle Note correlate di Ada ed Elio, senza attribuire loro legami personali non definiti.
+- Verificati il file di destinazione, il diff e la diagnostica dei due PG e dell'handoff; nessun errore rilevato.
+
+## 2026-10-25 - Allineamento dei collegamenti di Marta e Mara
+
+- Aggiunti i rimandi reciproci tra Marta e le schede di Ivo e della Voce Profonda, coerenti con il rito di Lia e il retroscena dell'esilio.
+- Aggiornata la tabella PG-PNG di Mara: include Ada per la verifica dei registri e Viola per la testimonianza pubblica; mantenuta distinta la manipolazione di Tomaso come rapporto tra PNG.
+- Wikilink aggiunti verificati sui file esistenti; diagnostica Markdown senza errori.
+
+## 2026-10-25 - Chiarimento collegamenti PG-PNG e retroscena di Ivo
+
+- Distinti nell'indice il coinvolgimento politico collettivo di tutti i PG con Tomaso, il rapporto personale con Marta e il ruolo pubblico di Viola.
+- Corretto il legame Ivo-Marta: Ivo condusse il rito che prese Lia; fu Tomaso a decidere l'esilio di Marta.
+- Esplicitato nella verità master che Ivo ignora la Matrix e l'estrazione della Voce, crede Nera morta e mentì consapevolmente ad Alba sul suo ritorno.
+- Verificati whitespace e diagnostica Markdown dei tre file; i wikilink non sono stati modificati.
+
 ## 2026-10-20 - Allineamento del retroscena Matrix
 
 - Chiarito che la Matrix è una sottotrama master-only successiva all'estrazione: eventi, indizi, scelte e finali della oneshot restano invariati e non devono anticiparla.

@@ -166,7 +166,7 @@
 >
 > I nomi non significano nulla. Le promesse sono solo segni su carta. Le famiglie si guardano come estranei educati.
 >
-> Sotto il lago, la campana tace. Per ora. Solo Tomaso ricorda tutto.
+> Sotto il lago, la campana tace. Per ora. Solo Ivo e Tomaso ricordano tutto.
 
 ## Finale: offrire una persona
 
@@ -174,9 +174,17 @@
 >
 > Non c'è sangue. C'è luce, e dentro la luce migliaia di ricordi che cercano un posto dove restare. La persona perde il proprio nome davanti a voi.
 >
-> Mentre risalite, dal campanile arriva una cascata d'acqua. Il lago si riempie in pochi istanti, scende sui gradini, copre la cripta e la chiesa, e sale fino alla botola.
+> La persona annega. Dal campanile arriva una cascata e l'acqua comincia a risalire. Avete ancora il tempo della finestra aperta dal terzo rintocco prima che la torre e la cripta si riempiano.
 >
 > In superficie, il villaggio ricorda tutto. Non ricorda più chi avete consegnato. Il Custode sì.
+
+[Se il patto viene spezzato entro la finestra: l'acqua si ferma e il villaggio ricorda la vittima. La persona resta morta.]
+
+## Se il patto si spezza dopo un'offerta
+
+> L'acqua si ferma sulla soglia della cripta.
+>
+> In superficie, un nome viene pronunciato da più voci. Il villaggio ricorda la persona che avete consegnato. Nessuno dimentica che è morta. Nessuno la riporta indietro.
 
 ## Finale: ricordare tutti
 

@@ -4,7 +4,7 @@
 
 ## Identità
 
-Ada è un'archivista originaria di Varda. Osserva dettagli, omissioni e contraddizioni prima ancora delle persone che li hanno lasciati. Ivo, il Custode, le ha insegnato a leggere ciò che gli altri vogliono dimenticare.
+Ada è una ricercatrice storica originaria di Varda. Osserva dettagli, omissioni e contraddizioni nei documenti più antichi; Mara custodisce invece i registri civici correnti. Ivo, il Custode, le ha insegnato a leggere ciò che gli altri vogliono dimenticare.
 
 ## Legami
 
@@ -38,6 +38,7 @@ Ivo ha riconosciuto in Ada gesti di Nera e l'ha trasformata inconsapevolmente ne
 
 ## Note correlate
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
+- [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita]]
 - [[Sessioni/Master/SES-00_Andamento]]
 - [[NPCs/NPC-02_Mara_La_Persona_Designata]]
 - [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]]

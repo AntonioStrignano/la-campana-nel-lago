@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessioni/Handout/HND-01_Testualita_La_Campana.md",
+                "file": "Sessioni/Handout/HND-02_Registro_Della_Notte_Originaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HND-01_Testualita_La_Campana"
+              "title": "HND-02_Registro_Della_Notte_Originaria"
             }
           }
         ]
@@ -190,6 +190,13 @@
   },
   "active": "67e0a8e996941fb7",
   "lastOpenFiles": [
+    "Sessioni/Handout/INDICE_Sessioni_Handout.md",
+    "Sessioni/Handout/HND-02_Registro_Della_Notte_Originaria.md",
+    "Sessioni/Master/SES-08_Tracker_Nodi_La_Campana.md",
+    "Piste/INDICE_Piste.md",
+    "Sessioni/Master/SES-06_Verita_La_Campana.md",
+    "Sessioni/Master/SES-00_Andamento.md",
+    "Sessioni/Handout/HND-01_Testualita_La_Campana.md",
     "Sessioni/Master/INDICE_Sessioni_Master.md",
     "Sessioni/Master/SES-03_Contingenze_La_Campana.md",
     "PG/INDICE_PG_La_Campana.md",
@@ -210,13 +217,6 @@
     "Luoghi/LUO-03_Quartieri_Di_Varda.md",
     "Luoghi/LUO-02_La_Cappella_Sommersa.md",
     "NPCs/NPC-04_Alba_La_Battelliera.md",
-    "NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita.md",
-    "NPCs/NPC-02_Mara_La_Persona_Designata.md",
-    "NPCs/NPC-01_Ivo_Il_Custode.md",
-    "Template/TMP-08_Contingenze_Anti_Stallo.md",
-    "Template/TMP-07_Debrief_Avanzato.md",
-    "Template/TMP-06_Run_Sheet_Live.md",
-    "Template/TMP-05_Tracker_Indizi_Escalation.md",
     "PG/Il_Ritorno",
     "PG/Il_Debito",
     "PG/La_Voce",
