@@ -44,7 +44,7 @@
 1. Leggi i limiti e le aspettative dalla guida giocatori; non chiedere ai partecipanti di giustificare un limite.
 2. Fai stabilire un legame condiviso e un motivo per cui i PG sono presenti all'assemblea, senza anticipare le verità master.
 3. Leggi l'incipit da HND-01. I PG iniziano in piazza; prima della sessione non si sente alcun rintocco.
-4. Lascia che Mara, Viola e Tomaso presentino il conflitto. Non far scegliere il gruppo prima che Mara abbia potuto parlare.
+4. Lascia che Mara, Viola e Tomaso presentino il conflitto. Dopo il nastro, conduci la scena sociale del Nodo 1 come da SES-08: nessun tiro o materiale preparato, non chiamarla puzzle e non rivelare la procedura del rito. Non far scegliere il gruppo prima che Mara abbia potuto parlare.
 5. Usa i tempi della prep come orientamento: nessun rintocco interrompe una scelta o un conflitto.
 
 ## Verifica di prontezza

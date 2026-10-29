@@ -429,3 +429,7 @@
 - Il puzzle non rivela la procedura del rito né il significato del token; la dichiarazione pubblica di Mara resta valida anche se la scena non si sblocca.
 - Allineati tracker, canone, run sheet, mappa dei token, scheda di Mara e dialoghi master.
 - Aggiornato HND-01: il testo descrive il nastro al polso di Mara e non anticipa la consegna; la nota master rimanda il gesto all'esito della scena.
+- Allineati TODO, prep e verità master; precisate le regole generali del tracker per limitare prove, bonus e retry ai Nodi 2-4.
+- Aggiornata la TODO distinguendo implementazione e collaudo; la prep esclude tiri e materiali per il Nodo 1.
+- Chiarito in canone e verità master che sciogliere il nodo non ha effetti soprannaturali: la conseguenza è soltanto sociale.
+- Prossimo passo: collaudare a secco il Nodo 1, verificando spotlight di Viola, reazione di Mara, consegna del nastro e accesso alternativo al token.

@@ -35,6 +35,10 @@ Mara custodisce e cataloga i registri civici correnti; Ada è una ricercatrice s
 
 Mara non deve essere trattata come una vittima passiva. Vuole essere liberata dal ruolo, ma rifiuta di essere salvata al prezzo di una bugia. Se i PG scelgono di consegnarla, il villaggio sopravvive, lei perde identità e ricordi e muore quando il lago torna a riempire il campanile. Se scelgono di proteggerla senza trovare un'alternativa, la Voce continua a divorare ricordi e il terzo rintocco colpisce l'intera comunità.
 
+Durante la scena del Nodo 1 Mara non confida subito in pubblico che non vuole offrirsi: teme che la piazza trasformi anche questa verità in un altro argomento per parlarle sopra. Se Viola riconosce la pressione della tradizione senza decidere al posto suo, Mara scioglie il nodo e le affida il nastro; nello stesso gesto confida a Viola, ignorando gli altri presenti, che non vuole sacrificarsi ma si sente obbligata. Se Viola non la fa sentire compresa, Mara trattiene il nastro e la confidenza.
+
+La superstizione secondo cui sciogliere il nodo provocherebbe una catastrofe non ha alcun effetto soprannaturale: nessuna delle conseguenze immaginate dalla folla è reale o causata dal gesto. Il danno effettivo è la pressione sociale, che fa apparire inevitabile una scelta del villaggio e porta Mara a credere di dover desiderare il sacrificio. Se Mara scioglie il nodo, la piazza reagisce in modi diversi, ma non accade altro.
+
 ## Il custode attuale
 
 Il custode è **Ivo**, marito di Alba e padre di La Promessa, Il Debito e Nera. Il villaggio lo chiama con titoli diversi perché nessuno ricorda più il suo vero nome. Ha ereditato il ruolo anni dopo il primo sacrificio di Elian. Il Custode non è automaticamente la vittima e non sceglie da solo chi offrire: interpreta i residui restituiti dalla Voce, organizza il passaggio e sostiene la procedura davanti alla comunità. Quando Il Debito fu indicato come vittima, Ivo creò un’urgenza falsa: spinse Alba a credere che una decisione immediata fosse l’unico modo per impedire alla Voce di divorare tutti i ricordi. Il sacrificio avvenne circa vent’anni fa, quando i tre figli erano adolescenti.

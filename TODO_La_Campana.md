@@ -6,7 +6,7 @@
 
 ## Stato attuale
 
-- **Pronto in bozza:** canone; rete PG-PNG verificata; matrice di memoria e azioni ai rintocchi per i PNG ricorrenti; tre abitanti di contorno; puzzle eseguibili; HND-01 e HND-02; run sheet, contingenze, prep, dialoghi e guida giocatori.
+- **Pronto in bozza:** canone; rete PG-PNG verificata; matrice di memoria e azioni ai rintocchi per i PNG ricorrenti; tre abitanti di contorno; quattro procedure dei nodi; HND-01 e HND-02; run sheet, contingenze, prep, dialoghi e guida giocatori. Il Nodo 1 è stato aggiornato come scena sociale introduttiva per Mara e Viola.
 - **Da fare più avanti, prima del gioco:** completare le schede Shadowdark di livello 0 e scegliere un blocco nemico breve per i resti annegati; a cura del master.
 - **Da verificare:** prova a secco dei nodi e degli handout, accessibilità dei clue e tempi della finestra finale.
 - **Prossimo passo:** fare una prova a secco dei puzzle, dei fallback e dei tempi; riprendere la preparazione meccanica prima della sessione.
@@ -17,7 +17,7 @@
 
 I quattro nodi hanno una prima bozza in [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]]. Le spunte indicano la progettazione della procedura; resta da collaudarla al tavolo.
 
-- [x] **Nodo 1 - Il rito** — prima bozza nel tracker; da collaudare. Spotlight: Viola. Riferimenti: [[PG/La_Voce/PG-03_Viola_Serra_La_Voce]], [[NPCs/NPC-02_Mara_La_Persona_Designata]], [[Sessioni/Master/SES-00_Andamento]].
+- [x] **Nodo 1 - Il rito** — scena sociale senza tiro: tre giustificazioni della tradizione, spotlight di Viola e nastro condizionato alla fiducia di Mara; da collaudare. Riferimenti: [[PG/La_Voce/PG-03_Viola_Serra_La_Voce]], [[NPCs/NPC-02_Mara_La_Persona_Designata]], [[Sessioni/Master/SES-00_Andamento]].
 - [x] **Nodo 2 - I residui** — prima bozza nel tracker; da collaudare. Spotlight: Marta. Riferimenti: [[PG/Il_Ritorno/PG-05_Marta_Lodi_Il_Ritorno]], [[NPCs/NPC-08_Gemma]], [[NPCs/NPC-09_Dario]], [[Sessioni/Master/SES-00_Andamento]].
 - [x] **Nodo 3 - L'oblio** — prima bozza nel tracker; da collaudare. Spotlight: Ada. Riferimenti: [[PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria]], [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]], [[Sessioni/Master/SES-00_Andamento]].
 - [x] **Nodo 4 - La sostituzione** — prima bozza nel tracker; da collaudare. Spotlight: Elio e Nino. Riferimenti: [[PG/La_Promessa/PG-02_Elio_Varda_La_Promessa]], [[PG/Il_Debito/PG-04_Nino_Varda_Il_Debito]], [[NPCs/NPC-01_Ivo_Il_Custode]], [[NPCs/NPC-06_Nera]].

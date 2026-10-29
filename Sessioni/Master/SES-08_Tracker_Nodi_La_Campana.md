@@ -8,14 +8,12 @@
 
 - Servono quattro nodi e la quinta chiave, HND-02, per accedere al true ending.
 - Ogni nodo ha una fonte-puzzle personale e una fonte diretta alternativa; le procedure sono descritte sotto e restano da collaudare.
-- La prova usa l'approccio descritto dai giocatori; caratteristica e CD si scelgono in fiction.
+- Per i Nodi 2-4, la prova iniziale usa l'approccio descritto dai giocatori; caratteristica e CD si scelgono in fiction.
 - Eccezione: il Nodo 1 non usa una prova iniziale; la scena sociale di Mara e Viola è sempre attiva e il suo esito dipende dall'interazione.
 - Il clue core arriva sempre dall'interazione con la fonte, senza richiedere un tiro riuscito o una soluzione esatta.
-- Prova riuscita: chiude la fonte e consegna il bonus previsto, se presente.
-- Prova fallita: attiva il puzzle collaborativo, con il PG titolare al centro della scena.
-- Puzzle risolto senza suggerimento sostanziale: consegna il bonus verso un nodo ancora ignoto.
-- Un suggerimento sostanziale del master rinuncia al bonus, non al clue core.
-- Se prova e puzzle falliscono, si può offrire un retry con un costo dichiarato prima del tentativo. Se anche il retry fallisce, si applica il costo e si apre l'alternativa; anche l'alternativa consegna il clue core senza prova.
+- Per i Nodi 2-4, una prova riuscita chiude la fonte e consegna il bonus previsto, se presente; un fallimento apre il puzzle collaborativo con il PG titolare al centro.
+- Per i Nodi 2-4, risolvere il puzzle senza suggerimenti sostanziali può consegnare un bonus verso un nodo ancora ignoto. Un suggerimento sostanziale rinuncia al bonus, non al clue core.
+- Per i Nodi 2-4, se prova e puzzle falliscono si può offrire un retry con un costo dichiarato prima del tentativo. Se anche il retry fallisce, si applica il costo e si apre l'alternativa; anche l'alternativa consegna il clue core senza prova.
 - Un nodo conta come scoperto quando la fonte consegna l'indizio; non serve una formulazione esatta da parte dei giocatori.
 - Ogni nodo scoperto provoca una manifestazione crescente della Voce, senza cancellare ricordi prima del finale.
 
@@ -34,12 +32,12 @@ Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità
 
 ## Sintesi delle fonti dei nodi
 
-| Nodo | Fonte principale | Prova iniziale | Puzzle se la prova fallisce | Fonte alternativa | Esito/costo/bonus |
+| Nodo | Fonte principale | Prova iniziale | Puzzle/attivazione | Fonte alternativa | Esito/costo/bonus |
 |---|---|---|---|---|---|
 | 1. Il rito | Assemblea: testimonianza di Mara e superstizione del nastro, con Viola al centro | Nessuna prova; scena dialogica sempre attiva | Ascoltare tre giustificazioni diverse e riconoscere la pressione che impone a Mara un dovere | Interrogatorio privato di Mara e domanda diretta a Ivo sulla procedura del rito | Mara consegna il nastro solo se si sente compresa; altrimenti i PG possono tornare dopo aver trovato HND-02 |
-| 2. I residui | Bicicletta di Lia, testimonianza di Marta e Dario, diario di Tomaso | Approccio libero | Ricostruire la cronologia del segno e della sua interpretazione | Diario in municipio o testimonianza di Dario | Vedi procedura del Nodo 2 |
-| 3. L'oblio | Registri confrontati da Ada: conteggi, abrasioni e cera nera | Approccio libero | Confrontare il numero dei presenti con quello dei nomi rimasti | Confronto diretto con Ivo usando la prova d'archivio | Vedi procedura del Nodo 3 |
-| 4. La sostituzione | Ciondolo delle tre onde, ricordi di Elio e Nino, cicatrice e testimonianza di Alba | Approccio libero | Ricostruire la scelta e la fuga senza identificare la persona cancellata | Confronto privato con Alba e Ivo davanti al ciondolo | Vedi procedura del Nodo 4 |
+| 2. I residui | Bicicletta di Lia, testimonianza di Marta e Dario, diario di Tomaso | Approccio libero | Se la prova fallisce, ricostruire la cronologia del segno e della sua interpretazione | Diario in municipio o testimonianza di Dario | Vedi procedura del Nodo 2 |
+| 3. L'oblio | Registri confrontati da Ada: conteggi, abrasioni e cera nera | Approccio libero | Se la prova fallisce, confrontare il numero dei presenti con quello dei nomi rimasti | Confronto diretto con Ivo usando la prova d'archivio | Vedi procedura del Nodo 3 |
+| 4. La sostituzione | Ciondolo delle tre onde, ricordi di Elio e Nino, cicatrice e testimonianza di Alba | Approccio libero | Se la prova fallisce, ricostruire la scelta e la fuga senza identificare la persona cancellata | Confronto privato con Alba e Ivo davanti al ciondolo | Vedi procedura del Nodo 4 |
 
 ### Nodo 1 - Il rito
 
