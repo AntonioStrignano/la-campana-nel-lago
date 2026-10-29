@@ -28,18 +28,20 @@ Gli orari sono riferimenti, non allarmi. Non interrompere una scelta, una testim
 
 1. Leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#Incipit]].
 2. Chiedi a ogni PG perché è a Varda e quale legame lo tiene nel gruppo; non richiedere un giro completo se rallenta l'apertura.
-3. Presenta Tomaso e Mara. Leggi la sezione dell'assemblea e lascia che Viola o un altro PG apra la testimonianza.
-4. Se i giocatori non intervengono, Mara chiarisce che il suo silenzio non è consenso e chiede di non essere usata come simbolo.
+3. Presenta Tomaso e Mara. Dopo la designazione e il nastro, Mara chiede a Viola di richiamare l'attenzione; se Viola rifiuta, lo fa Mara stessa. Un altro PG può aiutarla senza togliere a Viola il turno interpretativo.
+4. Mara dichiara che il suo silenzio non è consenso e racconta la superstizione del nodo. Un abitante pratico e spaventato la interrompe; altre due voci si aggiungono. Usa SES-08 per condurre la scena sociale del Nodo 1: non richiede tiro e non va annunciata come puzzle.
 5. Avvia il timer effettivo quando il gruppo prende una direzione. Il primo rintocco arriva a una pausa drammatica, orientativamente dopo 30 minuti.
 
 ## Indagine - Quattro nodi (10-55)
 
 Usa [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]] per fonti, puzzle, hint, retry e alternative. I giocatori scelgono dove andare e in quale ordine.
 
-- **Nodo 1, il rito:** assemblea, testimonianza di Mara e mediazione di Viola. Non chiedere un tiro per il clue core.
+- **Nodo 1, il rito:** la scena sociale in assemblea è sempre attiva. Mara chiede a Viola cosa ha sentito; se si sente compresa, scioglie il nodo e le affida il nastro, altrimenti lo trattiene. Il clue core dichiarato da Mara resta vero in entrambi i casi; la procedura del rito può arrivare da Ivo su domanda diretta.
 - **Nodo 2, i residui:** Gemma, la bicicletta, Marta, Dario e il diario di Tomaso in municipio.
 - **Nodo 3, l'oblio:** Ada confronta i registri e le omissioni; Ivo può confermare il fatto originario dopo che il gruppo porta una prova.
 - **Nodo 4, la sostituzione:** ciondolo, ricordi di Elio e Nino, cicatrice e testimonianza di Alba. Non rivelare il nome o il ricordo completo della persona cancellata prima che il patto si spezzi.
+
+Durante l'assemblea Tomaso annoda a Mara un nastro nuovo. Non viene consegnato subito: Mara lo scioglie e lo affida a Viola solo se si sente compresa nella scena del Nodo 1; altrimenti i PG potranno tornare a chiederlo se HND-02 ne rivela l'importanza. Quando Nino riceve il nastro, descrivi il déjà-vu senza restituirgli il ricordo completo. Nella cripta, i nastri ai polsi dei resti e quello troppo largo di Nera anticipano la sostituzione e il possibile destino di Mara.
 
 Se una scena viene saltata, trasferisci il clue core al prossimo luogo o testimone pertinente. Un tiro fallito può aggiungere tempo, pressione o chiusura di una fonte, ma non rimuove il clue né impedisce di raggiungere il climax.
 

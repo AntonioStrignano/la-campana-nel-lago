@@ -410,3 +410,22 @@
 - Aggiunti collegamenti alla todo in `README.md` e `Sessioni/Master/INDICE_Sessioni_Master.md`.
 - Verificati i 39 wikilink della todo: tutte le destinazioni esistono. La pista non ha una scheda attiva; il riferimento porta al suo indice, che rimanda al tracker e all'archivio.
 - Prossimo passo: progettare insieme il percorso del Nodo 1 in `Sessioni/Master/SES-08_Tracker_Nodi_La_Campana.md`.
+
+## 2026-10-28 - Mappa PG e token
+
+- Creato `Sessioni/Master/SES-09_Mappa_PG_Token_La_Campana.md` per riunire ruolo narrativo, nodo, token e ricordo fondamentale dei cinque PG.
+- Distinti i ricordi offerti volontariamente dai token fisici; segnalate come da definire le modalità di recupero non specificate nei materiali.
+- Registrate le questioni aperte: componente della bicicletta di Lia da usare come token, recupero materiale della scheggia del registro, collocazione del nastro di Tomaso e resto/posizione precisa del ciondolo nella cripta-campanile.
+- Collegata la mappa dal tracker e aggiunta all'ordine di lettura dell'indice Master.
+- Definita la tradizione del nastro: striscia nuova al polso di ogni designato, segno pubblico non magico e distinto dal consenso; i resti annegati la portano. Quello di Nino passò a Nera e le resta largo, provocando un déjà-vu in Nino quando riceve il nastro di Mara.
+- Aggiornati testo dell'assemblea, descrizione dei resti, canone, tracker, mappa token e scheda di Nera.
+- Prossimo passo: definire le provenienze dei token ancora aperte una alla volta.
+
+## 2026-10-29 - Puzzle introduttivo del Nodo 1
+
+- Sostituito il puzzle a schede e il tiro preliminare con una scena sociale sempre attiva per Mara e Viola.
+- Definita la sequenza: Tomaso lega il nastro; Mara chiede a Viola di richiamare l'attenzione, dichiara che il silenzio non è consenso e racconta la superstizione del nodo. Tre voci di prudenza, fede e conformismo impongono a Mara un dovere con giustificazioni diverse.
+- Se Viola coglie la pressione e fa sentire Mara compresa, Mara scioglie il nodo, le affida il nastro e le confida che non vuole offrirsi ma si sente obbligata. Se non si sente compresa, trattiene il token; i PG possono tornare dopo che HND-02 ne richiama il valore.
+- Il puzzle non rivela la procedura del rito né il significato del token; la dichiarazione pubblica di Mara resta valida anche se la scena non si sblocca.
+- Allineati tracker, canone, run sheet, mappa dei token, scheda di Mara e dialoghi master.
+- Aggiornato HND-01: il testo descrive il nastro al polso di Mara e non anticipa la consegna; la nota master rimanda il gesto all'esito della scena.

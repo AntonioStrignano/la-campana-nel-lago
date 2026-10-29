@@ -23,6 +23,8 @@
 > "Sapete cosa sta succedendo. Sapete cosa significa la campana. Non vi chiedo di essere d'accordo. Vi chiedo di non fingere di non averlo già saputo."
 >
 > Qualcuno annuisce. Qualcuno guarda a terra. Nessuno guarda la donna accanto a lui.
+>
+> Tomaso prende una striscia di stoffa nuova e la annoda al polso di Mara. Lei non gli porge il braccio. Alcuni abitanti abbassano gli occhi; nessuno sembra sorpreso dal gesto.
 
 ## Il villaggio che dimentica
 
@@ -63,6 +65,10 @@
 > Guarda la campana in lontananza, poi voi.
 >
 > "Se mi consegnate, salverete il villaggio. Il lago mi prenderà quando tornerà. Se non mi consegnate, dovrete spiegarmi che cosa siete disposti a perdere al posto mio."
+>
+> Una striscia di stoffa nuova le stringe il polso, il nodo ben visibile. Mara vi guarda, ma non la sfila né ve la porge.
+
+[Il nastro resta al polso di Mara fino all'esito della scena del Nodo 1. Se si sente compresa, lo scioglie e lo affida a Viola; altrimenti lo tiene. Quando Nino lo riceve, fagli sentire un déjà-vu improvviso e intenso: ricorda vagamente di averne portato uno al polso per un periodo. Non torna una scena completa né il nome di Nera.]
 
 ## Secondo rintocco
 
@@ -121,12 +127,16 @@
 > Una mano gonfia si stacca dal mucchio, poi un'altra. I corpi si alzano lentamente, con un rumore di acqua che esce dai polmoni.
 >
 > Non vi guardano. Guardano il cerchio. Poi guardano voi, e si muovono nella stessa direzione.
+>
+> Al polso di ciascun resto c'è una striscia di stoffa scurita dall'acqua. Una pende lenta da un polso più sottile degli altri.
 
 [Combattimento breve. Il resto con il ciondolo a tre onde esita davanti a La Promessa e a Il Debito.]
 
 ## Il ciondolo
 
 > Uno dei corpi porta ancora al collo un piccolo disco di bronzo. Tre onde incise, una dentro l'altra.
+>
+> Al polso dello stesso corpo il nastro è largo e allentato, come se fosse stato fatto per una misura diversa.
 >
 > Per un attimo, La Promessa e Il Debito hanno la stessa sensazione: di aver già visto qualcuno chiuderlo nel pugno.
 >

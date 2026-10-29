@@ -53,6 +53,14 @@
 - «Potete salvarmi. Non potete fingere che questo non sia scegliere.»
 - «Non so cosa sia successo a mio padre. So soltanto che manca qualcosa e che il villaggio vuole usare il mio nome al posto di una risposta.»
 
+### Il nodo e la piazza
+
+- Dopo che Tomaso le annoda il nastro, Mara chiede a Viola di richiamare l'attenzione. Se Viola non vuole, Mara lo fa da sola; se interviene un altro PG, Mara offre comunque a Viola lo spazio per la propria lettura.
+- Mara dice che il silenzio non è consenso e racconta la superstizione: chi porta il nastro non dovrebbe scioglierne il nodo. Una persona pratica e spaventata la interrompe con un avvertimento; altre due voci anonime si aggiungono, una per fede nella tradizione e una per conformismo. Lascia improvvisare al master conseguenze diverse e assurde; non sono informazioni sulla Voce né indizi sulla procedura del rito.
+- Mara lascia parlare il capannello, poi chiede a Viola: «Che cosa hai sentito?» Non c'è una formula giusta. Conta che Viola riconosca la pressione e che il villaggio sta facendo passare la tradizione per una ragione sufficiente a imporre il sacrificio. Gli altri PG possono aiutarla.
+- Se Mara si sente compresa, scioglie il nodo in pubblico e affida il nastro a Viola. Nello stesso gesto, ignora la piazza e le confida che non vuole offrirsi ma si sente obbligata. Una persona del capannello si irrigidisce, una vacilla e una tace.
+- Se non si sente compresa, Mara tiene il nastro. La sua dichiarazione resta valida e i PG possono tornare a chiederlo dopo che HND-02 ne richiama il valore. Un eventuale intervento pubblico di Viola è facoltativo; il master può premiarlo con un bonus o vantaggio senza renderlo necessario.
+
 ### Se i PG vogliono consegnarla
 
 - «Ditemelo guardandomi. Voglio sapere cosa avete scelto e perché.»

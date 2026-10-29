@@ -13,7 +13,7 @@
 
 Il villaggio aveva designato Nino (Il Debito) come vittima del ciclo. Ivo non poteva scegliere al posto del villaggio, ma spinse Alba a decidere in fretta, facendole credere che senza una consegna immediata la Voce avrebbe divorato tutti i ricordi. Nera si offrì per proteggere il fratello e propose di prendere il suo posto. Nera, Alba e Ivo organizzarono il travestimento; Nino fuggì prima che il villaggio potesse vederlo entrare nel rito.
 
-Il villaggio non conservò una versione stabile dell'accaduto: ogni abitante ricorda una variante, ma tutti credono di aver perso un figlio e che un altro sia fuggito per il dolore. Nera indossava il ciondolo quando fu portata nel campanile. Alba tentò di interrompere il rito e venne ferita dai resti annegati; Ivo la trattenne e la salvò mentre Nera veniva presa. La cicatrice di Alba è la prova che accettò, reagì troppo tardi e provò comunque a fermare la propria scelta.
+Il villaggio non conservò una versione stabile dell'accaduto: ogni abitante ricorda una variante, ma tutti credono di aver perso un figlio e che un altro sia fuggito per il dolore. Nera indossava il ciondolo quando fu portata nel campanile. Il nastro assegnato a Nino passò a lei quando prese il suo posto; le resta largo perché era stato fatto per lui. Alba tentò di interrompere il rito e venne ferita dai resti annegati; Ivo la trattenne e la salvò mentre Nera veniva presa. La cicatrice di Alba è la prova che accettò, reagì troppo tardi e provò comunque a fermare la propria scelta.
 
 Ivo aveva promesso ad Alba che, se il sigillo fosse stato spezzato, Nera sarebbe tornata. Era una menzogna: il sigillo restituisce i ricordi, non i morti.
 

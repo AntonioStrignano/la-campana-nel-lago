@@ -22,6 +22,7 @@
 - Frase firma: "Potete salvarmi. Non potete fare finta che questo non sia scegliere."
 - Cosa non dire subito: il sacrificio originario fu volontario solo per il primo custode, non per chi è venuto dopo
 - Cosa può rivelare sotto pressione: non chiede di essere salvata a ogni costo; chiede che nessuno chiami consenso il suo silenzio e che il costo della scelta venga pronunciato davanti a tutti
+- **Scena del Nodo 1:** dopo che Tomaso le annoda il nastro, Mara chiede a Viola di richiamare l'attenzione e dichiara in piazza che il silenzio non è consenso. Racconta la superstizione del nodo; se Viola rifiuta di intervenire, Mara richiama l'attenzione da sola. Se Viola riconosce che la piazza la spinge a sacrificarsi senza sapere se lo voglia, Mara scioglie il nodo, le affida il nastro e confida il proprio conflitto, ignorando gli altri presenti. Se non si sente compresa, tiene il nastro; i PG possono tornare a chiederlo quando HND-02 ne rivela l'importanza.
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: persona comune, alta determinazione, nessuna capacità offensiva necessaria

@@ -9,6 +9,7 @@
 - Servono quattro nodi e la quinta chiave, HND-02, per accedere al true ending.
 - Ogni nodo ha una fonte-puzzle personale e una fonte diretta alternativa; le procedure sono descritte sotto e restano da collaudare.
 - La prova usa l'approccio descritto dai giocatori; caratteristica e CD si scelgono in fiction.
+- Eccezione: il Nodo 1 non usa una prova iniziale; la scena sociale di Mara e Viola è sempre attiva e il suo esito dipende dall'interazione.
 - Il clue core arriva sempre dall'interazione con la fonte, senza richiedere un tiro riuscito o una soluzione esatta.
 - Prova riuscita: chiude la fonte e consegna il bonus previsto, se presente.
 - Prova fallita: attiva il puzzle collaborativo, con il PG titolare al centro della scena.
@@ -20,35 +21,36 @@
 
 ## Quattro nodi
 
-| Nodo | Verità da scoprire | PG al centro | Stato |
-|---|---|---|---|
-| 1. Il rito | Pronunciare un nome o designare una persona non basta: serve una consegna compresa e consenziente nel cerchio. | Viola | ☐ |
-| 2. I residui | I segni sono residui di persone sacrificate in passato, non designazioni future; Tomaso lo sa. | Marta | ☐ |
-| 3. L'oblio | Il patto si nutre della rimozione; Elian si offrì, poi il suo nome fu cancellato. | Ada | ☐ |
-| 4. La sostituzione | Nino era il designato; Nera prese il suo posto. Alba e Ivo ebbero un ruolo nella sostituzione. | Elio + Nino | ☐ |
+| Nodo | Verità da scoprire | PG al centro (titolo) | Token per il centro del cerchio | Ricordo fondamentale offerto | Stato |
+|---|---|---|---|---|---|
+| 1. Il rito | Pronunciare un nome o designare una persona non basta: serve una consegna compresa e consenziente nel cerchio. | Viola, La Voce: dà parola a chi non l'ha | Nastro nuovo annodato al polso di Mara secondo la consuetudine | Rendere accettabile una confessione | ☐ |
+| 2. I residui | I segni sono residui di persone sacrificate in passato, non designazioni future; Tomaso lo sa. | Marta, Il Ritorno: ciò che torna è ciò che è già stato dato | Catenella/campanello della bicicletta di Lia | Descrivere una casa che non c'è più | ☐ |
+| 3. L'oblio | Il patto si nutre della rimozione; Elian si offrì, poi il suo nome fu cancellato. | Ada, La Memoria: tiene il conto che altri hanno cancellato | Scheggia di registro con cera nera sul nome abraso | Non cancellare una contraddizione | ☐ |
+| 4. La sostituzione | Nino era il designato; Nera prese il suo posto. Alba e Ivo ebbero un ruolo nella sostituzione. | Elio, La Promessa + Nino, Il Debito | Ciondolo a tre onde di Nera (dalla cripta, dopo lo scontro) | Mantenere una promessa impossibile / ricevere un aiuto non ripagabile | ☐ |
+
+I token escono dal puzzle o dalla fonte alternativa del nodo e si depongono al centro del cerchio; vedi [[Sessioni/Handout/HND-03_Al_Centro_Del_Cerchio]]. HND-02 contiene un segno per nodo; una riga sbiadita indica il token mancante.
+
+Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità, collocazione e recupero dei token, vedi [[Sessioni/Master/SES-09_Mappa_PG_Token_La_Campana]].
 
 ## Sintesi delle fonti dei nodi
 
 | Nodo | Fonte principale | Prova iniziale | Puzzle se la prova fallisce | Fonte alternativa | Esito/costo/bonus |
 |---|---|---|---|---|---|
-| 1. Il rito | Assemblea: testimonianza di Mara mediata da Viola; confronto con la designazione di Tomaso | Approccio libero | Ricostruire in ordine designazione, conduzione e offerta compresa nel cerchio | Interrogatorio privato di Mara e domanda diretta a Ivo sul passaggio che rende effettiva l'offerta | Vedi procedura del Nodo 1 |
+| 1. Il rito | Assemblea: testimonianza di Mara e superstizione del nastro, con Viola al centro | Nessuna prova; scena dialogica sempre attiva | Ascoltare tre giustificazioni diverse e riconoscere la pressione che impone a Mara un dovere | Interrogatorio privato di Mara e domanda diretta a Ivo sulla procedura del rito | Mara consegna il nastro solo se si sente compresa; altrimenti i PG possono tornare dopo aver trovato HND-02 |
 | 2. I residui | Bicicletta di Lia, testimonianza di Marta e Dario, diario di Tomaso | Approccio libero | Ricostruire la cronologia del segno e della sua interpretazione | Diario in municipio o testimonianza di Dario | Vedi procedura del Nodo 2 |
 | 3. L'oblio | Registri confrontati da Ada: conteggi, abrasioni e cera nera | Approccio libero | Confrontare il numero dei presenti con quello dei nomi rimasti | Confronto diretto con Ivo usando la prova d'archivio | Vedi procedura del Nodo 3 |
 | 4. La sostituzione | Ciondolo delle tre onde, ricordi di Elio e Nino, cicatrice e testimonianza di Alba | Approccio libero | Ricostruire la scelta e la fuga senza identificare la persona cancellata | Confronto privato con Alba e Ivo davanti al ciondolo | Vedi procedura del Nodo 4 |
 
 ### Nodo 1 - Il rito
 
-- **Fonte principale:** durante l'assemblea, Viola apre uno spazio perché Mara possa parlare senza essere usata come simbolo. Mara dice chiaramente che il suo silenzio non è consenso e che non ha accettato l'offerta. Tomaso la definisce designata davanti a tutti, ma non accade nulla: il gruppo può constatare che la dichiarazione politica non completa il rito.
-- **Clue core, senza tiro:** la designazione o il nome pronunciato non bastano. Perché l'offerta sia effettiva, la persona deve comprenderla e accettarla, e deve essere consegnata nel cerchio. Se i giocatori non collegano i passaggi, Ivo risponde a una domanda diretta sulla procedura; non anticipa il nodo senza che il gruppo indichi cosa manca alla sola designazione.
-- **Prova iniziale:** approccio libero per ottenere una testimonianza più precisa o mettere in difficoltà la versione ufficiale. Il successo dà il bonus. Il fallimento non ritira quanto Mara ha già detto e apre il puzzle.
-- **Puzzle collaborativo:** disponi tre passaggi fuori ordine: «il villaggio designa», «il Custode conduce», «la persona comprende e accetta l'offerta nel cerchio». Chiedi al gruppo di ricostruire la sequenza e indicare in quale passaggio la scelta appartiene alla persona. Risposta: il rito non si compie con la designazione né con la conduzione; si compie con l'offerta consapevole nel cerchio.
-- **Materiali e tempo:** scrivi i tre passaggi su fogli separati e mettili in ordine sparso; chiedi ai giocatori di ordinarli e indicare chi può dire sì o no. Obiettivo: 5 minuti.
-- **Soluzione accettabile:** designazione e conduzione non bastano; l'offerta è compiuta solo quando la persona capisce e accetta nel cerchio. Non serve usare le parole esatte.
-- **Hint 1:** «Mara è già stata designata. Che cosa non è ancora successo?» **Hint 2:** «Chi deve capire e accettare cosa, e dove?»
-- **Retry e costo:** dopo il puzzle fallito, offrire un ultimo tentativo spendendo circa cinque minuti e lasciando che Tomaso chiuda l'assemblea. Il costo è tempo e accesso pubblico, non la perdita del clue core.
-- **Fonte alternativa:** parlare con Mara in privato e chiederle se ha accettato; poi chiedere a Ivo cosa deve ancora accadere perché una designazione diventi un'offerta. Ivo descrive il passaggio pratico, ma non spiega il significato politico né risolve altri nodi.
-- **Bonus verso il Nodo 2:** se il gruppo risolve il puzzle senza hint, Tomaso si lascia sfuggire che il segno «è tornato» e per questo considera Mara designata. Questo collega il linguaggio di designazione ai residui del passato.
-- **Spotlight:** Viola decide se limitarsi a proteggere la testimonianza di Mara o usare la propria autorevolezza per contestare pubblicamente l'idea che il silenzio valga come consenso.
+- **Fonte principale:** durante l'assemblea Tomaso annoda al polso di Mara un nastro nuovo, segno pubblico della designazione. Quando la scena del Nodo 1 sta per iniziare, Mara chiede a Viola di richiamare l'attenzione, poi dichiara che il suo silenzio non è consenso e racconta ai PG la superstizione del nodo. Se Viola rifiuta, Mara richiama l'attenzione da sola; se interviene un altro PG, Mara offre comunque a Viola la lettura della scena senza obbligarla a prenderla.
+- **Reazione di Nino:** quando riceve il nastro, Nino ha un déjà-vu intenso e ricorda vagamente di averne portato uno al polso per un periodo. Non recupera la memoria di Nera.
+- **Clue core, senza tiro:** Mara dichiara che non ha acconsentito; il puzzle mette a fuoco la pressione sociale, non rivela la procedura del rito. Se i PG chiedono direttamente come si compie l'offerta, Ivo spiega che la persona deve capirla e accettarla nel cerchio, senza risolvere altri nodi.
+- **Puzzle sociale:** mentre Mara racconta la superstizione, una persona pratica e spaventata la interrompe; altre due voci anonime si aggiungono, una difendendo la tradizione e l'altra appellandosi a ciò che tutti hanno fatto prima. Possono immaginare conseguenze diverse e assurde se Mara scioglie il nodo, ma tutte finiscono per dirle che deve offrirsi. Non serve dimostrare che le paure siano false né trovare una frase esatta: Viola deve cogliere che paura e tradizione vengono usate per trasformare una decisione della piazza in un dovere di Mara. Mara chiede a Viola: «Che cosa hai sentito?» Gli altri PG possono contribuire; la deduzione centrale e il modo di risponderle restano liberi.
+- **Esito positivo:** quando Viola mostra di aver capito che Mara non vuole offrirsi e che la piazza la spinge a sentirsi obbligata, Mara si sente finalmente compresa. Scioglie il nodo in pubblico, affida il nastro a Viola nello stesso gesto e le confida il proprio conflitto, ignorando il resto della piazza. La folla si divide: una persona si irrigidisce, una vacilla, una tace. Se il giocatore sceglie anche di parlare alla piazza, il master può assegnare un bonus o vantaggio; non è necessario e non cambia l'esito.
+- **Esito non raggiunto:** Mara non consegna il nastro né la confidenza. La sua dichiarazione pubblica resta valida; il clue core del Nodo 1 resta raggiungibile tramite le fonti alternative. Dopo aver letto HND-02 e aver capito che manca il token, i PG possono tornare da Mara e chiederlo.
+- **Fonte alternativa:** se il gruppo vuole sapere come si compie il rito, può parlare con Mara in privato e poi chiedere direttamente a Ivo quale passaggio renda effettiva l'offerta. Ivo descrive la procedura, ma non spiega il significato politico né risolve altri nodi.
+- **Spotlight:** Mara chiede a Viola di richiamare l'attenzione e poi le domanda cosa ha sentito nelle voci della piazza. Viola può nominare le giustificazioni e la pressione senza parlare al posto di Mara; la scelta di intervenire pubblicamente è libera.
 
 ### Nodo 2 - I residui
 
@@ -81,6 +83,7 @@
 ### Nodo 4 - La sostituzione
 
 - **Fonte principale:** il ciondolo con tre onde, i ricordi incompleti di Elio e Nino, la cicatrice di Alba e la sua testimonianza. Ivo può essere confrontato dopo che i PG hanno ricostruito la fuga di Nino e la presenza di un terzo figlio.
+- **Dettaglio del nastro:** tutti i resti annegati portano una striscia al polso. Quella di Nera è larga perché era il nastro assegnato a Nino, che passò a lei quando prese il suo posto. La larghezza rafforza il déjà-vu senza restituire il ricordo completo.
 - **Clue core, senza tiro:** Nino era stato designato; una terza persona prese il suo posto dopo che Alba e Ivo prepararono la sostituzione, e Nino fuggì. Alba tentò poi di fermare il rito e Ivo la trattenne. Prima che il patto si spezzi, nessuna fonte restituisce il nome o la memoria completa della persona cancellata.
 - **Prova iniziale:** approccio libero con Elio, Nino o Alba. Un successo chiarisce una contraddizione tra la promessa di protezione e il ricordo della fuga; un fallimento apre il puzzle senza bloccare la testimonianza.
 - **Puzzle collaborativo:** accosta tre onde, due fratelli ricordati e una promessa di protezione che sembra precedere il legame attuale. Aggiungi la fuga di Nino e la cicatrice di Alba; chiedi quale fatto spiega perché il ciondolo sia per tre persone ma i ricordi ne conservino due. La risposta è una sostituzione, non l'identità della persona mancante.

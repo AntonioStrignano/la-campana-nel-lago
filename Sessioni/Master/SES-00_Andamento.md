@@ -8,6 +8,8 @@
 
 I PG iniziano in piazza, durante un'assemblea convocata da Tomaso. Il lago si sta prosciugando a ogni rintocco: la campana segnala l'indebolimento del sigillo, non sceglie nessuna vittima e nessun nome è inciso da nessuna parte. Tutto il materiale di Varda si gioca nel villaggio fino al terzo rintocco; solo dopo si scende nella cripta.
 
+Durante l'assemblea Tomaso annoda al polso di Mara una striscia di stoffa nuova, secondo la consuetudine usata per ogni designato. Quando la scena del Nodo 1 inizia, Mara chiede a Viola di richiamare l'attenzione, poi dichiara che il suo silenzio non è consenso e racconta la superstizione del nodo. Se Viola coglie che la piazza sta trasformando paura e tradizione in un dovere che Mara non ha scelto, Mara scioglie il nodo, le affida la striscia e confida a Viola che non vuole offrirsi ma si sente obbligata; altrimenti la trattiene. Se Viola rifiuta di richiamare l'attenzione, Mara lo fa da sola e le offre comunque il turno interpretativo. La scena non rivela la procedura del rito. Se il nastro viene trattenuto, i PG possono tornare a chiederlo dopo che HND-02 ne mostra l'importanza.
+
 ## Incipit (da leggere)
 
 > Il lago di Varda è più basso di come lo ricordate. Dalla piazza si vede ancora l'acqua, scura e ferma, e al centro la punta di un campanile che nessuno ricorda di aver visto emergere. Sulla punta, una campana.
@@ -85,7 +87,7 @@ Se il good ending viene seguito dalla Terza Via prima della scadenza, gli esiti 
 
 1. **Discesa.** Scale asciutte, poi la cripta. La campana smette di vibrare.
 2. **La cripta.** Sala circolare sotto la chiesa, senza nicchie: ammassi di corpi e ossa. Al centro il cerchio di sale nero. I PG non vedono nulla di soprannaturale legato all'acqua.
-3. **Zombie acquatici.** Si alzano dall'ossario: sono i sacrificati precedenti, vogliono portare i PG giù per essere "mangiati" dalla campana, credendo di placare la propria fame. Pochi, lenti, scontro breve. Il resto con il ciondolo (Nera) esita davanti a Elio e Nino.
+3. **Zombie acquatici.** Si alzano dall'ossario: sono i sacrificati precedenti, vogliono portare i PG giù per essere "mangiati" dalla campana, credendo di placare la propria fame. Tutti portano al polso una striscia di stoffa. Pochi, lenti, scontro breve. Il resto con il ciondolo (Nera) esita davanti a Elio e Nino; il nastro al suo polso è largo, fatto per Nino.
 4. **L'avatar.** Presenza nell'aria, voci dei sacrificati. La Voce è l'avatar di una divinità antica e dimenticata.
 5. **Tentazione.** Usa il Ricordo III di ogni PG come leva: tenerlo in cambio di un'altra persona da offrire.
 6. **Dichiarazione.** I PG pronunciano il nome di Elian e dichiarano i nodi sciolti. Ogni PG superstite presente in cripta deve offrire volontariamente il ricordo fondamentale scritto sulla propria scheda; nessuno può pagare per un assente. Se anche uno rifiuta, il true ending fallisce e restano aperti gli altri esiti.

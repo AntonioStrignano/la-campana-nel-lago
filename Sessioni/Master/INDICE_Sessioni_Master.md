@@ -9,10 +9,11 @@
 2. [[Sessioni/Master/SES-05_Prep_La_Campana]] — checklist, decisioni pre-sessione e verifica di prontezza
 3. [[Sessioni/Master/SES-01_Run_Sheet_La_Campana]] — flusso live e pacing orientativo
 4. [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]] — fonti, puzzle, hint, retry e stati dei quattro nodi
-5. [[Sessioni/Master/SES-03_Contingenze_La_Campana]] — deviazioni, stalli e gestione della pressione
-6. [[Sessioni/Master/SES-07_Dialoghi_La_Campana]] — battute modulari e reazioni dei PNG
-7. [[Sessioni/Master/SES-04_Regole_Shadowdark]] — foglio rapido delle regole
-8. [[Sessioni/Master/SES-06_Verita_La_Campana]] — verità completa; per ordine degli eventi ed esiti prevale SES-00
+5. [[Sessioni/Master/SES-09_Mappa_PG_Token_La_Campana]] — ruoli dei PG, ricordi fondamentali, token e modalità di recupero
+6. [[Sessioni/Master/SES-03_Contingenze_La_Campana]] — deviazioni, stalli e gestione della pressione
+7. [[Sessioni/Master/SES-07_Dialoghi_La_Campana]] — battute modulari e reazioni dei PNG
+8. [[Sessioni/Master/SES-04_Regole_Shadowdark]] — foglio rapido delle regole
+9. [[Sessioni/Master/SES-06_Verita_La_Campana]] — verità completa; per ordine degli eventi ed esiti prevale SES-00
 
 ## Note correlate
 - [[Sessioni/Giocatori/INDICE_Sessioni_Giocatori]]

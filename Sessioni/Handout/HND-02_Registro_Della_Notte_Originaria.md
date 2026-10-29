@@ -34,6 +34,18 @@ Se il nome di Elian verrà pronunciato da più di una voce, la rimozione non pot
 
 Non chiamate risposta il silenzio che viene dopo.
 
+## Pagina strappata, seconda (grafia che cambia)
+
+**Il primo segno: il dito che indica e la mano che conduce.** Chi è indicato non è ancora dato; chi è condotto non è ancora offerto. Solo dove una persona capisce, e dice sì, dentro il cerchio, il lago riceve. Chi sa ridare ai passi il loro ordine tiene in mano il *sì*.
+
+**Il secondo segno: ciò che torna.** Ciò che il lago restituisce non è una sentenza per domani: è il ricordo di chi è già stato dato. Chi lo ha chiamato condanna sapeva da dove veniva. Chi sa leggere quando è nata la ruggine tiene in mano il *già stato*.
+
+**Il terzo segno: ciò che manca.** Diciassette giù, sedici su: il conto è rimasto, il nome no. Non fu il pericolo a cancellarlo, ma la paura di ricordare. Chi non ha paura del conto tiene in mano il *vuoto*.
+
+**Il quarto segno: ciò che è stato messo al posto.** Tre onde, due nomi che restano. Uno è fuggito, uno è entrato al suo posto, e nessuno lo ha detto ad alta voce. Chi spiega perché le onde sono più dei nomi tiene in mano ciò che l'acqua non ha trattenuto.
+
+*Dove una riga è più sbiadita delle altre, manca ancora ciò che essa nomina.*
+
 ## Note correlate
 - [[Sessioni/Master/SES-00_Andamento]]
 - [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]]
