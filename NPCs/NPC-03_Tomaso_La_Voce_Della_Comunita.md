@@ -3,7 +3,7 @@
 ## Scheda 30 secondi
 - Ruolo in storia: sindaco di Varda e decisore politico della risposta al ritorno della campana
 - Voce/atteggiamento: lucida, pratica, affettuosa con i bambini e spietata quando parla dei numeri
-- Legame con i PG: conosce Marta (Il Ritorno) da prima dell'esilio; la fece esiliare dopo che aveva riconosciuto nel residuo la bicicletta di sua figlia Lia. Ora finge accoglienza per tenerla vicina e controllarla
+- Legame con i PG: conosce Marta (Il Ritorno) da prima dell'esilio; la fece esiliare dopo che aveva riconosciuto nel segno il suono della bicicletta di sua figlia Lia e detto che non indicava nessuno. Ora finge accoglienza per tenerla vicina e controllarla
 - Obiettivo immediato: proporre Mara all'assemblea sulla base dei segni e sostenerne la consegna assumendosene pubblicamente la responsabilità
 - Segreto utile: Elian era il suo compagno; ricorda il nome di Elian ma non il suo volto. Mara è l'ultima parente di Elian e Tomaso manipola la designazione su di lei
 - Vincolo della Voce: Tomaso ricorda i sacrificati e i residui da cui nascono gli indizi perché fu lui a rompere il sigillo originario; il villaggio non conserva quei ricordi
@@ -42,6 +42,7 @@
 - La Voce Profonda porta fuori dalla Matrix le persone che "mangia": l'estrazione avviene dopo gli eventi della oneshot.
 - Un'organizzazione archivia le schede dei PG. Il respawn al livello 0 è legato alla Prova di Shadowdark; chi supera la Prova passa al livello 1.
 - Nella verità nascosta, il sigillo mantiene le persone nella Matrix; il rito locale serve a mantenerlo integro. I PG e gli abitanti non conoscono questo significato.
+- I segni sono la "cache" di chi viveva nel luogo: il campanello della bici di Lia smise di suonare quando la casa fu demolita (purge cache). Non suggerirlo mai al tavolo.
 
 **Ruolo di Tomaso**
 - Tomaso resta una persona normale, non un costrutto. È un membro marginale dell'organizzazione, incaricato di mantenere integro il sigillo di Varda.

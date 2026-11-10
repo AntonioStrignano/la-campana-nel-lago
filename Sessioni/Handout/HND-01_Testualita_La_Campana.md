@@ -22,6 +22,8 @@
 >
 > "Sapete cosa sta succedendo. Sapete cosa significa la campana. Non vi chiedo di essere d'accordo. Vi chiedo di non fingere di non averlo già saputo."
 >
+> "Il segno chiama. Il prossimo è già scelto."
+>
 > Qualcuno annuisce. Qualcuno guarda a terra. Nessuno guarda la donna accanto a lui.
 >
 > Tomaso prende una striscia di stoffa nuova e la annoda al polso di Mara. Lei non gli porge il braccio. Alcuni abitanti abbassano gli occhi; nessuno sembra sorpreso dal gesto.

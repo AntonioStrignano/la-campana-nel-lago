@@ -12,7 +12,7 @@
 | Elio Varda - La Promessa | Affronta Ivo e decide cosa significhi mantenere una promessa fatta per proteggere un'altra persona. | La promessa originariamente rivolta a Nera e poi spostata su Nino. | 4. La sostituzione | Ciondolo di bronzo con tre onde, condiviso con Nino. | Mantenere una promessa impossibile mentre una voce amata chiede di restare. |
 | Viola Serra - La Voce | Crea lo spazio perché Mara possa parlare per sé e rende pubblico che il silenzio non equivale a consenso. | La differenza tra designazione politica e scelta consapevole nel rito. | 1. Il rito | Nastro nuovo annodato al polso di Mara secondo la consuetudine. | Rendere accettabile una confessione convincendosi di aver salvato qualcuno. |
 | Nino Varda - Il Debito | Si oppone all'idea che la propria sopravvivenza debba essere ripagata con un altro sacrificio. | La designazione subita, la fuga e la sostituzione con Nera. | 4. La sostituzione | Ciondolo di bronzo con tre onde, condiviso con Elio. | Ricevere aiuto senza poterlo restituire. |
-| Marta Lodi - Il Ritorno | Riconosce che il residuo appartiene a un sacrificio passato e contesta la falsa designazione di Mara. | Lia, la figlia perduta, e il modo in cui Tomaso ha reinterpretato il suo residuo. | 2. I residui | Catenella o campanello della bicicletta di Lia; il componente esatto è da definire. | Descrivere una casa che non esiste più. |
+| Marta Lodi - Il Ritorno | Riconosce che il residuo appartiene a un sacrificio passato e contesta la falsa designazione di Mara. | Lia, la figlia perduta, e il modo in cui Tomaso ha reinterpretato il suo residuo. | 2. I residui | Chiave della casa di Marta, custodita da Gemma. | Descrivere una casa che non esiste più. |
 
 I ricordi fondamentali sono costi personali distinti dagli oggetti. Nel true ending ogni PG superstite presente sceglie volontariamente se offrire il proprio ricordo; il token non lo contiene e non lo sostituisce.
 
@@ -28,11 +28,11 @@ I ricordi fondamentali sono costi personali distinti dagli oggetti. Nel true end
 
 ### Nodo 2 - I residui
 
-- **Token indicato dal tracker:** catenella o campanello della bicicletta di Lia. La scelta tra i due componenti è **Da definire**.
-- **Cosa rappresenta:** il residuo di una persona sacrificata in passato, non una designazione per il sacrificio successivo.
-- **Dove si trova:** la bicicletta è stata conservata da Gemma dopo l'esilio di Marta.
-- **Come ottenerlo:** Gemma consegna la bicicletta a Marta; il canone la colloca dopo il secondo rintocco. Il clue non richiede una prova riuscita. Non è specificato se i PG debbano staccare un componente o portare la bicicletta intera al cerchio.
-- **Ricordo associato tematicamente:** quello fondamentale di Marta, riportato nella tabella; non è legato fisicamente alla bicicletta.
+- **Token:** la chiave della casa di Marta, custodita da Gemma dopo l'esilio. La casa è stata demolita: la chiave non apre più nulla.
+- **Cosa rappresenta:** ciò che torna e ciò che è già stato; il residuo di chi viveva lì, non una designazione per il sacrificio successivo.
+- **Dove si trova:** in mano a Gemma. La bici con il campanello che suonava da solo resta sotto le macerie del lotto nel Borgo Vecchio e non è un token.
+- **Come ottenerlo:** tra il primo e il secondo rintocco, dopo aver visto in piazza il Nodo 1, Gemma porta Marta e i PG al lotto. Quando Marta dichiara di ricordare qualcosa del posto o di fidarsi di lei, Gemma le consegna la chiave. Non dipende dal puzzle riuscito.
+- **Ricordo associato tematicamente:** quello fondamentale di Marta, riportato nella tabella; non è legato fisicamente alla chiave.
 
 ### Nodo 3 - L'oblio
 

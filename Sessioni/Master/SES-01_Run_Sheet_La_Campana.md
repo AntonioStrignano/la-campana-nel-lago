@@ -28,7 +28,7 @@ Gli orari sono riferimenti, non allarmi. Non interrompere una scelta, una testim
 
 1. Leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#Incipit]].
 2. Chiedi a ogni PG perché è a Varda e quale legame lo tiene nel gruppo; non richiedere un giro completo se rallenta l'apertura.
-3. Presenta Tomaso e Mara. Dopo la designazione e il nastro, Mara chiede a Viola di richiamare l'attenzione; se Viola rifiuta, lo fa Mara stessa. Un altro PG può aiutarla senza togliere a Viola il turno interpretativo.
+3. Presenta Tomaso e Mara; Tomaso motiva la proposta con la formula «Il segno chiama. Il prossimo è già scelto» e Gemma osserva dal fondo. Dopo la designazione e il nastro, Mara chiede a Viola di richiamare l'attenzione; se Viola rifiuta, lo fa Mara stessa. Un altro PG può aiutarla senza togliere a Viola il turno interpretativo.
 4. Mara dichiara che il suo silenzio non è consenso e racconta la superstizione del nodo. Un abitante pratico e spaventato la interrompe; altre due voci si aggiungono. Usa SES-08 per condurre la scena sociale del Nodo 1: non richiede tiro e non va annunciata come puzzle.
 5. Avvia il timer effettivo quando il gruppo prende una direzione. Il primo rintocco arriva a una pausa drammatica, orientativamente dopo 30 minuti.
 
@@ -37,7 +37,7 @@ Gli orari sono riferimenti, non allarmi. Non interrompere una scelta, una testim
 Usa [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]] per fonti, puzzle, hint, retry e alternative. I giocatori scelgono dove andare e in quale ordine.
 
 - **Nodo 1, il rito:** la scena sociale in assemblea è sempre attiva. Mara chiede a Viola cosa ha sentito; se si sente compresa, scioglie il nodo e le affida il nastro, altrimenti lo trattiene. Il clue core dichiarato da Mara resta vero in entrambi i casi; la procedura del rito può arrivare da Ivo su domanda diretta.
-- **Nodo 2, i residui:** Gemma, la bicicletta, Marta, Dario e il diario di Tomaso in municipio.
+- **Nodo 2, i residui:** dopo il primo rintocco Gemma saluta Marta e porta i PG al lotto della casa demolita (bici sotto le macerie, Marta, Dario e, come conferma, il diario di Tomaso in municipio). Chiave come token.
 - **Nodo 3, l'oblio:** Ada confronta i registri e le omissioni; Ivo può confermare il fatto originario dopo che il gruppo porta una prova.
 - **Nodo 4, la sostituzione:** ciondolo, ricordi di Elio e Nino, cicatrice e testimonianza di Alba. Non rivelare il nome o il ricordo completo della persona cancellata prima che il patto si spezzi.
 

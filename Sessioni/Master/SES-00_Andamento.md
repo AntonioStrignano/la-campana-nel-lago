@@ -57,7 +57,7 @@ Al terzo rintocco il tavolo è in uno di questi stati.
 ### I quattro nodi (true ending)
 
 1. **Come funziona il rito:** il nome da solo non è un ordine; serve la consegna nel cerchio.
-2. **I segni non sono designazioni:** sono residui dei sacrificati precedenti e Tomaso lo sa (Marta, Gemma, bicicletta, diario di Tomaso).
+2. **I segni non sono designazioni:** sono residui dei sacrificati precedenti e Tomaso lo sa (Marta, Gemma, il lotto con la bici, diario di Tomaso).
 3. **Il patto si nutre dell'oblio:** Elian si offrì volontariamente, il suo nome fu cancellato (Ada, Mara).
 4. **La storia di Nera e di Ivo:** ricatto, fuga di Nino, sostituzione (Elio, Nino, Alba).
 
@@ -142,9 +142,9 @@ Compagno di Elian. Ruppe il sigillo cercando una soluzione e richiuse il passagg
 |---|---|---|---|---|
 | 0 | Padrone dell'assemblea | Propone Mara e presenta il residuo alla piazza come ordine della campana, pur sapendo che è un segno passato | Ratificare o contestare la proposta | ☐ |
 | 1° rintocco | Alza la pressione | Chiede a Viola di dare forma pubblica alla sua posizione | Viola rifiuta di farsi usare | ☐ |
-| Indagine | Controlla Marta | Finge accoglienza, la tiene vicina | Marta scopre che il segno è di Lia | ☐ |
+| Indagine | Controlla Marta | Finge accoglienza, la tiene vicina | Marta scopre che il segno viene dal suo passato | ☐ |
 | 2° rintocco | Difende la designazione | Dichiara la posizione politica | Costringerlo a nominare la colpa | ☐ |
-| Convergenza | Se smascherato ammette l'esilio di Marta | Dice di averlo fatto per evitare una rivolta | Provarlo con bicicletta, Gemma, diario | ☐ |
+| Convergenza | Se smascherato ammette l'esilio di Marta | Dice di averlo fatto per evitare una rivolta | Provarlo con il lotto, Gemma, diario | ☐ |
 | 3° rintocco | Legittima o contesta | Spinge per il good o si ritira nel bad | Smascherarlo prima della scelta | ☐ |
 
 Diario: in municipio, nel cassetto con la cera nera. Nomi veri dei sacrificati, la rottura del sigillo, pagine su Elian senza volto. Indizio opzionale per il nodo 2.
@@ -164,10 +164,10 @@ Scheda: [[NPCs/NPC-08_Gemma]].
 
 | Step | Stato | Cosa fa | I PG possono | Record |
 |---|---|---|---|---|
-| 0 | In casa, nervosa | Rammenda, evita lo sguardo | Cercarla con Marta | ☐ |
-| 1° rintocco | Spaventata | Chiude la porta | Marta bussa da sola | ☐ |
-| Indagine | Cede se Marta è sola | Racconta della chiave e dell'esilio | Ascoltarla | ☐ |
-| 2° rintocco | Decide | Consegna la bicicletta | Prova del nodo 2 | ☐ |
+| 0 | Fuori casa, fuma erba | Si guarda intorno per le anziane che la osservano | Notarla | ☐ |
+| 1° rintocco | Incuriosita dalla scena di Mara | Saluta Marta in pubblico e porta i PG al lotto | Seguirla | ☐ |
+| Indagine | Parla apertamente, lontano dalle anziane | Racconta la formula di Tomaso, il campanello e la chiave | Ascoltarla e scavare | ☐ |
+| 2° rintocco | Consegna già fatta | Ha dato la chiave a Marta; resta disponibile | Chiederle altri dettagli | ☐ |
 | Convergenza | Più sicura | Può testimoniare contro Tomaso | Portarla in piazza | ☐ |
 | 3° rintocco | Resta in casa | — | — | ☐ |
 
@@ -195,7 +195,7 @@ I rintocchi fanno perdere dettagli alla comunità, ma non cancellano automaticam
 | Mara | Non ricorda coscientemente Elian; i sogni contengono immagini frammentarie della notte originaria. Sa di non aver acconsentito alla designazione. | Ricorda la richiesta fatta a Viola. Il sogno può restituire la figura di una persona che entra volontariamente nel cerchio, senza nome. | Può descrivere meglio il gesto e la paura, ma non riconosce la persona né ricostruisce la propria discendenza. | Parla prima della scelta e ribadisce che il silenzio non è consenso. Il legame con Elian viene stabilito dai registri, non da una memoria improvvisa. |
 | Tomaso | Ricorda i sacrificati e i residui; conosce il nome di Elian ma non il suo volto. Sa che la campana non sceglie e tace di aver trasformato i residui in designazioni. | Ricorda l'origine del segno e usa l'urgenza per sostenere la proposta di Mara; non perde ricordi dei sacrificati. | Deve dichiarare la propria posizione politica; sa perché ha scelto Mara, ma non ammette la manipolazione senza essere confrontato. | Può sostenere il sacrificio o ritirarsi. Ammette l'uso consapevole dei segni quando i PG portano prove; il volto di Elian torna solo con la Terza Via. |
 | Alba | Conserva il senso di colpa e sa di aver collaborato a una sostituzione, ma non ricompone coscientemente il nome o la sequenza completa. | Dice «Non di nuovo» a Elio; non sa spiegare a chi si riferisce. | Il ciondolo e il lavoro lasciato a metà le fanno ricordare che mancava un figlio, non chi fosse né cosa accadde. | Può ammettere che una persona prese il posto di Nino. Nome e ricordo completo di Nera tornano solo se il patto si spezza. |
-| Gemma | Ricorda di aver conservato chiave e bicicletta e che Marta la riconobbe; non sa chi fosse la proprietaria. | La paura la spinge a chiudere la porta; non perde il ricordo utile della reazione di Marta. | Consegna la bicicletta se Marta la cerca; la memoria dell'esilio resta, ma non recupera il nome di Lia. | Resta in casa. Se il patto si spezza, ricorda Lia insieme a Marta; prima non sa collegare la bicicletta alla bambina. |
+| Gemma | Ricorda di aver conservato la chiave e che il campanello suonava da solo nella casa di Marta fino alla demolizione; non sa chi usasse la bici. | Incuriosita dalla scena di Mara, non perde il ricordo utile del suono e della reazione di Marta. | Ha già consegnato la chiave; la memoria dell'esilio resta, ma non recupera il nome di Lia. | Resta in casa. Se il patto si spezza, ricorda Lia insieme a Marta; prima non collega il campanello alla bambina. |
 | Dario | Ricorda l'esilio di Marta e di averle creduto; non sa a chi appartenesse il segno. | Nota la torre che emerge e conserva il ricordo della testimonianza di Marta. | Offre la barca e può ripetere ciò che vide; non aggiunge da solo il nome di Lia né la prova che Tomaso sapesse. | Può accompagnare i PG. Ricorda Lia con Marta solo dopo che il patto si spezza. |
 
 ### Figure storiche e presenza non umana
@@ -208,7 +208,7 @@ I rintocchi fanno perdere dettagli alla comunità, ma non cancellano automaticam
 
 ## Esilio di Marta (canone)
 
-Circa 25 anni fa, prima di Nera, il villaggio offrì Lia, figlia piccola di Marta, e la dimenticò. Il residuo restituito dalla Voce fu la sua bicicletta cigolante; Tomaso lo presentò come designazione. Marta lo riconobbe senza sapere perché e lo disse in assemblea. Provò a fermare il rito, condotto da Ivo, già Custode; quella notte la Voce divorò ricordi del villaggio, che incolpò lei. La sua casa fu chiusa dall'esterno e poi demolita. Tomaso la fece allontanare per proteggere la procedura. Tornata, il villaggio la odia; Tomaso finge accoglienza; Gemma e Dario le sono vicini. Nel true ending ricorda Lia.
+Circa 25 anni fa, prima di Nera, il villaggio offrì Lia, figlia piccola di Marta, e la dimenticò. Il residuo lasciato dalla Voce fu il campanello della sua bicicletta, rimasta in casa, che prese a suonare da solo anche di notte; Tomaso lo presentò come designazione («il segno chiama, il prossimo è già scelto»). Marta riconobbe il suono senza sapere perché e disse in assemblea che non indicava nessuno. Provò a fermare il rito, condotto da Ivo, già Custode. Il villaggio dimenticò ciò che aveva detto: la prese per pazza e Tomaso la fece allontanare per proteggere la procedura. La sua casa fu chiusa dall'esterno; il campanello smise quando fu demolita e la bici è rimasta sotto le macerie. Il villaggio non la incolpa: ricorda solo una donna strana che se n'è andata, e Tomaso dice che Varda ha ancora un posto per lei. Tomaso finge accoglienza; Gemma e Dario le sono vicini. Nel true ending ricorda Lia.
 
 ## Abitanti casuali (d20)
 
@@ -218,7 +218,7 @@ Si tira quando i PG entrano in un quartiere o fermano qualcuno. Gemma e Dario no
 |---|---|---|---|---|---|
 | 1-2 | Lidia, madre | Case Nuove | Chiama il figlio sulla soglia | "Mi serve il suo nome. Era sulla punta della lingua" | 1°: dimentica il nome. 2°: non lo riconosce |
 | 3-4 | Tito, bambino | Case Nuove | Gioca vicino all'acqua | "Quando avete deciso di dimenticarmi?" | Ripete la frase |
-| 5-6 | Renzo, oste | Piazza del Mercato | Versa da bere | Guarda Marta con odio | 2°: la attacca davanti a tutti |
+| 5-6 | Renzo, oste | Piazza del Mercato | Versa da bere | Guarda Marta con diffidenza: la "pazza" tornata | 2°: la deride davanti a tutti |
 | 7-8 | Teresa, filatrice | Borgo Vecchio | Canticchia una ninna nanna senza parole | Un verso combacia con il cigolio della bicicletta | 1°: dimentica la melodia |
 | 9-10 | Ottavio, ex campanaro | Porto del Fondo | Siede in riva | "Non è la campana che suona. È il lago che trema" | 3°: tace |
 | 11-12 | Nives, aiutante di Tomaso | Piazza del Mercato | Affigge gli ordini | Ripete la designazione come ordine | Si irrigidisce a ogni rintocco |

@@ -1,32 +1,34 @@
 # Gemma, l'anziana del Borgo Vecchio
 
-> Pubblico: riservato al master. Alleata di Marta e prova del nodo 2.
+> Pubblico: riservato al master. Alleata di Marta e porta d'ingresso al lotto del nodo 2.
 
 ## Scheda 30 secondi
-- Ruolo in storia: anziana del Borgo Vecchio; custodisce la chiave della casa di Marta e la bicicletta con la ruota che cigola
-- Voce/atteggiamento: parla poco, si guarda attorno prima di rispondere, tiene le mani occupate (rammendo, chiavi)
-- Obiettivo immediato: non essere vista mentre aiuta Marta
-- Segreto utile: non sa di chi fosse la bicicletta; sa solo che Marta la riconobbe in assemblea e che il giorno dopo la sua casa fu chiusa. Non l'ha mai buttata
-- Reazione se aiutata: consegna a Marta la bicicletta e racconta cosa vide la notte dell'esilio
-- Reazione se ostacolata: si chiude in casa e fa finta di non sapere nulla
+- Ruolo in storia: anziana del Borgo Vecchio; custodisce la chiave della casa di Marta e sa dove sorgeva e dove il campanello suonò per l'ultima volta
+- Voce/atteggiamento: parla poco, con ironia; fuma erba e si guarda intorno mentre cammina perché le anziane del villaggio, la rete di notizie che non la accoglie, la tengono d'occhio. Si trova meglio con i giovani e con Dario
+- Obiettivo immediato: dare a Marta e ai PG uno spunto in più dopo aver visto in piazza come hanno gestito la scena di Mara, lontano dagli sguardi delle anziane
+- Segreto utile: non sa a chi appartenesse la bicicletta; sa che il campanello suonava da solo nella casa di Marta, che Tomaso lo proclamò «il segno che chiama» e che smise quando la casa fu demolita. Da sempre sospetta che Tomaso non la racconti giusta
+- Reazione se aiutata: porta i PG al lotto, racconta la formula di Tomaso e, quando Marta ricorda o si fida, le consegna la chiave
+- Reazione se ostacolata: si chiude, fa finta di non sapere nulla e non porta il gruppo al lotto
 
 ## Matrice reattiva dettagliata
 | Azione PG | Risposta NPC | Effetto sulla scena | Escalation |
 |---|---|---|---|
-| Fiducia | racconta della chiave e del giorno in cui chiusero la porta di Marta | il gruppo capisce che la bicicletta appartiene a qualcuno dimenticato | consegna la bicicletta a Marta |
-| Minaccia | smette di parlare | Marta resta senza prova | Renzo o Nives vengono a controllare |
+| Fiducia | racconta del campanello, della formula di Tomaso e della chiave | il gruppo capisce che il segno veniva da chi già viveva nella casa | porta i PG al lotto e consegna la chiave |
+| Minaccia | smette di parlare | Marta resta senza la chiave | Renzo o Nives vengono a controllare |
 | Inganno | riconosce la bugia e chiede perch\u00e9 | costringe il PG a esporsi | rifiuta di aiutare ancora |
 | Violenza | non reagisce, ma lascia cadere le chiavi | il quartiere si chiude attorno a lei | la folla impedisce ai PG di tornare |
 
 ## Uso al tavolo
-- Frase firma: "Non so di chi fosse. So che lei la riconobbe, e il giorno dopo non c'era pi\u00f9 una casa."
-- Cosa non dire subito: che conserva la bicicletta
-- Cosa pu\u00f2 rivelare sotto pressione: Ivo condusse il rito quella notte e Tomaso fece passare Marta per pazza
+- Frase firma: "Non so di chi fosse. So che suonava da casa tua, e poi non c'è stata più una casa."
+- Cosa non dire subito: che ha la chiave e che il campanello suonava da dentro la casa di Marta
+- Cosa può rivelare sotto pressione: Ivo condusse il rito quella notte e Tomaso fece passare Marta per pazza
+- Può parlare davanti ad altri: il clima è sereno; ciò che teme sono gli sguardi delle anziane, non la piazza
+- Rete silenziosa: Gemma, Dario e alcuni giovani si riconoscono senza dichiararlo; nessun nome o gruppo ufficiale
 - Nel true ending: tra i primi a ricordare con Marta
 
 ## Appendice meccanica (opzionale)
-- Stat essenziali: persona comune, nessuna capacit\u00e0 offensiva
-- Soglie danno/resa/fuga: parla se Marta la cerca da sola e non davanti ad altri
+- Stat essenziali: persona comune, nessuna capacità offensiva
+- Soglie danno/resa/fuga: parla anche davanti ad altri; si chiude solo se le anziane la osservano da vicino
 
 ## Note correlate
 - [[Sessioni/Master/SES-00_Andamento]]

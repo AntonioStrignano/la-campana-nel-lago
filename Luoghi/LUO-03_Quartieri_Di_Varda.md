@@ -16,7 +16,7 @@
 | Quartiere | Abitanti indicativi | Funzione sulla mappa | Punti di interesse suggeriti |
 |---|---:|---|---|
 | **Porto del Fondo** | 35 | Vecchio attracco sul bacino ormai prosciugato | pontili nel fango, magazzini, barche abbandonate, accesso più rapido alla cappella |
-| **Borgo Vecchio** | 70 | Nucleo piccolo e fitto, ricco di memoria locale | casa del registro, cappella di superficie, abitazioni degli anziani, vicoli stretti |
+| **Borgo Vecchio** | 70 | Nucleo piccolo e fitto, ricco di memoria locale | casa del registro, cappella di superficie, abitazioni degli anziani, vicoli stretti, lotto della casa demolita di Marta |
 | **Case Nuove** | 150 | Quartiere più vasto e più popolato | case familiari, scuola, pozzo, piazzette, abitazione di Mara |
 | **Piazza del Mercato** | 45 | Centro degli scambi e delle voci pubbliche | bancarelle, fontana asciutta, municipio, locanda e punto di incontro degli abitanti |
 

@@ -92,6 +92,11 @@
 - Se insistono: «Un'immagine non basta a governare trecento persone. Qualcuno deve decidere cosa farne.»
 - Se Marta lo confronta: «Hai detto che il segno non indicava nessuno. Ti ho sentita. Ho scelto di non ascoltarti.»
 
+### Formula del segno (allora e oggi)
+
+- «Il segno chiama. Il prossimo è già scelto.»
+- È la frase usata da Tomaso nell'assemblea su Mara e riferita da Gemma come quella detta 25 anni fa. L'eco genera sospetto; non è una prova.
+
 ### Se difende la designazione
 
 - «Una persona può restare nella memoria di chi l'ha conosciuta. Un villaggio intero può sparire senza lasciare nemmeno il lutto.»
@@ -102,6 +107,15 @@
 
 - «La paura non ci rende innocenti. Ma nemmeno voi lo sarete, qualunque scelta facciate.»
 - Se i PG provano la verità, non nega che conoscesse i sacrifici passati; ammette che trasformò un residuo in una nuova designazione per governare il panico.
+
+## Gemma, l'anziana del Borgo Vecchio
+
+### Al lotto
+
+- «Non so di chi fosse. So che suonava da casa tua, e poi non c'è stata più una casa.»
+- «Tomaso disse: il segno chiama, il prossimo è già scelto. Le stesse parole di oggi, no?»
+- «Le vecchie guardano. Camminiamo.»
+- Se Marta ricorda o si fida: «Tienila tu. Non apre più niente, ma era tua.»
 
 ## Alba, la Battelliera
 

@@ -19,10 +19,10 @@
 | Tomaso - Elian | Compagni; Tomaso richiuse il passaggio mentre Elian era nella cripta e ne ricorda il nome, non il volto. | Elian fu volontario; il patto nasce dalla successiva rimozione, non dalla sua offerta. |
 | Tomaso - Mara | Tomaso è il padre di Mara e la propone all'assemblea perché è l'ultimo legame vivente con Elian. Mara non ricorda coscientemente il padre e ignora la manipolazione. | Tomaso propone e influenza; non c'è scelta magica né voto formale. La comunità può ratificare o contestare. |
 | Tomaso - Ivo | Tomaso ruppe il sigillo e trasformò i residui in una procedura politica; Ivo, Custode attuale, amministra il rito e ricorda i sacrifici per esperienza diretta. | Tomaso conosce il significato dei residui; Ivo non conosce la sottotrama Matrix. |
-| Tomaso - Marta - Gemma - Dario | Tomaso fece esiliare Marta dopo che riconobbe la bicicletta di Lia; Gemma la aiutò e conservò la bicicletta, Dario le credette e vide l'esilio. | Ivo condusse il rito di Lia, ma non decise l'esilio. |
+| Tomaso - Marta - Gemma - Dario | Tomaso fece esiliare Marta dopo che riconobbe nel segno il suono della bicicletta di Lia e disse che non indicava nessuno; il villaggio la prese per pazza. Gemma sospetta di Tomaso e custodisce la chiave, Dario le credette e vide l'esilio. | Ivo condusse il rito di Lia, ma non decise l'esilio. |
 | Ada - Mara - Ivo | Mara custodisce i registri civici correnti e chiede ad Ada di verificarli; Ada è ricercatrice storica e allieva di Ivo, che ha orientato la sua ricerca nascondendo una pagina. | Ada non è l'archivista civica e Mara non ha il metodo storico di Ada. |
 | Viola - Mara - Tomaso | Mara chiede a Viola di rendere pubblica la propria posizione; Tomaso le chiede di formulare la posizione della piazza. | Viola dà voce alla testimonianza, non decide per Mara né per l'assemblea. |
-| Gemma - Dario - Marta | Gemma conserva la chiave e la bicicletta; Dario ricorda l'esilio e può portare i PG in barca. | Sono sostegni distinti: Gemma offre oggetto e testimonianza, Dario memoria e trasporto. |
+| Gemma - Dario - Marta | Gemma custodisce la chiave della casa e porta i PG al lotto; Dario ricorda l'esilio e può portare i PG in barca. Entrambi, con alcuni giovani, formano una rete silenziosa non dichiarata. | Sono sostegni distinti: Gemma offre chiave e testimonianza, Dario memoria e trasporto. |
 | Elvira - Pietro - Taddeo | Elvira conosce il mercato, Pietro il vicinato delle Case Nuove, Taddeo lavora al molo accanto a Dario. | Sono legami sociali di contorno; nessuno custodisce un clue core. |
 
 ### Legame segreto comune
@@ -49,7 +49,7 @@
 
 ## Abitanti con scheda
 
-- [[NPCs/NPC-08_Gemma]] — anziana del Borgo Vecchio; custode della chiave e della bicicletta di Marta
+- [[NPCs/NPC-08_Gemma]] — anziana del Borgo Vecchio; custode della chiave della casa di Marta
 - [[NPCs/NPC-09_Dario]] — pescatore del Porto del Fondo; ha sempre creduto a Marta
 
 ## Abitanti ricorrenti senza scheda autonoma

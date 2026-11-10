@@ -4,7 +4,7 @@
 
 ## Scheda 30 secondi
 - Ruolo in storia: pescatore del Porto del Fondo, sui quarant'anni; da ragazzino vide l'esilio di Marta e le ha sempre creduto
-- Voce/atteggiamento: diretto, cordiale, con lo sguardo sempre sull'acqua; non fa discorsi
+- Voce/atteggiamento: diretto, cordiale, con lo sguardo sempre sull'acqua; non fa discorsi. Non segue i credi popolari: per lui le cose succedono e basta, ma fiuta ciò che non torna. Fa parte, senza dichiararlo, della rete silenziosa che si riconosce intorno a Gemma
 - Obiettivo immediato: capire perch\u00e9 le increspature partono dal campanile e non nascondere pi\u00f9 ci\u00f2 che ha visto
 - Segreto utile: ricorda Marta gridare in piazza che il segno non indicava nessuno e che la folla la zitt\u00ec. Non ricorda per chi, ma non l'ha mai dimenticata
 - Reazione se aiutato: porta i PG in barca fino alla cima della torre dopo il secondo rintocco, senza Ivo

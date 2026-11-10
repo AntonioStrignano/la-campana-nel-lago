@@ -433,3 +433,16 @@
 - Aggiornata la TODO distinguendo implementazione e collaudo; la prep esclude tiri e materiali per il Nodo 1.
 - Chiarito in canone e verità master che sciogliere il nodo non ha effetti soprannaturali: la conseguenza è soltanto sociale.
 - Prossimo passo: collaudare a secco il Nodo 1, verificando spotlight di Viola, reazione di Mara, consegna del nastro e accesso alternativo al token.
+
+## 2026-11-10 - Nodo 2: La casa che non c'è
+
+- Riscritto il Nodo 2 in `SES-08`: Gemma porta i PG al lotto della casa di Marta dopo il primo rintocco; puzzle a quattro schede sugli strati delle macerie (bici sotto le pietre della facciata = campanello suonava prima del crollo); premessa di Marta dal Ricordo II (la soglia).
+- Token del Nodo 2: la chiave della casa, al posto di catenella/campanello; Gemma la consegna quando Marta ricorda qualcosa o si fida di lei.
+- Allineato `SES-09`: riga di Marta e sezione token (chiave, non più la bici; consegna tra primo e secondo rintocco).
+- Allineato `SES-00`: canone dell'esilio (campanello che suonava da solo, bici sotto le macerie, il villaggio non incolpa Marta ma ha dimenticato ciò che disse e la prese per pazza), scheda Gemma, memoria di Gemma, righe di Tomaso senza anticipare Lia e Renzo da ostilità a diffidenza.
+- Allineati `SES-06`, scheda di Marta e scheda di Tomaso: il villaggio non incolpa Marta; il segno è il campanello della bici che suonava da solo in casa e la bici resta sotto le macerie. In NPC-03, nel solo blocco retroscena master, annotata la lettura "cache/purge" senza renderla indizio giocabile.
+- Riscritta `NPC-08` (Gemma): fuma erba, controcorrente rispetto alle anziane che la osservano, resistenza silenziosa con Dario e i giovani; porta i PG al lotto, parla anche davanti ad altri, custodisce solo la chiave. Corrette in quelle righe le sequenze `\u00e9` letterali.
+- Aggiornata `NPC-09` (Dario): non segue i credi popolari, fiuta ciò che non torna, parte della rete silenziosa non dichiarata.
+- Allineati indice PNG, `SES-07` (formula «Il segno chiama. Il prossimo è già scelto» e battute di Gemma al lotto), run sheet (assemblea e Nodo 2), `LUO-03` (lotto nel Borgo Vecchio) e TODO.
+- Aggiunta in `HND-01` (assemblea) la frase di Tomaso «Il segno chiama. Il prossimo è già scelto.», necessaria perché l'eco con il racconto di Gemma funzioni al tavolo.
+- Prossimo passo: prova a secco del Nodo 2 (scena di Gemma, lotto, quattro schede, consegna della chiave, tempi) e verifica che il sospetto verso Tomaso porti al diario senza farne un passaggio obbligato.
