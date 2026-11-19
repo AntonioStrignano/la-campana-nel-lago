@@ -1,5 +1,7 @@
 # Il Custode
 
+> Ultima modifica: 2026-11-19.
+
 ## Scheda 30 secondi
 - Ruolo in storia: Custode da circa 25 anni, mantiene il sigillo e governa il villaggio attraverso il ruolo; condusse il rito di Lia (figlia di Marta) e quello di Nera
 - Voce/atteggiamento: parla piano, corregge i nomi con gentilezza, non implora mai per sé stesso
@@ -23,7 +25,7 @@ Non è un cancello per il climax. Se rifiuta, mente o viene trattenuto, Alba o D
 ## Matrice reattiva dettagliata
 | Azione PG | Risposta NPC | Effetto sulla scena | Escalation |
 |---|---|---|---|
-| Fiducia | spiega la sequenza del rito e ammette di aver condotto quello di Lia | chiarisce che conduce il passaggio ma non può rendere una persona consenziente | offre la barca se il gruppo la chiede; non anticipa né sospende rintocchi |
+| Fiducia | spiega la sequenza del rito e può ammettere di aver condotto quello della notte dell'esilio di Marta, senza nominare Lia | chiarisce che conduce il passaggio ma non può rendere una persona consenziente | offre la barca se il gruppo la chiede; non anticipa né sospende rintocchi |
 | Minaccia | protegge Mara e avverte che la campana non distingue paura da memoria | può mostrare il sigillo o interrompere la conversazione | la scena si sposta sulla pressione politica di Tomaso; il calendario dei rintocchi non cambia |
 | Inganno | coglie le omissioni ma risponde con un fatto vero e incompleto | lascia un indizio, non una confessione | se i PG non portano prove, tiene nascosto il proprio ruolo nella sostituzione di Nera |
 | Violenza | si difende o si ritira; non trasferisce il dolore su un abitante | il villaggio può chiudere accessi e isolare Mara, senza cancellazioni soprannaturali | costa tempo e fiducia; i clue core restano accessibili tramite altre fonti |
@@ -32,7 +34,7 @@ Non è un cancello per il climax. Se rifiuta, mente o viene trattenuto, Alba o D
 - Frase firma: "Non vi chiederò di essere buoni. Vi chiederò di ricordare chi avete scelto."
 - Cosa non dire subito: che Alba è sua moglie e che il sacrificio passato ha coinvolto i suoi figli
 - Cosa può rivelare sotto pressione: la campana non sceglie da sola e il Custode non designa una vittima con la sola voce; il villaggio interpreta i segni, prepara la persona e conduce una sequenza rituale precisa. Fuori dal rito Ivo può pronunciare qualsiasi nome. Se La Memoria gli mostra la pagina mancante, ammette di averle insegnato la verità mentre decideva quanta verità potesse sopportare. Se gli mostrano il ciondolo, riconosce le tre onde e lascia filtrare un ricordo di Nera che aveva tenuto sepolto.
-- Indizio che può spiegare: la Voce restituisce un frammento dell'ultima vittima già dimenticata; il villaggio lo tratta come una designazione futura, ma il segno non contiene un ordine.
+- Indizio che può confermare dopo l'indagine sul Nodo 2: la Voce restituisce un frammento dell'ultima vittima già dimenticata; il villaggio lo tratta come una designazione futura, ma il segno non contiene un ordine. Non lo rivela spontaneamente al primo incontro.
 
 ## Scena con La Memoria
 
@@ -40,7 +42,7 @@ La Memoria può ricostruire la manipolazione confrontando il registro della nott
 
 Quando viene messo alle strette, Ivo non nega il rapporto né il metodo:
 
-> "Ti ho insegnato a non fidarti delle pagine incomplete. Non pensavo che un giorno avresti capito che ero io a strapparle."
+> "Ti ho insegnato a non fidarti delle pagine incomplete. Non pensavo che avresti capito quanto decidevo io cosa potevi leggere."
 
 Se La Memoria gli chiede perché l'abbia scelta, risponde:
 

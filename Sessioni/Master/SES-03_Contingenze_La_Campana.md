@@ -1,5 +1,7 @@
 # Contingenze anti-stallo - La Campana sotto il Lago
 
+> Ultima modifica: 2026-11-19.
+
 > Categoria: gestione delle deviazioni. Pubblico: master. Il canone e gli esiti prevalgono su ogni esempio: [[Sessioni/Master/SES-00_Andamento]].
 
 ## Regola di recupero
@@ -46,9 +48,9 @@
 
 ## Il ritmo è lento
 
-- **Dopo 30 minuti:** fai avvenire il primo rintocco alla prima pausa utile e mostra un effetto concreto su un ricordo.
-- **Dopo 60 minuti:** fai avvenire il secondo rintocco a una transizione; rendi raggiungibile la cima in barca.
-- **Verso il minuto 75:** porta la scena alla convergenza e al terzo rintocco senza interrompere una scelta in corso.
+- Scegli i rintocchi leggendo la situazione al tavolo, senza soglie di tempo prefissate e senza interrompere una scelta in corso.
+- Al primo rintocco mostra un effetto concreto su un ricordo; al secondo rendi raggiungibile la cima in barca.
+- Quando la situazione porta alla convergenza, fai cadere il terzo rintocco a una transizione adatta.
 - Comprimi spostamenti e incontri casuali; trasferisci i clue core al luogo attuale. Proteggi circa 20 minuti per la finestra finale e il resto per scelta ed epilogo.
 
 ## Il ritmo è veloce

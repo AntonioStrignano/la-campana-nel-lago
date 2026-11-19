@@ -22,6 +22,27 @@
 - Aggiornata `NPC-03`: il diario di Tomaso è portato in cripta come lore facoltativa e non funge da fonte di clue.
 # Handoff Operativo
 
+> Ultima modifica: 2026-11-19.
+
+## 2026-11-19 - Bonifica dei documenti attivi
+
+- Allineata `NPC-01`: Ivo non nomina Lia né rivela spontaneamente l'origine dei segni al primo incontro; corretta la battuta sullo strappo del registro.
+- Esplicitato in `SES-08` che il passo sul rito di HND-02 può completare il Nodo 1; gli altri richiami non sostituiscono le indagini dei Nodi 2 e 3.
+- Aggiunta in `README` la convenzione della data effettiva di ultima modifica nei documenti operativi toccati e dell'aggiornamento immediato dell'handoff.
+- Aggiornata `TODO_La_Campana`: eliminato il Nodo 3 duplicato, segnato il Nodo 4 come da definire e corretto lo stato di alternative e collaudo.
+- Allineato `SES-08` alle testimonianze già previste per il Nodo 2, allo strappo di HND-02 e al frottage; rimossi il riferimento al minuto 75 e lo stato di completamento del Nodo 4.
+- Aggiornato `HND-02` senza cambiare la quinta chiave: il passo sul rito resta leggibile, mentre i richiami ai Nodi 2 e 3 non ne anticipano le soluzioni. La riga sulla scelta di Elian è stata strappata dalla pagina; resta la sua impronta nel registro.
+- Aggiornata `SES-07`: Ivo e Tomaso non anticipano spontaneamente l'origine dei segni; Ivo non si attribuisce lo strappo del registro di Tomaso.
+- Allineata `NPC-09` alla scena del Nodo 2: Dario ricorda la protesta di Marta e il suo allontanamento, senza conoscere l'identità di Lia.
+- Allineata `NPC-08` alla scena del Nodo 2: Gemma collega la formula, il campanello e l'allontanamento di Marta senza conoscere l'identità di Lia.
+- Aggiornata `SES-05`: il ricordo fondamentale è già scritto, i rintocchi non hanno orari prefissati e il Nodo 4 resta da definire.
+- Aggiornato `SES-03`: tolte le soglie temporali dei rintocchi anche dalle contingenze per il ritmo lento.
+- Allineato `SES-00`: rintocchi senza orari prefissati e HND-02 utile a completare il Nodo 1, senza sostituire le indagini dei Nodi 2 e 3.
+- Aggiornato `SES-01`: diario escluso dalle fonti del Nodo 2, rintocchi scanditi dalla scena e Nodo 4 ancora da definire.
+- Rimossa da `NPC-03` la vecchia collocazione del diario in municipio: resta un premio facoltativo portato in cripta, non una fonte dei nodi.
+- Rimossi il retry duplicato del Nodo 2 che indicava il diario come fonte e la versione del frottage che richiedeva grafite fisica.
+- Segnalato che il Nodo 3 non ha un'alternativa instradata e che l'anagrafe resta un premio facoltativo.
+
 ## 2026-10-26 - HND-02 indipendente da Ivo
 
 - Precisato che il documento è nascosto presso il cerchio e si trova seguendo il segnale fisico anche se Ivo è assente.

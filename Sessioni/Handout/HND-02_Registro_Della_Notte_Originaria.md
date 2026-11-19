@@ -1,26 +1,32 @@
 # Registro della notte originaria
 
+> Ultima modifica: 2026-11-19.
+
 > Handout da consegnare ai giocatori quando lo trovano nella cripta. Non include le note tra parentesi quadre.
 
 ## Pagina strappata
 
-[Nota master: il resoconto è il primo record del registro, scritto da Tomaso e strappato. Ivo aggiunse la nota a margine e le sezioni successive dopo la rimozione; non hanno lasciato impronte sulla pagina seguente del registro.]
+[Nota master: il resoconto è il primo record del registro, scritto da Tomaso e strappato. Dalla pagina rimossa è stata poi strappata la riga sulla scelta di Elian; il frammento è perduto, ma la sua impronta resta sulla pagina seguente del registro. Ivo aggiunse la nota a margine e le sezioni successive dopo la rimozione; non hanno lasciato impronte sulla pagina seguente.]
 
 **Notte della piena, terzo giorno**
 
-Elian Varda è entrato nel cerchio per sua volontà. Io, Tomaso, ho richiuso il passaggio. Non riportare il suo nome nel registro delle consegne.
+Elian Varda.
+
+*Una striscia di carta è stata strappata.*
+
+Io, Tomaso, ho richiuso il passaggio. Non riportare il suo nome nel registro delle consegne.
 
 Quando la campana ha suonato, eravamo in diciassette.
 
 Quando il passaggio si è richiuso, eravamo in sedici.
 
-**Nota a margine, altra grafia:** Elian è entrato nel cerchio sapendo cosa accettava. Non lo ha scelto la campana.
+**Nota a margine, altra grafia:** Il nome non basta. Nessuno può dire sì al posto di un altro.
 
 ## Nota degli anziani
 
 Dopo quella notte abbiamo smesso di scrivere il nome. Ci siamo detti che lasciarlo fuori dalla pagina avrebbe tenuto chiuso il passaggio.
 
-Non è stato il silenzio della Voce a scegliere per noi. Il frammento che restituiva apparteneva a chi era già stato consegnato. Noi lo abbiamo chiamato un ordine, perché era più facile obbedire che ricordare.
+Non è stato il silenzio della Voce a scegliere per noi. Noi lo abbiamo chiamato un ordine, perché era più facile obbedire che ricordare.
 
 A ogni ritorno abbiamo cercato un nome nuovo nel segno vecchio.
 
@@ -38,7 +44,7 @@ Non chiamate risposta il silenzio che viene dopo.
 
 **Il primo segno: il dito che indica e la mano che conduce.** Chi è indicato non è ancora dato; chi è condotto non è ancora offerto. Solo dove una persona capisce, e dice sì, dentro il cerchio, il lago riceve. Chi sa ridare ai passi il loro ordine tiene in mano il *sì*.
 
-**Il secondo segno: ciò che torna.** Ciò che il lago restituisce non è una sentenza per domani: è il ricordo di chi è già stato dato. Chi lo ha chiamato condanna sapeva da dove veniva. Chi sa leggere quando è nata la ruggine tiene in mano il *già stato*.
+**Il secondo segno: ciò che torna.** Un suono torna dove una casa non c'è più. Chi sa leggere quando è nata la ruggine tiene in mano il *già stato*.
 
 **Il terzo segno: ciò che manca.** Diciassette giù, sedici su: il conto è rimasto, il nome no. Non fu il pericolo a cancellarlo, ma la paura di ricordare. Chi non ha paura del conto tiene in mano il *vuoto*.
 

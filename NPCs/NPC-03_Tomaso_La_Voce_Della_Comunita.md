@@ -1,5 +1,7 @@
 # Tomaso Riva, sindaco di Varda
 
+> Ultima modifica: 2026-11-19.
+
 ## Scheda 30 secondi
 - Ruolo in storia: sindaco di Varda e decisore politico della risposta al ritorno della campana
 - Voce/atteggiamento: lucida, pratica, affettuosa con i bambini e spietata quando parla dei numeri
@@ -25,7 +27,6 @@
 - Procedura della designazione: non c'è un voto formale né un ordine della campana. Tomaso propone Mara all'assemblea e presenta il residuo come ragione; il villaggio può ratificare o contestare, e Tomaso resta responsabile della proposta politica.
 - Cosa può rivelare sotto pressione: in passato il villaggio ha già seguito una designazione senza conservarne il ricordo; questa volta vuole essere lui a pronunciare la proposta e risponderne davanti a tutti.
 - Se gli chiedono di Marta (Il Ritorno): ammette di averla esiliata dopo che aveva riconosciuto nei segni i resti dei sacrificati precedenti; sostiene di averlo fatto per impedire una rivolta, ma sa di aver difeso il proprio potere
-- Diario: in municipio, nel cassetto con la cera nera; nomi veri dei sacrificati, la rottura del sigillo e pagine su Elian senza volto. Indizio opzionale per il nodo 2
 - Diario: Tomaso lo porta con sé in cripta per distruggerlo; può lasciarlo cadere se tenta la fuga. È lore facoltativa, non una fonte di clue.
 - Può essere offerto solo se dice la verità davanti al villaggio
 - Esiti: bad ending, resta sindaco e ricorda tutto mentre il villaggio dimentica; good ending, legittimato ma i PG sanno; true ending, smascherato e ricorda il volto di Elian

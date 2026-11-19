@@ -1,5 +1,7 @@
 # Andamento - La Campana sotto il Lago
 
+> Ultima modifica: 2026-11-19.
+
 > Categoria: canone della sessione. Pubblico: master. Contiene spoiler. Legami: [[PG/INDICE_PG_La_Campana]], [[NPCs/INDICE_NPC]], [[Sessioni/Master/SES-06_Verita_La_Campana]], [[Oggetti/OBJ-01_La_Campana]].
 >
 > Questo è l'unico riferimento per ordine degli eventi, stato dei PNG ed esiti. Se un altro documento lo contraddice, vale questo.
@@ -42,7 +44,7 @@ Si entra solo dall'alto, in barca. Prima del terzo rintocco i PG possono avvicin
 | 3. Convergenza | Ultime scelte, la barca verso la torre | integri |
 | 3° rintocco | Torre fuori, scale aperte: **decisione** | Ricordo III ceduto alla Voce |
 
-Il master fa cadere i rintocchi a una transizione drammatica naturale, quando serve aumentare la pressione; i riferimenti ai 30 e 60 minuti sono indicativi, non vincolanti. Nessun rintocco interrompe una scelta o un conflitto. Il climax e la decisione finale hanno come obiettivo orientativo il minuto 75.
+Il master sceglie quando far cadere i rintocchi leggendo la situazione al tavolo, a una transizione drammatica naturale e senza orari prefissati. Nessun rintocco interrompe una scelta o un conflitto; lascia spazio al climax e alla decisione finale.
 
 Ogni nodo scoperto provoca una manifestazione della Voce, crescente d'intensità; prima del terzo rintocco non cancella ricordi oltre quelli previsti ai primi due. Dal terzo rintocco parte una finestra di circa 20 minuti: se HND-02 è stato trovato e manca al massimo un nodo, i PG possono cercarlo prima o dopo l'offerta. Dopo l'offerta la vittima muore e l'acqua comincia a risalire, ma il riempimento completo della torre e della cripta avviene solo alla fine della finestra. Se la Terza Via riesce nel frattempo, il patto si spezza: l'acqua si ferma e il villaggio ricorda la vittima, che resta morta. Senza offerta la pressione è l'oblio collettivo. Il master gestisce la durata leggendo la scena. Meccaniche della campana, dei rintocchi e della Voce: [[Oggetti/OBJ-01_La_Campana]], [[Sessioni/Master/SES-06_Verita_La_Campana]], [[NPCs/NPC-07_La_Voce_Profonda]].
 
@@ -65,7 +67,7 @@ Al terzo rintocco il tavolo è in uno di questi stati.
 
 ### HND-02: quinta chiave
 
-HND-02 è una chiave separata dai quattro nodi e necessaria per il true ending. Nella cripta, una pietra accanto al cerchio è sollevata; sotto il bordo si vedono cera nera simile a quella del diario di Tomaso e un lembo di carta ripiegato. Una ricerca vicino al cerchio lo trova senza prova. Il testo è leggibile, ma i riferimenti restano opachi se manca il nodo corrispondente. La frase sulla contropartita non anticipa che il prezzo saranno i ricordi dei PG; la Voce rivela il costo concreto prima della scelta. Ivo non consegna né sostituisce il registro o i nodi. Stato operativo: [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]].
+HND-02 è una chiave separata dai quattro nodi e necessaria per il true ending. Nella cripta, una pietra accanto al cerchio è sollevata; sotto il bordo si vedono cera nera simile a quella del diario di Tomaso e un lembo di carta ripiegato. Una ricerca vicino al cerchio lo trova senza prova. Il passo sul rito può completare il Nodo 1; i richiami ai Nodi 2 e 3 non sostituiscono le rispettive indagini. La frase sulla contropartita non anticipa che il prezzo saranno i ricordi dei PG; la Voce rivela il costo concreto prima della scelta. Ivo non consegna né sostituisce il registro o i nodi. Stato operativo: [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]].
 
 Con tutti e quattro i nodi e HND-02, i PG possono interrompere il rito prima della morte. Se manca un nodo, possono scegliere di offrire la persona, non agire o risalire a cercare la verità, con il rischio che scada la finestra. La Terza Via può essere tentata anche dopo un'offerta, prima che la finestra finisca.
 

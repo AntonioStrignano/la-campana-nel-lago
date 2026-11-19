@@ -1,12 +1,14 @@
 # Gemma, l'anziana del Borgo Vecchio
 
+> Ultima modifica: 2026-11-19.
+
 > Pubblico: riservato al master. Alleata di Marta e porta d'ingresso al lotto del nodo 2.
 
 ## Scheda 30 secondi
 - Ruolo in storia: anziana del Borgo Vecchio; custodisce la chiave della casa di Marta e sa dove sorgeva e dove il campanello suonò per l'ultima volta
 - Voce/atteggiamento: parla poco, con ironia; fuma erba e si guarda intorno mentre cammina perché le anziane del villaggio, la rete di notizie che non la accoglie, la tengono d'occhio. Si trova meglio con i giovani e con Dario
 - Obiettivo immediato: dare a Marta e ai PG uno spunto in più dopo aver visto in piazza come hanno gestito la scena di Mara, lontano dagli sguardi delle anziane
-- Segreto utile: non sa a chi appartenesse la bicicletta; sa che il campanello suonava da solo nella casa di Marta, che Tomaso lo proclamò «il segno che chiama» e che smise quando la casa fu demolita. Da sempre sospetta che Tomaso non la racconti giusta
+- Segreto utile: non sa a chi appartenesse la bicicletta; sa che il campanello suonava da solo nella casa di Marta, che Tomaso lo proclamò «il segno che chiama» e che smise quando la casa fu demolita. Sa che Tomaso fece allontanare Marta dopo che lei aveva contestato il segno; sospetta che non la racconti giusta
 - Reazione se aiutata: porta i PG al lotto, racconta la formula di Tomaso e, quando Marta ricorda o si fida, le consegna la chiave
 - Reazione se ostacolata: si chiude, fa finta di non sapere nulla e non porta il gruppo al lotto
 

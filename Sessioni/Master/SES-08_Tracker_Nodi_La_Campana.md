@@ -1,8 +1,12 @@
 # Tracker live - La Campana sotto il Lago
 
+> Ultima modifica: 2026-11-19.
+
 > Uso esclusivo del master. Contiene spoiler e stato dell'indagine; non consegnare ai giocatori.
 >
 > Canone e ordine degli eventi: [[Sessioni/Master/SES-00_Andamento]].
+>
+> La procedura del Nodo 4 è una bozza da definire, non una soluzione pronta per il tavolo.
 
 ## Regole al tavolo
 
@@ -34,7 +38,7 @@ Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità
 
 | Nodo | Fonte principale | Prova iniziale | Puzzle/attivazione | Fonte alternativa | Esito/costo/bonus |
 |---|---|---|---|---|---|
-| 1. Il rito | Assemblea: testimonianza di Mara e superstizione del nastro, con Viola al centro | Nessuna prova; scena dialogica sempre attiva | Ascoltare tre giustificazioni diverse e riconoscere la pressione che impone a Mara un dovere | Interrogatorio privato di Mara e domanda diretta a Ivo sulla procedura del rito | Mara consegna il nastro solo se si sente compresa; altrimenti i PG possono tornare dopo aver trovato HND-02 |
+| 1. Il rito | Assemblea: testimonianza di Mara e superstizione del nastro, con Viola al centro | Nessuna prova; scena dialogica sempre attiva | Ascoltare tre giustificazioni diverse e riconoscere la pressione che impone a Mara un dovere | Interrogatorio privato di Mara e domanda diretta a Ivo sulla procedura del rito; oppure il passo sul rito in HND-02 | Mara consegna il nastro solo se si sente compresa; altrimenti i PG possono tornare dopo aver trovato HND-02 |
 | 2. I residui | Gemma e il lotto della casa di Marta (bici sotto le macerie), testimonianza di Dario | Approccio libero | Ordinare gli strati del lotto e dedurre che il campanello suonava prima del crollo | Testimonianza di Gemma e Dario; diario di Tomaso solo come lore facoltativa | Vedi procedura del Nodo 2 |
 | 3. L'oblio | Registro delle consegne, data d'insediamento di Tomaso e frottage, Ada al centro | Approccio libero | Notare il primo record mancante e rivelare le impronte sulla pagina successiva | Nessuna alternativa instradata; l'anagrafe è un premio se cercata autonomamente | Vedi procedura del Nodo 3 |
 | 4. La sostituzione | Ciondolo delle tre onde, ricordi di Elio e Nino, cicatrice e testimonianza di Alba | Approccio libero | Se la prova fallisce, ricostruire la scelta e la fuga senza identificare la persona cancellata | Confronto privato con Alba e Ivo davanti al ciondolo | Vedi procedura del Nodo 4 |
@@ -47,7 +51,7 @@ Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità
 - **Puzzle sociale:** mentre Mara racconta la superstizione, una persona pratica e spaventata la interrompe; altre due voci anonime si aggiungono, una difendendo la tradizione e l'altra appellandosi a ciò che tutti hanno fatto prima. Possono immaginare conseguenze diverse e assurde se Mara scioglie il nodo, ma tutte finiscono per dirle che deve offrirsi. Non serve dimostrare che le paure siano false né trovare una frase esatta: Viola deve cogliere che paura e tradizione vengono usate per trasformare una decisione della piazza in un dovere di Mara. Mara chiede a Viola: «Che cosa hai sentito?» Gli altri PG possono contribuire; la deduzione centrale e il modo di risponderle restano liberi.
 - **Esito positivo:** quando Viola mostra di aver capito che Mara non vuole offrirsi e che la piazza la spinge a sentirsi obbligata, Mara si sente finalmente compresa. Scioglie il nodo in pubblico, affida il nastro a Viola nello stesso gesto e le confida il proprio conflitto, ignorando il resto della piazza. La folla si divide: una persona si irrigidisce, una vacilla, una tace. Se il giocatore sceglie anche di parlare alla piazza, il master può assegnare un bonus o vantaggio; non è necessario e non cambia l'esito.
 - **Esito non raggiunto:** Mara non consegna il nastro né la confidenza. La sua dichiarazione pubblica resta valida; il clue core del Nodo 1 resta raggiungibile tramite le fonti alternative. Dopo aver letto HND-02 e aver capito che manca il token, i PG possono tornare da Mara e chiederlo.
-- **Fonte alternativa:** se il gruppo vuole sapere come si compie il rito, può parlare con Mara in privato e poi chiedere direttamente a Ivo quale passaggio renda effettiva l'offerta. Ivo descrive la procedura, ma non spiega il significato politico né risolve altri nodi.
+- **Fonte alternativa:** se il gruppo vuole sapere come si compie il rito, può parlare con Mara in privato e poi chiedere direttamente a Ivo quale passaggio renda effettiva l'offerta. Ivo descrive la procedura, ma non spiega il significato politico né risolve altri nodi. Anche il passo sul rito in HND-02 può completare il Nodo 1, se ancora mancante.
 - **Spotlight:** Mara chiede a Viola di richiamare l'attenzione e poi le domanda cosa ha sentito nelle voci della piazza. Viola può nominare le giustificazioni e la pressione senza parlare al posto di Mara; la scelta di intervenire pubblicamente è libera.
 
 ### Nodo 2 - I residui
@@ -55,18 +59,17 @@ Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità
 - **Premessa:** circa 25 anni fa, dopo il sacrificio, il campanello di una bicicletta rimasta nella casa di Marta cominciò a suonare da solo a intervalli, anche di notte; il vicinato lo sentì. Tomaso lo proclamò «il segno che chiama: il prossimo è già scelto». Marta riconobbe il suono in assemblea e disse che non indicava nessuno; il villaggio, che ha dimenticato cosa disse, la prese per pazza e Tomaso la fece allontanare. Il campanello smise quando la casa fu demolita; la bici è rimasta sotto le macerie del lotto, nel Borgo Vecchio. Nessun dettaglio indica a chi apparteneva né che fosse di un bambino.
 - **Innesco:** dopo il primo rintocco Gemma, che in piazza ha visto come i PG hanno gestito la scena di Mara, saluta Marta in pubblico e offre ai PG un secondo spunto di riflessione: riferisce cosa disse Tomaso allora («Il segno chiama. Il prossimo è già scelto») e li porta al lotto, lontano dagli sguardi delle anziane. Non sa a chi appartenesse la bici; sa che il suono veniva dalla casa di Marta e che smise quando la abbatterono.
 - **Il lotto:** solo macerie. Un cerchio di ruota arrugginito spunta dal cumulo; accanto un anello di pietra (il pozzetto) e un tratto di muretto. Nessuno ha mai osato toccarlo. Marta si sente attirata: ricorda che c'era una casa e poco altro.
-- **Clue core, senza tiro:** il campanello suonava da una bici che stava in una casa, non era una chiamata nuova; i segni restituiti dalla Voce sono residui di chi già c'era, non ordini che scelgono la prossima vittima. La formula che Tomaso usò allora è la stessa che usa oggi su Mara: il gruppo ottiene il sospetto che sapesse. Dario o la confessione di Tomaso davanti alla prova confermano il sospetto.
+- **Clue core, senza tiro:** il campanello suonava da una bici che stava nella casa di Marta; il segno rimanda a qualcosa che c'era già, non a una nuova designazione. Gemma riferisce la formula usata allora da Tomaso, la stessa che usa oggi; Dario ricorda che Marta contestò il segno e che Tomaso la fece allontanare. I PG possono collegare questi fatti alla manipolazione dei residui senza cercare una nuova prova o ottenere una confessione.
 - **Prova iniziale:** approccio libero per ispezionare e scavare il lotto con Marta e Gemma. Un successo libera il cumulo strato per strato e rende leggibile l'ordine: consegna il clue core e l'eventuale bonus. Un fallimento fa emergere i ritrovamenti alla rinfusa e apre il puzzle.
 - **Puzzle collaborativo (gli strati del lotto):** scavando emergono quattro schede senza ordine: «erbacce con radici sottili tra i sassi»; «pietre e malta della facciata, ammucchiate»; «ruota e campanello schiacciati, ruggine fino al perno»; «terra battuta con un anello di pietra accanto alla soglia». Tre indicazioni lette ad alta voce: le radici attraversano le pietre; le pietre poggiano sulla ruota; la ruota poggia sulla terra battuta. Chiedi: «Il campanello suonava prima o dopo che le pietre cadessero?». L'ordine dal basso è terra battuta, ruota, pietre, erbacce. Marta, ricordando la soglia (Ricordo II: la porta chiusa dall'esterno), riconosce nell'anello di pietra il pozzetto della propria cucina: quella terra era il pavimento interno e la ruota stava dentro la casa. Senza di lei il gruppo non sa se la terra sia pavimento o semplice suolo.
 - **Materiali e tempo:** quattro cartoncini con i ritrovamenti e tre biglietti con le indicazioni. Obiettivo: 5 minuti.
 - **Soluzione accettabile:** la bici stava sul pavimento della casa e le pietre della facciata l'hanno coperta dopo; il campanello suonava quando la casa era in piedi, quindi prima del crollo. Il segno veniva da un oggetto di chi viveva lì e non da una chiamata verso il prossimo, come sosteneva Tomaso. Non serve una formulazione esatta.
 - **Hint 1:** «Che cosa sta sopra e che cosa sotto?» **Hint 2:** «Chi è stato schiacciato da chi? E quella terra battuta, dove ci troviamo?»
-- **Retry e costo:** dopo il puzzle fallito, offrire un ultimo tentativo di rimuovere le macerie e rileggere l'ordine in cinque minuti; le anziane del villaggio passano e osservano, Gemma si ritira e la scena si chiude. Il clue core resta accessibile tramite Dario o il diario.
 - **Retry e costo:** dopo il puzzle fallito, offrire un ultimo tentativo di rimuovere le macerie e rileggere l'ordine in cinque minuti; le anziane del villaggio passano e osservano, Gemma si ritira e la scena si chiude. Il clue core resta accessibile tramite Dario.
 - **Token (chiave):** appena Marta dichiara di ricordare qualcosa del posto o di fidarsi di Gemma, lei le consegna la chiave della casa: ferro annerito, con un nodo di spago al posto dell'anello e senza segni che identifichino chi la usava. La casa è demolita e la chiave non apre più nulla. Non dipende dal puzzle riuscito. Significato: ciò che torna e ciò che è già stato.
 - **Contingenze:** se i PG cercano Gemma prima del primo rintocco, resta distante («Non adesso, le vecchie guardano») e li rimanda a dopo; se il rintocco tarda, falla avvicinare comunque a una pausa utile. Se la scena avviene dopo il secondo rintocco, la premessa di Marta regge: del Ricordo II resta la porta. Se il giocatore di Marta non c'è, Gemma ricorda al suo posto la porta e il pozzetto in cucina e consegna la chiave a un altro PG.
 - **Fonte alternativa:** testimonianza di Gemma e Dario; il diario di Tomaso è lore facoltativa, non una fonte necessaria per il clue del nodo.
-- **Bonus verso il Nodo 3:** risolvendo senza hint, Ada nota che una pagina più antica ha un nome abraso sotto la stessa cera nera: indirizza la ricerca alla cancellazione di Elian.
+- **Bonus verso il Nodo 3:** risolvendo senza hint, quando Ada consulta il registro nota la cera nera e l'assenza di una pagina all'inizio della serie: questo indirizza la ricerca alla cancellazione di Elian.
 - **Spotlight:** Marta decide se esporsi chiedendo a Varda di riconoscere che aveva ragione, o se lasciare che siano Gemma e Dario a testimoniare al suo posto.
 
 ### Nodo 3 - L'oblio
@@ -95,9 +98,8 @@ Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità
 | 16 | PR-09860903-01 | 19/05/1025, 02:17 |
 - **Nota master:** la quarta riga è Nino, nato il 02/06/0991; la sua scheda anagrafica porta il codice NV-09910602-01. Gli altri codici sono riempitivo e non corrispondono a PNG canonici.
 - **Clue core, senza tiro:** manca intenzionalmente una registrazione all'inizio della serie. Il frottage rivela che riguardava Elian, che entrò nel cerchio per sua volontà e che Tomaso richiuse il passaggio. La rimozione è umana; non occorre dedurre una formula precisa né identificare chi abbia lasciato il foglietto.
-- **Puzzle collaborativo:** Ada confronta la data d'insediamento, la cadenza dei cicli e le date dei sedici record. Il gruppo nota il ciclo mancante in testa al registro; la prima pagina è stata strappata, ma la successiva conserva le impronte del testo. Passando grafite morbida di lato, il frottage fa emergere: «Elian Varda. Entrato nel cerchio per sua volontà. Tomaso ha richiuso il passaggio.»
-- **Puzzle collaborativo:** Ada confronta la data d'insediamento, la cadenza dei cicli e le date dei sedici record. Il gruppo nota il ciclo mancante in testa al registro; la prima pagina è stata strappata, ma la successiva conserva le impronte del testo. Se Ada o il gruppo decide di fare un frottage, il master descrive la traccia e legge: «Elian Varda. Entrato nel cerchio per sua volontà. Tomaso ha richiuso il passaggio.» Non servono materiali fisici.
-- **Materiali:** registro delle consegne con sedici righe leggibili, codici e date; atto pubblico di insediamento datato 19/05/1001; la foglia strappata è HND-02, nascosta da Tomaso in cripta; la pagina seguente conserva solo le impronte del suo resoconto. Ivo aggiunse le note marginali e il retro dopo lo strappo, quindi non compaiono nel frottage. Il foglietto-token, «Non correggere. Chiediti perché manca.», è piegato nella rilegatura.
+- **Puzzle collaborativo:** Ada confronta la data d'insediamento, la cadenza dei cicli e le date dei sedici record. Il gruppo nota il ciclo mancante in testa al registro; la prima pagina è stata strappata, ma la successiva conserva le impronte del testo. Se Ada o il gruppo decide di fare un frottage, il master descrive la traccia e legge: «Elian Varda. Entrato nel cerchio per sua volontà. Io, Tomaso, ho richiuso il passaggio.» Non servono materiali fisici.
+- **Materiali:** registro delle consegne con sedici righe leggibili, codici e date; atto pubblico di insediamento datato 19/05/1001; la pagina strappata è HND-02, nascosta da Tomaso in cripta. In seguito è stata strappata da HND-02 la riga sulla scelta di Elian: il frammento è perduto, ma la pagina seguente del registro conserva le impronte del resoconto originario. Ivo aggiunse le note marginali e il retro dopo la rimozione della pagina, quindi non compaiono nel frottage. Il foglietto-token, «Non correggere. Chiediti perché manca.», è piegato nella rilegatura.
 - **Hint:** richiama il terzo segno di HND-02 senza richiedere che sia già stato trovato: «Il conto rimane, ma quale registrazione manca?» Se serve, indirizza al frottage: «La pagina strappata era appoggiata a quella successiva: guarda cosa ha lasciato.»
 - **Fonte autonoma facoltativa:** se i PG scelgono di cercare a fondo nell'anagrafe, trovano che la scheda di Nino manca mentre il suo codice appare nel registro delle consegne. È un premio che collega al Nodo 4, non una tappa necessaria né un'alternativa da suggerire.
 - **Sogno di Mara:** se Ada le chiede cosa ricorda, Mara può riferire un frammento ricorrente: una figura impaurita capisce cosa accetta ed entra nel cerchio. Il sogno non offre nome, volto o storia completa; corrobora la volontarietà.
@@ -123,7 +125,7 @@ Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità
 
 - Si trova nella cripta, sotto una pietra accanto al cerchio, mentre il gruppo sta per compiere il rito tradizionale; la posizione non dipende dalla presenza del Custode. Segnale senza tiro: la pietra è leggermente sollevata, con cera nera uguale a quella del registro di Tomaso e un lembo di carta ripiegato visibile sotto il bordo. Sollevarla rivela HND-02.
 - Se i PG non notano il segnale, una ricerca dichiarata vicino al cerchio lo trova automaticamente; non serve prova. Ivo non lo consegna e la sua confessione non lo sostituisce.
-- Handout attivo: [[Sessioni/Handout/HND-02_Registro_Della_Notte_Originaria]]. Il testo è leggibile; la frase sul «segno vecchio» acquista significato con il Nodo 2, il conteggio con il Nodo 3 e il passaggio nel cerchio con il Nodo 1.
+- Handout attivo: [[Sessioni/Handout/HND-02_Registro_Della_Notte_Originaria]]. Il passo sul passaggio nel cerchio può completare il Nodo 1; la frase sul «segno vecchio» e il conteggio richiamano i Nodi 2 e 3 senza sostituire le rispettive indagini.
 - Il «Diciassette giù, sedici su» di HND-02 è il conteggio della notte originaria, distinto dalle sedici righe leggibili del registro delle consegne in municipio.
 - La nota sulle tre onde richiama il Nodo 4, ma non rivela il nome della persona cancellata né restituisce i ricordi prima che il patto sia spezzato.
 - HND-02 è una chiave separata dai quattro nodi e non viene sostituito da Ivo o da un'altra fonte.
@@ -141,14 +143,14 @@ Segna una fonte come chiusa solo dopo il fallimento previsto. Il terzo rintocco 
 | Nodo 2 - puzzle Marta | Bozza completa, da collaudare |  |  |  |
 | Nodo 2 - alternativa | Bozza completa, da collaudare |  |  |  |
 | Nodo 3 - puzzle Ada | Bozza completa, da collaudare |  |  |  |
-| Nodo 3 - alternativa | Bozza completa, da collaudare |  |  |  |
-| Nodo 4 - puzzle Elio/Nino | Bozza completa, da collaudare |  |  |  |
-| Nodo 4 - alternativa | Bozza completa, da collaudare |  |  |  |
+| Nodo 3 - alternativa | Nessuna alternativa instradata; anagrafe come premio facoltativo |  |  |  |
+| Nodo 4 - puzzle Elio/Nino | Da definire; bozza non definitiva |  |  |  |
+| Nodo 4 - alternativa | Da definire; bozza non definitiva |  |  |  |
 | HND-02 - quinta chiave | Attivo; da trovare nascosto ma segnalato in cripta |  |  |  |
 
 ## Finestra del terzo rintocco
 
-- Target climax/decisione: circa minuto 75; i rintocchi restano flessibili e scattano a transizioni naturali.
+- I rintocchi non hanno orari prefissati: il master li scandisce leggendo la situazione e scegliendo transizioni naturali.
 - Dal terzo rintocco parte una finestra di circa 20 minuti per recuperare al massimo un nodo, se HND-02 è stato trovato.
 - Dopo l'offerta: la vittima muore subito e l'acqua comincia a risalire; la cripta si riempie alla fine della finestra. Il gruppo può ancora tentare il true ending.
 - Se il true ending riesce dopo l'offerta ma prima della scadenza: il patto si spezza, l'acqua si ferma, il villaggio ricorda la vittima e la vittima resta morta.

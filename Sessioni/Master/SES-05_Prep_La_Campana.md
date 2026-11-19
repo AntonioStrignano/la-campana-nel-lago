@@ -1,5 +1,7 @@
 # Prep master - La Campana sotto il Lago
 
+> Ultima modifica: 2026-11-19.
+
 > Categoria: preparazione pre-sessione. Pubblico: master. Usa il canone in [[Sessioni/Master/SES-00_Andamento]] e non condividere le note con spoiler.
 
 ## Dati della sessione
@@ -32,12 +34,12 @@
 - [ ] Completare le schede Shadowdark di livello 0 per il numero effettivo di giocatori.
 - [ ] Preparare il blocco nemico e decidere se lo scontro con i resti avverrà o verrà saltato.
 - [ ] Concordare temi da escludere o velare e un segnale per fermare o modificare una scena.
-- [ ] Chiedere ai giocatori di leggere la guida safe e scegliere i propri ricordi fondamentali.
+- [ ] Chiedere ai giocatori di leggere la guida safe e prendere visione del ricordo fondamentale già scritto sulla propria scheda, rispettando la possibilità di sostituirlo per i limiti concordati.
 - [ ] Tenere distinti i tre ricordi ordinari dal ricordo fondamentale: Ricordi I, II e III vengono ceduti ai rispettivi rintocchi; il fondamentale si offre solo volontariamente nella Terza Via.
-- [ ] Verificare che i clue core dei quattro nodi siano raggiungibili senza prova e che ogni alternativa sia pronta.
+- [ ] Verificare che i clue core dei quattro nodi siano raggiungibili senza prova e che le fonti alternative previste siano pronte; il Nodo 4 è ancora da definire.
 - [ ] Tenere HND-02 separato dai quattro nodi; il costo dei ricordi viene rivelato dalla Voce solo prima della scelta.
 - [ ] Preparare il foglio live con ora d'inizio, rintocchi, nodi, HND-02, spotlight e tempo della finestra finale.
-- [ ] Pianificare un terzo rintocco orientativo al minuto 75 e riservare circa 20 minuti alla finestra finale.
+- [ ] Scandire i rintocchi leggendo la situazione al tavolo e riservare circa 20 minuti alla finestra finale.
 
 ## Apertura al tavolo
 

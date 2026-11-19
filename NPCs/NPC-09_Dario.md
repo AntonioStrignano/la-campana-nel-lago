@@ -1,12 +1,14 @@
 # Dario, il pescatore
 
+> Ultima modifica: 2026-11-19.
+
 > Pubblico: riservato al master. L'unico che ha sempre creduto a Marta: il PNG della speranza.
 
 ## Scheda 30 secondi
 - Ruolo in storia: pescatore del Porto del Fondo, sui quarant'anni; da ragazzino vide l'esilio di Marta e le ha sempre creduto
 - Voce/atteggiamento: diretto, cordiale, con lo sguardo sempre sull'acqua; non fa discorsi. Non segue i credi popolari: per lui le cose succedono e basta, ma fiuta ciò che non torna. Fa parte, senza dichiararlo, della rete silenziosa che si riconosce intorno a Gemma
 - Obiettivo immediato: capire perché le increspature partono dal campanile e non nascondere più ciò che ha visto
-- Segreto utile: ricorda Marta gridare in piazza che il segno non indicava nessuno e che la folla la zittì. Non ricorda per chi, ma non l'ha mai dimenticata
+- Segreto utile: ricorda Marta gridare in piazza che il segno non indicava nessuno, la folla zittirla e Tomaso farla allontanare. Non sa a chi appartenesse la bici e non ricorda Lia, ma non ha mai dimenticato Marta né la sua protesta
 - Reazione se aiutato: porta i PG in barca fino alla cima della torre dopo il secondo rintocco, senza Ivo
 - Reazione se ostacolato: porta comunque la barca ma non parla
 

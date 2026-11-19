@@ -1,5 +1,7 @@
 # Vault One-Shot Mastering
 
+> Ultima modifica: 2026-11-19.
+
 Vault operativo progettato per one-shot brevi ad alta resa: investigazione + azione + horror psicologico, con spazio reale alle scelte dei PG e convergenza morbida verso il climax.
 
 ## Principi guida
@@ -48,6 +50,10 @@ Per condurre la versione attiva, parti da [[Sessioni/Master/SES-01_Run_Sheet_La_
 - Ogni scheda termina con una sezione `## Note correlate` che collega le entità realmente rilevanti.
 
 La migrazione dei file esistenti è tracciata in `MATRICE_Migrazione.md`. Dopo ogni spostamento vanno aggiornati i wikilink e `handoff.md`.
+
+## Data delle modifiche
+
+Ogni documento operativo modificato riporta in cima `Ultima modifica: AAAA-MM-GG`, con la data effettiva dell'intervento. Dopo ogni modifica operativa aggiorna subito anche `handoff.md`; non assegnare date retroattive ai documenti non ancora modificati.
 
 ## Flusso operativo consigliato
 

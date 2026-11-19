@@ -1,5 +1,7 @@
 # Dialoghi e scene - La Campana sotto il Lago
 
+> Ultima modifica: 2026-11-19.
+
 > Categoria: supporto alle scene. Pubblico: master. Le battute sono modulari: usane una o due e lascia rispondere i giocatori. Per i testi da leggere usa [[Sessioni/Handout/HND-01_Testualita_La_Campana]].
 
 ## Ivo, il Custode
@@ -7,7 +9,7 @@
 ### Primo incontro
 
 - «Non sono io che vi ho chiamati. La campana segnala che il sigillo si sta indebolendo.»
-- «Il segno non sceglie una persona. Mostra qualcosa che il villaggio ha già dimenticato.»
+- «Il segno è comparso. Il villaggio ha deciso come interpretarlo.»
 - «Io conduco il passaggio. Non pronuncio una sentenza.»
 
 ### Se chiedono come funziona il rito
@@ -29,7 +31,7 @@
 
 ### Se Ada mostra le omissioni
 
-- «Ti ho insegnato a non fidarti delle pagine incomplete. Non pensavo che avresti capito che ero io a strapparle.»
+- «Ti ho insegnato a non fidarti delle pagine incomplete. Non pensavo che avresti capito quanto decidevo io cosa potevi leggere.»
 - Se gli chiedono perché l'ha scelta: «Perché vedevi le crepe senza averle ancora causate.»
 - Se lo accusano di averla trasformata in un rimpiazzo: «Non eri lei. Lo sapevo ogni volta che ti guardavo. È questo che ho scelto di dimenticare.»
 
@@ -88,7 +90,7 @@
 
 ### Se gli chiedono cosa mostrano i segni
 
-- «La Voce restituisce ciò che le è stato dato.»
+- «Il segno chiama. Il prossimo è già scelto.»
 - Se insistono: «Un'immagine non basta a governare trecento persone. Qualcuno deve decidere cosa farne.»
 - Se Marta lo confronta: «Hai detto che il segno non indicava nessuno. Ti ho sentita. Ho scelto di non ascoltarti.»
 
