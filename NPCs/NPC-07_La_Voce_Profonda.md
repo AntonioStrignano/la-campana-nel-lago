@@ -36,7 +36,8 @@ La cripta sotto la cappella la conteneva già, chiusa da un sigillo più antico 
 
 Si svolge nella cripta, dopo gli zombie acquatici. L'avatar è presenza nell'aria e voci dei sacrificati, non un mostro da abbattere.
 
-- **Tentazione:** per ogni PG usa il Ricordo III come leva: tenerlo in cambio di un'altra persona da offrire.
+- **Ricordi:** Ricordo III è già stato ceduto al terzo rintocco; la Voce non lo restituisce né lo scambia per una vittima.
+- **Costo:** prima della dichiarazione, chiarisce che ogni PG presente che accetta il true ending perderà il proprio ricordo fondamentale.
 - **Dichiarazione:** i PG pronunciano il nome di Elian e dichiarano i nodi sciolti; ognuno offre in modo permanente un ricordo fondamentale.
 - **Chiusura:** l'avatar viene eliminato; la cripta e la torre crollano nel lago e la campana resta spaccata e muta sul fondo.
 

@@ -1,3 +1,13 @@
+- Aggiunta in `LUO-02`: la scheda anagrafica sulla salma è un indizio facoltativo che può rivelare il nome di Nera, non genitori o sostituzione.
+- Precisato in `SES-08` che HND-02 è il foglio strappato: le note di Ivo sono state aggiunte dopo e non lasciano impronte sulla pagina del frottage.
+- Precisato in `SES-08` che HND-02 è il foglio strappato: le note di Ivo sono state aggiunte dopo e non lasciano impronte sulla pagina del frottage.
+- Aggiunta in `HND-02` una nota master che attribuisce il resoconto a Tomaso e le note marginali/successive a Ivo dopo lo strappo.
+- Aggiunta in `HND-02` una nota master che attribuisce il resoconto a Tomaso e le note marginali/successive a Ivo dopo lo strappo.
+- Rimossi dal clue core e dal retry del Nodo 2 in `SES-08` i riferimenti al diario di Tomaso; Dario resta la conferma, il diario è lore.
+- Rimossi dal clue core e dal retry del Nodo 2 in `SES-08` i riferimenti al diario di Tomaso; Dario resta la conferma, il diario è lore.
+- Allineato `SES-00`: Dario è il testimone di conferma del Nodo 2; Tomaso porta il diario in cripta come lore facoltativa e può lasciarlo cadere fuggendo.
+- Allineato `SES-00`: Dario è il testimone di conferma del Nodo 2; Tomaso porta il diario in cripta come lore facoltativa e può lasciarlo cadere fuggendo.
+- Aggiornata `NPC-03`: il diario di Tomaso è portato in cripta come lore facoltativa e non funge da fonte di clue.
 # Handoff Operativo
 
 ## 2026-10-26 - HND-02 indipendente da Ivo
@@ -446,3 +456,67 @@
 - Allineati indice PNG, `SES-07` (formula «Il segno chiama. Il prossimo è già scelto» e battute di Gemma al lotto), run sheet (assemblea e Nodo 2), `LUO-03` (lotto nel Borgo Vecchio) e TODO.
 - Aggiunta in `HND-01` (assemblea) la frase di Tomaso «Il segno chiama. Il prossimo è già scelto.», necessaria perché l'eco con il racconto di Gemma funzioni al tavolo.
 - Prossimo passo: prova a secco del Nodo 2 (scena di Gemma, lotto, quattro schede, consegna della chiave, tempi) e verifica che il sospetto verso Tomaso porti al diario senza farne un passaggio obbligato.
+- Controllo trasversale di coerenza sul Nodo 2: corretta la soluzione del puzzle (Tomaso sosteneva una chiamata verso il prossimo, non un arrivo da fuori); aggiunte in `SES-08` le contingenze (Gemma prima del primo rintocco, scena dopo il secondo, giocatore di Marta assente); `SES-06` non fa più indagare Marta "nella cappella"; `LUO-01` non cita più la bici come oggetto restituito dal lago.
+- Chiusa la questione aperta del 2026-10-28 sul componente della bicicletta da usare come token: il token è la chiave. Corrette le restanti sequenze `\u00e9` letterali in `NPC-08` e `NPC-09`.
+- Definito l'aspetto neutro della chiave del Nodo 2: ferro annerito, nodo di spago al posto dell'anello, nessun segno identificativo. Il bonus verso il Nodo 3 resta da ripensare quando si lavorerà sul puzzle di Ada.
+- Allineata la descrizione della chiave in `SES-09` con il token del Nodo 2 in `SES-08`.
+- Aggiunta in `LUO-02` l'immagine opzionale del corpo vuoto di una neonata tra i resti: senza nome o segni, non è un clue e non viene collegata a Lia prima del true ending.
+- Precisato in `SES-09` che la chiave rappresenta il ritorno e la casa perduta di Marta, non il residuo (che è il campanello). Il segno di oggi resta vago; accesso al diario si definirà con il puzzle collegato; niente handout separato per le schede. Il bonus N2→N3 resta da ripensare quando si lavorerà sul puzzle di Ada.
+- Precisato in `SES-09` che la chiave rappresenta il ritorno e la casa perduta di Marta, non il residuo (che è il campanello). Il segno di oggi resta vago; accesso al diario si definirà con il puzzle collegato; niente handout separato per le schede. Il bonus N2→N3 resta da ripensare quando si lavorerà sul puzzle di Ada.
+
+## 2026-11-19 - Implementazione Nodo 3
+
+- Aggiornato `SES-08`: Nodo 3 ora usa il record iniziale mancante e il frottage sulla pagina successiva per rivelare Elian, la sua scelta volontaria e il gesto di Tomaso.
+- Il foglietto-token è «Non correggere. Chiediti perché manca.»; la ricerca autonoma in anagrafe resta un collegamento-premio al Nodo 4, non una tappa obbligatoria.
+- Chiarito che i 17/16 di HND-02 contano la notte originaria e non i record cumulativi del municipio.
+- Rimosso dal Nodo 2 il diario di Tomaso come fonte alternativa obbligatoria; resta lore facoltativa.
+- Rimosso dal Nodo 2 il diario di Tomaso come fonte alternativa obbligatoria; resta lore facoltativa.
+- Aggiornata `SES-09`: il token di Ada è un foglietto non firmato nella rilegatura del registro. Il foglietto non attribuisce ai PG l'autore della traccia né identifica il mittente della lettera; l'attribuzione a Ivo resta solo master.
+- Aggiornata `SES-09`: il token di Ada è un foglietto non firmato nella rilegatura del registro. Il foglietto non attribuisce ai PG l'autore della traccia né identifica il mittente della lettera; l'attribuzione a Ivo resta solo master.
+- Aggiornata la scheda di Nino: porta con sé la propria pagina anagrafica sottratta durante la fuga; Alba lo riconosce e gli consiglia prudenza, ma nascondersi resta scelta del PG.
+- Aggiornata la scheda di Nino: porta con sé la propria pagina anagrafica sottratta durante la fuga; Alba lo riconosce e gli consiglia prudenza, ma nascondersi resta scelta del PG.
+- Allineato `SES-01` alla sequenza Nodo 1 → 1° rintocco → Nodo 2 → Nodo 3 → 2° rintocco → Nodo 4 → 3° rintocco. Il terzo rintocco cede Ricordo III; HND-02 si recupera in cripta nella finestra, prima della dichiarazione del true ending.
+- Allineato `SES-01` alla sequenza Nodo 1 → 1° rintocco → Nodo 2 → Nodo 3 → 2° rintocco → Nodo 4 → 3° rintocco. Il terzo rintocco cede Ricordo III; HND-02 si recupera in cripta nella finestra, prima della dichiarazione del true ending.
+- Aggiornata la regola comune in `PG/INDICE_PG_La_Campana`: i tre ricordi ordinari sono ceduti ai rispettivi rintocchi; il fondamentale resta un costo volontario della Terza Via.
+- Aggiornata la regola comune in `PG/INDICE_PG_La_Campana`: i tre ricordi ordinari sono ceduti ai rispettivi rintocchi; il fondamentale resta un costo volontario della Terza Via.
+- Allineata `PG-00_Guida_La_Campana`: al terzo rintocco il terzo ricordo ordinario viene ceduto alla Voce; il ricordo fondamentale resta volontario.
+- Allineata `PG-00_Guida_La_Campana`: al terzo rintocco il terzo ricordo ordinario viene ceduto alla Voce; il ricordo fondamentale resta volontario.
+- Allineato `HND-01`: al terzo rintocco Ricordo III viene ceduto; rimossa la tentazione di barattarlo per un'altra persona. La Voce chiarisce il costo volontario del ricordo fondamentale.
+- Allineato `HND-01`: al terzo rintocco Ricordo III viene ceduto; rimossa la tentazione di barattarlo per un'altra persona. La Voce chiarisce il costo volontario del ricordo fondamentale.
+- Aggiornata la tabella dei rintocchi in `SES-00`: al terzo rintocco Ricordo III viene ceduto alla Voce.
+- Aggiornata la tabella dei rintocchi in `SES-00`: al terzo rintocco Ricordo III viene ceduto alla Voce.
+- Precisato in `SES-00` che prima del terzo rintocco non si perdono ricordi oltre quelli previsti ai primi due.
+- Aggiornata la tabella dei rintocchi in `SES-00`: al terzo rintocco Ricordo III viene ceduto alla Voce.
+- Aggiornata la scena del true ending in `SES-00`: il Ricordo fondamentale resta il costo volontario; rimossa l'offerta della Voce di restituire Ricordo III in cambio di una vittima.
+- Aggiornata la scena del true ending in `SES-00`: il Ricordo fondamentale resta il costo volontario; rimossa l'offerta della Voce di restituire Ricordo III in cambio di una vittima.
+- Allineata la regola canonica in `SES-06`: Ricordi I, II e III sono ceduti ai rispettivi rintocchi; il fondamentale resta volontario per la Terza Via.
+- Allineata la regola canonica in `SES-06`: Ricordi I, II e III sono ceduti ai rispettivi rintocchi; il fondamentale resta volontario per la Terza Via.
+- Aggiornata la checklist di `SES-05` per distinguere i tre ricordi ordinari ceduti ai rintocchi dal Ricordo fondamentale offerto volontariamente.
+- Aggiornata la checklist di `SES-05` per distinguere i tre ricordi ordinari ceduti ai rintocchi dal Ricordo fondamentale offerto volontariamente.
+- In `SES-06`, la Voce chiarisce il costo del Ricordo fondamentale; rimossa la tentazione basata sullo scambio di Ricordo III.
+- In `SES-06`, la Voce chiarisce il costo del Ricordo fondamentale; rimossa la tentazione basata sullo scambio di Ricordo III.
+- Aggiornati i dialoghi `SES-07`: il Ricordo III ceduto non viene restituito né barattato; la Voce dichiara prima della scelta il costo volontario del Ricordo fondamentale.
+- Aggiornati i dialoghi `SES-07`: il Ricordo III ceduto non viene restituito né barattato; la Voce dichiara prima della scelta il costo volontario del Ricordo fondamentale.
+- Allineata `NPC-07` alla stessa procedura: Ricordo III già ceduto, nessuno scambio; il Ricordo fondamentale resta il costo volontario del true ending.
+- Allineata `NPC-07` alla stessa procedura: Ricordo III già ceduto, nessuno scambio; il Ricordo fondamentale resta il costo volontario del true ending.
+- Allineato `HND-02` al frottage: la pagina strappata è il record iniziale, con la volontarietà di Elian, l'azione di Tomaso e la rimozione del nome; i 17/16 restano il conteggio della notte originaria.
+- Allineato `HND-02` al frottage: la pagina strappata è il record iniziale, con la volontarietà di Elian, l'azione di Tomaso e la rimozione del nome; i 17/16 restano il conteggio della notte originaria.
+- Allineata la tabella fonti in `SES-08`: Nodo 3 usa registro/dato d'insediamento/frottage; l'anagrafe non è un'alternativa instradata e il diario di Tomaso non è fonte alternativa del Nodo 2.
+- Allineata la tabella fonti in `SES-08`: Nodo 3 usa registro/dato d'insediamento/frottage; l'anagrafe non è un'alternativa instradata e il diario di Tomaso non è fonte alternativa del Nodo 2.
+- Aggiornata `TODO_La_Campana.md`: il Nodo 3 è rielaborato, resta da provare a secco.
+- Aggiornata `TODO_La_Campana.md`: il Nodo 3 è rielaborato, resta da provare a secco.
+- Corretta in `SES-08` la regola del Nodo 4: la scheda anagrafica sulla salma può rivelare il nome di Nera, ma non parentela o memoria completa prima del true ending; rimossa una regola duplicata sui tiri.
+- Corretta in `SES-08` la regola del Nodo 4: la scheda anagrafica sulla salma può rivelare il nome di Nera, ma non parentela o memoria completa prima del true ending; rimossa una regola duplicata sui tiri.
+- Aggiunta in `SES-09` la scheda anagrafica di Nera sul corpo, distinta dal ciondolo-token: può rivelarne il nome, non genitori o memoria della sostituzione.
+- Aggiunta in `SES-09` la scheda anagrafica di Nera sul corpo, distinta dal ciondolo-token: può rivelarne il nome, non genitori o memoria della sostituzione.
+- Allineato `NPC-06`: la scheda sul corpo può rivelare il nome di Nera; nessun PNG vivente ricostruisce parentela o storia completa prima del true ending.
+- Allineato `NPC-06`: la scheda sul corpo può rivelare il nome di Nera; nessun PNG vivente ricostruisce parentela o storia completa prima del true ending.
+- Allineata la matrice finale in `SES-00`: il nome di Nera può emergere dalla scheda in cripta; la memoria completa e i legami tornano nel true ending.
+- Allineata la matrice finale in `SES-00`: il nome di Nera può emergere dalla scheda in cripta; la memoria completa e i legami tornano nel true ending.
+- Aggiornata `LUO-02`: la scheda anagrafica sulla salma è un indizio facoltativo che può rivelare il nome di Nera, non genitori o sostituzione.
+- Aggiornata `TODO_La_Campana.md`: il Nodo 3 è rielaborato, resta da provare a secco.
+- Precisate le regole del tracker `SES-08`: tiri, puzzle con retry e fonti alternative obbligatorie riguardano solo i nodi che li prevedono; Nodo 3 non ha gating meccanico.
+- Precisate le regole del tracker `SES-08`: tiri, puzzle con retry e fonti alternative obbligatorie riguardano solo i nodi che li prevedono; Nodo 3 non ha gating meccanico.
+- Aggiornata `NPC-02`: il sogno di Mara è un residuo della Voce, disponibile già prima del secondo rintocco se Ada chiede; mostra una figura consapevole che entra nel cerchio, senza volto né nome.
+- Aggiornata `NPC-02`: il sogno di Mara è un residuo della Voce, disponibile già prima del secondo rintocco se Ada chiede; mostra una figura consapevole che entra nel cerchio, senza volto né nome.
+- Aggiunto in `SES-08` il riferimento cronologico Nodo 3 (T0 insediamento di Tomaso, record mancanti e sedici date cicliche visibili fino a T+288; ciclo attuale T+306), distinto dal conteggio notturno 17/16 di HND-02.

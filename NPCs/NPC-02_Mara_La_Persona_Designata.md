@@ -2,7 +2,7 @@
 
 ## Scheda 30 secondi
 - Ruolo in storia: figlia di Elian (aveva circa 5 anni quando fu sacrificato, nessuno lo ricorda), ultima sua parente e custode dei registri civici correnti; prima candidata proposta da Tomaso per il vincolo
-- Sogni: ricorrenti, mostrano frammenti della notte originaria
+- Sogni: ricorrenti, residui della Voce che filtrano frammenti della notte originaria. Prima del secondo rintocco, se Ada le chiede cosa ricorda, Mara descrive una figura impaurita che capisce cosa sta accettando ed entra nel cerchio; non distingue volto o nome.
 - Voce/atteggiamento: concreta, stanca, ironica quando ha paura; non chiede ai PG di salvarla a ogni costo
 - Legame con i PG: Mara ha chiesto a La Voce di testimoniare davanti al villaggio che il suo silenzio non vale come consenso; ha chiesto a La Memoria di verificare i registri senza fidarsi delle versioni ufficiali
 - Obiettivo immediato: impedire che la comunità decida per lei senza ricordare la verità
@@ -26,7 +26,7 @@
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: persona comune, alta determinazione, nessuna capacità offensiva necessaria
-- Poteri/abilità rilevanti: i sogni le lasciano frammenti della notte originaria; non distinguono da soli i fatti e non le restituiscono il ricordo completo di Elian
+- Poteri/abilità rilevanti: i sogni sono residui della Voce, non visioni o memoria cosciente; danno frammenti della notte originaria ma non il volto, il nome o la storia completa di Elian
 - Soglie danno/resa/fuga: non cede per paura; cede solo se il gruppo le nega agency o le promette una soluzione senza costo
 
 ## Note correlate

@@ -33,7 +33,7 @@
 - [ ] Preparare il blocco nemico e decidere se lo scontro con i resti avverrà o verrà saltato.
 - [ ] Concordare temi da escludere o velare e un segnale per fermare o modificare una scena.
 - [ ] Chiedere ai giocatori di leggere la guida safe e scegliere i propri ricordi fondamentali.
-- [ ] Tenere Ricordo I, Ricordo II e Ricordo III distinti: i primi due possono essere barrati ai rintocchi; il terzo resta disponibile alla Voce; il ricordo fondamentale si offre solo volontariamente.
+- [ ] Tenere distinti i tre ricordi ordinari dal ricordo fondamentale: Ricordi I, II e III vengono ceduti ai rispettivi rintocchi; il fondamentale si offre solo volontariamente nella Terza Via.
 - [ ] Verificare che i clue core dei quattro nodi siano raggiungibili senza prova e che ogni alternativa sia pronta.
 - [ ] Tenere HND-02 separato dai quattro nodi; il costo dei ricordi viene rivelato dalla Voce solo prima della scelta.
 - [ ] Preparare il foglio live con ora d'inizio, rintocchi, nodi, HND-02, spotlight e tempo della finestra finale.

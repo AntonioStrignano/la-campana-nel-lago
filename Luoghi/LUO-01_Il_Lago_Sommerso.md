@@ -16,7 +16,7 @@
 ## Interazioni chiave
 | Azione PG | Risposta ambiente | Nuova opportunità |
 |---|---|---|
-| Esplorare | l'acqua restituisce oggetti che gli abitanti non ricordano | trovare un indizio sensoriale (bicicletta, ninna nanna) |
+| Esplorare | l'acqua restituisce oggetti che gli abitanti non ricordano | trovare un indizio sensoriale (un campanello che suona da solo, una ninna nanna) |
 | Indagare | tre abitanti danno tre versioni sincere della stessa notte | confrontare le versioni e trovare la pagina mancante |
 | Forzare | le increspature si intensificano | avvicinarsi al campanile prima del tempo e scoprire che non si può scendere |
 

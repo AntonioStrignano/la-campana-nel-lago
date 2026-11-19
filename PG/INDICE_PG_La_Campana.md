@@ -14,7 +14,7 @@
 
 ## Regola comune
 
-Ogni scheda contiene tre ricordi ordinari e un ricordo fondamentale. Il primo e il secondo vengono barrati ai rispettivi rintocchi; il terzo resta disponibile fino al climax. Il ricordo fondamentale è un costo volontario della Terza Via.
+Ogni scheda contiene tre ricordi ordinari e un ricordo fondamentale. I Ricordi I, II e III vengono ceduti alla Voce ai rispettivi rintocchi. Il ricordo fondamentale è distinto e può essere offerto volontariamente solo per la Terza Via, dopo il terzo rintocco.
 
 ## Uso
 

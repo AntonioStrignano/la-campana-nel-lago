@@ -38,7 +38,7 @@ La terza via non restituisce un indizio graduale: restituisce una storia intera 
 ## Uso al tavolo
 - Non è mai un PNG "in scena" con battute proprie: esiste attraverso oggetti, residui e i ricordi altrui, fino al ritorno della memoria
 - Scena del ritorno della memoria: vedi [[Sessioni/Master/SES-00_Andamento]] (true ending)
-- Se un giocatore chiede prima del climax "chi era Nera": nessun PNG vivente può rispondere per intero; solo frammenti sensoriali via ciondolo, gesti o residui
+- Se un giocatore chiede prima del climax "chi era Nera": nessun PNG vivente può ricostruire la storia o la parentela. La scheda anagrafica sul corpo in cripta può rivelarne il nome, ma non restituisce ricordi.
 
 ## Appendice meccanica (opzionale)
 - Nessuna statistica: Nera non compare mai come creatura o ostacolo, solo come ricordo e oggetto narrativo

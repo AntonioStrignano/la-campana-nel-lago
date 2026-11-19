@@ -34,7 +34,7 @@ Prima di iniziare, concordiamo cosa escludere, cosa tenere fuori scena e un segn
 Ogni scheda contiene tre ricordi ordinari e un ricordo fondamentale.
 
 - Ai primi due rintocchi ogni giocatore barra il ricordo ordinario corrispondente e decide come mostrare il vuoto. La perdita non cancella informazioni indispensabili né cambia retroattivamente ciò che hai già scelto.
-- Il terzo ricordo resta disponibile durante la sessione e può essere usato dalla Voce come tentazione.
+- Al terzo rintocco il terzo ricordo ordinario viene ceduto alla Voce. La perdita non cambia retroattivamente ciò che hai già scelto.
 - Il ricordo fondamentale non viene mai cancellato automaticamente. Puoi offrirlo solo se scegli volontariamente la Terza Via, dopo aver saputo quale ricordo perderai.
 - Se un ricordo o un tema non è adatto a te, puoi sostituirlo o chiedere di non descriverne la perdita.
 

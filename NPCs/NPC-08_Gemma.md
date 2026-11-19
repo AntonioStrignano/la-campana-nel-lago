@@ -15,7 +15,7 @@
 |---|---|---|---|
 | Fiducia | racconta del campanello, della formula di Tomaso e della chiave | il gruppo capisce che il segno veniva da chi già viveva nella casa | porta i PG al lotto e consegna la chiave |
 | Minaccia | smette di parlare | Marta resta senza la chiave | Renzo o Nives vengono a controllare |
-| Inganno | riconosce la bugia e chiede perch\u00e9 | costringe il PG a esporsi | rifiuta di aiutare ancora |
+| Inganno | riconosce la bugia e chiede perché | costringe il PG a esporsi | rifiuta di aiutare ancora |
 | Violenza | non reagisce, ma lascia cadere le chiavi | il quartiere si chiude attorno a lei | la folla impedisce ai PG di tornare |
 
 ## Uso al tavolo

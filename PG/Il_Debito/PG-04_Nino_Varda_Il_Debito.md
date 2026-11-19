@@ -6,6 +6,8 @@
 
 Nino è un viaggiatore abituato a restituire subito ogni aiuto. È il fratello minore di Elio e porta addosso un debito che non ricorda di aver contratto.
 
+Porta con sé la propria scheda anagrafica, che sottrasse durante la fuga da Varda. Al suo ritorno Alba lo riconosce e gli raccomanda prudenza; nascondersi resta una sua scelta. Più a lungo si espone in paese, più gli abitanti si chiedono se davvero lui sia il figlio che ricordano come consegnato.
+
 ## Legami
 
 - **Alba:** madre. Lo ha fatto fuggire quando il villaggio lo aveva scelto.

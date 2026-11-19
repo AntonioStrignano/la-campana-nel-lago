@@ -8,7 +8,7 @@
 
 | PG | Ruolo nel one-shot | A cosa si riferisce in questa storia | Nodo | Token | Ricordo fondamentale offerto |
 |---|---|---|---|---|---|
-| Ada Ferri - La Memoria | Riconosce omissioni e contraddizioni nei registri, mettendo in discussione la versione ufficiale e il controllo di Ivo. | Il costo del cancellare una persona dalla memoria collettiva e dai documenti. | 3. L'oblio | Scheggia del registro con cera nera sul nome abraso. | Ivo le insegna a non cancellare una contraddizione prima di averla capita. |
+| Ada Ferri - La Memoria | Riconosce omissioni e contraddizioni nei registri, mettendo in discussione la versione ufficiale e il controllo di Ivo. | Il costo del cancellare una persona dalla memoria collettiva e dai documenti. | 3. L'oblio | Foglietto non firmato: «Non correggere. Chiediti perché manca.» | Ivo le insegna a non cancellare una contraddizione prima di averla capita. |
 | Elio Varda - La Promessa | Affronta Ivo e decide cosa significhi mantenere una promessa fatta per proteggere un'altra persona. | La promessa originariamente rivolta a Nera e poi spostata su Nino. | 4. La sostituzione | Ciondolo di bronzo con tre onde, condiviso con Nino. | Mantenere una promessa impossibile mentre una voce amata chiede di restare. |
 | Viola Serra - La Voce | Crea lo spazio perché Mara possa parlare per sé e rende pubblico che il silenzio non equivale a consenso. | La differenza tra designazione politica e scelta consapevole nel rito. | 1. Il rito | Nastro nuovo annodato al polso di Mara secondo la consuetudine. | Rendere accettabile una confessione convincendosi di aver salvato qualcuno. |
 | Nino Varda - Il Debito | Si oppone all'idea che la propria sopravvivenza debba essere ripagata con un altro sacrificio. | La designazione subita, la fuga e la sostituzione con Nera. | 4. La sostituzione | Ciondolo di bronzo con tre onde, condiviso con Elio. | Ricevere aiuto senza poterlo restituire. |
@@ -28,18 +28,18 @@ I ricordi fondamentali sono costi personali distinti dagli oggetti. Nel true end
 
 ### Nodo 2 - I residui
 
-- **Token:** la chiave della casa di Marta, custodita da Gemma dopo l'esilio. La casa è stata demolita: la chiave non apre più nulla.
-- **Cosa rappresenta:** ciò che torna e ciò che è già stato; il residuo di chi viveva lì, non una designazione per il sacrificio successivo.
+- **Token:** la chiave della casa di Marta, custodita da Gemma dopo l'esilio: ferro annerito, con un nodo di spago al posto dell'anello e senza segni che identifichino chi la usava. La casa è stata demolita: la chiave non apre più nulla.
+- **Cosa rappresenta:** il ritorno e la casa perduta di Marta; non è il residuo né una designazione per il sacrificio successivo.
 - **Dove si trova:** in mano a Gemma. La bici con il campanello che suonava da solo resta sotto le macerie del lotto nel Borgo Vecchio e non è un token.
 - **Come ottenerlo:** tra il primo e il secondo rintocco, dopo aver visto in piazza il Nodo 1, Gemma porta Marta e i PG al lotto. Quando Marta dichiara di ricordare qualcosa del posto o di fidarsi di lei, Gemma le consegna la chiave. Non dipende dal puzzle riuscito.
 - **Ricordo associato tematicamente:** quello fondamentale di Marta, riportato nella tabella; non è legato fisicamente alla chiave.
 
 ### Nodo 3 - L'oblio
 
-- **Token indicato dal tracker:** scheggia del registro con cera nera sul nome abraso.
-- **Cosa rappresenta:** la cancellazione del nome di Elian dopo la sua offerta volontaria.
-- **Dove si trova:** nei registri del municipio confrontati da Ada. La documentazione parla di abrasione e cera nera, ma non stabilisce se la scheggia sia già separata dalla pagina o debba essere staccata.
-- **Come ottenerlo:** Ada accede ai registri e confronta conteggio, abrasione e nota marginale. Il clue core è accessibile senza tiro riuscito; Ivo è una fonte alternativa se i PG gli mostrano la prova. Il recupero fisico della scheggia è **Da definire**.
+- **Token:** foglietto non firmato con la frase «Non correggere. Chiediti perché manca.»
+- **Cosa rappresenta:** il metodo di Ada davanti a una contraddizione e la possibilità che qualcuno abbia lasciato intenzionalmente una traccia. Non identifica da solo il mittente della lettera né la grafia di Ivo.
+- **Dove si trova:** piegato nella rilegatura accanto alla pagina del frottage, nel registro delle consegne in municipio. È stato lasciato lì da Ivo, ma il foglietto non lo dichiara.
+- **Come ottenerlo:** Ada lo trova durante il confronto delle pagine; non richiede tiro né una scelta specifica su come trattare Ivo.
 - **Ricordo associato tematicamente:** quello fondamentale di Ada, riportato nella tabella; non è legato fisicamente al registro.
 
 ### Nodo 4 - La sostituzione
@@ -48,6 +48,7 @@ I ricordi fondamentali sono costi personali distinti dagli oggetti. Nel true end
 - **Cosa rappresenta:** il terzo figlio cancellato dai ricordi e la sostituzione di Nino con Nera. Prima che il patto si spezzi, il ciondolo non restituisce da solo il nome o la memoria completa di Nera.
 - **Dove si trova:** addosso a uno dei resti annegati incontrati nello scontro alla cripta/campanile. I materiali non identificano sempre lo stesso ambiente né il resto specifico che lo porta; **da precisare il punto esatto**.
 - **Come ottenerlo:** dopo il terzo rintocco, i PG raggiungono la cripta e possono recuperarlo dopo lo scontro; le contingenze precisano che non serve un tiro per prenderlo una volta individuato il resto.
+- **Scheda anagrafica di Nera:** accompagna il corpo consegnato, secondo la tradizione. Riporta i dati personali ma non i genitori; se i PG la trovano, possono scoprire il suo nome prima del true ending, non la parentela né la memoria della sostituzione.
 - **Ricordi associati tematicamente:** quelli fondamentali di Elio e Nino, riportati separatamente nella tabella; entrambi contribuiscono allo stesso nodo e allo stesso token.
 - **Nastro di Nera:** tutti i resti annegati portano una striscia al polso. Quella di Nera è il nastro assegnato a Nino e passato a lei quando prese il suo posto; le resta largo perché era stato fatto per il polso di lui. Il ciondolo a tre onde identifica Nera, mentre il nastro conferma la sostituzione.
 

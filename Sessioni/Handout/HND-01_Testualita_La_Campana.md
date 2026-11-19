@@ -41,7 +41,7 @@
 > Il primo rintocco arriva dal lago, senza preavviso.
 >
 > Per un momento nessuno di voi riesce a ricordare un volto preciso. Il ricordo della persona è ancora lì: sapete che conta, sapete che l'avete amata o temuta. Ma il volto è diventato una superficie liscia.
->
+[Non si barra Ricordo III. Apre la decisione.]
 > Sull'acqua, il campanile è salito. Dove prima c'era una punta, ora c'è un terzo di torre, bagnata e nera.
 >
 > Dal villaggio arriva un grido. Qualcuno ha appena guardato il proprio figlio senza riconoscerlo.
@@ -98,7 +98,7 @@
 >
 > La botola si è aperta da sola. Sotto, una scala di pietra scende verso il buio, ed è asciutta.
 
-[Non si barra Ricordo III. Apre la decisione.]
+[Ogni giocatore cede Ricordo III alla Voce. Il ricordo fondamentale resta volontario e non viene barrato qui.]
 
 ## La scelta
 
@@ -210,7 +210,7 @@
 >
 > La Voce tace. Qualcosa, molto più antico di lei, si ritira da quel punto e non è più lì.
 
-[Zombie e avatar: la Voce usa il Ricordo III di ogni PG come tentazione prima della dichiarazione.]
+[Zombie e avatar: Ricordo III è già stato ceduto al terzo rintocco. La Voce chiarisce il costo del ricordo fondamentale prima della dichiarazione; non offre uno scambio per restituire Ricordo III.]
 
 ## Epilogo del true ending
 

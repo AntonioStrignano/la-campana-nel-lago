@@ -38,11 +38,11 @@ Si entra solo dall'alto, in barca. Prima del terzo rintocco i PG possono avvicin
 | 2. Indagine | Collegare i PNG, cercare i nodi | integri |
 | 2° rintocco | Cima calpestabile | Ricordo II barrato |
 | 3. Convergenza | Ultime scelte, la barca verso la torre | integri |
-| 3° rintocco | Torre fuori, scale aperte: **decisione** | Ricordo III preservato |
+| 3° rintocco | Torre fuori, scale aperte: **decisione** | Ricordo III ceduto alla Voce |
 
 Il master fa cadere i rintocchi a una transizione drammatica naturale, quando serve aumentare la pressione; i riferimenti ai 30 e 60 minuti sono indicativi, non vincolanti. Nessun rintocco interrompe una scelta o un conflitto. Il climax e la decisione finale hanno come obiettivo orientativo il minuto 75.
 
-Ogni nodo scoperto provoca una manifestazione della Voce, crescente d'intensità, ma non cancella ricordi prima del finale. Dal terzo rintocco parte una finestra di circa 20 minuti: se HND-02 è stato trovato e manca al massimo un nodo, i PG possono cercarlo prima o dopo l'offerta. Dopo l'offerta la vittima muore e l'acqua comincia a risalire, ma il riempimento completo della torre e della cripta avviene solo alla fine della finestra. Se la Terza Via riesce nel frattempo, il patto si spezza: l'acqua si ferma e il villaggio ricorda la vittima, che resta morta. Senza offerta la pressione è l'oblio collettivo. Il master gestisce la durata leggendo la scena. Meccaniche della campana, dei rintocchi e della Voce: [[Oggetti/OBJ-01_La_Campana]], [[Sessioni/Master/SES-06_Verita_La_Campana]], [[NPCs/NPC-07_La_Voce_Profonda]].
+Ogni nodo scoperto provoca una manifestazione della Voce, crescente d'intensità; prima del terzo rintocco non cancella ricordi oltre quelli previsti ai primi due. Dal terzo rintocco parte una finestra di circa 20 minuti: se HND-02 è stato trovato e manca al massimo un nodo, i PG possono cercarlo prima o dopo l'offerta. Dopo l'offerta la vittima muore e l'acqua comincia a risalire, ma il riempimento completo della torre e della cripta avviene solo alla fine della finestra. Se la Terza Via riesce nel frattempo, il patto si spezza: l'acqua si ferma e il villaggio ricorda la vittima, che resta morta. Senza offerta la pressione è l'oblio collettivo. Il master gestisce la durata leggendo la scena. Meccaniche della campana, dei rintocchi e della Voce: [[Oggetti/OBJ-01_La_Campana]], [[Sessioni/Master/SES-06_Verita_La_Campana]], [[NPCs/NPC-07_La_Voce_Profonda]].
 
 ## I tre rami del terzo rintocco
 
@@ -57,7 +57,7 @@ Al terzo rintocco il tavolo è in uno di questi stati.
 ### I quattro nodi (true ending)
 
 1. **Come funziona il rito:** il nome da solo non è un ordine; serve la consegna nel cerchio.
-2. **I segni non sono designazioni:** sono residui dei sacrificati precedenti e Tomaso lo sa (Marta, Gemma, il lotto con la bici, diario di Tomaso).
+2. **I segni non sono designazioni:** sono residui dei sacrificati precedenti e Tomaso lo sa (Marta, Gemma, il lotto con la bici, Dario).
 3. **Il patto si nutre dell'oblio:** Elian si offrì volontariamente, il suo nome fu cancellato (Ada, Mara).
 4. **La storia di Nera e di Ivo:** ricatto, fuga di Nino, sostituzione (Elio, Nino, Alba).
 
@@ -75,7 +75,7 @@ Con tutti e quattro i nodi e HND-02, i PG possono interrompere il rito prima del
 | Mara | Sopravvive; il villaggio non ricorda perché la guardava | Se offerta, perde nome e ricordi e annega | Libera, testimonia davanti al villaggio |
 | Tomaso | Resta sindaco e ricorda tutto, mentre il villaggio dimentica | Legittimato; i PG sanno cosa ha fatto | Smascherato; ricorda il volto di Elian |
 | Alba | Non ricorda Nera e perde altri legami | Ricorda solo ciò che resta | Ricorda tutto e chiede ai PG cosa fare |
-| Nera | Resti dimenticati | I resti restano tra i sacrificati; Ivo la ricorda, il villaggio no | Resti sepolti con il ciondolo |
+| Nera | Resti dimenticati | I resti restano tra i sacrificati; Ivo la ricorda, il villaggio no | La memoria e i legami tornano; il nome può essere scoperto prima dalla scheda anagrafica sulla salma |
 | Marta | Resta senza Lia | Vede ancora dimenticare | Recupera Lia come ricordo; sceglie se chiedere giustizia o lasciare Varda |
 | Gemma, Dario | Dimenticano il coraggio | Restano testimoni | Primi a ricordare con Marta |
 
@@ -89,7 +89,7 @@ Se il good ending viene seguito dalla Terza Via prima della scadenza, gli esiti 
 2. **La cripta.** Sala circolare sotto la chiesa, senza nicchie: ammassi di corpi e ossa. Al centro il cerchio di sale nero. I PG non vedono nulla di soprannaturale legato all'acqua.
 3. **Zombie acquatici.** Si alzano dall'ossario: sono i sacrificati precedenti, vogliono portare i PG giù per essere "mangiati" dalla campana, credendo di placare la propria fame. Tutti portano al polso una striscia di stoffa. Pochi, lenti, scontro breve. Il resto con il ciondolo (Nera) esita davanti a Elio e Nino; il nastro al suo polso è largo, fatto per Nino.
 4. **L'avatar.** Presenza nell'aria, voci dei sacrificati. La Voce è l'avatar di una divinità antica e dimenticata.
-5. **Tentazione.** Usa il Ricordo III di ogni PG come leva: tenerlo in cambio di un'altra persona da offrire.
+5. **Costo.** La Voce chiarisce quale Ricordo fondamentale perderebbe ogni PG che accetta la Terza Via. Ricordo III è già stato ceduto al terzo rintocco e non viene offerto in cambio di una persona.
 6. **Dichiarazione.** I PG pronunciano il nome di Elian e dichiarano i nodi sciolti. Ogni PG superstite presente in cripta deve offrire volontariamente il ricordo fondamentale scritto sulla propria scheda; nessuno può pagare per un assente. Se anche uno rifiuta, il true ending fallisce e restano aperti gli altri esiti.
 7. **Chiusura.** L'avatar è eliminato (la divinità continua a esistere nella mitologia, non più lì). La torre crolla nel lago; la campana resta sul fondo, spaccata e muta, recuperabile ma incapace di suonare.
 8. **Epilogo.** Il lago resta lago. Davanti a ogni PG sboccia un fiore, poi nontiscordardime fioriscono sulla riva e in tutto il villaggio. Tutti ricordano la storia e le persone dimenticate; ogni PG ricorda tutto tranne il ricordo fondamentale che ha offerto, che resta perduto.
@@ -144,10 +144,10 @@ Compagno di Elian. Ruppe il sigillo cercando una soluzione e richiuse il passagg
 | 1° rintocco | Alza la pressione | Chiede a Viola di dare forma pubblica alla sua posizione | Viola rifiuta di farsi usare | ☐ |
 | Indagine | Controlla Marta | Finge accoglienza, la tiene vicina | Marta scopre che il segno viene dal suo passato | ☐ |
 | 2° rintocco | Difende la designazione | Dichiara la posizione politica | Costringerlo a nominare la colpa | ☐ |
-| Convergenza | Se smascherato ammette l'esilio di Marta | Dice di averlo fatto per evitare una rivolta | Provarlo con il lotto, Gemma, diario | ☐ |
+| Convergenza | Se smascherato ammette l'esilio di Marta | Dice di averlo fatto per evitare una rivolta | Provarlo con il lotto, Gemma, Dario | ☐ |
 | 3° rintocco | Legittima o contesta | Spinge per il good o si ritira nel bad | Smascherarlo prima della scelta | ☐ |
 
-Diario: in municipio, nel cassetto con la cera nera. Nomi veri dei sacrificati, la rottura del sigillo, pagine su Elian senza volto. Indizio opzionale per il nodo 2.
+Diario: Tomaso lo porta con sé in cripta per distruggerlo; può lasciarlo cadere se tenta la fuga. È lore facoltativa, non una fonte del Nodo 2.
 
 ### Alba
 | Step | Stato | Cosa fa | I PG possono | Record |
@@ -204,7 +204,7 @@ I rintocchi fanno perdere dettagli alla comunità, ma non cancellano automaticam
 |---|---|---|---|
 | Elian | Morto; resta nei conteggi, nelle note e nel nome cancellato. | Non agisce né ricorda in scena; i clue ne ricostruiscono la scelta volontaria. | Il nome pronunciato insieme nella cripta viene udito dal villaggio; non gli si attribuisce una voce diretta. |
 | Nera | Morta e cancellata; restano il ciondolo, i gesti e un vuoto familiare. | Nessuna memoria completa riaffiora ai primi due rintocchi. | La storia e il nome tornano simultaneamente solo quando il patto si spezza. |
-| Voce Profonda | Entità legata al sigillo; non seleziona vittime. | Restituisce frammenti di sacrifici passati; ogni nodo scoperto aumenta la presenza, non la precisione di una presunta designazione. | Nella cripta offre il Ricordo III in cambio di un'altra persona e chiarisce il costo della Terza Via prima della scelta. |
+| Voce Profonda | Entità legata al sigillo; non seleziona vittime. | Restituisce frammenti di sacrifici passati; ogni nodo scoperto aumenta la presenza, non la precisione di una presunta designazione. | Il terzo rintocco prende Ricordo III; nella cripta la Voce chiarisce il costo volontario del Ricordo fondamentale. |
 
 ## Esilio di Marta (canone)
 

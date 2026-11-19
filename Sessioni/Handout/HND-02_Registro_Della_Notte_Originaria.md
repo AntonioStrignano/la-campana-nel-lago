@@ -4,11 +4,11 @@
 
 ## Pagina strappata
 
+[Nota master: il resoconto è il primo record del registro, scritto da Tomaso e strappato. Ivo aggiunse la nota a margine e le sezioni successive dopo la rimozione; non hanno lasciato impronte sulla pagina seguente del registro.]
+
 **Notte della piena, terzo giorno**
 
-L'acqua è arrivata alla cappella prima dell'alba. Non ha sfondato la porta. Ha aspettato.
-
-Elian ha detto che la voce sotto il pavimento conosce i nostri nomi. Ha detto che non vuole sangue. Vuole che smettiamo di fingere di non essere stati noi ad aprire la cripta.
+Elian Varda è entrato nel cerchio per sua volontà. Io, Tomaso, ho richiuso il passaggio. Non riportare il suo nome nel registro delle consegne.
 
 Quando la campana ha suonato, eravamo in diciassette.
 

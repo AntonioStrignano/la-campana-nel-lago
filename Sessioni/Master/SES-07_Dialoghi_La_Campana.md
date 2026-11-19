@@ -144,10 +144,9 @@
 - «Avete chiamato ordine ciò che non capivate.»
 - Se i PG la interrogano sul futuro, ripete un dettaglio del passato senza identificare una nuova vittima.
 
-### Tentazione nella cripta
+### Il costo nella cripta
 
-- Rivolge a ogni PG una frase legata al suo Ricordo III.
-- «Puoi tenerlo. Basta che un altro entri nel cerchio al tuo posto.»
+- Ricordo III è già stato ceduto al terzo rintocco. Non offrirlo indietro né proporre scambi per una vittima.
 - Rivela il costo personale della Terza Via prima della dichiarazione volontaria: ogni PG presente che accetta perderà il proprio ricordo fondamentale. Nessuno può pagare per un assente.
 - Se un PG rifiuta, non sottrae il ricordo; il true ending fallisce e restano gli altri esiti previsti.
 
