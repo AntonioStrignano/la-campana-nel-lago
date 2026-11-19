@@ -8,6 +8,8 @@
 
 I PG iniziano in piazza, durante un'assemblea convocata da Tomaso. Il lago si sta prosciugando a ogni rintocco: la campana segnala l'indebolimento del sigillo, non sceglie nessuna vittima e nessun nome è inciso da nessuna parte. Tutto il materiale di Varda si gioca nel villaggio fino al terzo rintocco; solo dopo si scende nella cripta.
 
+La data pubblica dell'insediamento di Tomaso come sindaco è il 19 maggio 1001. La cadenza di diciotto mesi tra i cicli è nota nel paese; Ada può confrontarla con le date del registro delle consegne.
+
 Durante l'assemblea Tomaso annoda al polso di Mara una striscia di stoffa nuova, secondo la consuetudine usata per ogni designato. Quando la scena del Nodo 1 inizia, Mara chiede a Viola di richiamare l'attenzione, poi dichiara che il suo silenzio non è consenso e racconta la superstizione del nodo. Se Viola coglie che la piazza sta trasformando paura e tradizione in un dovere che Mara non ha scelto, Mara scioglie il nodo, le affida la striscia e confida a Viola che non vuole offrirsi ma si sente obbligata; altrimenti la trattiene. Se Viola rifiuta di richiamare l'attenzione, Mara lo fa da sola e le offre comunque il turno interpretativo. Sciogliere il nodo non provoca effetti soprannaturali; la conseguenza è la reazione sociale della piazza. La scena non rivela la procedura del rito. Se il nastro viene trattenuto, i PG possono tornare a chiederlo dopo che HND-02 ne mostra l'importanza.
 
 ## Incipit (da leggere)
@@ -110,7 +112,7 @@ Se il good ending viene seguito dalla Terza Via prima della scadenza, gli esiti 
 ### Regole trasversali
 - **Campana colpita:** si frattura, emette un rintocco debole che non conta nella scala, consuma Ricordo I (poi II, mai III) a tutti i presenti entro il perimetro del lago e si rigenera. I PNG presenti perdono un dettaglio leggero.
 - **Violenza contro il villaggio:** non c'è combattimento. Nives e la folla possono presidiare il molo, chiudere il municipio, isolare Mara, zittire i testimoni o evacuare i bambini. Costa 5-10 minuti e non blocca mai i core clue; i rintocchi cadono ai tempi previsti.
-- **Età:** Tomaso circa 55, Mara circa 35 (figlia di Elian, 5 anni alla sua morte), Elio, Nino e Nera circa 35.
+- **Età:** Tomaso circa 55, Mara circa 30 (figlia di Elian, circa 5 anni alla sua morte nel 1001), Elio, Nino e Nera circa 35.
 - **Ivo** è già Custode da circa 25 anni: condusse il rito di Lia e quello di Nera.
 
 Per ogni PNG: stato, cosa fa, leva dei PG, record da segnare live.

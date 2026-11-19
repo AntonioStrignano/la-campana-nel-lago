@@ -1,3 +1,15 @@
+- Aggiornata `SES-08`: Nodo 3 ora usa il record iniziale mancante e il frottage sulla pagina successiva per rivelare Elian, la sua scelta volontaria e il gesto di Tomaso.
+- Inserita in `SES-08` la tabella con sedici codici e date nel calendario locale di Varda (T0 19/05/1001, presente 19/11/1026); il frottage si risolve narrativamente, senza materiali fisici.
+- Inserita in `SES-08` la tabella con sedici codici e date nel calendario locale di Varda (T0 19/05/1001, presente 19/11/1026); il frottage si risolve narrativamente, senza materiali fisici.
+- Rimossa da `SES-08` la vecchia istruzione che richiedeva grafite fisica; aggiunta la nota master che associa il codice della quarta consegna a Nino.
+- Rimossa da `SES-08` la vecchia istruzione che richiedeva grafite fisica; aggiunta la nota master che associa il codice della quarta consegna a Nino.
+- Aggiunti in `PG-04` il codice `NV-09910602-01` e la data di nascita 02/06/0991 sulla scheda anagrafica che Nino porta con sé.
+- Inserita in `SES-08` la tabella con sedici codici e date nel calendario locale di Varda (T0 19/05/1001, presente 19/11/1026); il frottage si risolve narrativamente, senza materiali fisici.
+- Resa pubblica in `SES-00` la data d'insediamento di Tomaso (19/05/1001) e corretta l'età di Mara a circa 30 anni.
+- Resa pubblica in `SES-00` la data d'insediamento di Tomaso (19/05/1001) e corretta l'età di Mara a circa 30 anni.
+- Allineato `SES-06` alla cronologia del Nodo 3: il primo evento risale a 25 anni e mezzo fa, non a 30.
+- Allineato `SES-06` alla cronologia del Nodo 3: il primo evento risale a 25 anni e mezzo fa, non a 30.
+- Aggiornata `NPC-05`: Elian muore 25 anni e mezzo prima della sessione, coerente con l'insediamento di Tomaso nel 1001.
 - Aggiunta in `LUO-02`: la scheda anagrafica sulla salma è un indizio facoltativo che può rivelare il nome di Nera, non genitori o sostituzione.
 - Precisato in `SES-08` che HND-02 è il foglio strappato: le note di Ivo sono state aggiunte dopo e non lasciano impronte sulla pagina del frottage.
 - Precisato in `SES-08` che HND-02 è il foglio strappato: le note di Ivo sono state aggiunte dopo e non lasciano impronte sulla pagina del frottage.

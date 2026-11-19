@@ -4,7 +4,7 @@
 
 ## Scheda 30 secondi
 - Ruolo in storia: primo sacrificato, origine del ruolo di Custode e del patto con la Voce Profonda
-- Stato: morto 30 anni fa; esiste solo come nome cancellato, frammento e residuo che riaffiora
+- Stato: morto 25 anni e mezzo fa; esiste solo come nome cancellato, frammento e residuo che riaffiora
 - Legami: compagno di Tomaso e padre di Mara
 - Obiettivo (all'epoca): richiudere la Voce Profonda dopo che Tomaso ruppe il sigillo antico
 - Segreto utile: il suo sacrificio fu volontario e consapevole, non un ordine della campana; la comunità lo trasformò in tradizione anonima solo dopo, per dolore
@@ -13,7 +13,7 @@
 
 ## Cosa accadde davvero
 
-Trent'anni fa il lago restituì i morti dopo una piena. Il villaggio scoprì che sotto la cappella viveva la Voce Profonda, tenuta separata da un sigillo più antico di Varda stessa. Durante una crisi, Tomaso raggiunse la cappella quando il livello dell'acqua si abbassò abbastanza da scoprire la punta del campanile: cercando una soluzione per la comunità, ruppe il sigillo e liberò la presenza.
+Venticinque anni e mezzo fa il lago restituì i morti dopo una piena. Il villaggio scoprì che sotto la cappella viveva la Voce Profonda, tenuta separata da un sigillo più antico di Varda stessa. Durante una crisi, Tomaso raggiunse la cappella quando il livello dell'acqua si abbassò abbastanza da scoprire la punta del campanile: cercando una soluzione per la comunità, ruppe il sigillo e liberò la presenza.
 
 Serviva qualcuno che conoscesse il rituale e accettasse di restare nella cripta fino alla conclusione. Elian si offrì. Tomaso, suo compagno, richiuse il passaggio mentre Elian era ancora dentro; la Voce lo consumò e ne cancellò il nome dalla memoria condivisa. Elian fu il primo sacrificio — non il modello del ruolo di Custode che Ivo interpreta oggi.
 

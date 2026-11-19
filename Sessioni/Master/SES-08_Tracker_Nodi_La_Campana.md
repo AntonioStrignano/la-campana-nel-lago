@@ -71,11 +71,33 @@ Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità
 
 ### Nodo 3 - L'oblio
 
-- **Fonte principale:** prima del secondo rintocco, Ada consulta i registri del municipio su richiesta di Mara. Dalla data pubblica dell'insediamento di Tomaso e dalla cadenza nota di diciotto mesi ricava che dovrebbe esserci un primo record prima delle sedici righe leggibili.
-- **Riferimento cronologico master:** insediamento di Tomaso = T0, 25,5 anni fa. Il record di Elian atteso a T0 è strappato; le sedici righe leggibili coprono T+18, +36, +54, +72, +90, +108, +126, +144, +162, +180, +198, +216, +234, +252, +270 e +288 mesi. Il ciclo attuale è a T+306 mesi. HND-02 usa invece 17/16 per il numero dei presenti alla notte di Elian, non per il registro cumulativo.
+- **Fonte principale:** prima del secondo rintocco, Ada consulta i registri del municipio su richiesta di Mara. L'atto pubblico riporta che Tomaso fu insediato sindaco il 19 maggio 1001; la cadenza di diciotto mesi è nota nel paese. Il registro delle consegne comincia con sedici righe leggibili, ma la serie attesa ha un record precedente.
+- **Riferimento cronologico master:** calendario civile locale di Varda; insediamento di Tomaso = T0, 19/05/1001. La prima consegna attesa è quella di Elian a T0, 25,5 anni fa; il record è strappato e nascosto in cripta come HND-02. Le sedici righe leggibili vanno da T+18 mesi al T+288; il ciclo attuale è atteso a T+306 mesi, il 19/11/1026. Il 17/16 di HND-02 conta le persone presenti nella notte di Elian, non le consegne cumulative.
+- **Registro delle consegne, estratto master:** ogni riga riporta codice identificativo, data e ora. Il suffisso è il progressivo giornaliero; le iniziali e le date di nascita qui sotto sono riempitivo, tranne l'ID di Nino.
+
+| Consegna | Codice | Data e ora |
+|---:|---|---|
+| 1 | AB-09991011-01 | 19/11/1002, 02:14 |
+| 2 | CD-09650823-01 | 19/05/1004, 01:52 |
+| 3 | EF-10010214-01 | 19/11/1005, 03:06 |
+| 4 | NV-09910602-01 | 19/05/1007, 02:11 |
+| 5 | GH-09840318-01 | 19/11/1008, 01:49 |
+| 6 | JK-09720603-01 | 19/05/1010, 02:43 |
+| 7 | LM-09901127-01 | 19/11/1011, 03:09 |
+| 8 | NP-09651212-01 | 19/05/1013, 01:58 |
+| 9 | QR-10070407-01 | 19/11/1014, 02:21 |
+| 10 | ST-09800125-01 | 19/05/1016, 01:37 |
+| 11 | UV-09931219-01 | 19/11/1017, 03:15 |
+| 12 | WX-09581101-01 | 19/05/1019, 02:03 |
+| 13 | YB-10050508-01 | 19/11/1020, 01:46 |
+| 14 | HC-09980829-01 | 19/05/1022, 02:39 |
+| 15 | JM-09741015-01 | 19/11/1023, 03:01 |
+| 16 | PR-09860903-01 | 19/05/1025, 02:17 |
+- **Nota master:** la quarta riga è Nino, nato il 02/06/0991; la sua scheda anagrafica porta il codice NV-09910602-01. Gli altri codici sono riempitivo e non corrispondono a PNG canonici.
 - **Clue core, senza tiro:** manca intenzionalmente una registrazione all'inizio della serie. Il frottage rivela che riguardava Elian, che entrò nel cerchio per sua volontà e che Tomaso richiuse il passaggio. La rimozione è umana; non occorre dedurre una formula precisa né identificare chi abbia lasciato il foglietto.
 - **Puzzle collaborativo:** Ada confronta la data d'insediamento, la cadenza dei cicli e le date dei sedici record. Il gruppo nota il ciclo mancante in testa al registro; la prima pagina è stata strappata, ma la successiva conserva le impronte del testo. Passando grafite morbida di lato, il frottage fa emergere: «Elian Varda. Entrato nel cerchio per sua volontà. Tomaso ha richiuso il passaggio.»
-- **Materiali:** registro delle consegne con sedici righe leggibili, codici e date; riferimento pubblico alla data d'insediamento; la foglia strappata è HND-02, nascosta da Tomaso in cripta; la pagina seguente conserva solo le impronte del suo resoconto. Ivo aggiunse le note marginali e il retro dopo lo strappo, quindi non compaiono nel frottage. Il foglietto-token, «Non correggere. Chiediti perché manca.», è piegato nella rilegatura. Un testo di prova e una tecnica materiale vanno collaudati prima della sessione.
+- **Puzzle collaborativo:** Ada confronta la data d'insediamento, la cadenza dei cicli e le date dei sedici record. Il gruppo nota il ciclo mancante in testa al registro; la prima pagina è stata strappata, ma la successiva conserva le impronte del testo. Se Ada o il gruppo decide di fare un frottage, il master descrive la traccia e legge: «Elian Varda. Entrato nel cerchio per sua volontà. Tomaso ha richiuso il passaggio.» Non servono materiali fisici.
+- **Materiali:** registro delle consegne con sedici righe leggibili, codici e date; atto pubblico di insediamento datato 19/05/1001; la foglia strappata è HND-02, nascosta da Tomaso in cripta; la pagina seguente conserva solo le impronte del suo resoconto. Ivo aggiunse le note marginali e il retro dopo lo strappo, quindi non compaiono nel frottage. Il foglietto-token, «Non correggere. Chiediti perché manca.», è piegato nella rilegatura.
 - **Hint:** richiama il terzo segno di HND-02 senza richiedere che sia già stato trovato: «Il conto rimane, ma quale registrazione manca?» Se serve, indirizza al frottage: «La pagina strappata era appoggiata a quella successiva: guarda cosa ha lasciato.»
 - **Fonte autonoma facoltativa:** se i PG scelgono di cercare a fondo nell'anagrafe, trovano che la scheda di Nino manca mentre il suo codice appare nel registro delle consegne. È un premio che collega al Nodo 4, non una tappa necessaria né un'alternativa da suggerire.
 - **Sogno di Mara:** se Ada le chiede cosa ricorda, Mara può riferire un frammento ricorrente: una figura impaurita capisce cosa accetta ed entra nel cerchio. Il sogno non offre nome, volto o storia completa; corrobora la volontarietà.

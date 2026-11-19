@@ -9,7 +9,7 @@ La campana non protegge il villaggio da una creatura: è lo strumento di un patt
 
 ## Cosa accadde davvero
 
-Trent'anni fa il lago cominciò a restituire i morti dopo una piena. Gli abitanti della valle scoprirono che sotto la cappella viveva una presenza chiamata **la Voce Profonda**, capace di nutrirsi dei ricordi condivisi e di restituire ciò che veniva sepolto.
+Venticinque anni e mezzo fa il lago cominciò a restituire i morti dopo una piena. Gli abitanti della valle scoprirono che sotto la cappella viveva una presenza chiamata **la Voce Profonda**, capace di nutrirsi dei ricordi condivisi e di restituire ciò che veniva sepolto.
 
 La cappella era già sul fondo del lago quando avvennero i primi fatti. La cripta sotto di essa conteneva la Voce Profonda, chiusa da un sigillo più antico del villaggio. Durante una crisi, Tomaso raggiunse la cappella quando il livello dell’acqua si abbassò abbastanza da scoprire la punta del campanile. Cercando una soluzione per la comunità, ruppe il sigillo e liberò la presenza.
 
