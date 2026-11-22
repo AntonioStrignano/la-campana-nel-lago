@@ -1,6 +1,29 @@
 # La Voce Profonda
 
 > Pubblico: riservato al master. Non è un PNG umano: gestirla come presenza, non come personaggio.
+> Ultima modifica: 2026-11-22.
+
+## Domande e risposte
+
+### Voce - Chi hai scelto?
+
+Non sceglie una persona e non pronuncia un nome come ordine. Se interrogata sul futuro, ripete un dettaglio del passato senza identificare una nuova vittima: «Questo lo avete già perduto.»
+
+### Voce - Che cosa sono i segni?
+
+Sono residui della memoria dell'ultima vittima dimenticata, non profezie. La Voce può dire: «Avete chiamato ordine ciò che non capivate.» Non restituisce per questo la storia completa o il nome di una nuova vittima.
+
+### Voce - Che cosa accade se offriamo qualcuno?
+
+Solo una persona che comprenda e accetti la consegna nel cerchio può essere offerta. Muore subito; l'acqua sale fino alla scadenza della finestra, salvo che il patto venga spezzato prima. La Voce non riporta in vita una vittima.
+
+### Voce - Qual è il costo della Terza Via?
+
+Nella cripta, prima che i PG decidano, chiarisce che ogni PG superstite presente deve offrire volontariamente il proprio ricordo fondamentale. Ricordo III è già stato ceduto al terzo rintocco e non è uno scambio per una vittima. Se uno rifiuta, nessuno barra il fondamentale.
+
+### Voce - Possiamo combatterti o colpire la campana?
+
+La Voce è una presenza, non un secondo combattimento; gli ostacoli fisici sono i resti annegati. La campana colpita si frattura, suona debolmente e si rigenera: il suono non conta nella scala, ma consuma Ricordo I, poi II, ai presenti nel perimetro del lago; mai III o il fondamentale. Non spezza il patto.
 
 ## Scheda 30 secondi
 - Ruolo in storia: avatar di una divinità antica, sigillato sotto la cripta della cappella; causa diretta dei rintocchi e della perdita di memoria
@@ -51,6 +74,7 @@ Si svolge nella cripta, dopo gli zombie acquatici. L'avatar è presenza nell'ari
 Nella sottotrama successiva, quando la Voce Profonda "mangia" una persona la porta fuori dalla Matrix. Questa verità riguarda il dopo: durante la oneshot la Voce resta quella che i personaggi incontrano e nessun indizio deve anticipare l'estrazione.
 
 ## Note correlate
+- [[Sessioni/Master/INDICE_Wiki_La_Campana|Indice generale della wiki]]
 - Retroscena campagna successiva (solo master, mai in oneshot): [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita]]
 - [[Oggetti/OBJ-01_La_Campana]]
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]

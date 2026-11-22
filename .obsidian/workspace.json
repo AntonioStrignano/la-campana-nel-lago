@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6121562ec9e4991a",
+        "id": "ab8649bca3dcdd28",
         "type": "tabs",
         "children": [
           {
-            "id": "67e0a8e996941fb7",
+            "id": "13514230e1ce425e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessioni/Master/SES-11_Atlante_Del_Cast_La_Campana.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SES-11_Atlante_Del_Cast_La_Campana"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -188,44 +184,44 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "67e0a8e996941fb7",
+  "active": "13514230e1ce425e",
   "lastOpenFiles": [
+    "PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria.md",
+    "Sessioni/Master/SES-11_Atlante_Del_Cast_La_Campana.md",
+    "PG/INDICE_PG_La_Campana.md",
+    "Sessioni/Giocatori/INDICE_Sessioni_Giocatori.md",
+    "Sessioni/Giocatori/PG-02_Elio_Varda_Stampa.pdf",
+    "Sessioni/Giocatori/PG-01_Ada_Ferri_Stampa.pdf",
+    "Sessioni/Master/SES-12_Manuale_Operativo_La_Campana.md",
+    "Sessioni/Master/SES-01_Run_Sheet_La_Campana.md",
+    "Sessioni/Master/SES-00_Andamento.md",
+    "Sessioni/Master/INDICE_Wiki_La_Campana.md",
+    "Sessioni/Master/INDICE_Sessioni_Master.md",
+    "NPCs/INDICE_NPC.md",
+    "Sessioni/Handout/HND-01_Testualita_La_Campana.md",
+    "Sessioni/Master/SES-18_Altri_Quartieri.md",
+    "Sessioni/Master/SES-17_Cripta_E_Finali.md",
+    "Sessioni/Master/SES-16_Porto_Lago_E_Torre.md",
+    "Sessioni/Master/SES-15_Municipio_E_Anagrafe.md",
+    "Sessioni/Master/SES-14_Borgo_Vecchio.md",
+    "Sessioni/Master/SES-13_Piazza_Del_Mercato.md",
+    "Sessioni/Handout/INDICE_Sessioni_Handout.md",
+    "NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita.md",
+    "Sessioni/Master/SES-07_Dialoghi_La_Campana.md",
+    "Sessioni/Master/SES-05_Prep_La_Campana.md",
+    "Sessioni/Master/SES-06_Verita_La_Campana.md",
+    "Sessioni/Master/SES-04_Regole_Shadowdark.md",
+    "Sessioni/Master/SES-03_Contingenze_La_Campana.md",
     "PG/La_Voce/PG-03_Viola_Serra_La_Voce.md",
     "Sessioni/Giocatori/PG-03_Silvio_Serra_Stampa.pdf",
     "PG/La_Voce/PG-03_Silvio_Serra_La_Voce.md",
-    "Sessioni/Handout/HND-01_Testualita_La_Campana.md",
-    "Sessioni/Giocatori/PG-00_Guida_La_Campana.md",
-    "Sessioni/Giocatori/INDICE_Sessioni_Giocatori.md",
-    "PG/INDICE_PG_La_Campana.md",
-    "NPCs/INDICE_NPC.md",
     "Sessioni/Giocatori/PG-05_Marta_Lodi_Stampa.pdf",
     "Sessioni/Giocatori/PG-03_Viola_Serra_Stampa.pdf",
-    "Sessioni/Giocatori/PG-01_Ada_Ferri_Stampa.pdf",
-    "PG/Il_Debito/PG-04_Nino_Varda_Il_Debito.md",
-    "TODO_La_Campana.md",
     "Sessioni/Giocatori/PG-04_Nino_Varda_Stampa.pdf",
-    "Sessioni/Giocatori/PG-02_Elio_Varda_Stampa.pdf",
     "Sessioni/Handout/HND-04_Reperti_Cripta_Stampa.pdf",
     "Sessioni/Giocatori/PG-10_Pregenerati_Stampa.pdf",
-    "Sessioni/Master/SES-11_Atlante_Del_Cast_La_Campana.md",
     "Shadowdark - Need Games - Manuale Base (OEF) [ITA].pdf",
-    "MATRICE_Migrazione.md",
-    "Sessioni/Handout/HND-02_Registro_Della_Notte_Originaria.md",
     "Sessioni/Handout/HND-04_Reperti_Cripta_Stampa.html",
-    "Sessioni/Handout/INDICE_Sessioni_Handout.md",
-    "Sessioni/Master/SES-08_Tracker_Nodi_La_Campana.md",
-    "Piste/INDICE_Piste.md",
-    "Sessioni/Master/SES-06_Verita_La_Campana.md",
-    "Sessioni/Master/SES-00_Andamento.md",
-    "Sessioni/Master/INDICE_Sessioni_Master.md",
-    "Sessioni/Master/SES-03_Contingenze_La_Campana.md",
-    "La Memoria.md",
-    "La Promessa.md",
-    "Sessioni/Master/SES-05_Prep_La_Campana.md",
-    "NPCs/NPC-07_La_Voce_Profonda.md",
-    "NPCs/NPC-05_Elian_Varda_Il_Primo_Custode.md",
-    "NPCs/NPC-06_Nera.md",
-    "Sessioni/Master/SES-04_Regole_Shadowdark.md",
     "Mappa/varda.svg",
     "Mappa/varda.png"
   ]

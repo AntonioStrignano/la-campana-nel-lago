@@ -1,5 +1,37 @@
 # Mara Varda, la Persona Designata
 
+> Ultima modifica: 2026-11-22.
+
+## Domande e risposte
+
+### Mara - Hai accettato di offrirti?
+
+«Il mio silenzio non è consenso. Non chiamatelo così per rendere più facile la scelta.» Se Silvio riconosce che la piazza la spinge a sentirsi obbligata, Mara gli affida il nastro e gli confida che non vuole offrirsi; altrimenti lo trattiene. La sua dichiarazione pubblica vale comunque.
+
+### Mara - Chi ti ha scelta?
+
+«Il villaggio vuole usare il mio nome al posto di una risposta.» Sa che Tomaso l'ha proposta e ha presentato la decisione come lettura dei segni. Non sa perché abbia scelto proprio lei né quale legame con Elian stia coprendo.
+
+### Mara - Cosa significa il nastro?
+
+Racconta la superstizione secondo cui chi lo porta non dovrebbe scioglierne il nodo. Le voci della piazza possono immaginare conseguenze, ma scioglierlo non produce effetti soprannaturali. Se non lo consegna subito, i PG possono tornare a chiederlo dopo aver trovato HND-02.
+
+### Mara - Vuoi che ti proteggiamo?
+
+«Allora proteggete anche le persone che domani potrebbero non riconoscersi.» Non chiede di essere salvata a ogni costo; chiede che la scelta e il suo costo siano detti apertamente.
+
+### Mara - Cosa succede se ti consegniamo?
+
+«Ditemelo guardandomi. Voglio sapere cosa avete scelto e perché.» La designazione non equivale a una consegna: solo una scelta compresa e volontaria nel cerchio compie l'offerta.
+
+### Mara - Che cosa sogni?
+
+Se Ada o i PG chiedono della notte originaria, descrive una figura impaurita che capisce cosa accetta ed entra nel cerchio. Non distingue volto o nome; il sogno può confermare il gesto volontario, non identificare Elian.
+
+### Mara - Che cosa sai di tuo padre?
+
+«Non so cosa sia successo a mio padre. So soltanto che manca qualcosa.» Non ha ricordi vissuti di Elian, morto prima che lei nascesse; non riconosce da sola la figura del sogno. Dopo che il patto si spezza può chiedere a chi lo conobbe come fosse.
+
 ## Scheda 30 secondi
 - Ruolo in storia: figlia di Elian, nata dopo il suo sacrificio nel 1001; non lo ha mai conosciuto. Custode dei registri civici correnti e prima candidata proposta da Tomaso per il vincolo
 - Sogni: ricorrenti, residui della Voce che filtrano frammenti della notte originaria. Prima del secondo rintocco, se Ada le chiede cosa ricorda, Mara descrive una figura impaurita che capisce cosa sta accettando ed entra nel cerchio; non distingue volto o nome.
@@ -30,6 +62,7 @@
 - Soglie danno/resa/fuga: non cede per paura; cede solo se il gruppo le nega agency o le promette una soluzione senza costo
 
 ## Note correlate
+- [[Sessioni/Master/INDICE_Wiki_La_Campana|Indice generale della wiki]]
 - [[Sessioni/Master/SES-00_Andamento]]
 - [[PG/La_Voce/PG-03_Silvio_Serra_La_Voce]]
 - [[PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria]]

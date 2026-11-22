@@ -1,6 +1,28 @@
 # Dario, il pescatore
 
-> Ultima modifica: 2026-11-19.
+> Ultima modifica: 2026-11-22.
+
+## Domande e risposte
+
+### Dario - Che cosa hai visto quando Marta partì?
+
+«Io ero lì. Lei diceva la verità. Nessuno la volle sentire.» Ricorda Marta gridare che il segno non indicava nessuno, la folla zittirla e Tomaso farla allontanare. Le ha sempre creduto, ma non lo dice necessariamente al primo incontro.
+
+### Dario - Di chi era la bicicletta?
+
+Non lo sa. Ricorda la protesta di Marta, non l'identità di chi usava la bici; non ricorda Lia prima che il patto si spezzi.
+
+### Dario - Cosa sai delle increspature?
+
+Osserva l'acqua e può riferire che partivano dal campanile già prima dell'assemblea. Non conosce per questo una nuova vittima né la soluzione del patto.
+
+### Dario - Ci porti alla torre?
+
+Dopo il secondo rintocco può traghettare i PG alla cima anche senza Ivo. Se ostacolato può portare comunque la barca senza parlare; la botola non permette di scendere prima del terzo rintocco.
+
+### Dario - Ci aiuti con Marta?
+
+Può ripetere la propria testimonianza se la fonte di Gemma si chiude. Aiuta finché non gli si chiede di abbandonare Marta; non aggiunge da solo il nome di Lia né una prova della conoscenza di Tomaso.
 
 > Pubblico: riservato al master. L'unico che ha sempre creduto a Marta: il PNG della speranza.
 
@@ -31,6 +53,7 @@
 - Soglie danno/resa/fuga: aiuta finché non gli si chiede di abbandonare Marta
 
 ## Note correlate
+- [[Sessioni/Master/INDICE_Wiki_La_Campana|Indice generale della wiki]]
 - [[Sessioni/Master/SES-00_Andamento]]
 - [[PG/Il_Ritorno/PG-05_Marta_Lodi_Il_Ritorno]]
 - [[NPCs/NPC-08_Gemma]]

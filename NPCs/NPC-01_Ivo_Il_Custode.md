@@ -1,6 +1,44 @@
 # Il Custode
 
-> Ultima modifica: 2026-11-19.
+> Ultima modifica: 2026-11-22.
+
+## Domande e risposte
+
+### Ivo - Chi sceglie la vittima?
+
+«Io conduco il passaggio. Non pronuncio una sentenza.» La proposta è del villaggio: il Custode non sceglie una persona con la propria voce. Se gli chiedono dei segni, dice che il villaggio ha deciso come interpretarli; non spiega spontaneamente al primo incontro che sono residui.
+
+### Ivo - Come funziona il rito?
+
+«Un nome pronunciato in piazza non basta. Perché l'offerta sia compiuta, la persona deve capire cosa accetta ed entrare nel cerchio.» Una consegna consenziente fa morire subito la vittima; l'acqua sale fino alla scadenza della finestra, salvo che il patto venga spezzato prima.
+
+### Ivo - Chi è stato sacrificato prima?
+
+Ricorda i sacrificati ma protegge la propria responsabilità. Se c'è fiducia, può ammettere di aver condotto il rito della notte dell'esilio di Marta, senza nominare Lia. Resta vago sulla persona consegnata al posto di Nino e non pronuncia il nome di Nera.
+
+### Ivo - Che cosa significano i segni?
+
+All'inizio: «Il segno è comparso. Il villaggio ha deciso come interpretarlo.» Dopo l'indagine sul Nodo 2 può confermare che la Voce restituisce un frammento dell'ultima vittima dimenticata e che il segno non contiene un ordine. Non offre spontaneamente questa spiegazione al primo incontro.
+
+### Ivo - Come si ferma il patto?
+
+«Non basta rompere la campana. Dovete ricordare ciò che la campana tiene insieme.» Se aiutato può indicare il funzionamento del rito e la Terza Via, ma non sostituisce i nodi o HND-02 e non rivela il costo dei ricordi prima che parli la Voce.
+
+### Ivo - Perché hai nascosto pagine ad Ada?
+
+Se Ada mostra le omissioni: «Ti ho insegnato a non fidarti delle pagine incomplete. Non ti darò una risposta solo perché hai trovato un'altra lacuna.» Se chiede perché l'abbia scelta: «Perché vedevi le crepe senza averle ancora causate.» Prima del true ending resta vago sulla somiglianza e non conferma di averla usata come rimpiazzo.
+
+### Ivo - Chi prese il posto di Nino?
+
+Prima che il patto si spezzi non conferma né smentisce la ricostruzione e non risolve il collegamento. Se sopravvive al true ending, può confessare ad Alba di aver proposto lo scambio, creato la falsa urgenza, mentito sul ritorno e trattenuto Alba. Non pronuncia il nome della figlia né rivela il retroscena della campagna.
+
+### Ivo - Ci accompagni alla torre?
+
+Dopo il secondo rintocco: «Posso guidarvi. Non significa che abbia deciso per voi.» Se rifiutato, Alba o Dario possono offrire la barca; i PG possono arrivarci anche da soli.
+
+### Ivo - Ti offrirai tu?
+
+«Potrei farlo. Ma non userò il mio rimorso come prova che merito di essere dimenticato.» La sua offerta, come ogni altra, richiede comprensione e consenso.
 
 ## Scheda 30 secondi
 - Ruolo in storia: Custode da circa 25 anni, mantiene il sigillo e governa il villaggio attraverso il ruolo; condusse il rito di Lia (figlia di Marta) e quello di Nera
@@ -80,6 +118,7 @@ Se i PG collegano la fuga del Debito, il travestimento, la cicatrice di Alba e l
 - Soglie danno/resa/fuga: cede quando i PG dimostrano di avere compreso il costo, non quando perde tutti i punti vita
 
 ## Note correlate
+- [[Sessioni/Master/INDICE_Wiki_La_Campana|Indice generale della wiki]]
 - [[Sessioni/Master/SES-00_Andamento]]
 - [[PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria]]
 - [[PG/La_Promessa/PG-02_Elio_Varda_La_Promessa]]

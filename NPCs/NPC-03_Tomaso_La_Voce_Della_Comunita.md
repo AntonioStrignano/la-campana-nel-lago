@@ -1,6 +1,40 @@
 # Tomaso Riva, sindaco di Varda
 
-> Ultima modifica: 2026-11-19.
+> Ultima modifica: 2026-11-22.
+
+## Domande e risposte
+
+### Tomaso - Chi ha scelto Mara?
+
+In piazza: «Il segno chiama. Il prossimo è già scelto.» Se incalzato: «La decisione politica è mia. Voi decidete se chiamarla necessità o colpa.» È lui a proporla; non c'è voto formale né ordine della campana.
+
+### Tomaso - Perché vuoi un sacrificio?
+
+«Non vi chiedo di essere crudeli. Vi chiedo di contare chi perderà tutto se non fate nulla.» Difende la proposta per paura dell'oblio collettivo, ma non sa garantire che il rito funzionerà.
+
+### Tomaso - Cosa significano i segni?
+
+All'inizio presenta il residuo come un ordine: «Il segno chiama. Il prossimo è già scelto.» Se insistono: «Un'immagine non basta a governare trecento persone. Qualcuno deve decidere cosa farne.» Sa che i segni sono residui di vittime precedenti, ma non lo ammette spontaneamente.
+
+### Tomaso - Hai manipolato i segni?
+
+Se i PG portano prove dall'indagine, ammette che conosceva i sacrifici passati e trasformò un residuo in una nuova designazione per governare il panico. «La paura non ci rende innocenti. Ma nemmeno voi lo sarete, qualunque scelta facciate.»
+
+### Tomaso - Perché hai esiliato Marta?
+
+Ammette di averla fatta allontanare dopo che contestò il segno; sostiene di aver evitato una rivolta. Se Marta lo confronta: «Hai detto che il segno non indicava nessuno. Ti ho sentita. Ho scelto di non ascoltarti.» Sa di aver difeso anche il proprio potere.
+
+### Tomaso - Chi era Elian?
+
+Ricorda il nome del proprio compagno, ma non il volto; conosce il legame con Mara e non lo rivela spontaneamente. Il frottage mostra che Elian entrò volontariamente e che Tomaso richiuse il passaggio. Dopo il true ending, se vivo, Tomaso ricorda il volto e può raccontare a Mara un dettaglio ordinario di lui.
+
+### Tomaso - Perché proprio Mara?
+
+Sa che è l'ultima parente vivente di Elian e manipola la designazione; non ammette spontaneamente questa ragione. Se incalzato sulla responsabilità della proposta, riconosce che la decisione politica è sua.
+
+### Tomaso - Ti offrirai tu?
+
+Può essere offerto solo se dice la verità davanti al villaggio e accetta consapevolmente; nessuno può consegnarlo contro la sua volontà.
 
 ## Scheda 30 secondi
 - Ruolo in storia: sindaco di Varda e decisore politico della risposta al ritorno della campana
@@ -64,6 +98,7 @@
 - Scelta finale: liberare tutti (il mondo e le persone care sparirebbero) o lasciare tutto com'è.
 
 ## Note correlate
+- [[Sessioni/Master/INDICE_Wiki_La_Campana|Indice generale della wiki]]
 - [[Sessioni/Master/SES-00_Andamento]]
 - [[PG/Il_Ritorno/PG-05_Marta_Lodi_Il_Ritorno]]
 - [[PG/La_Voce/PG-03_Silvio_Serra_La_Voce]]

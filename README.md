@@ -1,6 +1,6 @@
 # Vault One-Shot Mastering
 
-> Ultima modifica: 2026-11-19.
+> Ultima modifica: 2026-11-22.
 
 Vault operativo progettato per one-shot brevi ad alta resa: investigazione + azione + horror psicologico, con spazio reale alle scelte dei PG e convergenza morbida verso il climax.
 
@@ -33,7 +33,7 @@ Il canone dello scenario è [[Sessioni/Master/SES-00_Andamento]]: se un altro do
 
 Per lo stato delle attività e i collegamenti ai materiali da preparare, consulta [[TODO_La_Campana]].
 
-Per condurre la versione attiva, parti da [[Sessioni/Master/SES-01_Run_Sheet_La_Campana]] e tieni aperto [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]]. I testi da consegnare sono in [[Sessioni/Handout/INDICE_Sessioni_Handout]]; la guida senza spoiler è in [[Sessioni/Giocatori/INDICE_Sessioni_Giocatori]].
+Per condurre la versione attiva in Obsidian, parti dalla [[Sessioni/Master/INDICE_Wiki_La_Campana|wiki master]]: collega luoghi, personaggi, domande, indizi e finali. Restano disponibili [[Sessioni/Master/SES-01_Run_Sheet_La_Campana|run sheet]] e [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana|tracker dettagliato]]. I testi da consegnare sono in [[Sessioni/Handout/INDICE_Sessioni_Handout]]; la guida senza spoiler è in [[Sessioni/Giocatori/INDICE_Sessioni_Giocatori]].
 
 ## Convenzione nomi file
 

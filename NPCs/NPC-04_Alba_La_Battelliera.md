@@ -1,6 +1,37 @@
 # Alba, la Battelliera
 
 > PNG condiviso da La Promessa e Il Debito. Questa scheda contiene spoiler: non consegnarla ai giocatori.
+> Ultima modifica: 2026-11-22.
+
+## Domande e risposte
+
+### Alba - Ci porti alla torre?
+
+Dopo il secondo rintocco può traghettare i PG fino alla cima; prima non è raggiungibile. Anche dalla botola aperta non si scende fino al terzo rintocco.
+
+### Alba - Che cosa ti è successo al braccio?
+
+«Non ricordo quando me la sono fatta.» La cicatrice le provoca disagio, ma prima che il patto si spezzi non ricorda la sostituzione né il rito che l'ha ferita.
+
+### Alba - Perché hai detto non di nuovo?
+
+Al primo rintocco guarda Elio e dice «Non di nuovo.» Se le chiedono a cosa si riferisca, non sa spiegarlo: un suo gesto le sembra familiare, senza che sappia perché.
+
+### Alba - Che cosa sai del ciondolo?
+
+Se vede o le descrivono le tre onde: «Tre onde. Mi sembra familiare. Perché sono tre?» Non sa chi lo abbia fatto, per chi, né se sia legato al corpo in cripta. Non ricorda una terza figlia.
+
+### Alba - Hai salvato Nino?
+
+Prima del true ending non capisce l'accusa e non conferma di averlo salvato: «Non so che cosa dovrei averti fatto. So che non voglio vederti portato via.» Dopo che il patto si spezza ricorda la sostituzione, la propria scelta e la fuga di Nino.
+
+### Alba - Chi è Nera?
+
+Prima che il patto si spezzi non ricorda una terza figlia e non sa identificare il corpo o spiegare il 019. Dopo il true ending ricorda Nera e tutta la notte insieme, non a frammenti; Nera resta morta.
+
+### Alba - Che cosa vuoi fare dopo?
+
+Se sopravvive e il patto si spezza, può affrontare Ivo senza assolverlo automaticamente e chiedere ai PG: «Adesso che ricordo, cosa dovrei fare?» Se Ivo è morto non può rispondere o confessare.
 
 ## Scheda 30 secondi
 
@@ -77,6 +108,7 @@ Se Ivo nega, Alba non lo perdona automaticamente. Dopo il true ending, Ivo può 
 
 ## Note correlate
 
+- [[Sessioni/Master/INDICE_Wiki_La_Campana|Indice generale della wiki]]
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
 - [[Sessioni/Master/SES-06_Verita_La_Campana]]
 - [[PG/INDICE_PG_La_Campana]]

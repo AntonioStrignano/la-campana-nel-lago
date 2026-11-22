@@ -1,6 +1,25 @@
 # Elian Varda, il Primo Custode
 
 > Pubblico: riservato al master. Contiene la verità d'origine del patto.
+> Ultima modifica: 2026-11-22.
+
+## Domande e risposte
+
+### Elian - Chi era?
+
+Figura storica morta prima della nascita di Mara: era il compagno di Tomaso e il padre biologico di Mara. Non appare né parla direttamente in scena. I PG scoprono il nome attraverso il frottage; non attribuire a Mara ricordi vissuti di lui.
+
+### Elian - Che cosa rivela il registro?
+
+Il frottage dice: «Elian Varda. Entrato nel cerchio per sua volontà. Io, Tomaso, ho richiuso il passaggio.» Il sogno di Mara può confermare la volontarietà, ma non offre nome o volto.
+
+### Elian - Perché il suo nome conta?
+
+Con i quattro nodi e HND-02, i PG possono pronunciarlo insieme nella cripta e accettare volontariamente il costo chiarito dalla Voce. Il nome da solo non elimina il costo e non riporta in vita Elian.
+
+### Elian - Chi lo ricorda?
+
+Tomaso ricorda il nome, non il volto; Mara non lo ha conosciuto. Se il patto si spezza, Tomaso recupera il volto e, se vivo, può raccontare a Mara un dettaglio ordinario. Se è assente o morto, lei può conservare il registro in attesa di altre testimonianze.
 
 ## Scheda 30 secondi
 - Ruolo in storia: primo sacrificato, origine del ruolo di Custode e del patto con la Voce Profonda
@@ -37,6 +56,7 @@ Il suo nome non annulla il costo del sigillo indebolito né riporta indietro nes
 - Trigger: pronunciare il suo nome in gruppo non richiede un tiro; è una dichiarazione dei giocatori, non un test
 
 ## Note correlate
+- [[Sessioni/Master/INDICE_Wiki_La_Campana|Indice generale della wiki]]
 - [[NPCs/NPC-02_Mara_La_Persona_Designata]]
 - [[NPCs/NPC-07_La_Voce_Profonda]]
 - [[Sessioni/Master/SES-00_Andamento]]

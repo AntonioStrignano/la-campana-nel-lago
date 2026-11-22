@@ -1,5 +1,41 @@
 # Avanzamento operativo - 22/11/2026
 
+- Aggiornato il README: la wiki è il punto di partenza per la conduzione, con run sheet e tracker ancora disponibili.
+- Collegata la scheda di Dario all'indice generale della wiki.
+- Collegata la scheda di Gemma all'indice generale della wiki.
+- Collegata la scheda della Voce all'indice generale della wiki.
+- Collegata la scheda di Nera all'indice generale della wiki.
+- Collegata la scheda di Elian all'indice generale della wiki.
+- Collegata la scheda di Alba all'indice generale della wiki.
+- Collegata la scheda di Tomaso all'indice generale della wiki.
+- Collegata la scheda di Mara all'indice generale della wiki.
+- Collegata la scheda di Ivo all'indice generale della wiki.
+- Collegata la wiki e l'apertura in piazza alla run sheet esistente.
+- Collegata la wiki al punto d'ingresso dell'indice master, mantenendo disponibili run sheet e manuale operativo.
+- Collegata la pagina degli altri quartieri all'indice generale della wiki.
+- Collegata la cripta all'indice generale della wiki.
+- Collegati porto e torre alle destinazioni wiki e all'indice generale.
+- Collegato il municipio alle destinazioni wiki e all'indice generale.
+- Collegato il Borgo Vecchio alle destinazioni wiki e all'indice generale.
+- Collegata la piazza alle destinazioni wiki e all'indice generale.
+- Separate le caselle dei nodi e dei token nella wiki per renderle selezionabili singolarmente in Obsidian.
+- Resi selezionabili i rintocchi nell'avvio della wiki; il dettaglio dei nodi resta disponibile nel tracker.
+- Creato l'indice centrale della wiki master con avvio rapido, stato live, luoghi, personaggi, oggetti, eventi e domande collegate direttamente alle risposte.
+- Aggiunta la pagina wiki degli altri quartieri con Case Nuove, locanda, abitanti e contingenza per piste impreviste.
+- Aggiunte alla scheda di Nera risposte su fascicolo 019, limiti della parentela e ritorno della memoria senza resurrezione.
+- Aggiunte alla scheda di Elian risposte su registro, nome, conoscenze e limiti della sua presenza in scena.
+- Aggiunte alla scheda della Voce risposte su segni, offerte, costo volontario e attacchi, senza anticipare il retroscena della campagna.
+- Aggiunte alla scheda di Dario risposte su esilio, segno, lago, aiuto a Marta e trasporto.
+- Aggiunte alla scheda di Gemma risposte su formula, campanello, esilio, lotto e chiave con alternativa per Marta assente.
+- Aggiunte alla scheda di Alba risposte su barca, cicatrice, Nino, ciondolo e ritorno della memoria.
+- Aggiunte alla scheda di Tomaso risposte condizionate su segni, designazione, esilio, Elian e possibilità di offrirsi.
+- Aggiunte alla scheda di Mara risposte su consenso, designazione, nastro, sogni e padre, senza anticipare ricordi o identità.
+- Aggiunte alla scheda di Ivo risposte dirette su rito, segni, vittime, Ada, sostituzione e barca con le rispettive condizioni.
+- Aggiunta la pagina wiki della cripta con resti, 019, reperti, risposte e tre finali, compreso il recupero tardivo.
+- Aggiunta la pagina wiki di porto, lago e torre con rintocchi leggibili, trasporto, botola e domande ai testimoni.
+- Aggiunta la pagina wiki del municipio con registro completo, frottage, anagrafe, domande e limiti del fascicolo 019.
+- Aggiunta la pagina wiki del Borgo Vecchio: testimonianze, puzzle degli strati, chiave e alternative anche senza Marta.
+- Avviata la wiki master: aggiunta una pagina autonoma per la piazza con lettura, PNG, domande, nastro, contingenze e destinazioni, senza cambiare il canone.
 - Aggiunti gli epiloghi master: tre letture, ricordi e scene personali, ritorno collettivo e scena di Mara senza ricordi vissuti di Elian. Da agganciare al run sheet e allineare alla cronologia attiva.
 - Collegati gli epiloghi e la scheda rapida dei resti al run sheet; fissato il ciondolo visibile in combattimento. Allineate le schede di Mara ed Elian e la cronologia principale.
 - Aggiunto il fascicolo A4 giocatori con cinque pregenerati livello 0, schede separate in stampa, ricordi, inventario e armi verificate sul manuale.
@@ -18,6 +54,12 @@
 - Revisione vault, SES-08: tracker senza stati di preparazione, recupero tardivo del Nodo 3 tramite la fonte esistente e rimando al run sheet per la risoluzione del rito.
 - Revisione vault, SES-02: corretti refusi nel debrief e separati gli spunti facoltativi per un seguito.
 - Revisione vault, SES-00: allineato il riepilogo del Nodo 4 alla scoperta delle tre onde durante lo scontro e alla conferma del 019.
+- Il run sheet diventa il foglio unico per Obsidian: spunte in alto e riquadri richiudibili con letture, nodi, regole ed epiloghi dalle note originali. Aggiornato l'indice master.
+- Verificate le destinazioni dei 20 incorporamenti e dei 5 salti; separati i campi live con un capoverso Markdown.
+- Espanso il foglio unico per scena: battute pronte, wikilink sui PG e PNG nel punto d'uso, indizi e token visibili, contingenze e letture incorporate dove servono.
+- Integrate nel foglio unico le deviazioni per fonti saltate, gruppo diviso, campana colpita ed evacuazione, mantenendo il rimando alle procedure originali.
+- Conduzione in due pannelli: SES-01 per regia e letture, SES-12 per procedure, reazioni e deviazioni in cinque fasi parallele; aggiornato l'indice master.
+- Allineate le etichette della barra di navigazione (01–05) nei due pannelli.
 
 - Aggiornata `SES-08`: Nodo 3 ora usa il record iniziale mancante e il frottage sulla pagina successiva per rivelare Elian, la sua scelta volontaria e il gesto di Tomaso.
 - Inserita in `SES-08` la tabella con sedici codici e date nel calendario locale di Varda (T0 19/05/1001, presente 19/11/1026); il frottage si risolve narrativamente, senza materiali fisici.

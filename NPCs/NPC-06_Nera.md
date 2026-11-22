@@ -1,6 +1,25 @@
 # Nera
 
 > Pubblico: riservato al master. Contiene la verità completa della famiglia di Ivo e Alba.
+> Ultima modifica: 2026-11-22.
+
+## Domande e risposte
+
+### Nera - Chi è la persona nel fascicolo 019?
+
+La scheda sul corpo in cripta può dire che si chiama Nera e riportare dati individuali, non genitori o parentela. Il confronto con il 014 di Nino mostra che fu consegnata un'altra persona al suo posto. Il ciondolo mostra tre onde e il nastro è troppo largo.
+
+### Nera - Chi la conosce?
+
+Prima che il patto si spezzi nessun testimone restituisce la parentela: Alba non ricorda una terza figlia e Ivo non pronuncia il nome né conferma la ricostruzione. Il ciondolo suggerisce un legame da interpretare, non restituisce i ricordi.
+
+### Nera - Che cosa accadde davvero?
+
+Solo dopo il ritorno della memoria: Ivo propose lo scambio e creò una falsa urgenza; Alba accettò; Nera comprese e accettò fidandosi del padre. Nino fuggì, Alba tentò di fermare il rito e Ivo la trattenne. Il ricordo ritorna insieme, non a frammenti.
+
+### Nera - Può tornare in vita o parlare?
+
+No. È morta e non è un PNG con battute proprie: appare attraverso resti, oggetti e ricordi. Spezzare il patto restituisce la memoria di Nera, non la sua vita.
 
 ## Scheda 30 secondi
 - Ruolo in storia: terza figlia di Ivo e Alba, sorella di La Promessa (Elio) e Il Debito (Nino); cancellata dalla memoria di tutti, compresa la propria famiglia
@@ -45,6 +64,7 @@ La terza via non restituisce un indizio graduale: restituisce una storia intera 
 - Il ciondolo non richiede un tiro per essere notato una volta recuperato dai resti; collegarlo a Nera richiede il ritorno della memoria, non un test
 
 ## Note correlate
+- [[Sessioni/Master/INDICE_Wiki_La_Campana|Indice generale della wiki]]
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
 - [[NPCs/NPC-04_Alba_La_Battelliera]]
 - [[PG/La_Promessa/PG-02_Elio_Varda_La_Promessa]]
