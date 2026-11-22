@@ -25,7 +25,7 @@ I dettagli di aspetto e abbigliamento sono proposte visive stabili: riusali nell
 
 **Ruolo.** Elio Varda, La Promessa: fratello maggiore di Nino, guarda sempre chi potrebbe restare indietro. **Profilo.** Vuole mantenere la parola; teme di aver protetto la persona sbagliata. Quando la situazione si guasta cerca l'uscita prima del colpevole. Corpo di tre quarti come a riparare qualcuno, mento girato a controllare chi lo segue, labbra premute.
 
-**Design.** Circa 37 anni, pelle abbronzata, robusto, spalle larghe, collo forte e mani larghe; volto squadrato, occhi nocciola. Capelli castani corti, pettinati di lato, barba corta e baffi. Camicia ruvida color ruggine con maniche rimboccate, pantaloni marroni e cintura di cuoio marrone. In piedi, corpo di tre quarti, si volta a controllare chi segue; tiene una cima in mano. `1boy, solo, cowboy_shot, simple_background, tan, muscular_male, broad_shoulders, brown_eyes, brown_hair, short_hair, side_part, beard, mustache, brown_shirt, collared_shirt, sleeves_rolled_up, brown_pants, brown_belt, standing, holding_rope, looking_back, serious, closed_mouth`
+**Design.** Circa 37 anni, pelle abbronzata, corporatura robusta ma non da culturista, spalle e mani larghe; volto squadrato, occhi nocciola. Capelli castani corti, pettinati di lato, barba corta e baffi. Camicia ruvida color ruggine con maniche rimboccate, pantaloni marroni e cintura di cuoio marrone. In piedi, corpo di tre quarti, si volta a controllare chi segue, con le mani libere. `1boy, solo, cowboy_shot, simple_background, tan, broad_shoulders, brown_eyes, brown_hair, short_hair, side_part, beard, mustache, brown_shirt, collared_shirt, sleeves_rolled_up, brown_pants, brown_belt, standing, looking_back, serious, closed_mouth`
 
 ### Silvio
 
@@ -43,7 +43,7 @@ I dettagli di aspetto e abbigliamento sono proposte visive stabili: riusali nell
 
 **Ruolo.** Marta Lodi, Il Ritorno: torna dopo l'esilio; legge Varda dalle strade, dalle rovine e dai saluti. **Profilo.** Cerca il torto che non riesce a ricordare; teme un'accoglienza che le chieda di tacere. Si difende osservando prima di credere. Sguardo basso concentrato, fronte appena tesa e peso su entrambi i piedi, come se stesse verificando una soglia.
 
-**Design.** Adulta matura, pelle chiara, solida e compatta, avambracci forti e lineamenti larghi. Occhi grigi; capelli neri striati d'argento, corti fino alla nuca e con riga laterale. Cappotto da viaggio marrone scuro, sciarpa color senape e pantaloni grigi. In piedi, mani nelle tasche del cappotto, studia il terreno davanti a sé. `1girl, solo, cowboy_shot, simple_background, mature_female, grey_eyes, black_hair, grey_hair, streaked_hair, short_hair, side_part, brown_coat, yellow_scarf, grey_pants, standing, hands_in_pockets, looking_down, serious, light_frown, closed_mouth`
+**Design.** Adulta matura, pelle chiara, solida e compatta, avambracci forti e lineamenti larghi. Occhi grigi; capelli neri striati d'argento, corti fino alla nuca e con riga laterale. Mantello da viaggio di lana marrone scuro, consumato ai bordi e chiuso con una fibbia, sciarpa color senape e pantaloni grigi. In piedi, con le mani intrecciate davanti a sé, studia il terreno. `1girl, solo, cowboy_shot, simple_background, mature_female, grey_eyes, black_hair, grey_hair, streaked_hair, short_hair, side_part, brown_cloak, yellow_scarf, grey_pants, standing, hands_clasped, looking_down, serious, light_frown, closed_mouth`
 
 ## PNG principali
 

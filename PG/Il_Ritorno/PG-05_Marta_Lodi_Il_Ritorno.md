@@ -12,7 +12,7 @@ Marta è un'esiliata tornata a Varda dopo anni. Conosce il paese attraverso abit
 
 - **Età:** 51 anni al 19 novembre 1026; nata l'8 marzo 975.
 - **Codice anagrafico:** `ML-09750308-01`.
-- **Aspetto:** pelle chiara, corporatura solida, avambracci forti e lineamenti larghi. Ha occhi grigi e capelli neri corti striati d'argento; indossa un cappotto da viaggio marrone e una sciarpa color senape.
+- **Aspetto:** pelle chiara, corporatura solida, avambracci forti e lineamenti larghi. Ha occhi grigi e capelli neri corti striati d'argento; indossa un mantello da viaggio di lana marrone scuro e una sciarpa color senape.
 
 ## Background
 

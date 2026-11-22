@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "SES-11_Atlante_Del_Cast_La_Campana"
             }
+          },
+          {
+            "id": "8aac792325010f63",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sessioni/Giocatori/PG-04_Nino_Varda_Stampa.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PG-04_Nino_Varda_Stampa"
+            }
           }
         ]
       }
@@ -190,8 +202,11 @@
   },
   "active": "13514230e1ce425e",
   "lastOpenFiles": [
-    "PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria.md",
+    "Sessioni/Giocatori/PG-04_Nino_Varda_Stampa.pdf",
+    "Sessioni/Giocatori/PG-03_Silvio_Serra_Stampa.pdf",
     "Sessioni/Master/SES-11_Atlante_Del_Cast_La_Campana.md",
+    "Sessioni/Master/INDICE_Sessioni_Master.md",
+    "PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria.md",
     "PG/INDICE_PG_La_Campana.md",
     "Sessioni/Giocatori/INDICE_Sessioni_Giocatori.md",
     "Sessioni/Giocatori/PG-02_Elio_Varda_Stampa.pdf",
@@ -200,7 +215,6 @@
     "Sessioni/Master/SES-01_Run_Sheet_La_Campana.md",
     "Sessioni/Master/SES-00_Andamento.md",
     "Sessioni/Master/INDICE_Wiki_La_Campana.md",
-    "Sessioni/Master/INDICE_Sessioni_Master.md",
     "NPCs/INDICE_NPC.md",
     "Sessioni/Handout/HND-01_Testualita_La_Campana.md",
     "Sessioni/Master/SES-18_Altri_Quartieri.md",
@@ -217,11 +231,8 @@
     "Sessioni/Master/SES-04_Regole_Shadowdark.md",
     "Sessioni/Master/SES-03_Contingenze_La_Campana.md",
     "PG/La_Voce/PG-03_Viola_Serra_La_Voce.md",
-    "Sessioni/Giocatori/PG-03_Silvio_Serra_Stampa.pdf",
-    "PG/La_Voce/PG-03_Silvio_Serra_La_Voce.md",
     "Sessioni/Giocatori/PG-05_Marta_Lodi_Stampa.pdf",
     "Sessioni/Giocatori/PG-03_Viola_Serra_Stampa.pdf",
-    "Sessioni/Giocatori/PG-04_Nino_Varda_Stampa.pdf",
     "Sessioni/Handout/HND-04_Reperti_Cripta_Stampa.pdf",
     "Sessioni/Giocatori/PG-10_Pregenerati_Stampa.pdf",
     "Shadowdark - Need Games - Manuale Base (OEF) [ITA].pdf",

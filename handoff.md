@@ -1,5 +1,7 @@
 # Avanzamento operativo - 22/11/2026
 
+- Aggiornato l'indice giocatori con la guida da inoltrare e la lettera anonima integrata. Verificati nella guida assenza di anticipazioni e link ai materiali di scoperta, anonimato della lettera, coerenza dell'aggancio e microregola Shadowdark; schede e PDF invariati.
+- Preparata la guida da inoltrare ai giocatori: lettera anonima comune, premessa essenziale e consigli di gioco; rimossi rintocchi, scelte finali e collegamenti ai materiali di scoperta. Conservati avvisi sui contenuti e limiti; verifica del testo e aggiornamento indice da completare.
 - Verificati fascicolo e cinque PDF individuali: una pagina A4 per PG, contenuti corrispondenti, codici ed età coerenti; ricordi e meccaniche invariati. Controllata anche la resa HTML su schermo mobile.
 - Rigenerato il PDF individuale di Elio con la data e il codice corretti; verifica finale dei sei PDF da ripetere.
 - Rigenerato il fascicolo PDF con la data e il codice corretti di Elio; rimane da aggiornare il suo PDF individuale.
