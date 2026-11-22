@@ -10,7 +10,7 @@
 
 I PG iniziano in piazza, durante un'assemblea convocata da Tomaso. Il lago si sta prosciugando a ogni rintocco: la campana segnala l'indebolimento del sigillo, non sceglie nessuna vittima e nessun nome è inciso da nessuna parte. Tutto il materiale di Varda si gioca nel villaggio fino al terzo rintocco; solo dopo si scende nella cripta.
 
-La data pubblica dell'insediamento di Tomaso come sindaco è il 19 maggio 1001. La cadenza di diciotto mesi tra i cicli è nota nel paese; Ada può confrontarla con le date del registro delle consegne.
+La data pubblica dell'insediamento di Tomaso come sindaco è il 19 maggio 1001. La cadenza di diciotto mesi tra i cicli è nota nel paese; Ada può confrontarla con le date del registro delle consegne. Prima del terzo rintocco, l'indagine al municipio avvia il Nodo 4: Nino riconosce la propria scheda nell'anagrafe e resta una seconda assenza. Dopo il terzo rintocco, il nodo si chiude in cripta, dopo il combattimento.
 
 Durante l'assemblea Tomaso annoda al polso di Mara una striscia di stoffa nuova, secondo la consuetudine usata per ogni designato. Quando la scena del Nodo 1 inizia, Mara chiede a Viola di richiamare l'attenzione, poi dichiara che il suo silenzio non è consenso e racconta la superstizione del nodo. Se Viola coglie che la piazza sta trasformando paura e tradizione in un dovere che Mara non ha scelto, Mara scioglie il nodo, le affida la striscia e confida a Viola che non vuole offrirsi ma si sente obbligata; altrimenti la trattiene. Se Viola rifiuta di richiamare l'attenzione, Mara lo fa da sola e le offre comunque il turno interpretativo. Sciogliere il nodo non provoca effetti soprannaturali; la conseguenza è la reazione sociale della piazza. La scena non rivela la procedura del rito. Se il nastro viene trattenuto, i PG possono tornare a chiederlo dopo che HND-02 ne mostra l'importanza.
 
@@ -63,7 +63,7 @@ Al terzo rintocco il tavolo è in uno di questi stati.
 1. **Come funziona il rito:** il nome da solo non è un ordine; serve la consegna nel cerchio.
 2. **I segni non sono designazioni:** sono residui dei sacrificati precedenti e Tomaso lo sa (Marta, Gemma, il lotto con la bici, Dario).
 3. **Il patto si nutre dell'oblio:** Elian si offrì volontariamente, il suo nome fu cancellato (Ada, Mara).
-4. **La storia di Nera e di Ivo:** ricatto, fuga di Nino, sostituzione (Elio, Nino, Alba).
+4. **La sostituzione:** all'anagrafe Nino identifica la propria scheda mancante e resta una seconda lacuna; in cripta il corpo porta la scheda corrispondente a quella lacuna, un nastro troppo largo e il ciondolo a tre onde. Nino ed Elio sono al centro delle due fasi; Alba non ricorda una terza figlia e Ivo non risolve il nodo.
 
 ### HND-02: quinta chiave
 
@@ -79,7 +79,7 @@ Con tutti e quattro i nodi e HND-02, i PG possono interrompere il rito prima del
 | Mara | Sopravvive; il villaggio non ricorda perché la guardava | Se offerta, perde nome e ricordi e annega | Libera, testimonia davanti al villaggio |
 | Tomaso | Resta sindaco e ricorda tutto, mentre il villaggio dimentica | Legittimato; i PG sanno cosa ha fatto | Smascherato; ricorda il volto di Elian |
 | Alba | Non ricorda Nera e perde altri legami | Ricorda solo ciò che resta | Ricorda tutto e chiede ai PG cosa fare |
-| Nera | Resti dimenticati | I resti restano tra i sacrificati; Ivo la ricorda, il villaggio no | La memoria e i legami tornano; il nome può essere scoperto prima dalla scheda anagrafica sulla salma |
+| Nera | Resti dimenticati | Il corpo resta anonimo; la scheda può rivelare il nome senza la parentela | La memoria e i legami tornano simultaneamente |
 | Marta | Resta senza Lia | Vede ancora dimenticare | Recupera Lia come ricordo; sceglie se chiedere giustizia o lasciare Varda |
 | Gemma, Dario | Dimenticano il coraggio | Restano testimoni | Primi a ricordare con Marta |
 
@@ -91,12 +91,13 @@ Se il good ending viene seguito dalla Terza Via prima della scadenza, gli esiti 
 
 1. **Discesa.** Scale asciutte, poi la cripta. La campana smette di vibrare.
 2. **La cripta.** Sala circolare sotto la chiesa, senza nicchie: ammassi di corpi e ossa. Al centro il cerchio di sale nero. I PG non vedono nulla di soprannaturale legato all'acqua.
-3. **Zombie acquatici.** Si alzano dall'ossario: sono i sacrificati precedenti, vogliono portare i PG giù per essere "mangiati" dalla campana, credendo di placare la propria fame. Tutti portano al polso una striscia di stoffa. Pochi, lenti, scontro breve. Il resto con il ciondolo (Nera) esita davanti a Elio e Nino; il nastro al suo polso è largo, fatto per Nino.
-4. **L'avatar.** Presenza nell'aria, voci dei sacrificati. La Voce è l'avatar di una divinità antica e dimenticata.
-5. **Costo.** La Voce chiarisce quale Ricordo fondamentale perderebbe ogni PG che accetta la Terza Via. Ricordo III è già stato ceduto al terzo rintocco e non viene offerto in cambio di una persona.
-6. **Dichiarazione.** I PG pronunciano il nome di Elian e dichiarano i nodi sciolti. Ogni PG superstite presente in cripta deve offrire volontariamente il ricordo fondamentale scritto sulla propria scheda; nessuno può pagare per un assente. Se anche uno rifiuta, il true ending fallisce e restano aperti gli altri esiti.
-7. **Chiusura.** L'avatar è eliminato (la divinità continua a esistere nella mitologia, non più lì). La torre crolla nel lago; la campana resta sul fondo, spaccata e muta, recuperabile ma incapace di suonare.
-8. **Epilogo.** Il lago resta lago. Davanti a ogni PG sboccia un fiore, poi nontiscordardime fioriscono sulla riva e in tutto il villaggio. Tutti ricordano la storia e le persone dimenticate; ogni PG ricorda tutto tranne il ricordo fondamentale che ha offerto, che resta perduto.
+3. **Zombie acquatici.** Si alzano dall'ossario: sono i sacrificati precedenti, vogliono portare i PG giù per essere "mangiati" dalla campana, credendo di placare la propria fame. Tutti portano al polso una striscia di stoffa. Pochi, lenti, scontro breve; è un combattimento normale, non un puzzle tattico.
+4. **Il corpo e il Nodo 4.** Dopo lo scontro, Elio può notare il nastro troppo largo sul corpo rimasto anonimo; il ciondolo di bronzo con tre onde è ancora addosso. La scheda sul corpo riporta il fascicolo 019, la seconda assenza vista in anagrafe, e può rivelare il nome Nera ma non la parentela. Il codice di Nino e il nastro mostrano che il designato era un'altra persona; il ciondolo e i due fratelli ricordati suggeriscono una terza persona, senza identificarla. Nino ed Elio guidano le due fasi; Alba si chiede solo perché le onde siano tre.
+5. **L'avatar.** Presenza nell'aria, voci dei sacrificati. La Voce è l'avatar di una divinità antica e dimenticata.
+6. **Costo.** La Voce chiarisce quale Ricordo fondamentale perderebbe ogni PG che accetta la Terza Via. Ricordo III è già stato ceduto al terzo rintocco e non viene offerto in cambio di una persona.
+7. **Dichiarazione.** I PG pronunciano il nome di Elian e dichiarano i nodi sciolti. Ogni PG superstite presente in cripta deve offrire volontariamente il ricordo fondamentale scritto sulla propria scheda; nessuno può pagare per un assente. Se anche uno rifiuta, il true ending fallisce e restano aperti gli altri esiti.
+8. **Chiusura.** L'avatar è eliminato (la divinità continua a esistere nella mitologia, non più lì). La torre crolla nel lago; la campana resta sul fondo, spaccata e muta, recuperabile ma incapace di suonare.
+9. **Epilogo.** Il lago resta lago. Davanti a ogni PG sboccia un fiore, poi nontiscordardime fioriscono sulla riva e in tutto il villaggio. Tutti ricordano la storia e le persone dimenticate; ogni PG ricorda tutto tranne il ricordo fondamentale che ha offerto, che resta perduto.
 
 ## Good e bad ending
 
@@ -114,7 +115,7 @@ Se il good ending viene seguito dalla Terza Via prima della scadenza, gli esiti 
 ### Regole trasversali
 - **Campana colpita:** si frattura, emette un rintocco debole che non conta nella scala, consuma Ricordo I (poi II, mai III) a tutti i presenti entro il perimetro del lago e si rigenera. I PNG presenti perdono un dettaglio leggero.
 - **Violenza contro il villaggio:** non c'è combattimento. Nives e la folla possono presidiare il molo, chiudere il municipio, isolare Mara, zittire i testimoni o evacuare i bambini. Costa 5-10 minuti e non blocca mai i core clue; i rintocchi cadono ai tempi previsti.
-- **Età:** Tomaso circa 55, Mara circa 30 (figlia di Elian, circa 5 anni alla sua morte nel 1001), Elio, Nino e Nera circa 35.
+- **Età:** Tomaso circa 55, Mara circa 30 (figlia di Elian, circa 5 anni alla sua morte nel 1001), Elio circa 37, Nino circa 33 e Nera circa 39. Al sacrificio del 1007 avevano rispettivamente 17, 13 e 19 anni.
 - **Ivo** è già Custode da circa 25 anni: condusse il rito di Lia e quello di Nera.
 
 Per ogni PNG: stato, cosa fa, leva dei PG, record da segnare live.
@@ -124,9 +125,9 @@ Per ogni PNG: stato, cosa fa, leva dei PG, record da segnare live.
 |---|---|---|---|---|
 | 0 | Calmo, teso sotto | Osserva il lago dalla barca | Chiedergli del campanile | ☐ |
 | 1° rintocco | Dice "è cominciato" | Spinge per decidere presto | Contestarlo o assecondarlo | ☐ |
-| Indagine | Controlla Ada | Corregge i suoi appunti, la tiene lontana dalla pagina di Nera | Ada trova le omissioni; Elio lo affronta | ☐ |
+| Indagine | Controlla Ada | Corregge gli appunti e resta vago sulla seconda scheda mancante | Ada nota le omissioni; Elio può affrontarlo | ☐ |
 | 2° rintocco | Sotto pressione | Offre la barca se serve | Chiedere cosa succede alla persona offerta | ☐ |
-| Convergenza | Cede se incalzato | Può confessare di aver creato l'urgenza per Nera | Usare ciondolo o pagina mancante | ☐ |
+| Convergenza | Resta vago anche davanti alle prove | Non conferma né smentisce la ricostruzione prima che il patto si spezzi; se sopravvive, dopo il true ending confessa ad Alba le proprie azioni, senza pronunciare il nome né spiegare il motivo più ampio della campagna | Usare ciondolo, codice di Nino e fascicolo 019 | ☐ |
 | 3° rintocco | Pronto | Guida il ramo scelto se accettato | Accettarlo o rifiutarlo | ☐ |
 
 ### Mara Varda
@@ -158,9 +159,9 @@ Diario: Tomaso lo porta con sé in cripta per distruggerlo; può lasciarlo cader
 |---|---|---|---|---|
 | 0 | Inquieta al porto | Nota le increspature con disagio | Parlarle al porto | ☐ |
 | 1° rintocco | "Non di nuovo" a Elio | Vede in lui un'altra persona | Elio indaga | ☐ |
-| Indagine | Teme di ricordare | Non corregge il ricordo falso di Elio; non nega a Nino | Nino la affronta | ☐ |
-| 2° rintocco | Frammenti di Nera | Mostra un lavoro a metà o una canzone interrotta | Far emergere il ciondolo | ☐ |
-| Convergenza | Ammette la sostituzione | Non ricostruisce il nome | Elio e Nino la ascoltano | ☐ |
+| Indagine | Avverte un vuoto che non sa nominare | Non corregge il ricordo falso di Elio; non nega a Nino | Nino la affronta | ☐ |
+| 2° rintocco | Inquieta dal ciondolo | Si chiede perché abbia tre onde; non ricorda una terza figlia | Farle vedere il ciondolo | ☐ |
+| Convergenza | Non ricorda la sostituzione | Non identifica il corpo né ricostruisce un nome | Elio e Nino la ascoltano | ☐ |
 | 3° rintocco | Aspetta | Ricorda tutto solo se il patto si spezza | Ramo true | ☐ |
 
 ### Gemma (fissa)
@@ -195,10 +196,10 @@ I rintocchi fanno perdere dettagli alla comunità, ma non cancellano automaticam
 
 | PNG | Prima dei rintocchi | Primo rintocco | Secondo rintocco | Terzo rintocco e limite |
 |---|---|---|---|---|
-| Ivo | Ricorda ogni sacrificato e sa che i segni sono residui; tace il proprio ruolo nella sostituzione di Nera. Non ricorda il volto di Elian. | Ricorda il segno precedente e capisce che il ciclo si è riaperto; dice «è cominciato», senza perdere la memoria dei sacrifici. | Sa che la torre sarà raggiungibile e può offrire la barca; continua a trattenere la verità su Nera. | Può guidare il ramo scelto. Confessa il proprio ruolo su Nera solo dopo che i PG collegano fuga di Nino, ciondolo e cicatrice di Alba. |
+| Ivo | Ricorda ogni sacrificato e sa che i segni sono residui; tace il proprio ruolo nella sostituzione. Non ricorda il volto di Elian e non pronuncia mai il nome della figlia sacrificata. | Ricorda il segno precedente e capisce che il ciclo si è riaperto; dice «è cominciato», senza perdere la memoria dei sacrifici. | Sa che la torre sarà raggiungibile e può offrire la barca; resta vago sulla persona consegnata. | Può guidare il ramo scelto. Non conferma né smentisce la ricostruzione prima del true ending; se sopravvive, dopo confessa ad Alba le proprie azioni, senza pronunciare il nome né il motivo più ampio della campagna. |
 | Mara | Non ricorda coscientemente Elian; i sogni contengono immagini frammentarie della notte originaria. Sa di non aver acconsentito alla designazione. | Ricorda la richiesta fatta a Viola. Il sogno può restituire la figura di una persona che entra volontariamente nel cerchio, senza nome. | Può descrivere meglio il gesto e la paura, ma non riconosce la persona né ricostruisce la propria discendenza. | Parla prima della scelta e ribadisce che il silenzio non è consenso. Il legame con Elian viene stabilito dai registri, non da una memoria improvvisa. |
 | Tomaso | Ricorda i sacrificati e i residui; conosce il nome di Elian ma non il suo volto. Sa che la campana non sceglie e tace di aver trasformato i residui in designazioni. | Ricorda l'origine del segno e usa l'urgenza per sostenere la proposta di Mara; non perde ricordi dei sacrificati. | Deve dichiarare la propria posizione politica; sa perché ha scelto Mara, ma non ammette la manipolazione senza essere confrontato. | Può sostenere il sacrificio o ritirarsi. Ammette l'uso consapevole dei segni quando i PG portano prove; il volto di Elian torna solo con la Terza Via. |
-| Alba | Conserva il senso di colpa e sa di aver collaborato a una sostituzione, ma non ricompone coscientemente il nome o la sequenza completa. | Dice «Non di nuovo» a Elio; non sa spiegare a chi si riferisce. | Il ciondolo e il lavoro lasciato a metà le fanno ricordare che mancava un figlio, non chi fosse né cosa accadde. | Può ammettere che una persona prese il posto di Nino. Nome e ricordo completo di Nera tornano solo se il patto si spezza. |
+| Alba | Non ricorda una terza figlia né la sostituzione; conserva una cicatrice e un disagio senza causa cosciente. | Dice «Non di nuovo» a Elio; non sa spiegare a chi si riferisce. | Le tre onde la turbano e si chiede perché siano tre; non ricorda chi fece il ciondolo o per chi. | Ricorda tutto solo se il patto si spezza, compresa la proposta di Ivo, la propria accettazione e quella di Nera. |
 | Gemma | Ricorda di aver conservato la chiave e che il campanello suonava da solo nella casa di Marta fino alla demolizione; non sa chi usasse la bici. | Incuriosita dalla scena di Mara, non perde il ricordo utile del suono e della reazione di Marta. | Ha già consegnato la chiave; la memoria dell'esilio resta, ma non recupera il nome di Lia. | Resta in casa. Se il patto si spezza, ricorda Lia insieme a Marta; prima non collega il campanello alla bambina. |
 | Dario | Ricorda l'esilio di Marta e di averle creduto; non sa a chi appartenesse il segno. | Nota la torre che emerge e conserva il ricordo della testimonianza di Marta. | Offre la barca e può ripetere ciò che vide; non aggiunge da solo il nome di Lia né la prova che Tomaso sapesse. | Può accompagnare i PG. Ricorda Lia con Marta solo dopo che il patto si spezza. |
 
@@ -207,7 +208,7 @@ I rintocchi fanno perdere dettagli alla comunità, ma non cancellano automaticam
 | Figura | Prima | Ai rintocchi | Rivelazione o limite |
 |---|---|---|---|
 | Elian | Morto; resta nei conteggi, nelle note e nel nome cancellato. | Non agisce né ricorda in scena; i clue ne ricostruiscono la scelta volontaria. | Il nome pronunciato insieme nella cripta viene udito dal villaggio; non gli si attribuisce una voce diretta. |
-| Nera | Morta e cancellata; restano il ciondolo, i gesti e un vuoto familiare. | Nessuna memoria completa riaffiora ai primi due rintocchi. | La storia e il nome tornano simultaneamente solo quando il patto si spezza. |
+| Nera | Morta e cancellata; restano il ciondolo, il fascicolo 019 e un vuoto familiare. | Nessuna memoria completa riaffiora ai primi due rintocchi; il nome può essere letto sulla scheda in cripta senza ricostruire la parentela. | La storia e i legami tornano simultaneamente solo quando il patto si spezza. |
 | Voce Profonda | Entità legata al sigillo; non seleziona vittime. | Restituisce frammenti di sacrifici passati; ogni nodo scoperto aumenta la presenza, non la precisione di una presunta designazione. | Il terzo rintocco prende Ricordo III; nella cripta la Voce chiarisce il costo volontario del Ricordo fondamentale. |
 
 ## Esilio di Marta (canone)

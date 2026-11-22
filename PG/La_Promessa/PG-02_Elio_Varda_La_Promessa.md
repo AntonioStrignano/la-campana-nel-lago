@@ -30,7 +30,7 @@ Elio affronta Ivo e mette in discussione il valore di una scelta compiuta in nom
 
 ## Segreto del master
 
-La promessa che Elio ricorda apparteneva inizialmente a Nera. Dopo la sua cancellazione, il dovere si è spostato su Nino.
+Al momento del sacrificio Elio aveva diciassette anni. La promessa che ricorda apparteneva inizialmente a Nera. Dopo la sua cancellazione, il dovere si è spostato su Nino.
 
 ## Frase
 

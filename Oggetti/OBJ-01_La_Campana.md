@@ -23,7 +23,7 @@ I rintocchi non scelgono il colpevole e non risolvono il rito. Rendono visibile 
 ## Cosa resta delle vittime
 I sacrificati dei cicli precedenti sono ancora nel campanile come zombie acquatici coperti di alghe, ammassati nella cripta. Vogliono portare i vivi nel cerchio per farli "mangiare" dalla campana, credendo di placare la propria fame. La Voce può muoverli o farli reagire alla presenza dei vivi. Non tornano nel villaggio: sono la traccia fisica di ciò che la comunità ha scelto di dimenticare.
 
-Durante uno degli scontri, un resto porta ancora un piccolo ciondolo di bronzo con tre onde incise. È il simbolo domestico che Alba aveva fatto per i suoi tre figli e apparteneva a Nera. La Promessa, Il Debito o Il Ritorno possono riconoscere il gesto o la forma senza recuperare subito il nome; il ciondolo diventa una prova fisica del vuoto familiare. Dopo la rottura del patto può essere recuperato insieme ai resti.
+Dopo il combattimento in cripta, il corpo associato al fascicolo anagrafico 019 porta ancora un piccolo ciondolo di bronzo con tre onde incise. È il simbolo domestico che Alba aveva fatto per i suoi tre figli e apparteneva a Nera, ma prima del true ending nessuno collega il corpo alla sorella scomparsa. Elio e Nino possono riconoscere il gesto o la forma senza recuperare subito il nome; il ciondolo diventa una prova fisica del vuoto familiare. Dopo la rottura del patto può essere recuperato insieme ai resti.
 
 ## Uso al tavolo
 - **Primo contatto:** quando il primo rintocco arriva senza che nessuno tocchi la campana, il suono sembra una voce familiare diversa per ogni PG.

@@ -23,8 +23,8 @@
 ## Indizi nel luogo
 - Core clue presente: il custode amministra il rito, non è automaticamente la vittima e non è il creatore della presenza
 - Extra clue possibile: il cerchio di sale nero non è il sigillo originario: è stato costruito dopo il primo sacrificio
-- Indizio familiare: il ciondolo di bronzo con tre onde incise apparteneva a Nera, ma prima della rottura del patto può essere riconosciuto solo come simbolo di una famiglia dimenticata
-- Scheda anagrafica facoltativa: secondo la prassi, la scheda della persona consegnata accompagna il corpo. Quella di Nera può rivelare il suo nome e i dati individuali, ma non i genitori né la sostituzione; trovarla non è requisito per il Nodo 4 o per il true ending.
+- Indizio familiare: dopo il combattimento, il corpo associato al fascicolo 019 porta un ciondolo di bronzo con tre onde; prima della rottura del patto può essere riconosciuto solo come simbolo di una famiglia dimenticata
+- Scheda anagrafica: secondo la prassi, la scheda della persona consegnata accompagna il corpo. Il fascicolo 019 corrisponde alla seconda assenza rilevata in municipio e può rivelare il nome Nera e i dati individuali, ma non i genitori né la sostituzione. Nessuno collega il corpo alla famiglia fino al true ending.
 - Immagine opzionale: tra i resti ammassati attorno al cerchio c'è il corpo vuoto di una neonata, senza nome, nastro né oggetti identificativi. Non è un indizio o una prova e non va collegata a Lia prima del true ending
 - Falso indizio gestibile: colpire la campana non libera nessuno; si frattura, rintocca debolmente, consuma un ricordo a chi è nel perimetro del lago e si rigenera
 

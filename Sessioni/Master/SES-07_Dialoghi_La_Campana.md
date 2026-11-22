@@ -31,15 +31,15 @@
 
 ### Se Ada mostra le omissioni
 
-- «Ti ho insegnato a non fidarti delle pagine incomplete. Non pensavo che avresti capito quanto decidevo io cosa potevi leggere.»
+- «Ti ho insegnato a non fidarti delle pagine incomplete. Non ti darò una risposta solo perché hai trovato un'altra lacuna.»
 - Se gli chiedono perché l'ha scelta: «Perché vedevi le crepe senza averle ancora causate.»
-- Se lo accusano di averla trasformata in un rimpiazzo: «Non eri lei. Lo sapevo ogni volta che ti guardavo. È questo che ho scelto di dimenticare.»
+- Se lo accusano di averla scelta per una somiglianza: «Ti ho scelta per quello che sai fare. Non trasformare una somiglianza in una risposta.»
 
 ### Se lo confrontano con la storia di Nino
 
-- Prima che il patto si spezzi, Ivo ammette di aver creato l'urgenza e trattenuto Alba solo dopo che i PG collegano la fuga di Nino, il ciondolo e la cicatrice.
-- «Il villaggio aveva indicato Nino. Io ho fatto credere ad Alba che non ci fosse tempo. Non potevo scegliere al posto loro; ho comunque spinto la scelta.»
-- Non pronunciare né confermare il nome della persona cancellata prima del ritorno della memoria.
+- Prima che il patto si spezzi, Ivo non conferma né smentisce la ricostruzione e non la risolve; non pronuncia mai il nome della persona consegnata.
+- Se sopravvive, dopo il true ending ad Alba: «Sono stato io a proporre lo scambio. Ti ho fatto credere che non ci fosse tempo e che spezzare il sigillo l'avrebbe riportata indietro. Quando hai provato a fermarmi, ti ho trattenuta. Non era una scelta inevitabile.»
+- Ivo non confessa il motivo più ampio della campagna.
 
 ### Alla discesa e all'offerta
 
@@ -124,16 +124,16 @@
 ### Prima del terzo rintocco
 
 - «Non di nuovo.»
-- Se mostrano il ciondolo: «Tre onde. L'ho fatto per i miei figli. Non chiedermi di contarli.»
-- Se le chiedono della cicatrice: «Ho provato a fermare qualcosa. Non abbastanza presto.»
-- Può ammettere che un figlio fu designato e che un'altra persona ne prese il posto; non ricostruisce il nome né l'intera memoria.
+- Se mostrano il ciondolo: «Tre onde. Mi sembra familiare. Perché sono tre?»
+- Se le chiedono della cicatrice: «Non ricordo quando me la sono fatta.»
+- Non ricorda una terza figlia, la sostituzione o il ruolo avuto nel rito.
 
 ### Dopo il ritorno della memoria
 
 - Ad Alba: «Dimmi che non mi hai mentito. Dimmi che spezzare il sigillo l'avrebbe riportata indietro.»
 - Ivo: «Non potevo scegliere io. Il villaggio aveva indicato Nino. Io ho solo condotto il rito.»
 - Alba: «Hai creato il tempo in cui dovevo scegliere. Mi hai tenuta ferma quando ho provato a riprenderla.»
-- Se i PG incalzano Ivo, può confessare di aver creato l'urgenza e mentito sul ritorno. Alba non lo assolve automaticamente.
+- Se i PG incalzano Ivo, può confessare di aver proposto lo scambio, creato l'urgenza, mentito sul ritorno e trattenuto Alba mentre provava a fermare il rito. Non pronuncia mai il nome della figlia né rivela il motivo più ampio della campagna. Alba non lo assolve automaticamente.
 - Dopo la confessione o il rifiuto: «Adesso che ricordo, cosa dovrei fare?»
 
 ## La Voce Profonda
@@ -156,7 +156,7 @@
 
 - Si alzano dall'ossario quando il gruppo entra nella cripta o disturba il sigillo. Sono pochi, lenti e convinti che l'offerta li libererà dalla fame.
 - Usa uno scontro breve e interrompilo quando non aggiunge più una scelta interessante. Non trasformarlo in una boss fight.
-- Un resto porta il ciondolo con tre onde. Una volta recuperato, Elio e Nino riconoscono la forma e una familiarità incompleta; Alba o Ivo reagiscono, ma nessuno ricostruisce la memoria completa prima del true ending.
+- Dopo il combattimento, il corpo associato al fascicolo 019 porta il ciondolo con tre onde e il nastro troppo largo. Elio e Nino riconoscono la forma e una familiarità incompleta; Alba si chiede perché siano tre onde. Nessuno collega il corpo alla famiglia prima del true ending.
 
 ## Note correlate
 

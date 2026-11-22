@@ -33,7 +33,7 @@ Non è un cancello per il climax. Se rifiuta, mente o viene trattenuto, Alba o D
 ## Uso al tavolo
 - Frase firma: "Non vi chiederò di essere buoni. Vi chiederò di ricordare chi avete scelto."
 - Cosa non dire subito: che Alba è sua moglie e che il sacrificio passato ha coinvolto i suoi figli
-- Cosa può rivelare sotto pressione: la campana non sceglie da sola e il Custode non designa una vittima con la sola voce; il villaggio interpreta i segni, prepara la persona e conduce una sequenza rituale precisa. Fuori dal rito Ivo può pronunciare qualsiasi nome. Se La Memoria gli mostra la pagina mancante, ammette di averle insegnato la verità mentre decideva quanta verità potesse sopportare. Se gli mostrano il ciondolo, riconosce le tre onde e lascia filtrare un ricordo di Nera che aveva tenuto sepolto.
+- Cosa può rivelare sotto pressione: la campana non sceglie da sola e il Custode non designa una vittima con la sola voce; il villaggio interpreta i segni, prepara la persona e conduce una sequenza rituale precisa. Resta vago sulla persona consegnata e non pronuncia mai il nome della figlia sacrificata. Se La Memoria gli mostra le omissioni nei registri, ricorda che le ha insegnato a leggerle ma non ammette di aver controllato la sua ricerca. Se gli mostrano il ciondolo, riconosce le tre onde ma non spiega a chi appartenesse.
 - Indizio che può confermare dopo l'indagine sul Nodo 2: la Voce restituisce un frammento dell'ultima vittima già dimenticata; il villaggio lo tratta come una designazione futura, ma il segno non contiene un ordine. Non lo rivela spontaneamente al primo incontro.
 
 ## Scena con La Memoria
@@ -48,11 +48,11 @@ Se La Memoria gli chiede perché l'abbia scelta, risponde:
 
 > "Perché tu vedevi le crepe senza averle ancora causate."
 
-Se La Memoria gli chiede se l'ha scelta perché gli ricordava Nera, Ivo evita dapprima il nome. Può ammetterlo dopo che il gruppo ha recuperato il ciondolo o la pagina mancante:
+Se La Memoria gli chiede se l'ha scelta perché gli ricordava qualcuno, Ivo resta sul vago. La risposta non conferma un legame familiare né il motivo della sua scelta:
 
-> "Avevi il suo modo di fermarti prima di parlare. La stessa rabbia quando qualcuno chiamava ordine una bugia. All'inizio ho pensato che potevo ancora insegnare a una figlia ciò che non avevo fatto in tempo a insegnare a lei."
+> "Ti ho scelta perché vedevi le crepe senza averle ancora causate. Non trasformare una somiglianza in una risposta."
 
-Se La Memoria lo accusa di averla usata, Ivo non si difende con l'innocenza:
+Se La Memoria lo accusa di averla usata prima del true ending, Ivo non conferma né smentisce e non parla di altre persone. Se sopravvive e, dopo il ritorno della memoria, lei lo accusa di essere stato incapace di vederla per ciò che era, può rispondere:
 
 > "Non eri lei. Lo sapevo ogni volta che ti guardavo. È questo che ho scelto di dimenticare."
 
@@ -70,9 +70,9 @@ La Memoria può rispondere:
 
 ## La negazione di Ivo
 
-Quando Alba ricorda Nera e lo affronta, Ivo nega: sostiene di aver solo seguito la scelta della famiglia e di aver salvato Alba dai resti annegati. Non difende davvero il rito; difende la versione di sé che gli permette di continuare a vivere.
+Quando Alba ricorda la figlia e lo affronta, Ivo nega: sostiene di aver solo seguito la scelta della famiglia e di aver salvato Alba dai resti annegati. Non pronuncia mai il nome della figlia. Non difende davvero il rito; difende la versione di sé che gli permette di continuare a vivere.
 
-Se i PG collegano la fuga del Debito, il travestimento di Nera, la cicatrice di Alba e la promessa falsa sul ritorno, Ivo crolla. Ammette di aver creato l'urgenza, spinto Nera a offrirsi e lasciato che Alba portasse la colpa visibile. Alba può perdonare il suo dolore, ma non deve assolvere la sua scelta.
+Se i PG collegano la fuga del Debito, il travestimento, la cicatrice di Alba e la promessa falsa sul ritorno prima del true ending, Ivo non conferma né smentisce la ricostruzione e non la risolve. Se sopravvive, dopo che il patto si spezza confessa ad Alba di aver creato l'urgenza, proposto lo scambio, mentito sul ritorno della figlia e trattenuto Alba mentre cercava di fermare il rito. Non confessa il motivo più ampio della campagna e non pronuncia il nome della figlia. Alba può comprendere il suo dolore, ma non deve assolvere le sue scelte.
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: difesa media, resistenza alta, nessuna intenzione di uccidere

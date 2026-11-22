@@ -6,7 +6,7 @@
 
 Nino è un viaggiatore abituato a restituire subito ogni aiuto. È il fratello minore di Elio e porta addosso un debito che non ricorda di aver contratto.
 
-Porta con sé la propria scheda anagrafica, che sottrasse durante la fuga da Varda. Riporta il codice NV-09910602-01, corrispondente alla nascita del 2 giugno 991; non elenca i genitori. Al suo ritorno Alba lo riconosce e gli raccomanda prudenza; nascondersi resta una sua scelta. Più a lungo si espone in paese, più gli abitanti si chiedono se davvero lui sia il figlio che ricordano come consegnato.
+Porta con sé la propria scheda anagrafica, che sottrasse durante la fuga da Varda. Riporta il codice NV-09930602-01, corrispondente alla nascita del 2 giugno 993; non elenca i genitori e porta il riferimento al fascicolo 014. Al suo ritorno Alba lo riconosce e gli raccomanda prudenza; nascondersi resta una sua scelta. Più a lungo si espone in paese, più gli abitanti si chiedono se davvero lui sia il figlio che ricordano come consegnato.
 
 ## Legami
 
@@ -32,7 +32,7 @@ Nino prende posizione quando la comunità chiede un sacrificio e rende concreto 
 
 ## Segreto del master
 
-Il villaggio aveva designato Nino circa vent'anni fa. Nera prese il suo posto; Alba collaborò sotto il ricatto di Ivo e Nino fuggì.
+Il villaggio designò Nino nel 1007, quando aveva tredici anni. Ivo propose ad Alba di consegnare un'altra persona al suo posto e la spinse ad accettare con la minaccia che la Voce avrebbe divorato i ricordi di tutti. Nera comprese la sostituzione e accettò fidandosi del padre; Nino fuggì prima di entrare nel rito.
 
 ## Frase
 

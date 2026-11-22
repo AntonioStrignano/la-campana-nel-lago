@@ -9,7 +9,7 @@
 ## Stato attuale
 
 - **Pronto in bozza:** canone; rete PG-PNG; matrice di memoria e azioni ai rintocchi per i PNG ricorrenti; tre abitanti di contorno; procedure dei Nodi 1-3; HND-01 e HND-02; run sheet, contingenze, prep, dialoghi e guida giocatori. Il Nodo 1 è una scena sociale introduttiva per Mara e Viola.
-- **Da definire:** puzzle e procedura del Nodo 4; il materiale esistente è una bozza non definitiva.
+- **Definito:** puzzle e procedura del Nodo 4 in due fasi; da collaudare al tavolo.
 - **Da fare più avanti, prima del gioco:** completare le schede Shadowdark di livello 0 e scegliere un blocco nemico breve per i resti annegati; a cura del master.
 - **Da verificare:** prova a secco dei nodi e degli handout, accessibilità dei clue e tempi della finestra finale.
 - **Prossimo passo:** definire il quarto puzzle, poi fare una prova a secco dei nodi e degli handout; riprendere la preparazione meccanica prima della sessione.
@@ -18,13 +18,13 @@
 
 ### 1. Completare i quattro nodi
 
-I Nodi 1-3 hanno una procedura in [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]]; il Nodo 4 resta da definire. Le procedure richiedono un collaudo al tavolo.
+I quattro nodi hanno una procedura in [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]]. Le procedure richiedono un collaudo al tavolo.
 
 - [x] **Nodo 1 - Il rito** — scena sociale senza tiro: tre giustificazioni della tradizione, spotlight di Viola e nastro condizionato alla fiducia di Mara; da collaudare. Riferimenti: [[PG/La_Voce/PG-03_Viola_Serra_La_Voce]], [[NPCs/NPC-02_Mara_La_Persona_Designata]], [[Sessioni/Master/SES-00_Andamento]].
 - [x] **Nodo 2 - I residui** — riscritto come «La casa che non c'è»: Gemma porta i PG al lotto, puzzle sugli strati delle macerie, chiave come token; da collaudare. Spotlight: Marta. Riferimenti: [[PG/Il_Ritorno/PG-05_Marta_Lodi_Il_Ritorno]], [[NPCs/NPC-08_Gemma]], [[NPCs/NPC-09_Dario]], [[Sessioni/Master/SES-00_Andamento]].
 - [x] **Nodo 3 - L'oblio** — procedura rielaborata: record iniziale mancante e frottage; da collaudare a secco. Spotlight: Ada. Riferimenti: [[PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria]], [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]], [[Sessioni/Master/SES-00_Andamento]].
-- [ ] **Nodo 4 - La sostituzione** — definire puzzle e procedura; la bozza nel tracker non è definitiva. Spotlight: Elio e Nino. Riferimenti: [[PG/La_Promessa/PG-02_Elio_Varda_La_Promessa]], [[PG/Il_Debito/PG-04_Nino_Varda_Il_Debito]], [[NPCs/NPC-01_Ivo_Il_Custode]], [[NPCs/NPC-06_Nera]].
-- [ ] Verificare che i clue essenziali siano accessibili senza prova riuscita e collaudare le fonti alternative previste; il Nodo 3 non ha un'alternativa instradata e l'anagrafe è un premio facoltativo.
+- [x] **Nodo 4 - La sostituzione** — procedura definita in due fasi: inventario anagrafico e scheda di Nino; poi corpo, fascicolo 019 e ciondolo in cripta. Spotlight: Nino all'anagrafe, Elio in cripta. Da collaudare.
+- [ ] Verificare che i clue essenziali siano accessibili senza prova riuscita e collaudare le fonti alternative previste; il Nodo 3 non ha un'alternativa instradata.
 
 ### 2. Coerenza PG-PNG e rintocchi
 

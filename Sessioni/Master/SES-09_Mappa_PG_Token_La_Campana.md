@@ -46,11 +46,11 @@ I ricordi fondamentali sono costi personali distinti dagli oggetti. Nel true end
 
 - **Token indicato dal tracker:** ciondolo di bronzo con tre onde, fatto da Alba per i suoi tre figli e indossato da Nera.
 - **Cosa rappresenta:** il terzo figlio cancellato dai ricordi e la sostituzione di Nino con Nera. Prima che il patto si spezzi, il ciondolo non restituisce da solo il nome o la memoria completa di Nera.
-- **Dove si trova:** addosso a uno dei resti annegati incontrati nello scontro alla cripta/campanile. I materiali non identificano sempre lo stesso ambiente né il resto specifico che lo porta; **da precisare il punto esatto**.
+- **Dove si trova:** sul corpo anonimo associato al fascicolo 019, nella cripta.
 - **Come ottenerlo:** dopo il terzo rintocco, i PG raggiungono la cripta e possono recuperarlo dopo lo scontro; le contingenze precisano che non serve un tiro per prenderlo una volta individuato il resto.
-- **Scheda anagrafica di Nera:** accompagna il corpo consegnato, secondo la tradizione. Riporta i dati personali ma non i genitori; se i PG la trovano, possono scoprire il suo nome prima del true ending, non la parentela né la memoria della sostituzione.
+- **Scheda anagrafica:** accompagna il corpo consegnato, secondo la tradizione. È il fascicolo 019, la seconda scheda mancante emersa all'anagrafe. Riporta il nome Nera e dati individuali, ma non i genitori; i PG possono scoprire il nome prima del true ending, non la parentela né la memoria della sostituzione.
 - **Ricordi associati tematicamente:** quelli fondamentali di Elio e Nino, riportati separatamente nella tabella; entrambi contribuiscono allo stesso nodo e allo stesso token.
-- **Nastro di Nera:** tutti i resti annegati portano una striscia al polso. Quella di Nera è il nastro assegnato a Nino e passato a lei quando prese il suo posto; le resta largo perché era stato fatto per il polso di lui. Il ciondolo a tre onde identifica Nera, mentre il nastro conferma la sostituzione.
+- **Nastro sul corpo:** tutti i resti annegati portano una striscia al polso. Quella sul corpo è il nastro assegnato a Nino e passato alla persona consegnata al suo posto; le resta largo perché era stato fatto per il polso di lui. Il ciondolo a tre onde suggerisce una terza persona della famiglia, mentre il nastro conferma la sostituzione.
 
 ## Distinzioni operative
 

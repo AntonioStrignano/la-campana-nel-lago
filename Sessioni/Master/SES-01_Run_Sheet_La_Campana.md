@@ -20,7 +20,7 @@
 | Assemblea | Nodo 1 e primo rintocco | Spotlight di Viola; stabilire che silenzio e designazione non sono consenso |
 | Indagine | Nodo 2 | Collegare il segno alla storia della bici e dell'esilio |
 | Indagine | Nodo 3 | Ada scopre il record iniziale mancante e risale al frottage |
-| Convergenza | Secondo rintocco e Nodo 4 da definire | Barrare Ricordo II e preparare il dilemma |
+| Convergenza | Secondo rintocco e prima fase del Nodo 4 all'anagrafe | Barrare Ricordo II e preparare il dilemma |
 | Finale | Terzo rintocco e finestra finale | Decisione; al massimo un nodo mancante può essere recuperato se HND-02 è stato trovato |
 | Epilogo | Ramo scelto | Risolvere il rito, l'oblio o la Terza Via senza affrettare il costo morale |
 
@@ -36,14 +36,14 @@ I rintocchi non seguono orari prefissati: il master legge la situazione al tavol
 
 ## Indagine - Quattro nodi
 
-Usa [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]] per fonti, puzzle e hint. Segui l'ordine concordato: Nodo 1, primo rintocco, Nodo 2, Nodo 3, secondo rintocco, Nodo 4, terzo rintocco.
+Usa [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]] per fonti, puzzle e hint. Segui l'ordine concordato: Nodo 1, primo rintocco, Nodo 2, Nodo 3, secondo rintocco, anagrafe (prima fase del Nodo 4), terzo rintocco, cripta (chiusura del Nodo 4 dopo il combattimento).
 
 - **Nodo 1, il rito:** la scena sociale in assemblea è sempre attiva. Mara chiede a Viola cosa ha sentito; se si sente compresa, scioglie il nodo e le affida il nastro, altrimenti lo trattiene. Il clue core dichiarato da Mara resta vero in entrambi i casi; la procedura del rito può arrivare da Ivo su domanda diretta.
 - **Nodo 2, i residui:** dopo il primo rintocco Gemma saluta Marta e porta i PG al lotto della casa demolita (bici sotto le macerie, Marta e Dario). La chiave è il token; il diario di Tomaso non è una fonte alternativa del nodo.
 - **Nodo 3, l'oblio:** prima del secondo rintocco Ada confronta i registri e nota che manca la prima registrazione. Il frottage sulla pagina successiva rivela Elian, la sua scelta e il gesto di Tomaso.
-- **Nodo 4, la sostituzione:** procedura ancora da definire. La bozza coinvolge Elio, Nino, Alba e il ciondolo; la scheda di Nera può rivelarne il nome in cripta, ma non restituisce da sola parentela, sostituzione o ricordi.
+- **Nodo 4, prima fase — anagrafe:** Nino confronta il codice della scheda che porta con sé con il registro delle consegne. L'inventario comunale dichiara 42 fascicoli attesi e 40 presenti, con i fascicoli 014 e 019 mancanti. La scheda di Nino, marcata 014, spiega una sola assenza: resta il 019. Nessun tiro, nome o parentela emerge da questa fase.
 
-Durante l'assemblea Tomaso annoda a Mara un nastro nuovo. Non viene consegnato subito: Mara lo scioglie e lo affida a Viola solo se si sente compresa nella scena del Nodo 1; altrimenti i PG potranno tornare a chiederlo se HND-02 ne rivela l'importanza. Quando Nino riceve il nastro, descrivi il déjà-vu senza restituirgli il ricordo completo. Nella cripta, i nastri ai polsi dei resti e quello troppo largo di Nera anticipano la sostituzione e il possibile destino di Mara.
+Durante l'assemblea Tomaso annoda a Mara un nastro nuovo. Non viene consegnato subito: Mara lo scioglie e lo affida a Viola solo se si sente compresa nella scena del Nodo 1; altrimenti i PG potranno tornare a chiederlo se HND-02 ne rivela l'importanza. Quando Nino riceve il nastro, descrivi il déjà-vu senza restituirgli il ricordo completo. In cripta, il nastro troppo largo sul corpo e il ciondolo a tre onde anticipano la sostituzione; non chiamare il corpo Nera né associarlo alla famiglia prima del true ending.
 
 Se una scena viene saltata, trasferisci il clue core al prossimo luogo o testimone pertinente. Un tiro fallito può aggiungere tempo, pressione o chiusura di una fonte, ma non rimuove il clue né impedisce di raggiungere il climax.
 
@@ -67,6 +67,8 @@ Quando la torre diventa raggiungibile in barca, leggi [[Sessioni/Handout/HND-01_
 Leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#La-scelta]] e dichiara la pressione attiva: acqua che risale dopo una consegna, oppure oblio collettivo se nessuno agisce. Dopo un'offerta la vittima muore subito; la cripta si riempie solo alla fine della finestra. Se la Terza Via riesce prima della scadenza, l'acqua si ferma e il villaggio ricorda la vittima, che resta morta.
 
 - Nella cripta, il segnale presso la pietra accanto al cerchio conduce a HND-02. Una ricerca dichiarata nell'area lo trova senza prova; serve come quinta chiave prima della dichiarazione del true ending.
+- Dopo il terzo rintocco, fai affrontare ai PG il breve combattimento con i resti annegati. Terminato lo scontro, Elio può notare sul corpo anonimo il nastro troppo largo e il ciondolo a tre onde; la scheda riporta il fascicolo 019, seconda assenza dell'anagrafe. La scheda può rivelare il nome Nera, ma non la parentela. Nino era designato, ma fu consegnata un'altra persona e il rito si compì comunque: questa è la conclusione del Nodo 4. Il combattimento non è un puzzle.
+- Se Alba viene consultata sul ciondolo, riconosce le tre onde ma non ricorda una terza figlia: si limita a chiedersi perché siano tre. Ivo resta vago e non pronuncia mai il nome della persona consegnata.
 
 - Se i PG hanno quattro nodi e HND-02, possono tentare la Terza Via.
 - Se HND-02 è stato trovato e manca un solo nodo, possono tentare di recuperarlo entro la finestra; trasferisci la fonte accessibile più vicina, non chiedere una nuova scena completa.
