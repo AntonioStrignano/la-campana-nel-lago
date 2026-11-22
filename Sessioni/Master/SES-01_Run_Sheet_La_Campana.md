@@ -1,70 +1,44 @@
 # Run sheet live - La Campana sotto il Lago
 
-> Ultima modifica: 2026-11-19.
-
-> Categoria: conduzione live. Pubblico: master. Gli spoiler e gli esiti sono in [[Sessioni/Master/SES-00_Andamento]]. Le procedure dei clue sono in [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]].
+> Solo master. Questo foglio dà l'ordine delle scene. Apri il [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana|tracker]] per fonti e recuperi, [[Sessioni/Handout/HND-01_Testualita_La_Campana|HND-01]] per le letture e gli [[Sessioni/Master/SES-10_Epiloghi_La_Campana|epiloghi]] per la chiusura.
 
 ## Prima della sessione
 
-- Tieni aperti SES-00, SES-08, HND-01 e l'indice PG.
-- Prepara cinque schede PG; Il Ritorno può non essere presente.
+- Prepara le [schede PG](../Giocatori/PG-10_Pregenerati_Stampa.pdf) e i [due reperti della cripta](../Handout/HND-04_Reperti_Cripta_Stampa.pdf). Il Ritorno può non essere presente.
 - Concorda limiti e segnali di sicurezza usando [[Sessioni/Giocatori/PG-00_Guida_La_Campana]].
 - Segna quali giocatori interpretano i PG e quali ricordi non vanno cancellati o descritti.
 - Tieni visibili il tracker dei nodi, i tre rintocchi e la finestra finale.
 
-## Pacing orientativo (durata obiettivo: 120 minuti)
-
-| Fase | Passaggio | Obiettivo |
-|---|---|---|
-| Apertura | Limiti, legami PG, assemblea in piazza | Avviare la scena e chiarire perché Mara è designata |
-| Assemblea | Nodo 1 e primo rintocco | Spotlight di Silvio; stabilire che silenzio e designazione non sono consenso |
-| Indagine | Nodo 2 | Collegare il segno alla storia della bici e dell'esilio |
-| Indagine | Nodo 3 | Ada scopre il record iniziale mancante e risale al frottage |
-| Convergenza | Secondo rintocco e prima fase del Nodo 4 all'anagrafe | Barrare Ricordo II e preparare il dilemma |
-| Finale | Terzo rintocco e finestra finale | Decisione; al massimo un nodo mancante può essere recuperato se HND-02 è stato trovato |
-| Epilogo | Ramo scelto | Risolvere il rito, l'oblio o la Terza Via senza affrettare il costo morale |
-
-I rintocchi non seguono orari prefissati: il master legge la situazione al tavolo e sceglie una transizione utile. Non interrompere una scelta, una testimonianza o un conflitto. Se il tavolo è lento, comprimi le scene e trasferisci i clue, non la scelta finale.
+**Ritmo:** circa 120 minuti totali; tienine circa 20 per il finale. Fai suonare i rintocchi a una transizione, mai nel mezzo di una scelta. Se il tavolo rallenta, accorcia l'indagine, non la scelta finale.
 
 ## Apertura - Assemblea in piazza
 
 1. Leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#Incipit]].
 2. Chiedi a ogni PG perché è a Varda e quale legame lo tiene nel gruppo; non richiedere un giro completo se rallenta l'apertura.
 3. Presenta Tomaso e Mara; Tomaso motiva la proposta con la formula «Il segno chiama. Il prossimo è già scelto» e Gemma osserva dal fondo. Dopo la designazione e il nastro, Mara chiede a Silvio di richiamare l'attenzione; se Silvio rifiuta, lo fa Mara stessa. Un altro PG può aiutarla senza togliere a Silvio il turno interpretativo.
-4. Mara dichiara che il suo silenzio non è consenso e racconta la superstizione del nodo. Un abitante pratico e spaventato la interrompe; altre due voci si aggiungono. Usa SES-08 per condurre la scena sociale del Nodo 1: non richiede tiro e non va annunciata come puzzle.
-5. Avvia il timer effettivo quando il gruppo prende una direzione. Il primo rintocco arriva a una pausa drammatica scelta leggendo la scena.
+4. **Nodo 1, il rito.** Mara dice che il silenzio non è consenso e racconta la superstizione del nodo. Tre voci della piazza ribattono; Silvio può riconoscere la pressione senza tirare. Se Mara si sente compresa, gli affida il nastro; altrimenti lo trattiene. Ivo può spiegare la procedura su domanda diretta. Quando Nino riceve il nastro, descrivi un déjà-vu, non un ricordo completo.
+5. Alla prima transizione dopo l'assemblea leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#Primo rintocco|Primo rintocco]]. Ogni giocatore barra Ricordo I e può descrivere il vuoto.
 
-## Indagine - Quattro nodi
+## Indagine - Tra il primo e il secondo rintocco
 
-Usa [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]] per fonti, puzzle e hint. Segui l'ordine concordato: Nodo 1, primo rintocco, Nodo 2, Nodo 3, secondo rintocco, anagrafe (prima fase del Nodo 4), terzo rintocco, cripta (chiusura del Nodo 4 dopo il combattimento).
-
-- **Nodo 1, il rito:** la scena sociale in assemblea è sempre attiva. Mara chiede a Silvio cosa ha sentito; se si sente compresa, scioglie il nodo e gli affida il nastro, altrimenti lo trattiene. Il clue core dichiarato da Mara resta vero in entrambi i casi; la procedura del rito può arrivare da Ivo su domanda diretta.
 - **Nodo 2, i residui:** dopo il primo rintocco Gemma saluta Marta e porta i PG al lotto della casa demolita (bici sotto le macerie, Marta e Dario). La chiave è il token; il diario di Tomaso non è una fonte alternativa del nodo.
 - **Nodo 3, l'oblio:** prima del secondo rintocco Ada confronta i registri e nota che manca la prima registrazione. Il frottage sulla pagina successiva rivela Elian, la sua scelta e il gesto di Tomaso.
-- **Nodo 4, prima fase — anagrafe:** Nino confronta il codice della scheda che porta con sé con il registro delle consegne. L'inventario comunale dichiara 42 fascicoli attesi e 40 presenti, con i fascicoli 014 e 019 mancanti. La scheda di Nino, marcata 014, spiega una sola assenza: resta il 019. Nessun tiro, nome o parentela emerge da questa fase.
-
-Durante l'assemblea Tomaso annoda a Mara un nastro nuovo. Non viene consegnato subito: Mara lo scioglie e lo affida a Silvio solo se si sente compresa nella scena del Nodo 1; altrimenti i PG potranno tornare a chiederlo se HND-02 ne rivela l'importanza. Quando Nino riceve il nastro, descrivi il déjà-vu senza restituirgli il ricordo completo. In cripta, il nastro troppo largo sul corpo e il ciondolo a tre onde anticipano la sostituzione; non chiamare il corpo Nera né associarlo alla famiglia prima del true ending.
 
 Se una scena viene saltata, trasferisci il clue core al prossimo luogo o testimone pertinente. Un tiro fallito può aggiungere tempo, pressione o chiusura di una fonte, ma non rimuove il clue né impedisce di raggiungere il climax.
 
-### Primo rintocco
-
-Alla prima transizione naturale dopo il primo checkpoint, leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#Primo-rintocco]]. Ogni giocatore barra Ricordo I e descrive facoltativamente il vuoto. Non trasformare la perdita in una sottrazione di informazioni indispensabili.
-
-### Secondo rintocco
-
-Quando la torre diventa raggiungibile in barca, leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#Secondo-rintocco]]. Ogni giocatore barra Ricordo II. Prima del terzo rintocco i PG possono salire sulla torre e aprire la botola, ma non scendere.
+Alla transizione successiva leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#Secondo rintocco|Secondo rintocco]]: la torre è raggiungibile in barca e ogni giocatore barra Ricordo II. Si può aprire la botola, non ancora scendere.
 
 ## Convergenza
 
+- **Nodo 4, anagrafe:** 42 fascicoli attesi, 40 presenti. Nino confronta la sua scheda con il registro: spiega l'assenza del 014, non quella del 019. Nessun tiro; il 019 resta anonimo.
 - Riepiloga ad alta voce i fatti scoperti, senza trasformarli in una soluzione imposta.
 - Chiedi a Mara cosa vuole e a Tomaso quale posizione politica intende assumersi.
 - Ivo può offrire la barca e spiegare la procedura se i PG lo accettano; Alba o Dario rendono comunque possibile l'accesso.
-- Fai avvenire il terzo rintocco a una transizione adatta alla situazione. Leggi il testo del terzo rintocco e fai cedere Ricordo III.
+- Alla transizione leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#Terzo rintocco|Terzo rintocco]], fai barrare Ricordo III e apri la discesa.
 
 ## Finestra del terzo rintocco (circa 20 minuti)
 
-Leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#La-scelta]] e dichiara la pressione attiva: acqua che risale dopo una consegna, oppure oblio collettivo se nessuno agisce. Dopo un'offerta la vittima muore subito; la cripta si riempie solo alla fine della finestra. Se la Terza Via riesce prima della scadenza, l'acqua si ferma e il villaggio ricorda la vittima, che resta morta.
+Leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#La scelta|La scelta]]. Mostra l'oblio finché non c'è una consegna; dopo una consegna mostra l'acqua che risale.
 
 - La pietra accanto al cerchio nasconde HND-02 e HND-03, su fogli separati. Una ricerca dichiarata li trova entrambi senza prova, anche se nessuno intende fare un'offerta. HND-02 è la quinta chiave; HND-03 spiega la procedura, non è un requisito aggiuntivo.
 - Fai affrontare ai PG i due resti annegati. Durante lo scontro leggi «Il ciondolo» di HND-01, senza tiro per notarlo. Il portatore ha anche il nastro largo e il fascicolo 019: chi mette le mani sul corpo recupera il token e la scheda senza una seconda prova. Il confronto con il 014 mostra che Nino era designato, ma fu consegnata un'altra persona. Il 019 può rivelare il nome Nera, non la parentela.
@@ -74,7 +48,6 @@ Leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#La-scelta]] e dichiara la 
 - Se i PG hanno quattro nodi e HND-02, possono tentare la Terza Via.
 - Se HND-02 è stato trovato e manca un solo nodo, possono tentare di recuperarlo entro la finestra; trasferisci la fonte accessibile più vicina, non chiedere una nuova scena completa.
 - Se mancano più nodi o la chiave, la Terza Via non è disponibile in questo ciclo. Restano le scelte di offrire una persona, non agire o cercare di fuggire.
-- Nessun tiro decide chi viene offerto. Chiunque sia consegnato deve comprendere e accettare la scelta.
 
 ## Risoluzione dei rami
 

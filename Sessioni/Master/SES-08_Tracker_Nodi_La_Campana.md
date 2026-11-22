@@ -6,7 +6,7 @@
 >
 > Canone e ordine degli eventi: [[Sessioni/Master/SES-00_Andamento]].
 >
-> Il Nodo 4 si completa in due tempi: anagrafe del municipio e cripta dopo il combattimento.
+> Il Nodo 4 si completa in due tempi: anagrafe del municipio e cripta. Le tre onde si vedono durante lo scontro.
 
 ## Regole al tavolo
 
@@ -139,24 +139,20 @@ Segna una fonte come chiusa solo dopo il fallimento previsto. Il terzo rintocco 
 
 | Fonte | Stato | Indizio consegnato | Retry/costo | Bonus consegnato |
 |---|---|---|---|---|
-| Nodo 1 - puzzle Silvio | Bozza completa, da collaudare |  |  |  |
-| Nodo 1 - alternativa | Bozza completa, da collaudare |  |  |  |
-| Nodo 2 - puzzle Marta | Bozza completa, da collaudare |  |  |  |
-| Nodo 2 - alternativa | Bozza completa, da collaudare |  |  |  |
-| Nodo 3 - puzzle Ada | Bozza completa, da collaudare |  |  |  |
-| Nodo 3 - alternativa | Nessuna alternativa instradata; l'anagrafe è la prima fase del Nodo 4 |  |  |  |
+| Nodo 1 - assemblea/Silvio |  |  |  |  |
+| Nodo 1 - alternativa |  |  |  |  |
+| Nodo 2 - lotto/Marta |  |  |  |  |
+| Nodo 2 - alternativa |  |  |  |  |
+| Nodo 3 - registro/Ada |  |  |  |  |
 | Nodo 4 - anagrafe/Nino | Attivo; confronto dell'inventario con la scheda di Nino |  |  |  |
 | Nodo 4 - cripta/Elio | Ciondolo e nastro in combattimento, fascicolo 019 sul portatore |  |  |  |
 | HND-02 - quinta chiave | Attivo; da trovare nascosto ma segnalato in cripta |  |  |  |
 
 ## Finestra del terzo rintocco
 
-- I rintocchi non hanno orari prefissati: il master li scandisce leggendo la situazione e scegliendo transizioni naturali.
-- Dal terzo rintocco parte una finestra di circa 20 minuti per recuperare al massimo un nodo, se HND-02 è stato trovato.
-- Dopo l'offerta: la vittima muore subito e l'acqua comincia a risalire; la cripta si riempie alla fine della finestra. Il gruppo può ancora tentare il true ending.
-- Se il true ending riesce dopo l'offerta ma prima della scadenza: il patto si spezza, l'acqua si ferma, il villaggio ricorda la vittima e la vittima resta morta.
-- Senza offerta: avanza l'oblio collettivo; i personaggi possono ancora tentare il true ending nella stessa finestra.
-- Se il true ending riesce, i superstiti presenti offrono volontariamente il ricordo fondamentale già scritto sulle proprie schede. Se anche uno rifiuta, il true ending fallisce.
+- Con HND-02 e un solo nodo mancante, fai recuperare la fonte più vicina ancora accessibile entro la finestra (circa 20 minuti). Risolvi il passaggio essenziale, non tutta la scena.
+- Se manca il Nodo 3, serve ancora il registro: se riescono a raggiungerlo in tempo, fai trovare le impronte e il foglietto nella rilegatura, senza tiro. HND-02 indica cosa cercare, ma non sostituisce il frottage; l'anagrafe appartiene al Nodo 4.
+- Per pressione, rito ed esiti usa il [[Sessioni/Master/SES-01_Run_Sheet_La_Campana|run sheet]].
 
 | Passaggio | Ora/scena | Manifestazione della Voce | Nodo o fonte coinvolta |
 |---|---|---|---|

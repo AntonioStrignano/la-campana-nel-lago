@@ -12,6 +12,12 @@
 - Rigenerati il fascicolo PDF e la scheda individuale di Viola; allineati i pronomi nei documenti attivi del Nodo 1.
 - Rinominato il PG La Voce in Silvio Serra nei documenti attivi, nella scheda narrativa, nei link e nel sorgente di stampa. Archivio e storico invariati.
 - Rigenerati e verificati il fascicolo dei pregenerati e il PDF individuale di Silvio Serra; sostituita la vecchia copia individuale.
+- Revisione vault, SES-01: ordine di gioco lineare, rimossi riepiloghi doppi, collegati letture e PDF e chiarito che il 019 può rivelare il nome senza la parentela.
+- Revisione vault, PG-03: rimossa la copia residua di Viola, identica a Silvio a meno del nome.
+- Revisione vault, indice master: separati i fogli da tenere aperti al tavolo dai riferimenti da consultare al bisogno.
+- Revisione vault, SES-08: tracker senza stati di preparazione, recupero tardivo del Nodo 3 tramite la fonte esistente e rimando al run sheet per la risoluzione del rito.
+- Revisione vault, SES-02: corretti refusi nel debrief e separati gli spunti facoltativi per un seguito.
+- Revisione vault, SES-00: allineato il riepilogo del Nodo 4 alla scoperta delle tre onde durante lo scontro e alla conferma del 019.
 
 - Aggiornata `SES-08`: Nodo 3 ora usa il record iniziale mancante e il frottage sulla pagina successiva per rivelare Elian, la sua scelta volontaria e il gesto di Tomaso.
 - Inserita in `SES-08` la tabella con sedici codici e date nel calendario locale di Varda (T0 19/05/1001, presente 19/11/1026); il frottage si risolve narrativamente, senza materiali fisici.

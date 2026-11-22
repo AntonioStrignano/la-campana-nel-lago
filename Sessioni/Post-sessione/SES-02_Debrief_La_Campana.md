@@ -1,5 +1,7 @@
 # Debrief Avanzato - La Campana sotto il Lago
 
+> Ultima modifica: 2026-11-22.
+
 ## Esito sintetico
 - Obiettivo dichiarato: arrivare alla scelta del terzo rintocco e comprenderne i costi
 - Esito finale:
@@ -14,7 +16,7 @@
 | 3. Terzo rintocco e scelta |  |  |  |
 
 ## Spotlight PG valutazione
-| PG | Spotlight avuto | Intensita (1-5) | Nota miglioramento |
+| PG | Momento in primo piano | Intensità (1-5) | Cosa migliorare |
 |---|---|---|---|
 | PG 1 |  |  |  |
 | PG 2 |  |  |  |
@@ -47,7 +49,7 @@
 - Scene riutilizzabili: indagine su una comunità che dimentica
 - Colpi di scena riutilizzabili: il contenitore non è il mostro; il prezzo deve essere nominato
 
-## Hook futuri pronti
-- Hook A: una citta vicina riceve i ricordi perduti dal villaggio
+## Spunti facoltativi per un seguito
+- Hook A: una città vicina riceve i ricordi perduti dal villaggio
 - Hook B: un PG riconosce il proprio nome in un'altra campana
 - Hook C: il custode liberato continua a sentire un quarto rintocco

@@ -2,26 +2,29 @@
 
 > Materiale con spoiler completi, riservato al master. Non condividere con i giocatori.
 
-## Ordine di lettura consigliato
+> Ultima modifica: 2026-11-22.
 
-0. [[TODO_La_Campana]] — stato della preparazione e attività aperte con rimandi ai materiali
-1. [[Sessioni/Master/SES-00_Andamento]] — canone: incipit, fisica della torre, step, rami, tabellone PNG, abitanti casuali
-2. [[Sessioni/Master/SES-05_Prep_La_Campana]] — checklist, decisioni pre-sessione e verifica di prontezza
-3. [[Sessioni/Master/SES-01_Run_Sheet_La_Campana]] — flusso live e pacing orientativo
-4. [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]] — fonti, puzzle, hint, retry e stati dei quattro nodi
-5. [[Sessioni/Master/SES-09_Mappa_PG_Token_La_Campana]] — ruoli dei PG, ricordi fondamentali, token e modalità di recupero
-6. [[Sessioni/Master/SES-03_Contingenze_La_Campana]] — deviazioni, stalli e gestione della pressione
-7. [[Sessioni/Master/SES-07_Dialoghi_La_Campana]] — battute modulari e reazioni dei PNG
-8. [[Sessioni/Master/SES-04_Regole_Shadowdark]] — foglio rapido delle regole
-9. [[Sessioni/Master/SES-06_Verita_La_Campana]] — verità completa; per ordine degli eventi ed esiti prevale SES-00
-10. [[Sessioni/Master/SES-10_Epiloghi_La_Campana]] — letture dei finali e scene dei superstiti
-11. [[Sessioni/Master/SES-11_Atlante_Del_Cast_La_Campana]] — indice PG e PNG, profili e tag Danbooru (solo master)
+## Al tavolo
+
+1. [[Sessioni/Master/SES-01_Run_Sheet_La_Campana|Run sheet]]: ordine delle scene, rintocchi e incontro in cripta.
+2. [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana|Tracker]]: come trovare, capire e recuperare indizi e token.
+3. [[Sessioni/Handout/HND-01_Testualita_La_Campana|Letture]] e [[Sessioni/Master/SES-10_Epiloghi_La_Campana|epiloghi]]: testi da leggere, agganciati anche dal run sheet.
+
+## Quando serve
+
+| Mi serve | Apro |
+|---|---|
+| Preparare e stampare | [[Sessioni/Master/SES-05_Prep_La_Campana]] e [[TODO_La_Campana]] |
+| Gestire uno stallo o una deviazione | [[Sessioni/Master/SES-03_Contingenze_La_Campana]] |
+| Una battuta o una reazione | [[Sessioni/Master/SES-07_Dialoghi_La_Campana]] |
+| Una regola Shadowdark | [[Sessioni/Master/SES-04_Regole_Shadowdark]] |
+| Legare un PG al suo nodo | [[Sessioni/Master/SES-09_Mappa_PG_Token_La_Campana]] |
+| Controllare canone, tempi o conseguenze | [[Sessioni/Master/SES-00_Andamento]] (prevale su [[Sessioni/Master/SES-06_Verita_La_Campana]]) |
+| Consultare personaggi e design | [[Sessioni/Master/SES-11_Atlante_Del_Cast_La_Campana]] |
+| Annotare com'è andata | [[Sessioni/Post-sessione/SES-02_Debrief_La_Campana]] |
 
 ## Note correlate
 - [[Sessioni/Giocatori/INDICE_Sessioni_Giocatori]]
 - [[Sessioni/Handout/INDICE_Sessioni_Handout]]
 - [[Piste/INDICE_Piste]]
 - [[NPCs/INDICE_NPC]]
-
-## Da fare
-- Aprire il run sheet e preparare schede e reperti da [[TODO_La_Campana]]. La prossima sessione è il primo playtest; compilare il debrief dopo il gioco.
