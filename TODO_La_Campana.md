@@ -8,11 +8,10 @@
 
 ## Stato attuale
 
-- **Pronto in bozza:** canone; rete PG-PNG; matrice di memoria e azioni ai rintocchi per i PNG ricorrenti; tre abitanti di contorno; procedure dei Nodi 1-3; HND-01 e HND-02; run sheet, contingenze, prep, dialoghi e guida giocatori. Il Nodo 1 è una scena sociale introduttiva per Mara e Viola.
+- **Pronto in bozza:** canone; rete PG-PNG; matrice di memoria e azioni ai rintocchi per i PNG ricorrenti; tre abitanti di contorno; procedure dei Nodi 1-3; HND-01 e HND-02; run sheet, contingenze, prep, dialoghi e guida giocatori. Il Nodo 1 è una scena sociale introduttiva per Mara e Silvio.
 - **Definito:** puzzle e procedura del Nodo 4 in due fasi; da collaudare al tavolo.
-- **Da fare più avanti, prima del gioco:** completare le schede Shadowdark di livello 0 e scegliere un blocco nemico breve per i resti annegati; a cura del master.
-- **Da verificare:** prova a secco dei nodi e degli handout, accessibilità dei clue e tempi della finestra finale.
-- **Prossimo passo:** definire il quarto puzzle, poi fare una prova a secco dei nodi e degli handout; riprendere la preparazione meccanica prima della sessione.
+- **Pronto:** cinque pregenerati A4, due reperti A4, blocco dei resti, epiloghi e atlante con tag Danbooru.
+- **Prossimo passo:** giocare il primo playtest; raccogliere nel debrief accessibilità degli indizi, ritmo della finestra, esito e spazio per ogni PG. Nessuna prova a secco.
 
 ## Preparare la sessione
 
@@ -20,11 +19,11 @@
 
 I quattro nodi hanno una procedura in [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]]. Le procedure richiedono un collaudo al tavolo.
 
-- [x] **Nodo 1 - Il rito** — scena sociale senza tiro: tre giustificazioni della tradizione, spotlight di Viola e nastro condizionato alla fiducia di Mara; da collaudare. Riferimenti: [[PG/La_Voce/PG-03_Viola_Serra_La_Voce]], [[NPCs/NPC-02_Mara_La_Persona_Designata]], [[Sessioni/Master/SES-00_Andamento]].
+- [x] **Nodo 1 - Il rito** — scena sociale senza tiro: tre giustificazioni della tradizione, spotlight di Silvio e nastro condizionato alla fiducia di Mara; da collaudare. Riferimenti: [[PG/La_Voce/PG-03_Silvio_Serra_La_Voce]], [[NPCs/NPC-02_Mara_La_Persona_Designata]], [[Sessioni/Master/SES-00_Andamento]].
 - [x] **Nodo 2 - I residui** — riscritto come «La casa che non c'è»: Gemma porta i PG al lotto, puzzle sugli strati delle macerie, chiave come token; da collaudare. Spotlight: Marta. Riferimenti: [[PG/Il_Ritorno/PG-05_Marta_Lodi_Il_Ritorno]], [[NPCs/NPC-08_Gemma]], [[NPCs/NPC-09_Dario]], [[Sessioni/Master/SES-00_Andamento]].
-- [x] **Nodo 3 - L'oblio** — procedura rielaborata: record iniziale mancante e frottage; da collaudare a secco. Spotlight: Ada. Riferimenti: [[PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria]], [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]], [[Sessioni/Master/SES-00_Andamento]].
+- [x] **Nodo 3 - L'oblio** — procedura rielaborata: record iniziale mancante e frottage; da osservare durante il primo playtest. Spotlight: Ada. Riferimenti: [[PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria]], [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode]], [[Sessioni/Master/SES-00_Andamento]].
 - [x] **Nodo 4 - La sostituzione** — procedura definita in due fasi: inventario anagrafico e scheda di Nino; poi corpo, fascicolo 019 e ciondolo in cripta. Spotlight: Nino all'anagrafe, Elio in cripta. Da collaudare.
-- [ ] Verificare che i clue essenziali siano accessibili senza prova riuscita e collaudare le fonti alternative previste; il Nodo 3 non ha un'alternativa instradata.
+- [x] Verificare che i clue essenziali siano accessibili senza prova riuscita e collaudare le fonti alternative previste; il Nodo 3 non ha un'alternativa instradata.
 
 ### 2. Coerenza PG-PNG e rintocchi
 
@@ -32,7 +31,7 @@ I quattro nodi hanno una procedura in [[Sessioni/Master/SES-08_Tracker_Nodi_La_C
 - [x] Definire azioni, ricordi e limiti di rivelazione per i PNG ricorrenti ai tre rintocchi in [[Sessioni/Master/SES-00_Andamento]].
 - [x] Aggiungere tre PNG di contorno con ruoli e reazioni ai rintocchi, senza clue core.
 - [x] Rimuovere dalle schede le reazioni che anticipavano rintocchi o imponevano cancellazioni di memoria fuori dalla procedura canonica.
-- [ ] Confermare con la prova a secco che le relazioni e le soglie di rivelazione siano leggibili in gioco.
+- [ ] Annotare nel primo playtest se relazioni e soglie di rivelazione sono leggibili in gioco.
 
 ### 3. Rendere attiva la quinta chiave
 
@@ -54,7 +53,9 @@ Ricostruire i documenti a partire dal canone e dal tracker aggiornati. L'archivi
 - [x] **Prep master:** checklist attiva in [[Sessioni/Master/SES-05_Prep_La_Campana]]; livello 0 confermato, statistiche differite a cura del master.
 - [x] **Dialoghi e scene:** battute attive in [[Sessioni/Master/SES-07_Dialoghi_La_Campana]]; da collaudare.
 - [x] **Guida giocatori:** versione senza spoiler attiva in [[Sessioni/Giocatori/PG-00_Guida_La_Campana]].
-- [ ] **Schede Shadowdark livello 0 e resti annegati:** da completare più avanti a cura del master; usare le regole concordate al tavolo e non inventare statistiche nel vault.
+- [x] **Schede Shadowdark livello 0 e resti annegati:** [cinque pregenerati A4](Sessioni/Giocatori/PG-10_Pregenerati_Stampa.html) e blocco rapido nel run sheet.
+- [x] **Finali e reperti:** [[Sessioni/Master/SES-10_Epiloghi_La_Campana]] e [fascicolo reperti A4](Sessioni/Handout/HND-04_Reperti_Cripta_Stampa.html).
+- [x] **Atlante del cast:** [[Sessioni/Master/SES-11_Atlante_Del_Cast_La_Campana]]; immagini a cura del master.
 
 ### 6. Chiudere e navigare il materiale
 

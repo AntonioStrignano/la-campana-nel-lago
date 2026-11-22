@@ -12,7 +12,7 @@ I PG iniziano in piazza, durante un'assemblea convocata da Tomaso. Il lago si st
 
 La data pubblica dell'insediamento di Tomaso come sindaco è il 19 maggio 1001. La cadenza di diciotto mesi tra i cicli è nota nel paese; Ada può confrontarla con le date del registro delle consegne. Prima del terzo rintocco, l'indagine al municipio avvia il Nodo 4: Nino riconosce la propria scheda nell'anagrafe e resta una seconda assenza. Dopo il terzo rintocco, il nodo si chiude in cripta, dopo il combattimento.
 
-Durante l'assemblea Tomaso annoda al polso di Mara una striscia di stoffa nuova, secondo la consuetudine usata per ogni designato. Quando la scena del Nodo 1 inizia, Mara chiede a Viola di richiamare l'attenzione, poi dichiara che il suo silenzio non è consenso e racconta la superstizione del nodo. Se Viola coglie che la piazza sta trasformando paura e tradizione in un dovere che Mara non ha scelto, Mara scioglie il nodo, le affida la striscia e confida a Viola che non vuole offrirsi ma si sente obbligata; altrimenti la trattiene. Se Viola rifiuta di richiamare l'attenzione, Mara lo fa da sola e le offre comunque il turno interpretativo. Sciogliere il nodo non provoca effetti soprannaturali; la conseguenza è la reazione sociale della piazza. La scena non rivela la procedura del rito. Se il nastro viene trattenuto, i PG possono tornare a chiederlo dopo che HND-02 ne mostra l'importanza.
+Durante l'assemblea Tomaso annoda al polso di Mara una striscia di stoffa nuova, secondo la consuetudine usata per ogni designato. Quando la scena del Nodo 1 inizia, Mara chiede a Silvio di richiamare l'attenzione, poi dichiara che il suo silenzio non è consenso e racconta la superstizione del nodo. Se Silvio coglie che la piazza sta trasformando paura e tradizione in un dovere che Mara non ha scelto, Mara scioglie il nodo, gli affida la striscia e confida a Silvio che non vuole offrirsi ma si sente obbligata; altrimenti la trattiene. Se Silvio rifiuta di richiamare l'attenzione, Mara lo fa da sola e gli offre comunque il turno interpretativo. Sciogliere il nodo non provoca effetti soprannaturali; la conseguenza è la reazione sociale della piazza. La scena non rivela la procedura del rito. Se il nastro viene trattenuto, i PG possono tornare a chiederlo dopo che HND-02 ne mostra l'importanza.
 
 ## Incipit (da leggere)
 
@@ -92,7 +92,7 @@ Se il good ending viene seguito dalla Terza Via prima della scadenza, gli esiti 
 1. **Discesa.** Scale asciutte, poi la cripta. La campana smette di vibrare.
 2. **La cripta.** Sala circolare sotto la chiesa, senza nicchie: ammassi di corpi e ossa. Al centro il cerchio di sale nero. I PG non vedono nulla di soprannaturale legato all'acqua.
 3. **Zombie acquatici.** Si alzano dall'ossario: sono i sacrificati precedenti, vogliono portare i PG giù per essere "mangiati" dalla campana, credendo di placare la propria fame. Tutti portano al polso una striscia di stoffa. Pochi, lenti, scontro breve; è un combattimento normale, non un puzzle tattico.
-4. **Il corpo e il Nodo 4.** Dopo lo scontro, Elio può notare il nastro troppo largo sul corpo rimasto anonimo; il ciondolo di bronzo con tre onde è ancora addosso. La scheda sul corpo riporta il fascicolo 019, la seconda assenza vista in anagrafe, e può rivelare il nome Nera ma non la parentela. Il codice di Nino e il nastro mostrano che il designato era un'altra persona; il ciondolo e i due fratelli ricordati suggeriscono una terza persona, senza identificarla. Nino ed Elio guidano le due fasi; Alba si chiede solo perché le onde siano tre.
+4. **Il corpo e il Nodo 4.** Durante lo scontro uno dei resti esita: mostra il ciondolo di bronzo con tre onde e il nastro troppo largo. Il ciondolo è il token, recuperabile anche quando il resto cade. Sullo stesso corpo il fascicolo 019 spiega la seconda assenza dell'anagrafe e può rivelare il nome Nera, non la parentela. Il codice 014 di Nino e il nastro mostrano che Nino era il designato ma fu consegnata un'altra persona. Alba si chiede solo perché le onde siano tre.
 5. **L'avatar.** Presenza nell'aria, voci dei sacrificati. La Voce è l'avatar di una divinità antica e dimenticata.
 6. **Costo.** La Voce chiarisce quale Ricordo fondamentale perderebbe ogni PG che accetta la Terza Via. Ricordo III è già stato ceduto al terzo rintocco e non viene offerto in cambio di una persona.
 7. **Dichiarazione.** I PG pronunciano il nome di Elian e dichiarano i nodi sciolti. Ogni PG superstite presente in cripta deve offrire volontariamente il ricordo fondamentale scritto sulla propria scheda; nessuno può pagare per un assente. Se anche uno rifiuta, il true ending fallisce e restano aperti gli altri esiti.
@@ -115,7 +115,7 @@ Se il good ending viene seguito dalla Terza Via prima della scadenza, gli esiti 
 ### Regole trasversali
 - **Campana colpita:** si frattura, emette un rintocco debole che non conta nella scala, consuma Ricordo I (poi II, mai III) a tutti i presenti entro il perimetro del lago e si rigenera. I PNG presenti perdono un dettaglio leggero.
 - **Violenza contro il villaggio:** non c'è combattimento. Nives e la folla possono presidiare il molo, chiudere il municipio, isolare Mara, zittire i testimoni o evacuare i bambini. Costa 5-10 minuti e non blocca mai i core clue; i rintocchi cadono ai tempi previsti.
-- **Età:** Tomaso circa 55, Mara circa 30 (figlia di Elian, circa 5 anni alla sua morte nel 1001), Elio circa 37, Nino circa 33 e Nera circa 39. Al sacrificio del 1007 avevano rispettivamente 17, 13 e 19 anni.
+- **Età:** Tomaso circa 55, Mara circa 25 (figlia di Elian, nata dopo la sua morte nel 1001), Elio circa 37, Nino circa 33 e Nera circa 39. Al sacrificio del 1007 Elio, Nino e Nera avevano rispettivamente 17, 13 e 19 anni.
 - **Ivo** è già Custode da circa 25 anni: condusse il rito di Lia e quello di Nera.
 
 Per ogni PNG: stato, cosa fa, leva dei PG, record da segnare live.
@@ -134,7 +134,7 @@ Per ogni PNG: stato, cosa fa, leva dei PG, record da segnare live.
 | Step | Stato | Cosa fa | I PG possono | Record |
 |---|---|---|---|---|
 | 0 | Designata, sotto gli occhi di tutti | Siede in piazza | Parlarle prima di Tomaso | ☐ |
-| 1° rintocco | Spaventata e lucida | Cerca Viola | Viola raccoglie la sua dichiarazione | ☐ |
+| 1° rintocco | Spaventata e lucida | Cerca Silvio | Silvio raccoglie la sua dichiarazione | ☐ |
 | Indagine | Sogni della notte originaria | Dice ad Ada cosa ricorda di Elian | Ada incrocia i registri | ☐ |
 | 2° rintocco | Chiede scelta pubblica | Rifiuta di essere salvata con una bugia | Rendere pubblico il suo consenso | ☐ |
 | Convergenza | Pronta ad accettare o rifiutare | Dice cosa vuole | Proteggerla o consegnarla | ☐ |
@@ -146,7 +146,7 @@ Compagno di Elian. Ruppe il sigillo cercando una soluzione e richiuse il passagg
 | Step | Stato | Cosa fa | I PG possono | Record |
 |---|---|---|---|---|
 | 0 | Padrone dell'assemblea | Propone Mara e presenta il residuo alla piazza come ordine della campana, pur sapendo che è un segno passato | Ratificare o contestare la proposta | ☐ |
-| 1° rintocco | Alza la pressione | Chiede a Viola di dare forma pubblica alla sua posizione | Viola rifiuta di farsi usare | ☐ |
+| 1° rintocco | Alza la pressione | Chiede a Silvio di dare forma pubblica alla sua posizione | Silvio rifiuta di farsi usare | ☐ |
 | Indagine | Controlla Marta | Finge accoglienza, la tiene vicina | Marta scopre che il segno viene dal suo passato | ☐ |
 | 2° rintocco | Difende la designazione | Dichiara la posizione politica | Costringerlo a nominare la colpa | ☐ |
 | Convergenza | Se smascherato ammette l'esilio di Marta | Dice di averlo fatto per evitare una rivolta | Provarlo con il lotto, Gemma, Dario | ☐ |
@@ -197,7 +197,7 @@ I rintocchi fanno perdere dettagli alla comunità, ma non cancellano automaticam
 | PNG | Prima dei rintocchi | Primo rintocco | Secondo rintocco | Terzo rintocco e limite |
 |---|---|---|---|---|
 | Ivo | Ricorda ogni sacrificato e sa che i segni sono residui; tace il proprio ruolo nella sostituzione. Non ricorda il volto di Elian e non pronuncia mai il nome della figlia sacrificata. | Ricorda il segno precedente e capisce che il ciclo si è riaperto; dice «è cominciato», senza perdere la memoria dei sacrifici. | Sa che la torre sarà raggiungibile e può offrire la barca; resta vago sulla persona consegnata. | Può guidare il ramo scelto. Non conferma né smentisce la ricostruzione prima del true ending; se sopravvive, dopo confessa ad Alba le proprie azioni, senza pronunciare il nome né il motivo più ampio della campagna. |
-| Mara | Non ricorda coscientemente Elian; i sogni contengono immagini frammentarie della notte originaria. Sa di non aver acconsentito alla designazione. | Ricorda la richiesta fatta a Viola. Il sogno può restituire la figura di una persona che entra volontariamente nel cerchio, senza nome. | Può descrivere meglio il gesto e la paura, ma non riconosce la persona né ricostruisce la propria discendenza. | Parla prima della scelta e ribadisce che il silenzio non è consenso. Il legame con Elian viene stabilito dai registri, non da una memoria improvvisa. |
+| Mara | Non ricorda coscientemente Elian; i sogni contengono immagini frammentarie della notte originaria. Sa di non aver acconsentito alla designazione. | Ricorda la richiesta fatta a Silvio. Il sogno può restituire la figura di una persona che entra volontariamente nel cerchio, senza nome. | Può descrivere meglio il gesto e la paura, ma non riconosce la persona né ricostruisce la propria discendenza. | Parla prima della scelta e ribadisce che il silenzio non è consenso. Il legame con Elian viene stabilito dai registri, non da una memoria improvvisa. |
 | Tomaso | Ricorda i sacrificati e i residui; conosce il nome di Elian ma non il suo volto. Sa che la campana non sceglie e tace di aver trasformato i residui in designazioni. | Ricorda l'origine del segno e usa l'urgenza per sostenere la proposta di Mara; non perde ricordi dei sacrificati. | Deve dichiarare la propria posizione politica; sa perché ha scelto Mara, ma non ammette la manipolazione senza essere confrontato. | Può sostenere il sacrificio o ritirarsi. Ammette l'uso consapevole dei segni quando i PG portano prove; il volto di Elian torna solo con la Terza Via. |
 | Alba | Non ricorda una terza figlia né la sostituzione; conserva una cicatrice e un disagio senza causa cosciente. | Dice «Non di nuovo» a Elio; non sa spiegare a chi si riferisce. | Le tre onde la turbano e si chiede perché siano tre; non ricorda chi fece il ciondolo o per chi. | Ricorda tutto solo se il patto si spezza, compresa la proposta di Ivo, la propria accettazione e quella di Nera. |
 | Gemma | Ricorda di aver conservato la chiave e che il campanello suonava da solo nella casa di Marta fino alla demolizione; non sa chi usasse la bici. | Incuriosita dalla scena di Mara, non perde il ricordo utile del suono e della reazione di Marta. | Ha già consegnato la chiave; la memoria dell'esilio resta, ma non recupera il nome di Lia. | Resta in casa. Se il patto si spezza, ricorda Lia insieme a Marta; prima non collega il campanello alla bambina. |
@@ -229,7 +229,7 @@ Si tira quando i PG entrano in un quartiere o fermano qualcuno. Gemma e Dario no
 | 11-12 | Nives, aiutante di Tomaso | Piazza del Mercato | Affigge gli ordini | Ripete la designazione come ordine | Si irrigidisce a ogni rintocco |
 | 13-14 | Pino, pescatore | Porto del Fondo | Ripara una barca ferma | "Non è mai stato così basso" | 1°: la barca tocca il fondo |
 | 15-16 | Fausta, guaritrice | Borgo Vecchio | Visita chi ha perso un volto | Racconta chi non riconosce più i propri cari | Ogni rintocco allunga la fila |
-| 17-18 | Coro di vicini | Piazza del Mercato | Discute nell'assemblea | Reagisce a Tomaso, Mara, Viola | Si divide |
+| 17-18 | Coro di vicini | Piazza del Mercato | Discute nell'assemblea | Reagisce a Tomaso, Mara, Silvio | Si divide |
 | 19 | Un uomo senza moglie | Case Nuove | Porta due tazze | "Ne preparo sempre due. Non so per chi" | 2°: ne prepara una |
 | 20 | Un pescatore anziano, mai incontrato | Porto del Fondo | Guarda il campanile e dice: "Mi pare di aver già visto un segno simile" | Impressione da verificare: non conferma il Nodo 2 e non conta come clue core | 2°: non ricorda più perché è uscito di casa |
 

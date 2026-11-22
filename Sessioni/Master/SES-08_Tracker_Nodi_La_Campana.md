@@ -13,7 +13,7 @@
 - Servono quattro nodi e la quinta chiave, HND-02, per accedere al true ending.
 - Ogni nodo ha una fonte principale; le fonti alternative sono indicate dove servono.
 - Per il Nodo 2, la prova iniziale usa l'approccio descritto dai giocatori; caratteristica e CD si scelgono in fiction.
-- Eccezione: il Nodo 1 non usa una prova iniziale; la scena sociale di Mara e Viola è sempre attiva e il suo esito dipende dall'interazione.
+- Eccezione: il Nodo 1 non usa una prova iniziale; la scena sociale di Mara e Silvio è sempre attiva e il suo esito dipende dall'interazione.
 - Il clue core arriva sempre dall'interazione con la fonte, senza richiedere un tiro riuscito o una soluzione esatta.
 - Per il Nodo 2, una prova riuscita chiude la fonte e consegna il bonus previsto, se presente; un fallimento apre il puzzle collaborativo con il PG titolare al centro.
 - Per il Nodo 2, risolvere il puzzle senza suggerimenti sostanziali può consegnare un bonus verso un nodo ancora ignoto. Un suggerimento sostanziale rinuncia al bonus, non al clue core.
@@ -25,7 +25,7 @@
 
 | Nodo | Verità da scoprire | PG al centro (titolo) | Token per il centro del cerchio | Ricordo fondamentale offerto | Stato |
 |---|---|---|---|---|---|
-| 1. Il rito | Pronunciare un nome o designare una persona non basta: serve una consegna compresa e consenziente nel cerchio. | Viola, La Voce: dà parola a chi non l'ha | Nastro nuovo annodato al polso di Mara secondo la consuetudine | Rendere accettabile una confessione | ☐ |
+| 1. Il rito | Pronunciare un nome o designare una persona non basta: serve una consegna compresa e consenziente nel cerchio. | Silvio, La Voce: dà parola a chi non l'ha | Nastro nuovo annodato al polso di Mara secondo la consuetudine | Rendere accettabile una confessione | ☐ |
 | 2. I residui | I segni sono residui di persone sacrificate in passato, non designazioni future; Tomaso lo sa. | Marta, Il Ritorno: ciò che torna è ciò che è già stato dato | Chiave della casa di Marta (custodita da Gemma) | Descrivere una casa che non c'è più | ☐ |
 | 3. L'oblio | Elian si offrì volontariamente; Tomaso ne rimosse il primo record. | Ada, La Memoria: tiene il conto che altri hanno cancellato | Foglietto: «Non correggere. Chiediti perché manca.» | Non cancellare una contraddizione | ☐ |
 | 4. La sostituzione | Nino era il designato, ma in cripta fu consegnata un'altra persona; sostituire il designato non impedì il sacrificio. | Nino, Il Debito all'anagrafe; Elio, La Promessa in cripta | Ciondolo a tre onde sul corpo in cripta | Mantenere una promessa impossibile / ricevere un aiuto non ripagabile | ☐ |
@@ -38,21 +38,21 @@ Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità
 
 | Nodo | Fonte principale | Prova iniziale | Puzzle/attivazione | Fonte alternativa | Esito/costo/bonus |
 |---|---|---|---|---|---|
-| 1. Il rito | Assemblea: testimonianza di Mara e superstizione del nastro, con Viola al centro | Nessuna prova; scena dialogica sempre attiva | Ascoltare tre giustificazioni diverse e riconoscere la pressione che impone a Mara un dovere | Interrogatorio privato di Mara e domanda diretta a Ivo sulla procedura del rito; oppure il passo sul rito in HND-02 | Mara consegna il nastro solo se si sente compresa; altrimenti i PG possono tornare dopo aver trovato HND-02 |
+| 1. Il rito | Assemblea: testimonianza di Mara e superstizione del nastro, con Silvio al centro | Nessuna prova; scena dialogica sempre attiva | Ascoltare tre giustificazioni diverse e riconoscere la pressione che impone a Mara un dovere | Interrogatorio privato di Mara e domanda diretta a Ivo sulla procedura del rito; oppure il passo sul rito in HND-02 | Mara consegna il nastro solo se si sente compresa; altrimenti i PG possono tornare dopo aver trovato HND-02 |
 | 2. I residui | Gemma e il lotto della casa di Marta (bici sotto le macerie), testimonianza di Dario | Approccio libero | Ordinare gli strati del lotto e dedurre che il campanello suonava prima del crollo | Testimonianza di Gemma e Dario; diario di Tomaso solo come lore facoltativa | Vedi procedura del Nodo 2 |
 | 3. L'oblio | Registro delle consegne, data d'insediamento di Tomaso e frottage, Ada al centro | Approccio libero | Notare il primo record mancante e rivelare le impronte sulla pagina successiva | Nessuna alternativa instradata | Vedi procedura del Nodo 3 |
 | 4. La sostituzione | Anagrafe: inventario dei fascicoli e scheda di Nino; poi corpo e ciondolo in cripta | Confronto dei documenti, senza tiro | Riconoscere che la scheda di Nino spiega una delle due assenze, non l'altra | Alba può reagire alle tre onde; Ivo resta vago e non risolve il nodo | Vedi procedura del Nodo 4 |
 
 ### Nodo 1 - Il rito
 
-- **Fonte principale:** durante l'assemblea Tomaso annoda al polso di Mara un nastro nuovo, segno pubblico della designazione. Quando la scena del Nodo 1 sta per iniziare, Mara chiede a Viola di richiamare l'attenzione, poi dichiara che il suo silenzio non è consenso e racconta ai PG la superstizione del nodo. Se Viola rifiuta, Mara richiama l'attenzione da sola; se interviene un altro PG, Mara offre comunque a Viola la lettura della scena senza obbligarla a prenderla.
+- **Fonte principale:** durante l'assemblea Tomaso annoda al polso di Mara un nastro nuovo, segno pubblico della designazione. Quando la scena del Nodo 1 sta per iniziare, Mara chiede a Silvio di richiamare l'attenzione, poi dichiara che il suo silenzio non è consenso e racconta ai PG la superstizione del nodo. Se Silvio rifiuta, Mara richiama l'attenzione da sola; se interviene un altro PG, Mara offre comunque a Silvio la lettura della scena senza obbligarlo a prenderla.
 - **Reazione di Nino:** quando riceve il nastro, Nino ha un déjà-vu intenso e ricorda vagamente di averne portato uno al polso per un periodo. Non recupera la memoria di Nera.
 - **Clue core, senza tiro:** Mara dichiara che non ha acconsentito; il puzzle mette a fuoco la pressione sociale, non rivela la procedura del rito. Se i PG chiedono direttamente come si compie l'offerta, Ivo spiega che la persona deve capirla e accettarla nel cerchio, senza risolvere altri nodi.
-- **Puzzle sociale:** mentre Mara racconta la superstizione, una persona pratica e spaventata la interrompe; altre due voci anonime si aggiungono, una difendendo la tradizione e l'altra appellandosi a ciò che tutti hanno fatto prima. Possono immaginare conseguenze diverse e assurde se Mara scioglie il nodo, ma tutte finiscono per dirle che deve offrirsi. Non serve dimostrare che le paure siano false né trovare una frase esatta: Viola deve cogliere che paura e tradizione vengono usate per trasformare una decisione della piazza in un dovere di Mara. Mara chiede a Viola: «Che cosa hai sentito?» Gli altri PG possono contribuire; la deduzione centrale e il modo di risponderle restano liberi.
-- **Esito positivo:** quando Viola mostra di aver capito che Mara non vuole offrirsi e che la piazza la spinge a sentirsi obbligata, Mara si sente finalmente compresa. Scioglie il nodo in pubblico, affida il nastro a Viola nello stesso gesto e le confida il proprio conflitto, ignorando il resto della piazza. La folla si divide: una persona si irrigidisce, una vacilla, una tace. Se il giocatore sceglie anche di parlare alla piazza, il master può assegnare un bonus o vantaggio; non è necessario e non cambia l'esito.
+- **Puzzle sociale:** mentre Mara racconta la superstizione, una persona pratica e spaventata la interrompe; altre due voci anonime si aggiungono, una difendendo la tradizione e l'altra appellandosi a ciò che tutti hanno fatto prima. Possono immaginare conseguenze diverse e assurde se Mara scioglie il nodo, ma tutte finiscono per dirle che deve offrirsi. Non serve dimostrare che le paure siano false né trovare una frase esatta: Silvio deve cogliere che paura e tradizione vengono usate per trasformare una decisione della piazza in un dovere di Mara. Mara chiede a Silvio: «Che cosa hai sentito?» Gli altri PG possono contribuire; la deduzione centrale e il modo di risponderle restano liberi.
+- **Esito positivo:** quando Silvio mostra di aver capito che Mara non vuole offrirsi e che la piazza la spinge a sentirsi obbligata, Mara si sente finalmente compresa. Scioglie il nodo in pubblico, affida il nastro a Silvio nello stesso gesto e gli confida il proprio conflitto, ignorando il resto della piazza. La folla si divide: una persona si irrigidisce, una vacilla, una tace. Se il giocatore sceglie anche di parlare alla piazza, il master può assegnare un bonus o vantaggio; non è necessario e non cambia l'esito.
 - **Esito non raggiunto:** Mara non consegna il nastro né la confidenza. La sua dichiarazione pubblica resta valida; il clue core del Nodo 1 resta raggiungibile tramite le fonti alternative. Dopo aver letto HND-02 e aver capito che manca il token, i PG possono tornare da Mara e chiederlo.
 - **Fonte alternativa:** se il gruppo vuole sapere come si compie il rito, può parlare con Mara in privato e poi chiedere direttamente a Ivo quale passaggio renda effettiva l'offerta. Ivo descrive la procedura, ma non spiega il significato politico né risolve altri nodi. Anche il passo sul rito in HND-02 può completare il Nodo 1, se ancora mancante.
-- **Spotlight:** Mara chiede a Viola di richiamare l'attenzione e poi le domanda cosa ha sentito nelle voci della piazza. Viola può nominare le giustificazioni e la pressione senza parlare al posto di Mara; la scelta di intervenire pubblicamente è libera.
+- **Spotlight:** Mara chiede a Silvio di richiamare l'attenzione e poi gli domanda cosa ha sentito nelle voci della piazza. Silvio può nominare le giustificazioni e la pressione senza parlare al posto di Mara; la scelta di intervenire pubblicamente è libera.
 
 ### Nodo 2 - I residui
 
@@ -111,7 +111,7 @@ Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità
 - **Prima fase — municipio, con Nino al centro:** l'indice di consistenza dell'anagrafe dichiara 42 fascicoli; nel mobile ne restano 40. L'inventario segnala vuoti ai fascicoli 014 e 019, senza riportare nomi. Il registro delle consegne riporta il codice di Nino, `NV-09930602-01`, e Nino porta la propria scheda, marcata fascicolo 014. Nino può riconoscere e mostrare la corrispondenza. Il gruppo conclude che il suo fascicolo spiega una lacuna, ma ne resta un'altra: 019. Nessun tiro o conoscenza d'archivio è necessario.
 - **Informazioni da dare a voce:** leggi l'indice (42 attesi, 40 presenti; 014 e 019 assenti), poi il codice del registro delle consegne. Lascia che sia Nino a riconoscere il proprio codice sulla scheda e il numero 014. Se si bloccano: «La scheda di Nino spiega entrambi i fascicoli mancanti o soltanto uno?»
 - **Esito della fase:** l'anagrafe stabilisce che una seconda scheda è stata rimossa, ma non chi fosse la persona né perché. Non collegare ancora l'assenza a una sorella e non usare Alba o Ivo per completare il ragionamento.
-- **Seconda fase — cripta, con Elio al centro:** dopo il terzo rintocco, i PG scendono nella cripta e affrontano i resti annegati in un combattimento normale, non tattico né risolutivo. Dopo lo scontro trovano un corpo rimasto anonimo fino a quel momento; sul corpo ci sono la scheda del fascicolo 019, un nastro troppo largo e il ciondolo di bronzo con tre onde. Elio può riconoscere il nastro come quello destinato a Nino e prendere posizione sulla promessa di proteggere il fratello; gli altri PG possono aiutarlo.
+- **Seconda fase — cripta, con Elio al centro:** durante lo scontro, uno dei resti mostra il ciondolo a tre onde e il nastro troppo largo. Elio può riconoscere il nastro destinato a Nino. Sullo stesso corpo si trova il fascicolo 019. Non chiedere un tiro per notare i dettagli né una seconda prova per recuperare ciondolo e scheda quando il corpo è accessibile.
 - **Scheda sul corpo:** riporta il nome Nera e dati individuali, ma non genitori o legami. I PG possono leggere il nome senza sapere che quella persona fosse la sorella di Elio e Nino; non collegare il corpo alla famiglia prima del true ending.
 - **Clue core, senza tiro:** il registro designava Nino; lui fuggì e non fu consegnato. Il corpo in cripta appartiene al fascicolo mancante 019, non al 014 di Nino. Il rito si compì comunque con un'altra persona: cambiare la persona designata non annulla né modifica il costo del meccanismo. Il ciondolo a tre onde, accanto ai due fratelli ricordati, suggerisce una terza persona della famiglia; non restituisce la parentela o i ricordi.
 - **Alba:** se vede o le viene descritto il ciondolo, riconosce le tre onde ma non ricorda una terza figlia. Può solo chiedersi perché siano tre. Non sa identificare il corpo né spiegare il fascicolo 019.
@@ -119,12 +119,12 @@ Per il significato dei ruoli dei PG e i dettagli noti o da definire su identità
 - **Soluzione accettabile:** i PG collegano codice e scheda di Nino al fascicolo 014, capiscono che il 019 è una seconda assenza, poi in cripta associano quel numero alla scheda sul corpo. Capiscono che una persona diversa da Nino fu consegnata e che il meccanismo continuò a funzionare. Possono ipotizzare una terza persona legata ai fratelli, senza identificarla come loro sorella.
 - **Hint anagrafe:** «Quale codice sulla scheda di Nino corrisponde al registro?» Poi: «Risolta la sua assenza, quante ne restano?»
 - **Hint cripta:** «Quale fascicolo porta la scheda sul corpo?» Poi: «Se il codice nel registro è di Nino ma il fascicolo sul corpo è un altro, chi è stato davvero consegnato?»
-- **Nastro e ciondolo:** tutti i resti annegati portano una striscia al polso; quella sul corpo è larga perché era stata fatta per Nino. Il ciondolo con tre onde è il token del Nodo 4 e si recupera dopo lo scontro. La larghezza e le onde sono indizi, non un test né un puzzle tattico.
-- **Token e spotlight:** il token è il ciondolo, ottenuto dopo il combattimento. Nino è al centro del confronto documentale; Elio al centro della scoperta in cripta e del significato della promessa. Alba aggiunge solo il dubbio sulle tre onde. Nessuno deve fornire la deduzione al posto dei PG.
+- **Nastro e ciondolo:** tutti i resti portano una striscia al polso; quella del portatore è larga perché era stata fatta per Nino. Il ciondolo è il token del Nodo 4: si vede in combattimento e si può prendere quando il resto è raggiungibile, anche dopo che è caduto.
+- **Token e spotlight:** Nino è al centro del confronto documentale; Elio al centro della scoperta in cripta e del significato della promessa. Alba aggiunge solo il dubbio sulle tre onde. Nessuno deve fornire la deduzione al posto dei PG.
 
 ## HND-02 - Quinta chiave
 
-- Si trova nella cripta, sotto una pietra accanto al cerchio, mentre il gruppo sta per compiere il rito tradizionale; la posizione non dipende dalla presenza del Custode. Segnale senza tiro: la pietra è leggermente sollevata, con cera nera uguale a quella del registro di Tomaso e un lembo di carta ripiegato visibile sotto il bordo. Sollevarla rivela HND-02.
+- Sotto una pietra accanto al cerchio, a prescindere dalla presenza del Custode o dall'intenzione di fare un'offerta. Segnale senza tiro: pietra sollevata, cera nera come sul registro e un lembo di carta. Sollevarla rivela HND-02 e HND-03, su fogli separati.
 - Se i PG non notano il segnale, una ricerca dichiarata vicino al cerchio lo trova automaticamente; non serve prova. Ivo non lo consegna e la sua confessione non lo sostituisce.
 - Handout attivo: [[Sessioni/Handout/HND-02_Registro_Della_Notte_Originaria]]. Il passo sul passaggio nel cerchio può completare il Nodo 1; la frase sul «segno vecchio» e il conteggio richiamano i Nodi 2 e 3 senza sostituire le rispettive indagini.
 - Il «Diciassette giù, sedici su» di HND-02 è il conteggio della notte originaria, distinto dalle sedici righe leggibili del registro delle consegne in municipio.
@@ -139,14 +139,14 @@ Segna una fonte come chiusa solo dopo il fallimento previsto. Il terzo rintocco 
 
 | Fonte | Stato | Indizio consegnato | Retry/costo | Bonus consegnato |
 |---|---|---|---|---|
-| Nodo 1 - puzzle Viola | Bozza completa, da collaudare |  |  |  |
+| Nodo 1 - puzzle Silvio | Bozza completa, da collaudare |  |  |  |
 | Nodo 1 - alternativa | Bozza completa, da collaudare |  |  |  |
 | Nodo 2 - puzzle Marta | Bozza completa, da collaudare |  |  |  |
 | Nodo 2 - alternativa | Bozza completa, da collaudare |  |  |  |
 | Nodo 3 - puzzle Ada | Bozza completa, da collaudare |  |  |  |
 | Nodo 3 - alternativa | Nessuna alternativa instradata; l'anagrafe è la prima fase del Nodo 4 |  |  |  |
 | Nodo 4 - anagrafe/Nino | Attivo; confronto dell'inventario con la scheda di Nino |  |  |  |
-| Nodo 4 - cripta/Elio | Attivo; corpo, fascicolo 019 e ciondolo dopo il combattimento |  |  |  |
+| Nodo 4 - cripta/Elio | Ciondolo e nastro in combattimento, fascicolo 019 sul portatore |  |  |  |
 | HND-02 - quinta chiave | Attivo; da trovare nascosto ma segnalato in cripta |  |  |  |
 
 ## Finestra del terzo rintocco

@@ -5,7 +5,7 @@
 ## Scheda 30 secondi
 - Ruolo in storia: primo sacrificato, origine del ruolo di Custode e del patto con la Voce Profonda
 - Stato: morto 25 anni e mezzo fa; esiste solo come nome cancellato, frammento e residuo che riaffiora
-- Legami: compagno di Tomaso e padre di Mara
+- Legami: compagno di Tomaso e padre biologico di Mara. Arrivò a Varda per conto dell'associazione, concepì Mara durante la sua permanenza e morì prima che nascesse. Mara non ha ricordi vissuti di lui; nel finale può chiedere testimonianze a chi lo conobbe.
 - Obiettivo (all'epoca): richiudere la Voce Profonda dopo che Tomaso ruppe il sigillo antico
 - Segreto utile: il suo sacrificio fu volontario e consapevole, non un ordine della campana; la comunità lo trasformò in tradizione anonima solo dopo, per dolore
 - Legame vivente: Mara Varda (NPC-02) è sua figlia e l'ultimo legame vivo con lui

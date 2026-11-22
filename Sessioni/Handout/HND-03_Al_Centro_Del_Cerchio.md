@@ -1,6 +1,6 @@
 # Al centro del cerchio
 
-> Nodo 5: procedura e costo del true ending. Si consegna insieme a HND-02 (stessa pietra, foglio separato). Non include le note tra parentesi quadre.
+> Procedura della Terza Via, non un nodo aggiuntivo. Si consegna insieme a HND-02 (stessa pietra, foglio separato). Usa il [fascicolo A4](HND-04_Reperti_Cripta_Stampa.pdf) senza note master.
 
 ## Foglio piegato, mano tremante
 

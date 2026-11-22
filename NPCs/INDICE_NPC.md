@@ -5,8 +5,8 @@
 | PNG | PG collegato/i | Tipo di legame | Funzione emotiva |
 |---|---|---|---|
 | [[NPCs/NPC-01_Ivo_Il_Custode\|Ivo, il Custode]] | **La Memoria**, **La Promessa**, **Il Debito**, **Il Ritorno** | Mentore di Ada; padre di Elio e Nino; condusse il rito che prese Lia, figlia di Marta. Fu Tomaso a decidere l'esilio di Marta. | Ada scopre che ha controllato ciò che poteva conoscere; Elio e Nino scoprono il ricatto e la sostituzione. |
-| [[NPCs/NPC-02_Mara_La_Persona_Designata\|Mara Varda, la Persona Designata]] | **La Memoria** e **La Voce** | Ada verifica i registri su richiesta di Mara; Viola testimonia che il suo silenzio non vale come consenso. | Mara chiede ad Ada di controllare la versione ufficiale e a Viola di darle voce davanti al villaggio. |
-| [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita\|Tomaso Riva, sindaco di Varda]] | Tutti i PG sono coinvolti nella decisione politica; legame personale con **Il Ritorno**, ruolo pubblico specifico con **La Voce** | Coinvolgimento collettivo nella scelta; rapporto personale con Marta; chiede a Viola di formulare la posizione pubblica del villaggio | Tomaso propone Mara e presenta il residuo come ordine; la comunità può ratificare o contestare, i PG possono intervenire pubblicamente e materialmente. |
+| [[NPCs/NPC-02_Mara_La_Persona_Designata\|Mara Varda, la Persona Designata]] | **La Memoria** e **La Voce** | Ada verifica i registri su richiesta di Mara; Silvio testimonia che il suo silenzio non vale come consenso. | Mara chiede ad Ada di controllare la versione ufficiale e a Silvio di darle voce davanti al villaggio. |
+| [[NPCs/NPC-03_Tomaso_La_Voce_Della_Comunita\|Tomaso Riva, sindaco di Varda]] | Tutti i PG sono coinvolti nella decisione politica; legame personale con **Il Ritorno**, ruolo pubblico specifico con **La Voce** | Coinvolgimento collettivo nella scelta; rapporto personale con Marta; chiede a Silvio di formulare la posizione pubblica del villaggio | Tomaso propone Mara e presenta il residuo come ordine; la comunità può ratificare o contestare, i PG possono intervenire pubblicamente e materialmente. |
 | [[NPCs/NPC-04_Alba_La_Battelliera\|Alba, la Battelliera]] | **La Promessa** e **Il Debito** | Madre condivisa e complice del sacrificio di Nera | La Promessa protegge il fratello senza ricordare l'origine della promessa; Il Debito scopre di essere sopravvissuto al posto della sorella. |
 
 ## Rete dei rapporti nella trama
@@ -17,11 +17,11 @@
 | Ivo - Nera | Padre e Custode che contribuì a consegnarla; trattenne Alba e mentì sul suo possibile ritorno. | Il legame non rende Nera una vittima predestinata. |
 | Alba - Nera - Elio - Nino | Ivo propose ad Alba di consegnare Nera al posto di Nino; Alba accettò manipolata e Nera accettò fidandosi del padre. Elio porta una promessa originariamente rivolta a Nera. La memoria completa torna solo se il patto si spezza. | Prima del true ending, il ciondolo e i ricordi suggeriscono una terza persona senza ricomporne il legame familiare. |
 | Tomaso - Elian | Compagni; Tomaso richiuse il passaggio mentre Elian era nella cripta e ne ricorda il nome, non il volto. | Elian fu volontario; il patto nasce dalla successiva rimozione, non dalla sua offerta. |
-| Tomaso - Mara | Tomaso è il padre di Mara e la propone all'assemblea perché è l'ultimo legame vivente con Elian. Mara non ricorda coscientemente il padre e ignora la manipolazione. | Tomaso propone e influenza; non c'è scelta magica né voto formale. La comunità può ratificare o contestare. |
+| Tomaso - Mara | Tomaso la propone all'assemblea perché è l'ultimo legame vivente con Elian. Non è suo padre; conosceva Elian, morto prima che Mara nascesse. Mara ignora la manipolazione. | Tomaso propone e influenza; non c'è scelta magica né voto formale. La comunità può ratificare o contestare. |
 | Tomaso - Ivo | Tomaso ruppe il sigillo e trasformò i residui in una procedura politica; Ivo, Custode attuale, amministra il rito e ricorda i sacrifici per esperienza diretta. | Tomaso conosce il significato dei residui; Ivo non conosce la sottotrama Matrix. |
 | Tomaso - Marta - Gemma - Dario | Tomaso fece esiliare Marta dopo che riconobbe nel segno il suono della bicicletta di Lia e disse che non indicava nessuno; il villaggio la prese per pazza. Gemma sospetta di Tomaso e custodisce la chiave, Dario le credette e vide l'esilio. | Ivo condusse il rito di Lia, ma non decise l'esilio. |
 | Ada - Mara - Ivo | Mara custodisce i registri civici correnti e chiede ad Ada di verificarli; Ada è ricercatrice storica e allieva di Ivo, che ha orientato la sua ricerca nascondendo una pagina. | Ada non è l'archivista civica e Mara non ha il metodo storico di Ada. |
-| Viola - Mara - Tomaso | Mara chiede a Viola di rendere pubblica la propria posizione; Tomaso le chiede di formulare la posizione della piazza. | Viola dà voce alla testimonianza, non decide per Mara né per l'assemblea. |
+| Silvio - Mara - Tomaso | Mara chiede a Silvio di rendere pubblica la propria posizione; Tomaso gli chiede di formulare la posizione della piazza. | Silvio dà voce alla testimonianza, non decide per Mara né per l'assemblea. |
 | Gemma - Dario - Marta | Gemma custodisce la chiave della casa e porta i PG al lotto; Dario ricorda l'esilio e può portare i PG in barca. Entrambi, con alcuni giovani, formano una rete silenziosa non dichiarata. | Sono sostegni distinti: Gemma offre chiave e testimonianza, Dario memoria e trasporto. |
 | Elvira - Pietro - Taddeo | Elvira conosce il mercato, Pietro il vicinato delle Case Nuove, Taddeo lavora al molo accanto a Dario. | Sono legami sociali di contorno; nessuno custodisce un clue core. |
 
@@ -40,7 +40,7 @@
 
 ## Figure storiche o cancellate
 
-- [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode|Elian Varda, il Primo Custode]] — primo sacrificato; la sua scelta originaria è stata rimossa dalla storia ufficiale; antenato di Mara
+- [[NPCs/NPC-05_Elian_Varda_Il_Primo_Custode|Elian Varda, il Primo Custode]] — primo sacrificato e padre biologico di Mara; la sua scelta è stata rimossa dalla storia ufficiale
 - [[NPCs/NPC-06_Nera|Nera]] — figlia di Ivo e Alba, sacrificata al posto de Il Debito e cancellata dalla memoria
 
 ## Entità
@@ -65,5 +65,6 @@ Le tre figure sono dettagliate nel tabellone di [[Sessioni/Master/SES-00_Andamen
 - Gli altri abitanti sono nella tabella d20 di [[Sessioni/Master/SES-00_Andamento]]
 
 ## Note correlate
+- [[Sessioni/Master/SES-11_Atlante_Del_Cast_La_Campana]] (solo master: design e tag Danbooru)
 - [[PG/INDICE_PG_La_Campana]]
 - [[Piste/INDICE_Piste]]

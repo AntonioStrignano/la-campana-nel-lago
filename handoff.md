@@ -1,3 +1,18 @@
+# Avanzamento operativo - 22/11/2026
+
+- Aggiunti gli epiloghi master: tre letture, ricordi e scene personali, ritorno collettivo e scena di Mara senza ricordi vissuti di Elian. Da agganciare al run sheet e allineare alla cronologia attiva.
+- Collegati gli epiloghi e la scheda rapida dei resti al run sheet; fissato il ciondolo visibile in combattimento. Allineate le schede di Mara ed Elian e la cronologia principale.
+- Aggiunto il fascicolo A4 giocatori con cinque pregenerati livello 0, schede separate in stampa, ricordi, inventario e armi verificate sul manuale.
+- Aggiunto il fascicolo di stampa dei due reperti; allineati verità, tracker e run sheet su Mara, recupero del token, handout e costo volontario della Terza Via.
+- Aggiunto l'atlante solo master: 5 PG e 21 figure di Varda, direzione di espressioni e design, tag Danbooru senza quality tag e rimandi dagli indici. Nessuna immagine generata.
+- Allineati TODO, prep e debrief: niente prova a secco, primo playtest al tavolo e materiali meccanici pronti. Il debrief prevede anche il quinto PG.
+- Esportati i PDF A4 dei pregenerati e dei reperti, collegati dai documenti di accesso. Allineata la mappa dei token alla scoperta durante lo scontro.
+- Verificati i PDF (5 schede e 2 reperti, tutti A4); estratti e indicizzati i cinque PDF individuali. Reso condizionale il riferimento di Mara all'assemblea.
+- Viola Serra (La Voce) diventa un PG maschile: aggiornati la scheda narrativa, il sorgente di stampa, l'epilogo e il ritratto (`1boy`). Nome, ruolo e meccaniche invariati.
+- Rigenerati il fascicolo PDF e la scheda individuale di Viola; allineati i pronomi nei documenti attivi del Nodo 1.
+- Rinominato il PG La Voce in Silvio Serra nei documenti attivi, nella scheda narrativa, nei link e nel sorgente di stampa. Archivio e storico invariati.
+- Rigenerati e verificati il fascicolo dei pregenerati e il PDF individuale di Silvio Serra; sostituita la vecchia copia individuale.
+
 - Aggiornata `SES-08`: Nodo 3 ora usa il record iniziale mancante e il frottage sulla pagina successiva per rivelare Elian, la sua scelta volontaria e il gesto di Tomaso.
 - Inserita in `SES-08` la tabella con sedici codici e date nel calendario locale di Varda (T0 19/05/1001, presente 19/11/1026); il frottage si risolve narrativamente, senza materiali fisici.
 - Inserita in `SES-08` la tabella con sedici codici e date nel calendario locale di Varda (T0 19/05/1001, presente 19/11/1026); il frottage si risolve narrativamente, senza materiali fisici.

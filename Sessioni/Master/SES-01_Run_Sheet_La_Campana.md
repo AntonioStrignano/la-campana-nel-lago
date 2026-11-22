@@ -17,7 +17,7 @@
 | Fase | Passaggio | Obiettivo |
 |---|---|---|
 | Apertura | Limiti, legami PG, assemblea in piazza | Avviare la scena e chiarire perché Mara è designata |
-| Assemblea | Nodo 1 e primo rintocco | Spotlight di Viola; stabilire che silenzio e designazione non sono consenso |
+| Assemblea | Nodo 1 e primo rintocco | Spotlight di Silvio; stabilire che silenzio e designazione non sono consenso |
 | Indagine | Nodo 2 | Collegare il segno alla storia della bici e dell'esilio |
 | Indagine | Nodo 3 | Ada scopre il record iniziale mancante e risale al frottage |
 | Convergenza | Secondo rintocco e prima fase del Nodo 4 all'anagrafe | Barrare Ricordo II e preparare il dilemma |
@@ -30,7 +30,7 @@ I rintocchi non seguono orari prefissati: il master legge la situazione al tavol
 
 1. Leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#Incipit]].
 2. Chiedi a ogni PG perché è a Varda e quale legame lo tiene nel gruppo; non richiedere un giro completo se rallenta l'apertura.
-3. Presenta Tomaso e Mara; Tomaso motiva la proposta con la formula «Il segno chiama. Il prossimo è già scelto» e Gemma osserva dal fondo. Dopo la designazione e il nastro, Mara chiede a Viola di richiamare l'attenzione; se Viola rifiuta, lo fa Mara stessa. Un altro PG può aiutarla senza togliere a Viola il turno interpretativo.
+3. Presenta Tomaso e Mara; Tomaso motiva la proposta con la formula «Il segno chiama. Il prossimo è già scelto» e Gemma osserva dal fondo. Dopo la designazione e il nastro, Mara chiede a Silvio di richiamare l'attenzione; se Silvio rifiuta, lo fa Mara stessa. Un altro PG può aiutarla senza togliere a Silvio il turno interpretativo.
 4. Mara dichiara che il suo silenzio non è consenso e racconta la superstizione del nodo. Un abitante pratico e spaventato la interrompe; altre due voci si aggiungono. Usa SES-08 per condurre la scena sociale del Nodo 1: non richiede tiro e non va annunciata come puzzle.
 5. Avvia il timer effettivo quando il gruppo prende una direzione. Il primo rintocco arriva a una pausa drammatica scelta leggendo la scena.
 
@@ -38,12 +38,12 @@ I rintocchi non seguono orari prefissati: il master legge la situazione al tavol
 
 Usa [[Sessioni/Master/SES-08_Tracker_Nodi_La_Campana]] per fonti, puzzle e hint. Segui l'ordine concordato: Nodo 1, primo rintocco, Nodo 2, Nodo 3, secondo rintocco, anagrafe (prima fase del Nodo 4), terzo rintocco, cripta (chiusura del Nodo 4 dopo il combattimento).
 
-- **Nodo 1, il rito:** la scena sociale in assemblea è sempre attiva. Mara chiede a Viola cosa ha sentito; se si sente compresa, scioglie il nodo e le affida il nastro, altrimenti lo trattiene. Il clue core dichiarato da Mara resta vero in entrambi i casi; la procedura del rito può arrivare da Ivo su domanda diretta.
+- **Nodo 1, il rito:** la scena sociale in assemblea è sempre attiva. Mara chiede a Silvio cosa ha sentito; se si sente compresa, scioglie il nodo e gli affida il nastro, altrimenti lo trattiene. Il clue core dichiarato da Mara resta vero in entrambi i casi; la procedura del rito può arrivare da Ivo su domanda diretta.
 - **Nodo 2, i residui:** dopo il primo rintocco Gemma saluta Marta e porta i PG al lotto della casa demolita (bici sotto le macerie, Marta e Dario). La chiave è il token; il diario di Tomaso non è una fonte alternativa del nodo.
 - **Nodo 3, l'oblio:** prima del secondo rintocco Ada confronta i registri e nota che manca la prima registrazione. Il frottage sulla pagina successiva rivela Elian, la sua scelta e il gesto di Tomaso.
 - **Nodo 4, prima fase — anagrafe:** Nino confronta il codice della scheda che porta con sé con il registro delle consegne. L'inventario comunale dichiara 42 fascicoli attesi e 40 presenti, con i fascicoli 014 e 019 mancanti. La scheda di Nino, marcata 014, spiega una sola assenza: resta il 019. Nessun tiro, nome o parentela emerge da questa fase.
 
-Durante l'assemblea Tomaso annoda a Mara un nastro nuovo. Non viene consegnato subito: Mara lo scioglie e lo affida a Viola solo se si sente compresa nella scena del Nodo 1; altrimenti i PG potranno tornare a chiederlo se HND-02 ne rivela l'importanza. Quando Nino riceve il nastro, descrivi il déjà-vu senza restituirgli il ricordo completo. In cripta, il nastro troppo largo sul corpo e il ciondolo a tre onde anticipano la sostituzione; non chiamare il corpo Nera né associarlo alla famiglia prima del true ending.
+Durante l'assemblea Tomaso annoda a Mara un nastro nuovo. Non viene consegnato subito: Mara lo scioglie e lo affida a Silvio solo se si sente compresa nella scena del Nodo 1; altrimenti i PG potranno tornare a chiederlo se HND-02 ne rivela l'importanza. Quando Nino riceve il nastro, descrivi il déjà-vu senza restituirgli il ricordo completo. In cripta, il nastro troppo largo sul corpo e il ciondolo a tre onde anticipano la sostituzione; non chiamare il corpo Nera né associarlo alla famiglia prima del true ending.
 
 Se una scena viene saltata, trasferisci il clue core al prossimo luogo o testimone pertinente. Un tiro fallito può aggiungere tempo, pressione o chiusura di una fonte, ma non rimuove il clue né impedisce di raggiungere il climax.
 
@@ -66,8 +66,9 @@ Quando la torre diventa raggiungibile in barca, leggi [[Sessioni/Handout/HND-01_
 
 Leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#La-scelta]] e dichiara la pressione attiva: acqua che risale dopo una consegna, oppure oblio collettivo se nessuno agisce. Dopo un'offerta la vittima muore subito; la cripta si riempie solo alla fine della finestra. Se la Terza Via riesce prima della scadenza, l'acqua si ferma e il villaggio ricorda la vittima, che resta morta.
 
-- Nella cripta, il segnale presso la pietra accanto al cerchio conduce a HND-02. Una ricerca dichiarata nell'area lo trova senza prova; serve come quinta chiave prima della dichiarazione del true ending.
-- Dopo il terzo rintocco, fai affrontare ai PG il breve combattimento con i resti annegati. Terminato lo scontro, Elio può notare sul corpo anonimo il nastro troppo largo e il ciondolo a tre onde; la scheda riporta il fascicolo 019, seconda assenza dell'anagrafe. La scheda può rivelare il nome Nera, ma non la parentela. Nino era designato, ma fu consegnata un'altra persona e il rito si compì comunque: questa è la conclusione del Nodo 4. Il combattimento non è un puzzle.
+- La pietra accanto al cerchio nasconde HND-02 e HND-03, su fogli separati. Una ricerca dichiarata li trova entrambi senza prova, anche se nessuno intende fare un'offerta. HND-02 è la quinta chiave; HND-03 spiega la procedura, non è un requisito aggiuntivo.
+- Fai affrontare ai PG i due resti annegati. Durante lo scontro leggi «Il ciondolo» di HND-01, senza tiro per notarlo. Il portatore ha anche il nastro largo e il fascicolo 019: chi mette le mani sul corpo recupera il token e la scheda senza una seconda prova. Il confronto con il 014 mostra che Nino era designato, ma fu consegnata un'altra persona. Il 019 può rivelare il nome Nera, non la parentela.
+- **Resti annegati (2):** CA 10, PF 4 ciascuno, movimento corto, attacco in mischia +1 (1d4 danni, nessuna presa automatica). Uno porta lo stemma. PF residui: portatore ___ / altro ___. Nessun rinforzo.
 - Se Alba viene consultata sul ciondolo, riconosce le tre onde ma non ricorda una terza figlia: si limita a chiedersi perché siano tre. Ivo resta vago e non pronuncia mai il nome della persona consegnata.
 
 - Se i PG hanno quattro nodi e HND-02, possono tentare la Terza Via.
@@ -77,19 +78,21 @@ Leggi [[Sessioni/Handout/HND-01_Testualita_La_Campana#La-scelta]] e dichiara la 
 
 ## Risoluzione dei rami
 
+Prima della scadenza, annuncia un'ultima azione: mostra l'acqua che guadagna un gradino dopo una consegna, oppure il prossimo legame che vacilla se non c'è stata offerta. Usa [[Sessioni/Master/SES-10_Epiloghi_La_Campana]] per le letture e le scene, senza ripetere i testi equivalenti di HND-01. Nella Terza Via lascia risalire i PG prima del crollo.
+
 ### Non agire
 
-Leggi il finale negativo di HND-01. La dissoluzione avanza attraverso volti, legami e storia comune; fuga ed evacuazione restano possibili. Ivo e Tomaso ricordano ciò che il villaggio dimentica.
+Alla scadenza leggi «Nessuna offerta» dagli epiloghi. La dissoluzione avanza attraverso volti, legami e storia comune; fuga ed evacuazione restano possibili. Ivo e Tomaso ricordano ciò che il villaggio dimentica.
 
 ### Offrire una persona
 
-Verifica comprensione e consenso; una designazione o un nome pronunciato non bastano. Solo dopo la consegna nel cerchio la persona muore e l'acqua comincia a risalire. Leggi il finale dell'offerta: il villaggio la dimentica, mentre Ivo ricorda. Alla scadenza la cripta si riempie; se la Terza Via riesce prima, l'acqua si ferma e la comunità recupera il ricordo, ma la persona non torna in vita.
+Verifica comprensione e consenso; una designazione o un nome pronunciato non bastano. Solo dopo la consegna nel cerchio la persona muore e l'acqua comincia a risalire. Leggi «Offrire una persona» dagli epiloghi. Alla scadenza la cripta si riempie; se la Terza Via riesce prima, l'acqua si ferma e la comunità recupera il ricordo, ma la persona non torna in vita.
 
 ### Terza Via
 
-Pronunciate insieme il nome di Elian. Ogni PG superstite presente decide se offrire il proprio ricordo fondamentale; nessuno può pagare per un assente. Se anche uno rifiuta, il true ending fallisce e restano aperti gli altri esiti. Per l'avatar e gli eventuali resti, usa le procedure in SES-00 e la preparazione meccanica in SES-04; non introdurre una boss fight obbligatoria.
+Con HND-02 e i quattro token nel cerchio, la Voce chiarisce il costo. Ogni PG superstite presente decide se offrire il proprio ricordo fondamentale; nessuno può pagare per un assente. Se uno rifiuta, non si barra nulla e restano aperti gli altri esiti. Se tutti accettano, pronunciano insieme il nome di Elian e barrano i ricordi offerti. La Voce non è un secondo combattimento.
 
-Dopo il successo, se c'è già stata un'offerta leggi prima HND-01 «Se il patto si spezza dopo un'offerta»; poi leggi «Finale: ricordare tutti», l'epilogo, il ritorno della memoria di Nera e la domanda di Alba. Le scene personali si applicano solo ai PNG vivi; non riportare in scena chi è morto. Lascia ai giocatori il tempo di decidere cosa fare con la risposta.
+Dopo il successo leggi «Terza Via» dagli epiloghi; usa le scene dei PG presenti e chiudi con Mara o Alba. Se c'è già stata un'offerta, nomina la vittima ma non riportarla in vita. Usa la lettura di Nera da HND-01 se serve un'immagine in più, senza ripetere gli altri testi di chiusura.
 
 ## Tracker live rapido
 

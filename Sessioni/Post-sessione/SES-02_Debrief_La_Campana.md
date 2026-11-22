@@ -1,7 +1,7 @@
 # Debrief Avanzato - La Campana sotto il Lago
 
 ## Esito sintetico
-- Obiettivo dichiarato: fermare il terzo rintocco e decidere il prezzo del sigillo
+- Obiettivo dichiarato: arrivare alla scelta del terzo rintocco e comprenderne i costi
 - Esito finale:
 - Climax raggiunto: sì | no
 
@@ -20,6 +20,7 @@
 | PG 2 |  |  |  |
 | PG 3 |  |  |  |
 | PG 4 |  |  |  |
+| PG 5 (se presente) |  |  |  |
 
 ## Scelte morali e conseguenze
 - Scelta morale 1:

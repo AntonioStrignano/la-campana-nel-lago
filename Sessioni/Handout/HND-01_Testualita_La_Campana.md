@@ -70,7 +70,7 @@
 >
 > Una striscia di stoffa nuova le stringe il polso, il nodo ben visibile. Mara vi guarda, ma non la sfila né ve la porge.
 
-[Il nastro resta al polso di Mara fino all'esito della scena del Nodo 1. Se si sente compresa, lo scioglie e lo affida a Viola; altrimenti lo tiene. Quando Nino lo riceve, fagli sentire un déjà-vu improvviso e intenso: ricorda vagamente di averne portato uno al polso per un periodo. Non torna una scena completa né il nome di Nera.]
+[Il nastro resta al polso di Mara fino all'esito della scena del Nodo 1. Se si sente compresa, lo scioglie e lo affida a Silvio; altrimenti lo tiene. Quando Nino lo riceve, fagli sentire un déjà-vu improvviso e intenso: ricorda vagamente di averne portato uno al polso per un periodo. Non torna una scena completa né il nome di Nera.]
 
 ## Secondo rintocco
 

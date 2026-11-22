@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | Ada Ferri - La Memoria | Riconosce omissioni e contraddizioni nei registri, mettendo in discussione la versione ufficiale e il controllo di Ivo. | Il costo del cancellare una persona dalla memoria collettiva e dai documenti. | 3. L'oblio | Foglietto non firmato: «Non correggere. Chiediti perché manca.» | Ivo le insegna a non cancellare una contraddizione prima di averla capita. |
 | Elio Varda - La Promessa | Affronta Ivo e decide cosa significhi mantenere una promessa fatta per proteggere un'altra persona. | La promessa originariamente rivolta a Nera e poi spostata su Nino. | 4. La sostituzione | Ciondolo di bronzo con tre onde, condiviso con Nino. | Mantenere una promessa impossibile mentre una voce amata chiede di restare. |
-| Viola Serra - La Voce | Crea lo spazio perché Mara possa parlare per sé e rende pubblico che il silenzio non equivale a consenso. | La differenza tra designazione politica e scelta consapevole nel rito. | 1. Il rito | Nastro nuovo annodato al polso di Mara secondo la consuetudine. | Rendere accettabile una confessione convincendosi di aver salvato qualcuno. |
+| Silvio Serra - La Voce | Crea lo spazio perché Mara possa parlare per sé e rende pubblico che il silenzio non equivale a consenso. | La differenza tra designazione politica e scelta consapevole nel rito. | 1. Il rito | Nastro nuovo annodato al polso di Mara secondo la consuetudine. | Rendere accettabile una confessione convincendosi di aver salvato qualcuno. |
 | Nino Varda - Il Debito | Si oppone all'idea che la propria sopravvivenza debba essere ripagata con un altro sacrificio. | La designazione subita, la fuga e la sostituzione con Nera. | 4. La sostituzione | Ciondolo di bronzo con tre onde, condiviso con Elio. | Ricevere aiuto senza poterlo restituire. |
 | Marta Lodi - Il Ritorno | Riconosce che il residuo appartiene a un sacrificio passato e contesta la falsa designazione di Mara. | Lia, la figlia perduta, e il modo in cui Tomaso ha reinterpretato il suo residuo. | 2. I residui | Chiave della casa di Marta, custodita da Gemma. | Descrivere una casa che non esiste più. |
 
@@ -23,8 +23,8 @@ I ricordi fondamentali sono costi personali distinti dagli oggetti. Nel true end
 - **Token:** striscia di stoffa nuova annodata al polso della persona designata secondo la consuetudine del villaggio.
 - **Cosa rappresenta:** la designazione pubblica; non è magica e non costituisce un'offerta né dimostra il consenso.
 - **Dove si trova:** al polso di Mara durante l'assemblea.
-- **Come ottenerlo:** se Viola fa sentire Mara compresa durante la scena del Nodo 1, Mara scioglie il nodo e affida la striscia a Viola nello stesso gesto in cui le confida che non vuole offrirsi ma si sente obbligata. Se la scena non si sblocca, Mara trattiene il nastro; dopo che HND-02 ne richiama il valore, i PG possono tornare a chiederlo. Quando Nino lo riceve, ha un déjà-vu intenso: ricorda vagamente di averne portato uno al polso per un periodo, senza recuperare la memoria completa.
-- **Ricordo associato tematicamente:** quello fondamentale di Viola, riportato nella tabella; non è legato fisicamente al nastro.
+- **Come ottenerlo:** se Silvio fa sentire Mara compresa durante la scena del Nodo 1, Mara scioglie il nodo e affida la striscia a Silvio nello stesso gesto in cui gli confida che non vuole offrirsi ma si sente obbligata. Se la scena non si sblocca, Mara trattiene il nastro; dopo che HND-02 ne richiama il valore, i PG possono tornare a chiederlo. Quando Nino lo riceve, ha un déjà-vu intenso: ricorda vagamente di averne portato uno al polso per un periodo, senza recuperare la memoria completa.
+- **Ricordo associato tematicamente:** quello fondamentale di Silvio, riportato nella tabella; non è legato fisicamente al nastro.
 
 ### Nodo 2 - I residui
 
@@ -47,7 +47,7 @@ I ricordi fondamentali sono costi personali distinti dagli oggetti. Nel true end
 - **Token indicato dal tracker:** ciondolo di bronzo con tre onde, fatto da Alba per i suoi tre figli e indossato da Nera.
 - **Cosa rappresenta:** il terzo figlio cancellato dai ricordi e la sostituzione di Nino con Nera. Prima che il patto si spezzi, il ciondolo non restituisce da solo il nome o la memoria completa di Nera.
 - **Dove si trova:** sul corpo anonimo associato al fascicolo 019, nella cripta.
-- **Come ottenerlo:** dopo il terzo rintocco, i PG raggiungono la cripta e possono recuperarlo dopo lo scontro; le contingenze precisano che non serve un tiro per prenderlo una volta individuato il resto.
+- **Come ottenerlo:** dopo il terzo rintocco, uno dei resti mostra le tre onde durante lo scontro. Il ciondolo si recupera senza prova quando il portatore è raggiungibile, anche dopo la sua caduta.
 - **Scheda anagrafica:** accompagna il corpo consegnato, secondo la tradizione. È il fascicolo 019, la seconda scheda mancante emersa all'anagrafe. Riporta il nome Nera e dati individuali, ma non i genitori; i PG possono scoprire il nome prima del true ending, non la parentela né la memoria della sostituzione.
 - **Ricordi associati tematicamente:** quelli fondamentali di Elio e Nino, riportati separatamente nella tabella; entrambi contribuiscono allo stesso nodo e allo stesso token.
 - **Nastro sul corpo:** tutti i resti annegati portano una striscia al polso. Quella sul corpo è il nastro assegnato a Nino e passato alla persona consegnata al suo posto; le resta largo perché era stato fatto per il polso di lui. Il ciondolo a tre onde suggerisce una terza persona della famiglia, mentre il nastro conferma la sostituzione.
@@ -68,7 +68,7 @@ I ricordi fondamentali sono costi personali distinti dagli oggetti. Nel true end
 - [[PG/INDICE_PG_La_Campana]]
 - [[PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria]]
 - [[PG/La_Promessa/PG-02_Elio_Varda_La_Promessa]]
-- [[PG/La_Voce/PG-03_Viola_Serra_La_Voce]]
+- [[PG/La_Voce/PG-03_Silvio_Serra_La_Voce]]
 - [[PG/Il_Debito/PG-04_Nino_Varda_Il_Debito]]
 - [[PG/Il_Ritorno/PG-05_Marta_Lodi_Il_Ritorno]]
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]

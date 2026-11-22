@@ -16,7 +16,7 @@
 
 - **Segnale:** i PG escono dalla piazza o non parlano con la designata.
 - **Risposta leggera:** Mara li raggiunge quando si spostano verso il porto e ripete che il suo silenzio non è consenso; non chiede di essere salvata.
-- **Se la evitano ancora:** la testimonianza di Viola resta disponibile in un secondo momento, in privato o davanti a un abitante che la sta usando come simbolo.
+- **Se la evitano ancora:** la testimonianza di Silvio resta disponibile in un secondo momento, in privato o davanti a un abitante che la sta usando come simbolo.
 - **Costo possibile:** Tomaso chiude l'assemblea e il gruppo perde l'accesso alla testimonianza pubblica, non il Nodo 1; la fonte alternativa resta giocabile.
 
 ## Saltano una fonte o un nodo

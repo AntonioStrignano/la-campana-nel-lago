@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="it">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>La Campana sotto il Lago | Schede giocatore</title>
+<style>
+  :root { color: #202522; background: #e7ebe7; font: 16px Georgia, serif; }
+  body { margin: 0; }
+  article { box-sizing: border-box; max-width: 190mm; margin: 1rem auto; padding: 12mm; background: white; }
+  h1 { font-size: 2rem; margin: .2rem 0; } h2 { font-size: 1.05rem; margin: 1.1rem 0 .35rem; }
+  p { margin: .45rem 0; line-height: 1.45; } .role { font-variant: small-caps; color: #315449; }
+  table { width: 100%; table-layout: fixed; border-collapse: collapse; text-align: center; }
+  td, th { border: 1px solid #59655e; padding: .35rem .1rem; }
+  ul { list-style: none; padding: 0; margin: 0; } li { padding: .4rem 0; border-bottom: 1px solid #aab0aa; }
+  .box { display: inline-block; width: .75rem; height: .75rem; border: 1px solid; margin-right: .35rem; }
+  .fundamental { border: 2px solid; padding: .55rem; margin-top: .7rem; }
+  .notes { border-bottom: 1px solid #aab0aa; min-height: 1.8rem; }
+  @page { size: A4; margin: 14mm; }
+  @media print { :root { background: white; } article { padding: 0; margin: 0; break-after: page; } article:last-child { break-after: auto; } }
+  @media screen and (max-width: 520px) { article { margin: 0 0 .5rem; padding: 1rem; } }
+</style>
+<main id="sheets"></main>
+<script>
+const characters = [
+  { name: 'Ada Ferri', role: 'La Memoria', background: 'Studiosa', stats: [8, 12, 10, 14, 14, 10],
+    identity: 'Sei una ricercatrice storica di Varda. Ivo ti ha insegnato a leggere le omissioni; Mara custodisce invece i registri correnti. Vuoi capire dove la fiducia ha preso il posto della verifica.',
+    attack: 'Bastone −1, 1d4, mischia corta, due mani', gear: ['Bastone', 'Quaderno', 'Carboncino', 'Torcia', 'Acciarino'],
+    memories: ['L’odore di cera calda sui fascicoli.', 'Ivo che ti aspettava perché non tornassi sola dall’archivio.', 'La prima correzione a margine che Ivo accolse con orgoglio.', 'Ivo ti insegna a non cancellare una contraddizione prima di averla capita.'] },
+  { name: 'Elio Varda', role: 'La Promessa', background: 'Protettore', stats: [14, 10, 14, 8, 12, 10],
+    identity: 'Conti le persone in una stanza e lasci sempre una via d’uscita. Hai promesso a tuo fratello Nino di non lasciarlo solo. Conservi un’immagine di tua madre Alba con un ciondolo di bronzo.',
+    attack: 'Mazza +2, 1d6, mischia corta', gear: ['Mazza', 'Corda (18 m)', 'Bende'],
+    memories: ['Una filastrocca per calmare qualcuno durante un temporale.', 'Alba che ti chiude un ciondolo nel pugno.', 'Nino che dorme accanto a te dopo la promessa di non lasciarlo solo.', 'Scegliere di mantenere una promessa impossibile mentre una voce amata ti chiede di restare.'] },
+  { name: 'Silvio Serra', role: 'La Voce', background: 'Mediatore', stats: [8, 10, 10, 12, 14, 14],
+    identity: 'Dai parole ai conflitti. Mara ti chiede di testimoniare che il suo silenzio non significa consenso. Varda ti ascolta, ma a volte preferisce le tue parole alle proprie responsabilità.',
+    attack: 'Bastone −1, 1d4, mischia corta, due mani', gear: ['Bastone', 'Lanterna', 'Olio (1 fiaschetta)', 'Acciarino'],
+    memories: ['Una tazza posata prima di una confessione.', 'Qualcuno che ti ringraziava per aver parlato al suo posto.', 'Una piazza che cambia idea quando viene pronunciata una verità scomoda.', 'Rendere accettabile una confessione convincendoti di aver salvato qualcuno.'] },
+  { name: 'Nino Varda', role: 'Il Debito', background: 'Ricognitore', stats: [10, 14, 12, 14, 10, 8],
+    identity: 'Sei un viaggiatore e restituisci subito ogni aiuto. Tua madre Alba ti fece fuggire quando Varda ti scelse; ora ti raccomanda prudenza. Tuo fratello Elio ti cerca con lo sguardo prima delle scelte pericolose.',
+    attack: 'Pugnale +2, 1d4, mischia corta o lancio fino a distanza media', gear: ['Pugnale', 'Spago', 'Scheda anagrafica: 014, NV-09930602-01, nato il 02/06/0993'],
+    memories: ['Una coperta mentre qualcuno vegliava su di te.', 'Alba che ti lava una macchia scura dal viso.', 'Elio che ti cerca con lo sguardo prima di una scelta pericolosa.', 'Ricevere aiuto senza poterlo restituire.'] },
+  { name: 'Marta Lodi', role: 'Il Ritorno', background: 'Esiliata', stats: [12, 10, 14, 10, 14, 8],
+    identity: 'Sei tornata a Varda dopo anni di esilio. Leggi il paese attraverso strade, finestre e saluti. Tomaso insiste che ci sia ancora un posto per te, ma non ricordi perché ti allontanarono.',
+    attack: 'Piede di porco +1, 1d4, mischia corta (randello improvvisato)', gear: ['Piede di porco', 'Torcia', 'Cunei', 'Acciarino'],
+    memories: ['Il cigolio di una bicicletta contro un muro del Borgo Vecchio.', 'Una porta chiusa dall’esterno e l’ordine di non voltarti.', 'La decisione di tornare pur sapendo che qualcuno avrebbe preferito non rivederti.', 'Descrivere una casa che non esiste più.'] }
+];
+const modifier = score => Math.floor((score - 10) / 2);
+const signed = value => value >= 0 ? `+${value}` : `−${-value}`;
+document.getElementById('sheets').innerHTML = characters.map(pg => `
+  <article>
+    <div class="role">La Campana sotto il Lago · ${pg.role}</div>
+    <h1>${pg.name}</h1>
+    <p>Umano · Livello 0 · PE 0 · Background: ${pg.background}</p>
+    <p>Allineamento ____________ · Divinità (facoltativa) ____________</p>
+    <p>${pg.identity}</p>
+    <h2>Caratteristiche</h2>
+    <table><thead><tr>${['FOR', 'DES', 'COS', 'INT', 'SAG', 'CAR'].map(stat => `<th scope="col">${stat}</th>`).join('')}</tr></thead>
+      <tbody><tr>${pg.stats.map(stat => `<td>${stat} (${signed(modifier(stat))})</td>`).join('')}</tr></tbody></table>
+    <p><strong>PF</strong> ____ / ${5 + modifier(pg.stats[2])} · <strong>CA</strong> ${10 + modifier(pg.stats[1])} · <strong>Iniziativa</strong> ${signed(modifier(pg.stats[1]))}</p>
+    <p><strong>Attacco:</strong> ${pg.attack}</p>
+    <h2>Equipaggiamento</h2>
+    <p>${pg.gear.join(' · ')}</p>
+    <p><strong>Slot:</strong> ${pg.gear.length} / ${Math.max(10, pg.stats[0])} · <strong>Gratuito:</strong> abiti comuni · MO 0 / MA 0 / MR 0</p>
+    <h2>Ricordi</h2>
+    <ul>${pg.memories.slice(0, 3).map((memory, index) => `<li><span class="box"></span><strong>${['I', 'II', 'III'][index]}.</strong> ${memory}</li>`).join('')}</ul>
+    <p class="fundamental"><span class="box"></span><strong>Fondamentale.</strong> ${pg.memories[3]}</p>
+    <h2>Note</h2><div class="notes"></div><div class="notes"></div>
+  </article>`).join('');
+</script>
+</html>

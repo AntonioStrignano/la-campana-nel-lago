@@ -57,11 +57,11 @@
 
 ### Il nodo e la piazza
 
-- Dopo che Tomaso le annoda il nastro, Mara chiede a Viola di richiamare l'attenzione. Se Viola non vuole, Mara lo fa da sola; se interviene un altro PG, Mara offre comunque a Viola lo spazio per la propria lettura.
+- Dopo che Tomaso le annoda il nastro, Mara chiede a Silvio di richiamare l'attenzione. Se Silvio non vuole, Mara lo fa da sola; se interviene un altro PG, Mara offre comunque a Silvio lo spazio per la propria lettura.
 - Mara dice che il silenzio non è consenso e racconta la superstizione: chi porta il nastro non dovrebbe scioglierne il nodo. Una persona pratica e spaventata la interrompe con un avvertimento; altre due voci anonime si aggiungono, una per fede nella tradizione e una per conformismo. Lascia improvvisare al master conseguenze diverse e assurde; non sono informazioni sulla Voce né indizi sulla procedura del rito. Sciogliere il nodo non causa effetti soprannaturali: la conseguenza è la reazione sociale della piazza.
-- Mara lascia parlare il capannello, poi chiede a Viola: «Che cosa hai sentito?» Non c'è una formula giusta. Conta che Viola riconosca la pressione e che il villaggio sta facendo passare la tradizione per una ragione sufficiente a imporre il sacrificio. Gli altri PG possono aiutarla.
-- Se Mara si sente compresa, scioglie il nodo in pubblico e affida il nastro a Viola. Nello stesso gesto, ignora la piazza e le confida che non vuole offrirsi ma si sente obbligata. Una persona del capannello si irrigidisce, una vacilla e una tace.
-- Se non si sente compresa, Mara tiene il nastro. La sua dichiarazione resta valida e i PG possono tornare a chiederlo dopo che HND-02 ne richiama il valore. Un eventuale intervento pubblico di Viola è facoltativo; il master può premiarlo con un bonus o vantaggio senza renderlo necessario.
+- Mara lascia parlare il capannello, poi chiede a Silvio: «Che cosa hai sentito?» Non c'è una formula giusta. Conta che Silvio riconosca la pressione e che il villaggio sta facendo passare la tradizione per una ragione sufficiente a imporre il sacrificio. Gli altri PG possono aiutarlo.
+- Se Mara si sente compresa, scioglie il nodo in pubblico e affida il nastro a Silvio. Nello stesso gesto, ignora la piazza e gli confida che non vuole offrirsi ma si sente obbligata. Una persona del capannello si irrigidisce, una vacilla e una tace.
+- Se non si sente compresa, Mara tiene il nastro. La sua dichiarazione resta valida e i PG possono tornare a chiederlo dopo che HND-02 ne richiama il valore. Un eventuale intervento pubblico di Silvio è facoltativo; il master può premiarlo con un bonus o vantaggio senza renderlo necessario.
 
 ### Se i PG vogliono consegnarla
 
@@ -78,13 +78,13 @@
 - «Ricordate Elian. Non il martire: l'uomo che aveva paura e ha scelto comunque.»
 - Non anticipare il costo concreto; la Voce lo rivela prima che ciascun PG decida.
 
-## Viola, La Voce
+## Silvio, La Voce
 
 ### Nel confronto pubblico
 
 - «Mara ha parlato. Il suo silenzio non può essere usato al posto delle sue parole.»
 - «Se la piazza ascolta soltanto una versione, non è una testimonianza: è una sentenza.»
-- Spotlight: Viola decide se mediare per mantenere la pace o usare la propria autorevolezza per rendere visibile la responsabilità del villaggio.
+- Spotlight: Silvio decide se mediare per mantenere la pace o usare la propria autorevolezza per rendere visibile la responsabilità del villaggio.
 
 ## Tomaso Riva, il sindaco
 

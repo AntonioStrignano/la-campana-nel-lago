@@ -14,6 +14,8 @@
 7. [[Sessioni/Master/SES-07_Dialoghi_La_Campana]] — battute modulari e reazioni dei PNG
 8. [[Sessioni/Master/SES-04_Regole_Shadowdark]] — foglio rapido delle regole
 9. [[Sessioni/Master/SES-06_Verita_La_Campana]] — verità completa; per ordine degli eventi ed esiti prevale SES-00
+10. [[Sessioni/Master/SES-10_Epiloghi_La_Campana]] — letture dei finali e scene dei superstiti
+11. [[Sessioni/Master/SES-11_Atlante_Del_Cast_La_Campana]] — indice PG e PNG, profili e tag Danbooru (solo master)
 
 ## Note correlate
 - [[Sessioni/Giocatori/INDICE_Sessioni_Giocatori]]
@@ -22,5 +24,4 @@
 - [[NPCs/INDICE_NPC]]
 
 ## Da fare
-- Completare più avanti le schede meccaniche Shadowdark di livello 0 e preparare i nemici prima della sessione.
-- Fare la prova a secco e usare il debrief dopo la sessione: stato e ordine di lavoro in [[TODO_La_Campana]].
+- Aprire il run sheet e preparare schede e reperti da [[TODO_La_Campana]]. La prossima sessione è il primo playtest; compilare il debrief dopo il gioco.

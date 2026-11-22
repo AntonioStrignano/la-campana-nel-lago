@@ -1,7 +1,7 @@
 # Mara Varda, la Persona Designata
 
 ## Scheda 30 secondi
-- Ruolo in storia: figlia di Elian (aveva circa 5 anni quando fu sacrificato, nessuno lo ricorda), ultima sua parente e custode dei registri civici correnti; prima candidata proposta da Tomaso per il vincolo
+- Ruolo in storia: figlia di Elian, nata dopo il suo sacrificio nel 1001; non lo ha mai conosciuto. Custode dei registri civici correnti e prima candidata proposta da Tomaso per il vincolo
 - Sogni: ricorrenti, residui della Voce che filtrano frammenti della notte originaria. Prima del secondo rintocco, se Ada le chiede cosa ricorda, Mara descrive una figura impaurita che capisce cosa sta accettando ed entra nel cerchio; non distingue volto o nome.
 - Voce/atteggiamento: concreta, stanca, ironica quando ha paura; non chiede ai PG di salvarla a ogni costo
 - Legame con i PG: Mara ha chiesto a La Voce di testimoniare davanti al villaggio che il suo silenzio non vale come consenso; ha chiesto a La Memoria di verificare i registri senza fidarsi delle versioni ufficiali
@@ -13,8 +13,8 @@
 ## Matrice reattiva dettagliata
 | Azione PG | Risposta NPC | Effetto sulla scena | Escalation |
 |---|---|---|---|
-| Fiducia | racconta un frammento del sogno e chiarisce che non ha acconsentito | il gruppo comprende che salvarla non equivale a risolvere il patto | può chiedere a Viola di riportare la sua posizione, senza offrire ricordi |
-| Minaccia | interrompe la conversazione e cerca un luogo sicuro | Ivo o Viola possono aiutarla a tornare in assemblea | Tomaso può sfruttare l'assenza per parlare al posto suo; nessun rintocco viene anticipato |
+| Fiducia | racconta un frammento del sogno e chiarisce che non ha acconsentito | il gruppo comprende che salvarla non equivale a risolvere il patto | può chiedere a Silvio di riportare la sua posizione, senza offrire ricordi |
+| Minaccia | interrompe la conversazione e cerca un luogo sicuro | Ivo o Silvio possono aiutarla a tornare in assemblea | Tomaso può sfruttare l'assenza per parlare al posto suo; nessun rintocco viene anticipato |
 | Inganno | chiede quale fatto i PG stiano evitando di dire | rivela un dettaglio del sogno solo se la domanda riguarda la notte originaria | non riconosce magicamente le bugie e non provoca effetti sui ricordi |
 | Violenza | si difende o si allontana; non pronuncia nomi come parte di un potere | il conflitto diventa una scelta di responsabilità | il villaggio reagisce socialmente; nessun legame viene trasferito al rito |
 
@@ -22,7 +22,7 @@
 - Frase firma: "Potete salvarmi. Non potete fare finta che questo non sia scegliere."
 - Cosa non dire subito: il sacrificio originario fu volontario solo per il primo custode, non per chi è venuto dopo
 - Cosa può rivelare sotto pressione: non chiede di essere salvata a ogni costo; chiede che nessuno chiami consenso il suo silenzio e che il costo della scelta venga pronunciato davanti a tutti
-- **Scena del Nodo 1:** dopo che Tomaso le annoda il nastro, Mara chiede a Viola di richiamare l'attenzione e dichiara in piazza che il silenzio non è consenso. Racconta la superstizione del nodo; se Viola rifiuta di intervenire, Mara richiama l'attenzione da sola. Se Viola riconosce che la piazza la spinge a sacrificarsi senza sapere se lo voglia, Mara scioglie il nodo, le affida il nastro e confida il proprio conflitto, ignorando gli altri presenti. Se non si sente compresa, tiene il nastro; i PG possono tornare a chiederlo quando HND-02 ne rivela l'importanza.
+- **Scena del Nodo 1:** dopo che Tomaso le annoda il nastro, Mara chiede a Silvio di richiamare l'attenzione e dichiara in piazza che il silenzio non è consenso. Racconta la superstizione del nodo; se Silvio rifiuta di intervenire, Mara richiama l'attenzione da sola. Se Silvio riconosce che la piazza la spinge a sacrificarsi senza sapere se lo voglia, Mara scioglie il nodo, gli affida il nastro e gli confida il proprio conflitto, ignorando gli altri presenti. Se non si sente compresa, tiene il nastro; i PG possono tornare a chiederlo quando HND-02 ne rivela l'importanza.
 
 ## Appendice meccanica (opzionale)
 - Stat essenziali: persona comune, alta determinazione, nessuna capacità offensiva necessaria
@@ -31,7 +31,7 @@
 
 ## Note correlate
 - [[Sessioni/Master/SES-00_Andamento]]
-- [[PG/La_Voce/PG-03_Viola_Serra_La_Voce]]
+- [[PG/La_Voce/PG-03_Silvio_Serra_La_Voce]]
 - [[PG/La_Memoria/PG-01_Ada_Ferri_La_Memoria]]
 - [[NPCs/NPC-01_Ivo_Il_Custode]]
 - [[Luoghi/LUO-02_La_Cappella_Sommersa]]
