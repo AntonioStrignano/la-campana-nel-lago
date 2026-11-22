@@ -1,5 +1,23 @@
 # Avanzamento operativo - 22/11/2026
 
+- Verificati fascicolo e cinque PDF individuali: una pagina A4 per PG, contenuti corrispondenti, codici ed età coerenti; ricordi e meccaniche invariati. Controllata anche la resa HTML su schermo mobile.
+- Rigenerato il PDF individuale di Elio con la data e il codice corretti; verifica finale dei sei PDF da ripetere.
+- Rigenerato il fascicolo PDF con la data e il codice corretti di Elio; rimane da aggiornare il suo PDF individuale.
+- Allineato il sorgente di stampa alla data e al codice corretti di Elio; fascicolo e PDF individuale di Elio da rigenerare.
+- Corretta la nascita di Elio al 12/10/0989 e il codice a `EV-09891012-01`: ha 17 anni il 19/05/1007 e 37 il 19/11/1026; sorgente di stampa e PDF da riallineare.
+- Rigenerato il PDF individuale di Marta dal fascicolo aggiornato; verifica finale dei sei PDF da completare.
+- Rigenerato il PDF individuale di Nino dal fascicolo aggiornato.
+- Rigenerato il PDF individuale di Silvio dal fascicolo aggiornato.
+- Rigenerato il PDF individuale di Elio dal fascicolo aggiornato.
+- Rigenerato il PDF individuale di Ada dal fascicolo aggiornato.
+- Rigenerato il fascicolo PDF dei pregenerati: cinque pagine A4, una per personaggio; PDF individuali ancora da aggiornare.
+- Aumentato il corpo di stampa delle schede PG dopo la prova A4; PDF definitivi ancora da rigenerare e verificare.
+- Aggiornato il sorgente di stampa dei cinque PG con anagrafica, aspetto, storia, desiderio e paura; invariati caratteristiche, equipaggiamento e ricordi. PDF da rigenerare e verificare.
+- Arricchita la scheda di Marta con background senza spoiler, aspetto dall'atlante e anagrafica coerente con il 1026.
+- Arricchita la scheda di Nino con background, aspetto dall'atlante ed età, conservando codice e fascicolo 014 già stabiliti.
+- Arricchita la scheda di Silvio con background, aspetto dall'atlante e anagrafica coerente con il 1026.
+- Arricchita la scheda di Elio con background, aspetto dall'atlante e anagrafica coerente con le età del 1007 e del 1026.
+- Arricchita la scheda di Ada con background, aspetto dall'atlante e anagrafica coerente con il 1026; segreto e ricordi invariati.
 - Aggiornato il README: la wiki è il punto di partenza per la conduzione, con run sheet e tracker ancora disponibili.
 - Collegata la scheda di Dario all'indice generale della wiki.
 - Collegata la scheda di Gemma all'indice generale della wiki.

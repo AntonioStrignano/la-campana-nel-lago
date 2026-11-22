@@ -1,10 +1,22 @@
 # Elio Varda - La Promessa
 
+> Ultima modifica: 2026-11-22.
+
 > Pubblico: misto. La sezione **Segreto del master** non va consegnata ai giocatori.
 
 ## Identità
 
 Elio è un protettore abituato a contare le persone in una stanza e a lasciare sempre una via d'uscita. È il fratello maggiore di Nino, Il Debito.
+
+## Anagrafica e aspetto
+
+- **Età:** 37 anni al 19 novembre 1026; nato il 12 ottobre 989.
+- **Codice anagrafico:** `EV-09891012-01`.
+- **Aspetto:** pelle abbronzata, corporatura robusta, spalle e mani larghe. Ha occhi nocciola, capelli castani corti e barba corta; porta una camicia color ruggine con le maniche rimboccate.
+
+## Background
+
+Elio è cresciuto a Varda con sua madre Alba e il fratello minore Nino. Ha imparato presto a badare agli altri e a controllare che nessuno resti indietro. Quando Nino è fuggito, la promessa di non lasciarlo solo è diventata un punto fermo; oggi il suo ritorno riporta quella promessa davanti a tutta la comunità.
 
 ## Legami
 

@@ -1,5 +1,7 @@
 # Nino Varda - Il Debito
 
+> Ultima modifica: 2026-11-22.
+
 > Pubblico: misto. La sezione **Segreto del master** non va consegnata ai giocatori.
 
 ## Identità
@@ -7,6 +9,16 @@
 Nino è un viaggiatore abituato a restituire subito ogni aiuto. È il fratello minore di Elio e porta addosso un debito che non ricorda di aver contratto.
 
 Porta con sé la propria scheda anagrafica, che sottrasse durante la fuga da Varda. Riporta il codice NV-09930602-01, corrispondente alla nascita del 2 giugno 993; non elenca i genitori e porta il riferimento al fascicolo 014. Al suo ritorno Alba lo riconosce e gli raccomanda prudenza; nascondersi resta una sua scelta. Più a lungo si espone in paese, più gli abitanti si chiedono se davvero lui sia il figlio che ricordano come consegnato.
+
+## Anagrafica e aspetto
+
+- **Età:** 33 anni al 19 novembre 1026; nato il 2 giugno 993.
+- **Codice anagrafico:** `NV-09930602-01`; la scheda che porta con sé appartiene al fascicolo `014`.
+- **Aspetto:** pelle chiara, corporatura longilinea e magra, zigomi alti e barba di pochi giorni. Ha occhi castani e capelli castani corti e arruffati; indossa una giacca verde oliva rammendata.
+
+## Background
+
+Nino è cresciuto a Varda con Alba ed Elio. Da ragazzo sua madre lo ha aiutato a fuggire, quando il villaggio lo aveva scelto; da allora ha vissuto viaggiando e ha imparato a cavarsela restituendo ogni favore appena possibile. È tornato con la propria scheda anagrafica e con domande sul prezzo della sua sopravvivenza.
 
 ## Legami
 

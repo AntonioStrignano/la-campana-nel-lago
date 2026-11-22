@@ -1,10 +1,22 @@
 # Silvio Serra - La Voce
 
+> Ultima modifica: 2026-11-22.
+
 > Pubblico: misto. La sezione **Segreto del master** non va consegnata ai giocatori.
 
 ## Identità
 
 Silvio è un mediatore abituato a dare parole ai conflitti degli altri. Sa riconoscere quando una stanza tace per ascoltare e quando tace per evitare una verità.
+
+## Anagrafica e aspetto
+
+- **Età:** 40 anni al 19 novembre 1026; nato il 25 agosto 986.
+- **Codice anagrafico:** `SS-09860825-01`.
+- **Aspetto:** pelle chiara, corporatura media e viso allungato. Ha occhi verdi, capelli ramati e mossi fino alle spalle, e il viso rasato; indossa uno scialle rosso scuro sopra una camicia grigia.
+
+## Background
+
+Silvio ha imparato ad ascoltare le persone quando non riuscivano a parlarsi e si è guadagnato la fiducia di Varda come mediatore. Col tempo ha scoperto che trovare parole accettabili può anche nascondere le responsabilità. Mara gli chiede di testimoniare ciò che sente: questa volta Silvio dovrà ascoltarla senza decidere al posto suo.
 
 ## Legami
 

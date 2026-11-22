@@ -11,10 +11,14 @@
             "id": "13514230e1ce425e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sessioni/Master/SES-11_Atlante_Del_Cast_La_Campana.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "SES-11_Atlante_Del_Cast_La_Campana"
             }
           }
         ]

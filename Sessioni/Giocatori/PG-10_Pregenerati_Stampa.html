@@ -4,42 +4,57 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>La Campana sotto il Lago | Schede giocatore</title>
 <style>
-  :root { color: #202522; background: #e7ebe7; font: 16px Georgia, serif; }
+  :root { color: #202522; background: #e7ebe7; font: 14px Georgia, serif; }
   body { margin: 0; }
-  article { box-sizing: border-box; max-width: 190mm; margin: 1rem auto; padding: 12mm; background: white; }
-  h1 { font-size: 2rem; margin: .2rem 0; } h2 { font-size: 1.05rem; margin: 1.1rem 0 .35rem; }
-  p { margin: .45rem 0; line-height: 1.45; } .role { font-variant: small-caps; color: #315449; }
+  article { box-sizing: border-box; max-width: 190mm; margin: 1rem auto; padding: 10mm; background: white; }
+  h1 { font-size: 1.8rem; margin: .15rem 0; } h2 { font-size: 1.05rem; margin: .65rem 0 .25rem; }
+  p { margin: .3rem 0; line-height: 1.32; } .role { font-variant: small-caps; color: #315449; }
   table { width: 100%; table-layout: fixed; border-collapse: collapse; text-align: center; }
-  td, th { border: 1px solid #59655e; padding: .35rem .1rem; }
-  ul { list-style: none; padding: 0; margin: 0; } li { padding: .4rem 0; border-bottom: 1px solid #aab0aa; }
+  td, th { border: 1px solid #59655e; padding: .25rem .1rem; }
+  ul { list-style: none; padding: 0; margin: 0; } li { padding: .25rem 0; border-bottom: 1px solid #aab0aa; }
   .box { display: inline-block; width: .75rem; height: .75rem; border: 1px solid; margin-right: .35rem; }
-  .fundamental { border: 2px solid; padding: .55rem; margin-top: .7rem; }
-  .notes { border-bottom: 1px solid #aab0aa; min-height: 1.8rem; }
-  @page { size: A4; margin: 14mm; }
-  @media print { :root { background: white; } article { padding: 0; margin: 0; break-after: page; } article:last-child { break-after: auto; } }
+  .fundamental { border: 2px solid; padding: .45rem; margin-top: .5rem; }
+  .notes { border-bottom: 1px solid #aab0aa; min-height: 1.3rem; }
+  @page { size: A4; margin: 10mm 12mm; }
+  @media print { :root { background: white; font-size: 16px; } article { padding: 0; margin: 0; break-after: page; } article:last-child { break-after: auto; } }
   @media screen and (max-width: 520px) { article { margin: 0 0 .5rem; padding: 1rem; } }
 </style>
 <main id="sheets"></main>
 <script>
 const characters = [
   { name: 'Ada Ferri', role: 'La Memoria', background: 'Studiosa', stats: [8, 12, 10, 14, 14, 10],
-    identity: 'Sei una ricercatrice storica di Varda. Ivo ti ha insegnato a leggere le omissioni; Mara custodisce invece i registri correnti. Vuoi capire dove la fiducia ha preso il posto della verifica.',
+    birth: '14/09/0990', age: 36, code: 'AF-09900914-01',
+    appearance: 'Pelle pallida, corporatura asciutta, occhi castani e capelli neri in uno chignon basso. Indossi una camicia chiara e un gilet verde spento.',
+    identity: 'Sei cresciuta a Varda e hai imparato da Ivo a cercare nelle carte le domande che nessuno faceva a voce. Dopo un periodo lontano sei tornata a studiare la storia del paese. Ti fidi del tuo maestro, ma alcuni registri ti sono sempre rimasti preclusi; Mara custodisce quelli correnti.',
+    drive: 'Vuoi distinguere la verità dalla versione più comoda. Temi che la fiducia in Ivo abbia protetto una menzogna.',
     attack: 'Bastone −1, 1d4, mischia corta, due mani', gear: ['Bastone', 'Quaderno', 'Carboncino', 'Torcia', 'Acciarino'],
     memories: ['L’odore di cera calda sui fascicoli.', 'Ivo che ti aspettava perché non tornassi sola dall’archivio.', 'La prima correzione a margine che Ivo accolse con orgoglio.', 'Ivo ti insegna a non cancellare una contraddizione prima di averla capita.'] },
   { name: 'Elio Varda', role: 'La Promessa', background: 'Protettore', stats: [14, 10, 14, 8, 12, 10],
-    identity: 'Conti le persone in una stanza e lasci sempre una via d’uscita. Hai promesso a tuo fratello Nino di non lasciarlo solo. Conservi un’immagine di tua madre Alba con un ciondolo di bronzo.',
+    birth: '12/10/0989', age: 37, code: 'EV-09891012-01',
+    appearance: 'Pelle abbronzata, corporatura robusta, occhi nocciola, capelli castani corti e barba corta. Porti una camicia color ruggine con le maniche rimboccate.',
+    identity: 'Sei cresciuto a Varda con tua madre Alba e tuo fratello Nino. Hai imparato a badare agli altri e a contare chi potrebbe restare indietro. Dopo la fuga di Nino ti sei aggrappato alla promessa di non lasciarlo solo; ora è tornato. Conservi un’immagine di Alba con un ciondolo di bronzo.',
+    drive: 'Vuoi mantenere la parola data. Temi di aver protetto la persona sbagliata per tutta la vita.',
     attack: 'Mazza +2, 1d6, mischia corta', gear: ['Mazza', 'Corda (18 m)', 'Bende'],
     memories: ['Una filastrocca per calmare qualcuno durante un temporale.', 'Alba che ti chiude un ciondolo nel pugno.', 'Nino che dorme accanto a te dopo la promessa di non lasciarlo solo.', 'Scegliere di mantenere una promessa impossibile mentre una voce amata ti chiede di restare.'] },
   { name: 'Silvio Serra', role: 'La Voce', background: 'Mediatore', stats: [8, 10, 10, 12, 14, 14],
-    identity: 'Dai parole ai conflitti. Mara ti chiede di testimoniare che il suo silenzio non significa consenso. Varda ti ascolta, ma a volte preferisce le tue parole alle proprie responsabilità.',
+    birth: '25/08/0986', age: 40, code: 'SS-09860825-01',
+    appearance: 'Pelle chiara, corporatura media, occhi verdi e capelli ramati mossi fino alle spalle; hai il viso rasato. Indossi uno scialle rosso scuro su una camicia grigia.',
+    identity: 'Hai imparato ad ascoltare chi non riusciva a parlarsi e Varda ha cominciato a cercarti come mediatore. Sai però che parole accettabili possono nascondere le responsabilità. Mara ti chiede di testimoniare che il suo silenzio non significa consenso: dovrai ascoltarla senza decidere al posto suo.',
+    drive: 'Vuoi impedire che una versione comoda diventi verità. Temi di rendere ancora una confessione troppo facile da accettare.',
     attack: 'Bastone −1, 1d4, mischia corta, due mani', gear: ['Bastone', 'Lanterna', 'Olio (1 fiaschetta)', 'Acciarino'],
     memories: ['Una tazza posata prima di una confessione.', 'Qualcuno che ti ringraziava per aver parlato al suo posto.', 'Una piazza che cambia idea quando viene pronunciata una verità scomoda.', 'Rendere accettabile una confessione convincendoti di aver salvato qualcuno.'] },
   { name: 'Nino Varda', role: 'Il Debito', background: 'Ricognitore', stats: [10, 14, 12, 14, 10, 8],
-    identity: 'Sei un viaggiatore e restituisci subito ogni aiuto. Tua madre Alba ti fece fuggire quando Varda ti scelse; ora ti raccomanda prudenza. Tuo fratello Elio ti cerca con lo sguardo prima delle scelte pericolose.',
+    birth: '02/06/0993', age: 33, code: 'NV-09930602-01',
+    appearance: 'Pelle chiara, corporatura magra, occhi castani, capelli castani corti e arruffati e barba di pochi giorni. Indossi una giacca verde oliva rammendata.',
+    identity: 'Sei cresciuto a Varda con tua madre Alba e tuo fratello Elio. Da ragazzo Alba ti aiutò a fuggire quando il villaggio ti aveva scelto. Hai vissuto viaggiando e restituisci ogni favore appena possibile. Ora sei tornato con la tua scheda anagrafica; Alba ti riconosce e ti raccomanda prudenza.',
+    drive: 'Vuoi capire quale prezzo ti è stato risparmiato. Temi che sopravvivere significhi dover pagare un debito senza fine.',
     attack: 'Pugnale +2, 1d4, mischia corta o lancio fino a distanza media', gear: ['Pugnale', 'Spago', 'Scheda anagrafica: 014, NV-09930602-01, nato il 02/06/0993'],
     memories: ['Una coperta mentre qualcuno vegliava su di te.', 'Alba che ti lava una macchia scura dal viso.', 'Elio che ti cerca con lo sguardo prima di una scelta pericolosa.', 'Ricevere aiuto senza poterlo restituire.'] },
   { name: 'Marta Lodi', role: 'Il Ritorno', background: 'Esiliata', stats: [12, 10, 14, 10, 14, 8],
-    identity: 'Sei tornata a Varda dopo anni di esilio. Leggi il paese attraverso strade, finestre e saluti. Tomaso insiste che ci sia ancora un posto per te, ma non ricordi perché ti allontanarono.',
+    birth: '08/03/0975', age: 51, code: 'ML-09750308-01',
+    appearance: 'Pelle chiara, corporatura solida, occhi grigi e capelli neri corti striati d’argento. Indossi un cappotto da viaggio marrone e una sciarpa senape.',
+    identity: 'Vivevi nel Borgo Vecchio e conoscevi il paese dalle finestre e dai saluti. Circa venticinque anni fa fosti allontanata; il motivo è sfocato e la tua casa non c’è più. Sei tornata dopo anni di esilio. Tomaso insiste che a Varda ci sia ancora un posto per te.',
+    drive: 'Vuoi capire il torto nascosto dietro il tuo esilio. Temi che l’accoglienza sia un modo per chiederti di tacere.',
     attack: 'Piede di porco +1, 1d4, mischia corta (randello improvvisato)', gear: ['Piede di porco', 'Torcia', 'Cunei', 'Acciarino'],
     memories: ['Il cigolio di una bicicletta contro un muro del Borgo Vecchio.', 'Una porta chiusa dall’esterno e l’ordine di non voltarti.', 'La decisione di tornare pur sapendo che qualcuno avrebbe preferito non rivederti.', 'Descrivere una casa che non esiste più.'] }
 ];
@@ -50,8 +65,11 @@ document.getElementById('sheets').innerHTML = characters.map(pg => `
     <div class="role">La Campana sotto il Lago · ${pg.role}</div>
     <h1>${pg.name}</h1>
     <p>Umano · Livello 0 · PE 0 · Background: ${pg.background}</p>
+    <p><strong>Nascita:</strong> ${pg.birth} · <strong>Età:</strong> ${pg.age} anni al 19/11/1026 · <strong>Codice:</strong> ${pg.code}</p>
     <p>Allineamento ____________ · Divinità (facoltativa) ____________</p>
-    <p>${pg.identity}</p>
+    <p><strong>Aspetto:</strong> ${pg.appearance}</p>
+    <p><strong>La tua storia:</strong> ${pg.identity}</p>
+    <p><strong>Desiderio e paura:</strong> ${pg.drive}</p>
     <h2>Caratteristiche</h2>
     <table><thead><tr>${['FOR', 'DES', 'COS', 'INT', 'SAG', 'CAR'].map(stat => `<th scope="col">${stat}</th>`).join('')}</tr></thead>
       <tbody><tr>${pg.stats.map(stat => `<td>${stat} (${signed(modifier(stat))})</td>`).join('')}</tr></tbody></table>

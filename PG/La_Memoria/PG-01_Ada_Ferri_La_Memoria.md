@@ -1,10 +1,22 @@
 # Ada Ferri - La Memoria
 
+> Ultima modifica: 2026-11-22.
+
 > Pubblico: misto. La sezione **Segreto del master** non va consegnata ai giocatori.
 
 ## Identità
 
 Ada è una ricercatrice storica originaria di Varda. Osserva dettagli, omissioni e contraddizioni nei documenti più antichi; Mara custodisce invece i registri civici correnti. Ivo, il Custode, le ha insegnato a leggere ciò che gli altri vogliono dimenticare.
+
+## Anagrafica e aspetto
+
+- **Età:** 36 anni al 19 novembre 1026; nata il 14 settembre 990.
+- **Codice anagrafico:** `AF-09900914-01`.
+- **Aspetto:** pelle pallida, corporatura asciutta, spalle strette e dita lunghe. Ha occhi castani e capelli neri raccolti in uno chignon basso; indossa una camicia chiara e un gilet verde spento.
+
+## Background
+
+Cresciuta a Varda, Ada ha imparato a cercare nelle carte le domande che nessuno faceva a voce. Ivo le ha insegnato a leggere i documenti senza cancellarne le contraddizioni. Dopo un periodo lontano dal paese è tornata a studiarne la storia: si fida del suo maestro, ma comincia a chiedersi perché alcuni registri le siano sempre rimasti preclusi.
 
 ## Legami
 

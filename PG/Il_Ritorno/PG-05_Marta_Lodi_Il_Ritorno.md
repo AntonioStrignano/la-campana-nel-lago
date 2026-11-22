@@ -1,10 +1,22 @@
 # Marta Lodi - Il Ritorno
 
+> Ultima modifica: 2026-11-22.
+
 > Pubblico: misto. La sezione **Segreto del master** non va consegnata ai giocatori.
 
 ## Identità
 
 Marta è un'esiliata tornata a Varda dopo anni. Conosce il paese attraverso abitudini minime, ma il motivo per cui fu allontanata si è sfocato insieme all'indebolimento del sigillo.
+
+## Anagrafica e aspetto
+
+- **Età:** 51 anni al 19 novembre 1026; nata l'8 marzo 975.
+- **Codice anagrafico:** `ML-09750308-01`.
+- **Aspetto:** pelle chiara, corporatura solida, avambracci forti e lineamenti larghi. Ha occhi grigi e capelli neri corti striati d'argento; indossa un cappotto da viaggio marrone e una sciarpa color senape.
+
+## Background
+
+Marta viveva nel Borgo Vecchio, dove conosceva il paese dalle finestre e dai saluti. Circa venticinque anni fa fu allontanata da Varda; il motivo è ormai sfocato e la sua casa non c'è più. Ha attraversato anni di esilio prima di tornare, decisa a capire quale torto si nasconda dietro il silenzio della comunità.
 
 ## Legami
 
